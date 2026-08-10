@@ -54,3 +54,5 @@ specific cache file and re-run without `--refresh`, which is cheaper).
 - Next: Script 2 turns `book_metadata.json` into embedding-input text
   (and/or LLM-generated structured tags), Script 3 embeds + reduces +
   plots.
+- See `KNOWN_ISSUES.md` for the current state of data gaps/quirks in
+  `book_metadata.json` and the bugs already found and fixed in this script.
