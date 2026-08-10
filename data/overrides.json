@@ -1,0 +1,8 @@
+{
+  "_comment": "Keyed by 'Title|Author' exactly as they appear in books.csv. Any subset of the three fields may be given. Example below (inactive, starts with _):",
+  "_example|Author Name": {
+    "google_books_id": "zyTCAlFPjgYC",
+    "open_library_key": "/works/OL27258W",
+    "wikipedia_title": "Herman Hesse"
+  }
+}

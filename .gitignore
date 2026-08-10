@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+# Raw API caches - large, regenerable from scripts/01_fetch_metadata.py
+cache/
+
+# Generated metadata/embeddings - regenerable from scripts
+data/book_metadata.json
+data/embeddings*.npy
+data/embeddings*.json
