@@ -1,8 +1,78 @@
 {
-  "_comment": "Keyed by 'Title|Author' exactly as they appear in books.csv. Any subset of the three fields may be given. Example below (inactive, starts with _):",
+  "_comment": "Keyed by 'Title|Author' exactly as they appear in books.csv. Any subset of google_books_id/open_library_key/wikipedia_title/search_title/search_author may be given. Example below (inactive, starts with _):",
   "_example|Author Name": {
     "google_books_id": "zyTCAlFPjgYC",
     "open_library_key": "/works/OL27258W",
     "wikipedia_title": "Herman Hesse"
+  },
+  "Founding Brothers|Joseph J Ellis": {
+    "wikipedia_title": "Joseph Ellis"
+  },
+  "Democracy for Realists|Christopher Achens and Larry Bartels": {
+    "search_author": "Christopher Achen"
+  },
+  "Getting to Yes|Roger Fisher and William Ury": {
+    "wikipedia_title": "Roger Fisher (academic)"
+  },
+  "The Shame of the Nation: The Restoration of Aparthied Schooling in America|Jonathan Kozol": {
+    "search_title": "The Shame of the Nation: The Restoration of Apartheid Schooling in America"
+  },
+  "Ready Player One|Ernst Cline": {
+    "search_author": "Ernest Cline",
+    "wikipedia_title": "Ernest Cline"
+  },
+  "Spin|Robet Charles Wilson": {
+    "search_author": "Robert Charles Wilson",
+    "wikipedia_title": "Robert Charles Wilson"
+  },
+  "Mistborn: The Last Empire|Brian Sanderson": {
+    "search_title": "Mistborn: The Final Empire",
+    "search_author": "Brandon Sanderson",
+    "wikipedia_title": "Brandon Sanderson"
+  },
+  "The Shipping News|Anne Proulx": {
+    "search_author": "Annie Proulx",
+    "wikipedia_title": "Annie Proulx"
+  },
+  "A Picture of Dorian Gray|Oscar Wilde": {
+    "search_title": "The Picture of Dorian Gray"
+  },
+  "Why Buddhism Is True|Robin Wright": {
+    "search_author": "Robert Wright",
+    "wikipedia_title": "Robert Wright (journalist)"
+  },
+  "Getting It Done: How to Lead When You're Not In Charge|John Richardson and Roger Fisher": {
+    "search_author": "Roger Fisher",
+    "wikipedia_title": "Roger Fisher (academic)"
+  },
+  "The Goldfinch|Donna Tart": {
+    "search_author": "Donna Tartt",
+    "wikipedia_title": "Donna Tartt"
+  },
+  "The Saint of Mt. Koya|Izumi Kyora": {
+    "search_author": "Izumi Kyoka",
+    "wikipedia_title": "Kyōka Izumi"
+  },
+  "Birding Without Borders|Noah Stryckland": {
+    "search_author": "Noah Strycker",
+    "wikipedia_title": "Noah Strycker"
+  },
+  "The Spy who Came In From The Cold|John La Carre": {
+    "search_author": "John le Carré",
+    "wikipedia_title": "John le Carré"
+  },
+  "Circe|Margaret Miller": {
+    "search_author": "Madeline Miller",
+    "wikipedia_title": "Madeline Miller"
+  },
+  "Making Number Counts|Chip Heath": {
+    "search_title": "Making Numbers Count"
+  },
+  "The Yiddish Policeman's Union|Michael Chabon": {
+    "search_title": "The Yiddish Policemen's Union"
+  },
+  "Call for the Dead|Jon La Carré": {
+    "search_author": "John le Carré",
+    "wikipedia_title": "John le Carré"
   }
 }

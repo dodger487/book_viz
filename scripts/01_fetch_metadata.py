@@ -73,15 +73,21 @@ def load_books(csv_path: Path) -> list[dict]:
 
 def load_overrides() -> dict:
     """
-    Manual override format (data/overrides.json), keyed by 'title|author':
+    Manual override format (data/overrides.json), keyed by 'title|author'
+    (exactly as they appear in books.csv):
     {
       "Siddhartha|Herman Hesse": {
-        "google_books_id": "abc123",
-        "open_library_key": "/works/OL123W",
-        "wikipedia_title": "Herman Hesse"
+        "google_books_id": "abc123",       # pin exact Google Books volume
+        "open_library_key": "/works/OL123W",  # pin exact Open Library work
+        "wikipedia_title": "Herman Hesse",  # exact Wikipedia page title
+        "search_title": "...",   # corrected title used for GB/OL search
+        "search_author": "..."   # corrected author used for GB/OL search
       }
     }
     Any subset of keys may be given; missing ones fall back to auto-search.
+    Use google_books_id/open_library_key/wikipedia_title when you know the
+    exact target; use search_title/search_author when the CSV's title/author
+    has a typo or multiple authors and you just want a better search query.
     """
     if OVERRIDES_JSON.exists():
         with open(OVERRIDES_JSON, encoding="utf-8") as f:
@@ -142,6 +148,8 @@ def fetch_google_books(title: str, author: str, slug: str, override: dict, refre
         params = {"key": GOOGLE_BOOKS_API_KEY} if GOOGLE_BOOKS_API_KEY else None
         return cached_get(cache_path, url, params=params, refresh=refresh)
 
+    title = override.get("search_title", title)
+    author = override.get("search_author", author)
     url = "https://www.googleapis.com/books/v1/volumes"
     params = {"q": f'intitle:"{title}" inauthor:"{author}"', "maxResults": 3}
     if GOOGLE_BOOKS_API_KEY:
@@ -157,6 +165,8 @@ def fetch_open_library(title: str, author: str, slug: str, override: dict, refre
         url = f"https://openlibrary.org/{key}.json"
         return cached_get(cache_path, url, refresh=refresh)
 
+    title = override.get("search_title", title)
+    author = override.get("search_author", author)
     url = "https://openlibrary.org/search.json"
     params = {"title": title, "author": author, "limit": 3}
     data = cached_get(cache_path, url, params=params, refresh=refresh)
