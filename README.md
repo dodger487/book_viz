@@ -16,10 +16,22 @@ Pipeline: book list → metadata+tags → embeddings → 2D plot.
 
 ```bash
 pip install requests
+export GOOGLE_BOOKS_API_KEY=your_key_here  # see below; optional but recommended
 python scripts/01_fetch_metadata.py --limit 5   # test on a few books first
 python scripts/01_fetch_metadata.py              # full run (skips cached)
 python scripts/01_fetch_metadata.py --refresh    # force re-fetch everything
 ```
+
+### Google Books API key
+
+The keyless Google Books quota is shared across every anonymous caller on
+the network and gets exhausted fast. Get your own free key:
+
+1. console.cloud.google.com → create/select a project
+2. APIs & Services → Library → enable "Books API"
+3. APIs & Services → Credentials → Create Credentials → API key
+
+Set it as `GOOGLE_BOOKS_API_KEY` before running.
 
 Run `--limit 5` first and check `data/book_metadata.json` before doing
 the full 173-book run — that way you catch any systematic issues (rate
