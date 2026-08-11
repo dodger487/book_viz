@@ -85,17 +85,26 @@ the file rather than picking versions individually, or you'll hit runtime
 ## Script 3: visualize
 
 ```bash
-python scripts/03_visualize.py                    # PCA (default), colored by genre
-python scripts/03_visualize.py --method tsne       # t-SNE instead
-python scripts/03_visualize.py --color decade      # color by decade read instead of genre
+python scripts/03_visualize.py                          # PCA (default), colored by genre
+python scripts/03_visualize.py --method tsne --color decade_published
 ```
 
 Reduces the 768-dim embeddings to 2D via a pluggable `DimReducer` (PCA and
 t-SNE via scikit-learn out of the box; a UMAP stub is included but needs
 `pip install umap-learn` separately — see the script comment for why it's
-not a default dependency) and renders both a static PNG (plotnine) and an
-interactive HTML (plotly, hover over a point to see title/author/date
-read) to `output/`.
+not a default dependency) and renders:
+
+- `output/static_plot.png` (plotnine) — one fixed method/color combo, set
+  by `--method`/`--color`.
+- `output/interactive_plot.html` (plotly) — **every** method × color
+  combination is precomputed into the page, with dropdowns to switch
+  projection method and color-by live in the browser (no re-running the
+  script). `--method`/`--color` just set what's selected when the page
+  first loads. Color options: genre, year read (continuous — the reading
+  list only spans ~11 years, so decade buckets would collapse almost
+  everything into 2 colors), decade published (books span centuries, so
+  decade buckets make sense here). Hover any point for title/author/date
+  read.
 
 ## Notes
 
