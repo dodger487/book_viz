@@ -16,7 +16,12 @@ renders:
     embedded), open directly in a browser. Year read uses a continuous
     color scale rather than decade buckets -- the reading list only spans
     ~11 years, so decade buckets would collapse almost everything into two
-    colors.
+    colors. Hovering a point also draws lines to its 5 nearest neighbors
+    in the *original* high-dimensional embedding space (see
+    compute_neighbors()) -- deliberately not neighbors in the 2D
+    projection, since two books can land far apart on screen (different
+    genre, different era) while still being genuinely similar in the
+    embedding, and that's the more interesting signal.
 
 The interactive plot always precomputes every source x method x color
 combination so the dropdowns work without re-running the script;
@@ -91,6 +96,35 @@ class UMAPReducer(DimReducer):
 
 REDUCERS = {"pca": PCAReducer, "tsne": TSNEReducer, "umap": UMAPReducer}
 REQUIRED_METHODS = {"pca", "tsne"}  # always available via scikit-learn
+
+NUM_NEIGHBORS = 5
+
+
+def compute_neighbors(embeddings: np.ndarray, slugs: list[str], k: int = NUM_NEIGHBORS) -> dict[str, list[str]]:
+    """Each book's k nearest neighbors by cosine similarity in the
+    *original* embedding space (not the 2D projection) -- two books can
+    project far apart but still be genuinely similar (e.g. same topic,
+    different genre), which is exactly what this is for.
+
+    Exact brute-force search, not approximate: at 173 books this is a
+    173x173 distance matrix, sub-millisecond regardless, and exact is both
+    simpler and strictly more accurate than an ANN index here -- so no
+    faiss/hnswlib/annoy dependency (this project has already hit enough
+    dependency-pinning pain re-adding torch/numpy/scipy compatibility;
+    not worth the risk for zero benefit at this scale). Revisit if the
+    reading list ever grows into the tens of thousands of books.
+    """
+    from sklearn.neighbors import NearestNeighbors
+
+    nn = NearestNeighbors(n_neighbors=min(k + 1, len(embeddings)), metric="cosine")
+    nn.fit(embeddings)
+    _, indices = nn.kneighbors(embeddings)
+
+    neighbors = {}
+    for i, slug in enumerate(slugs):
+        neighbor_idxs = [j for j in indices[i] if j != i][:k]
+        neighbors[slug] = [slugs[j] for j in neighbor_idxs]
+    return neighbors
 
 
 def extract_year(value) -> int | None:
@@ -233,6 +267,7 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
                     color=color_col,
                     hover_name="title",
                     hover_data=hover_data,
+                    custom_data=["slug"],  # not shown in tooltip; read by the JS hover handler below
                     **extra_kwargs,
                 )
                 fig.update_traces(marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")))
@@ -249,9 +284,21 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
     return combos
 
 
+EDGE_TRACE = {
+    "type": "scatter",
+    "mode": "lines",
+    "x": [],
+    "y": [],
+    "line": {"color": "rgba(50,50,50,0.6)", "width": 1.5},
+    "hoverinfo": "skip",
+    "showlegend": False,
+}
+
+
 def make_interactive_plot(
     df: pd.DataFrame,
     all_coords: dict,
+    all_neighbors: dict,
     source_labels: dict,
     default_source: str,
     default_method: str,
@@ -264,6 +311,14 @@ def make_interactive_plot(
     combos = build_combo_traces(df, all_coords)
     default_key = f"{default_source}|{default_method}|{default_color}"
     default_combo = combos.get(default_key, next(iter(combos.values())))
+
+    # slug -> [x, y] per (source, method), so the hover handler can look up
+    # neighbor coordinates regardless of which color-group trace they're in.
+    slugs = df["slug"].tolist()
+    coords_lookup = {
+        source: {method: dict(zip(slugs, coords.tolist())) for method, coords in method_coords.items()}
+        for source, method_coords in all_coords.items()
+    }
 
     def title_for(source, method):
         return f"Reading taste ({source_labels.get(source, source)}, {method.upper()} projection)"
@@ -279,7 +334,7 @@ def make_interactive_plot(
     )
     if default_combo["coloraxis"]:
         layout["coloraxis"] = default_combo["coloraxis"]
-    fig = go.Figure(data=default_combo["data"], layout=layout)
+    fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE], layout=layout)
     plot_div = pio.to_html(
         fig, include_plotlyjs=True, full_html=False, div_id="book-plot", config={"responsive": True}
     )
@@ -325,6 +380,9 @@ def make_interactive_plot(
   {plot_div}
   <script>
     const combos = {json.dumps(combos, cls=plotly.utils.PlotlyJSONEncoder)};
+    const neighbors = {json.dumps(all_neighbors)};
+    const coordsLookup = {json.dumps(coords_lookup)};
+    const edgeTraceTemplate = {json.dumps(EDGE_TRACE)};
     const sourceLabels = {json.dumps(source_labels)};
     const methodLabels = {json.dumps(method_labels)};
     const colorLabels = {json.dumps(color_labels)};
@@ -343,7 +401,11 @@ def make_interactive_plot(
       // Plotly.react would fall back to its default colorscale.
       const coloraxis = Object.assign({{}}, combo.coloraxis, {{ colorbar: {{ title: {{ text: colorLabels[color] }} }} }});
       const sourceLabel = sourceLabels[source] || source;
-      Plotly.react(plotDiv, combo.data, {{
+      // Append a fresh (empty) edges trace as the last trace -- combo.data
+      // is the shared precomputed array, so copy rather than mutate it, or
+      // repeated switches back to the same combo would pile up edge traces.
+      const dataWithEdges = combo.data.concat([Object.assign({{}}, edgeTraceTemplate)]);
+      Plotly.react(plotDiv, dataWithEdges, {{
         title: 'Reading taste (' + sourceLabel + ', ' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
         legend: {{ title: {{ text: colorLabels[color] }} }},
         coloraxis: coloraxis,
@@ -357,6 +419,37 @@ def make_interactive_plot(
     sourceEl.addEventListener('change', update);
     methodEl.addEventListener('change', update);
     colorEl.addEventListener('change', update);
+
+    // Hover a point -> draw lines to its 5 nearest neighbors in the
+    // *original* high-dimensional embedding space (computed in Python via
+    // compute_neighbors), not neighbors in the current 2D projection --
+    // that's the point: some books land far apart on screen but are still
+    // genuinely similar (same topic, different genre/projection quirk).
+    plotDiv.on('plotly_hover', function (evt) {{
+      const point = evt.points[0];
+      if (!point.customdata) return;
+      const slug = point.customdata[0];
+      const source = sourceEl.value;
+      const method = methodEl.value;
+      const bookNeighbors = (neighbors[source] || {{}})[slug] || [];
+      const coordsForMethod = (coordsLookup[source] || {{}})[method] || {{}};
+      const origin = coordsForMethod[slug];
+      if (!origin || bookNeighbors.length === 0) return;
+
+      const xs = [], ys = [];
+      for (const nSlug of bookNeighbors) {{
+        const target = coordsForMethod[nSlug];
+        if (!target) continue;
+        xs.push(origin[0], target[0], null);
+        ys.push(origin[1], target[1], null);
+      }}
+      const edgeTraceIndex = plotDiv.data.length - 1;
+      Plotly.restyle(plotDiv, {{x: [xs], y: [ys]}}, [edgeTraceIndex]);
+    }});
+    plotDiv.on('plotly_unhover', function () {{
+      const edgeTraceIndex = plotDiv.data.length - 1;
+      Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
+    }});
   </script>
 </body>
 </html>
@@ -382,10 +475,13 @@ def main():
     if default_source not in embedding_sources:
         raise SystemExit(f"--source {default_source!r} not found. Available: {list(embedding_sources)}")
 
+    slugs = df["slug"].tolist()
     all_coords = {}
+    all_neighbors = {}
     for name, data in embedding_sources.items():
         print(f"Reducing {data['embeddings'].shape} embeddings ({name}) to 2D...")
         all_coords[name] = compute_reductions(data["embeddings"])
+        all_neighbors[name] = compute_neighbors(data["embeddings"], slugs)
     if args.method not in all_coords[default_source]:
         raise SystemExit(f"--method {args.method} unavailable (missing optional dependency)")
 
@@ -394,7 +490,9 @@ def main():
         df, all_coords, default_source, args.method, args.color, source_labels[default_source]
     )
     print(f"Wrote {static_path}")
-    interactive_path = make_interactive_plot(df, all_coords, source_labels, default_source, args.method, args.color)
+    interactive_path = make_interactive_plot(
+        df, all_coords, all_neighbors, source_labels, default_source, args.method, args.color
+    )
     print(f"Wrote {interactive_path}")
 
 

@@ -133,7 +133,12 @@ not a default dependency) and renders:
   options: genre, year read (continuous — the reading list only spans ~11
   years, so decade buckets would collapse almost everything into 2
   colors), decade published (books span centuries, so decade buckets make
-  sense here). Hover any point for title/author/date read.
+  sense here). Hover any point for title/author/date read, and to see
+  lines drawn to its 5 nearest neighbors -- computed by cosine similarity
+  in the *original* embedding space (not the 2D projection), so you'll
+  sometimes see an edge connect two points that ended up far apart on
+  screen but are still genuinely similar in the embedding (e.g. same
+  topic, different genre).
 
 ## Notes
 
