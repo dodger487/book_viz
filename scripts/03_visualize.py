@@ -128,6 +128,7 @@ def load_data() -> tuple[pd.DataFrame, np.ndarray]:
                 "author": b.get("author", ""),
                 "date_read": b.get("date_read", ""),
                 "year_read": year_read,
+                "year_published": year_published,
                 "decade_published": decade_of(year_published),
                 "genre": genre,
             }
@@ -184,18 +185,36 @@ def build_combo_traces(df: pd.DataFrame, method_coords: dict) -> dict[str, list]
         d = df.copy()
         d["x"], d["y"] = coords[:, 0], coords[:, 1]
         for color_col in COLOR_COLUMNS:
-            extra_kwargs = {"color_continuous_scale": "Viridis"} if color_col in CONTINUOUS_COLOR_COLUMNS else {}
+            extra_kwargs = {"color_continuous_scale": "Rainbow"} if color_col in CONTINUOUS_COLOR_COLUMNS else {}
+            hover_data = {
+                "author": True,
+                "date_read": True,
+                "year_read": True,
+                "year_published": True,
+                "x": False,
+                "y": False,
+            }
+            hover_data[color_col] = True
             fig = px.scatter(
                 d,
                 x="x",
                 y="y",
                 color=color_col,
                 hover_name="title",
-                hover_data={"author": True, "date_read": True, color_col: True, "x": False, "y": False},
+                hover_data=hover_data,
                 **extra_kwargs,
             )
             fig.update_traces(marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")))
-            combos[f"{method}|{color_col}"] = fig.to_dict()["data"]
+            fig_dict = fig.to_dict()
+            # Continuous color (year_read) puts its colorscale/cmin/cmax on
+            # layout.coloraxis, not on the trace -- stash it alongside the
+            # trace data so the client-side dropdown swap can restore it.
+            # Without this, switching to a continuous color-by resets to
+            # Plotly's default colorscale instead of the one we picked.
+            combos[f"{method}|{color_col}"] = {
+                "data": fig_dict["data"],
+                "coloraxis": fig_dict["layout"].get("coloraxis", {}),
+            }
     return combos
 
 
@@ -206,7 +225,7 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
 
     combos = build_combo_traces(df, method_coords)
     default_key = f"{default_method}|{default_color}"
-    default_data = combos.get(default_key, next(iter(combos.values())))
+    default_combo = combos.get(default_key, next(iter(combos.values())))
 
     layout = dict(
         title=f"Reading taste ({default_method.upper()} projection)",
@@ -217,7 +236,9 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
         plot_bgcolor=PLOT_BGCOLOR,
         paper_bgcolor=PAPER_BGCOLOR,
     )
-    fig = go.Figure(data=default_data, layout=layout)
+    if default_combo["coloraxis"]:
+        layout["coloraxis"] = default_combo["coloraxis"]
+    fig = go.Figure(data=default_combo["data"], layout=layout)
     plot_div = pio.to_html(
         fig, include_plotlyjs=True, full_html=False, div_id="book-plot", config={"responsive": True}
     )
@@ -265,11 +286,15 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
     function update() {{
       const method = methodEl.value;
       const color = colorEl.value;
-      const data = combos[method + '|' + color];
-      Plotly.react(plotDiv, data, {{
+      const combo = combos[method + '|' + color];
+      // combo.coloraxis carries the colorscale/cmin/cmax for continuous
+      // color-by columns (e.g. year read) -- without re-applying it here,
+      // Plotly.react would fall back to its default colorscale.
+      const coloraxis = Object.assign({{}}, combo.coloraxis, {{ colorbar: {{ title: {{ text: colorLabels[color] }} }} }});
+      Plotly.react(plotDiv, combo.data, {{
         title: 'Reading taste (' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
         legend: {{ title: {{ text: colorLabels[color] }} }},
-        coloraxis: {{ colorbar: {{ title: {{ text: colorLabels[color] }} }} }},
+        coloraxis: coloraxis,
         xaxis: {{ visible: false }},
         yaxis: {{ visible: false }},
         margin: {{ t: 60 }},
