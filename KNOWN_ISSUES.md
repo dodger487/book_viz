@@ -1,31 +1,58 @@
 # Known data issues (Script 1 output)
 
-Last updated after the full 173-book run with `data/overrides.json` applied.
-Regenerate this picture by running `scripts/01_fetch_metadata.py` — it
-prints the same flagged list at the end.
+Last updated after a second cleanup pass on the full 173-book run with
+`data/overrides.json` applied. Regenerate this picture by running
+`scripts/01_fetch_metadata.py` — it prints the same flagged list at the end.
 
 ## Current coverage
 
 - 173/173 books have a record in `data/book_metadata.json`.
-- 171/173 have at least one of description/author_bio.
-- 2/173 (`The Mote in God's Eye`, `Lean Analytics`) are missing both.
+- 172/173 have at least one of description/author_bio.
+- 1/173 (`The Saint of Mt. Koya`) is missing description but has a bio.
+- 0/173 are missing both (`The Mote in God's Eye` and `Lean Analytics`,
+  formerly missing both, now each have at least one field — see below).
 
-## Remaining flagged books (14 flags / 12 books)
+## Second pass: 8 of 14 flags closed (6 of 12 books fully resolved)
+
+Verified each fix with a live web search for the real author identity/page
+before touching `overrides.json` — per the wrong-person lesson below, a
+confident non-match was left alone rather than guessed.
+
+| Book | Fix | How |
+|---|---|---|
+| Democracy for Realists | author bio ✅ | Christopher Achen has no English Wikipedia page (confirmed: search turns up only mentions in other articles, no dedicated page). Larry Bartels, the co-author, does — added `wikipedia_title: "Larry Bartels"`. |
+| Getting to Yes | description ✅ | `inauthor:"Roger Fisher and William Ury"` matched nothing (Google Books treats it as one literal name). Added `search_author: "Roger Fisher"`. |
+| The Black Monday Murders: Volume 1 | description ✅ | Pinned exact edition via `google_books_id: "FwDuDQAAQBAJ"` (verified: title "The Black Monday Murders Vol. 1", author Jonathan Hickman, real description present). |
+| The Mote in God's Eye | both ✅ | Multi-author credit broke both lookups. Added `search_author: "Larry Niven"` + `wikipedia_title: "Larry Niven"` (confirmed real Wikipedia page, co-author of this exact book per its lead paragraph). Note: the Google Books description that comes back is a thin "Science fiction-roman." fragment — every indexed edition of this title has a sparse GB description; Open Library's is fuller but the pipeline prefers GB when non-empty. Left as-is (data-quality nit, not a missing-field flag; not a pipeline bug). |
+| Getting It Done: How to Lead When You're Not In Charge | description ✅ | Confirmed via web search that the CSV's 2nd author "John Richardson" is wrong — the real co-author is **Alan Sharp** (Amazon/Google Books/B&N listings all show Fisher & Sharp). Updated `search_author` to `"Alan Sharp"` and added `search_title: "Getting It Done"` (the full title with the curly apostrophe was breaking `intitle:` matching). |
+| Lean Analytics | description ✅, bio ✗ | Added `search_author: "Alistair Croll"` — fixes description. Checked both authors' Wikipedia presence directly: neither Alistair Croll nor Benjamin Yoskovitz has an English Wikipedia page (both URLs 404). Bio genuinely unavailable, left unset. |
+| Vanishing Treasures | description ✅ | Pinned `google_books_id: "k0_0EAAAQBAJ"` (verified: title "Vanishing Treasures", author Katherine Rundell, full description present — this book's real full title is "Vanishing Treasures: A Bestiary of Extraordinary Endangered Creatures", which likely confused unpinned matching). |
+
+One override was tried and then **reverted**: for `I Deliver Parcels in
+Beijing|Hu Anyan`, Hu Anyan has no personal Wikipedia page, but the *book*
+does (`en.wikipedia.org/wiki/I_Deliver_Parcels_in_Beijing`). Pointing
+`wikipedia_title` at the book's page would have populated `author_bio` with
+a book synopsis mislabeled as a bio — caught in review before committing.
+Reverted; left as a genuine gap rather than mislabeled content.
+
+## Remaining flagged books (6 flags / 6 books)
 
 | Book | Author (as typed in books.csv) | Missing | Why |
 |---|---|---|---|
-| Democracy for Realists | Christopher Achens and Larry Bartels | author bio | multi-author credit; pipeline only fetches one bio/book |
-| Getting to Yes | Roger Fisher and William Ury | description | multi-author credit |
-| The Black Monday Murders: Volume 1 | Jonathan Hickman | description | no confident Google Books/Open Library match found |
-| Four Futures | Peter Frase | author bio | no English Wikipedia page found |
-| The Mote in God's Eye | Larry Niven and Jerry Pournelle | both | multi-author credit |
-| Getting It Done: How to Lead When You're Not In Charge | John Richardson and Roger Fisher | description | CSV's 2nd author looks wrong (real co-author is likely Alan Sharp) — left uncorrected rather than guess |
-| The Saint of Mt. Koya | Izumi Kyora | description | translated/older Japanese title, poor source indexing |
-| Lean Analytics | Alistair Croll and Benjamin Yoskovitz | both | multi-author credit |
-| The Lumumba Plot | Stuart A. Reid | author bio | "Stuart Reid" is an ambiguous name; couldn't confirm which Wikipedia page (if any) is this author |
-| Vanishing Treasures | Katherine Rundell | description | no confident match found |
-| We'll Prescribe You a Cat | Syou Ishida | author bio | no English Wikipedia page found (JP author) |
-| I Deliver Parcels in Beijing | Hu Anyan | author bio | no English Wikipedia page found (CN author) |
+| Four Futures | Peter Frase | author bio | confirmed no English Wikipedia page (Jacobin editor/DSA member, doesn't have one) |
+| The Saint of Mt. Koya | Izumi Kyora | description | real author is Kyōka Izumi (translated 1900 Japanese novella); checked every Google Books/Open Library match for this exact translated title/author — none carry a description, only bare catalog entries. Bio is already fixed (Wikipedia page found via `search_author`/`wikipedia_title` override from the first cleanup pass). |
+| Lean Analytics | Alistair Croll and Benjamin Yoskovitz | author bio | confirmed neither co-author has an English Wikipedia page |
+| The Lumumba Plot | Stuart A. Reid | author bio | confirmed no dedicated Wikipedia page for this Stuart Reid (CFR senior fellow, ex-Foreign Affairs editor). The `Stuart Reid` disambiguation page's "English journalist" entry is a *different*, older person (b. 1943) — exactly the wrong-person trap from the first pass; correctly left unmatched. |
+| We'll Prescribe You a Cat | Syou Ishida | author bio | no English Wikipedia page found (JP author, b. 1975 Kyoto) |
+| I Deliver Parcels in Beijing | Hu Anyan | author bio | no personal English Wikipedia page for the author; only the book has one (see reverted-override note above) — using it would mislabel a book synopsis as an author bio, so left unset |
+
+For the three JP/CN authors above (Izumi Kyōka's bio is the exception —
+already resolved; Syou Ishida and Hu Anyan remain open), a non-English
+Wikipedia page likely exists but the pipeline only queries
+`en.wikipedia.org`. Querying `ja.wikipedia.org`/`zh.wikipedia.org` as a
+fallback (with machine translation or just raw text) would be a reasonable
+future improvement — out of scope here since it requires a script change,
+not just an override.
 
 These are considered acceptable gaps for the embedding step — title,
 categories, and/or partial text are still available for all of them. Revisit
@@ -56,3 +83,23 @@ these turn out to matter for the clustering results.
   query terms) alongside the original `google_books_id`/`open_library_key`/
   `wikipedia_title` (exact-ID pins), to fix typos/multi-author CSV entries
   without needing to look up exact IDs for each.
+- **Cache staleness trap**: `google_books`/`open_library` cache filenames are
+  derived from the *original* CSV title/author slug, not from the resolved
+  `search_title`/`search_author`. So editing an override after a cache file
+  already exists for that book is a silent no-op until the stale cache file
+  is deleted — the script has no way to detect "the query that would
+  produce this cache path has changed." Bit us mid-session: a background
+  fetch was kicked off before an overrides.json edit had been saved, so the
+  run silently used the old queries for several books. Caught by re-checking
+  the flagged-issue count against what was expected instead of trusting the
+  run blindly. Always delete the affected `cache/google_books/<slug>.json`,
+  `cache/open_library/<slug>.json` (+ `<slug>_work.json`), and
+  `cache/wikipedia/<wiki-slug>.json` after any overrides.json edit, before
+  re-running — see the "Test cycle" note for how to compute the slug.
+- **Field mislabeling risk**: tried pointing `wikipedia_title` at a *book's*
+  Wikipedia page (for `I Deliver Parcels in Beijing`, whose author Hu Anyan
+  has no personal page) to fill in `author_bio`. Reverted on review — the
+  page is about the book, not the author, so using it would mislabel a
+  synopsis as a bio. This is a different failure mode than the wrong-person
+  bio above: not wrong-entity, but wrong-content-type for the field. Worth
+  checking for both when reviewing any Wikipedia override.
