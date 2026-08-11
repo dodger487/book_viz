@@ -1,0 +1,17 @@
+requests
+
+# Pinned together deliberately -- torch 2.2.2 is the newest wheel available
+# in this environment's package index, and it needs numpy<2 (its C
+# extension's numpy ABI predates numpy 2.0) plus a scipy built against
+# numpy<2, plus an older sentence-transformers/transformers that don't
+# require torch>=2.5. Installing any of these without pins will pull in
+# incompatible newer versions and fail at runtime (not just at import).
+numpy<2
+scipy<1.13
+torch==2.2.2
+transformers<4.45
+sentence-transformers<3.1
+
+# Optional, only needed for --provider openai / --provider voyage:
+# openai
+# voyageai

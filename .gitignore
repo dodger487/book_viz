@@ -10,5 +10,6 @@ cache/
 
 # Generated metadata/embeddings - regenerable from scripts
 data/book_metadata.json
+data/embedding_input.json
 data/embeddings*.npy
-data/embeddings*.json
+data/embeddings*.npz

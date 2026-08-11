@@ -10,7 +10,13 @@ Pipeline: book list → metadata+tags → embeddings → 2D plot.
 - `cache/google_books/`, `cache/open_library/`, `cache/wikipedia/` — raw
   API responses, one JSON file per book per source. Safe to delete
   individual files to force a re-fetch of just that book+source.
-- `scripts/01_fetch_metadata.py` — this script
+- `scripts/01_fetch_metadata.py` — Script 1
+- `data/embedding_input.json` — Script 2 intermediate output, the constructed
+  text per book before embedding (useful for sanity-checking what actually
+  gets embedded)
+- `data/embeddings.npz` — Script 2 output: `slugs[]` and `embeddings[]`
+  arrays (aligned by index) plus which `provider` produced them
+- `scripts/02_generate_embeddings.py` — Script 2
 
 ## Script 1: fetch metadata
 
@@ -44,6 +50,34 @@ the exact Wikipedia page title) and add an entry to `overrides.json`,
 then re-run with `--refresh` for just that concern (or delete the
 specific cache file and re-run without `--refresh`, which is cheaper).
 
+## Script 2: generate embeddings
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
+python scripts/02_generate_embeddings.py                            # local, free, default model (all-mpnet-base-v2)
+python scripts/02_generate_embeddings.py --model all-MiniLM-L6-v2   # smaller/faster local model
+python scripts/02_generate_embeddings.py --provider openai --model text-embedding-3-large  # needs OPENAI_API_KEY
+python scripts/02_generate_embeddings.py --provider voyage --model voyage-3-large          # needs VOYAGE_API_KEY
+```
+
+Combines each book's title/author/year/genre/description/author-bio into
+one text blob (see `build_text()`), then embeds all 173 with a pluggable
+provider (`EmbeddingProvider` subclasses in the script — add a new one and
+register it in `PROVIDERS` to support another embedding API). Local is the
+default so this runs free with no API key; swap to OpenAI/Voyage later by
+just changing the CLI flags, no code changes needed for existing providers.
+
+`requirements.txt` pins `numpy`/`scipy`/`torch`/`transformers`/
+`sentence-transformers` to versions that are mutually compatible in this
+environment (the newest available `torch` wheel needs `numpy<2`, which
+needs a matching older `scipy`, which needs an older `transformers`/
+`sentence-transformers` that doesn't require `torch>=2.5`) — install from
+the file rather than picking versions individually, or you'll hit runtime
+`numpy`/`torch` ABI errors that don't show up until you actually call
+`.encode()`.
+
 ## Notes
 
 - Goodreads has no public API access (shut down 2020), hence Google
@@ -51,8 +85,6 @@ specific cache file and re-run without `--refresh`, which is cheaper).
 - Fuzzy title/author search will occasionally match the wrong edition
   or a same-titled different book — spot-check `book_metadata.json`
   after the full run, especially for short/common titles.
-- Next: Script 2 turns `book_metadata.json` into embedding-input text
-  (and/or LLM-generated structured tags), Script 3 embeds + reduces +
-  plots.
+- Next: Script 3 reduces the embeddings to 2D and plots them.
 - See `KNOWN_ISSUES.md` for the current state of data gaps/quirks in
-  `book_metadata.json` and the bugs already found and fixed in this script.
+  `book_metadata.json` and the bugs already found and fixed in Script 1.
