@@ -6,17 +6,22 @@ Pipeline: book list → metadata+tags → embeddings → 2D plot.
 
 - `data/books.csv` — your book list (Date, Type, Name, Author)
 - `data/overrides.json` — manual fixes for mismatched auto-search results
-- `data/book_metadata.json` — Script 1 output, combined per-book record
-- `cache/google_books/`, `cache/open_library/`, `cache/wikipedia/` — raw
-  API responses, one JSON file per book per source. Safe to delete
-  individual files to force a re-fetch of just that book+source.
-- `scripts/01_fetch_metadata.py` — Script 1
+- `cache/google_books/`, `cache/open_library/` (+ `_work.json`),
+  `cache/wikipedia/` — raw API responses, one JSON file per book per
+  source, written by Script 1. Safe to delete individual files to force
+  a re-fetch of just that book+source.
+- `scripts/01_fetch_metadata.py` — Script 1: fetches and caches raw API
+  responses only. No field extraction/merging happens here — see below.
+- `data/book_metadata.json` — Script 2 output, one merged record per book
+  (description/genre/year/author bio), built entirely from Script 1's
+  cache with no network calls
 - `data/embedding_input.json` — Script 2 intermediate output, the constructed
   text per book before embedding (useful for sanity-checking what actually
   gets embedded)
 - `data/embeddings.npz` — Script 2 output: `slugs[]` and `embeddings[]`
   arrays (aligned by index) plus which `provider` produced them
-- `scripts/02_generate_embeddings.py` — Script 2
+- `scripts/02_generate_embeddings.py` — Script 2: cache → merged metadata →
+  embedding text → embeddings
 - `output/static_plot.png` — Script 3 static output (plotnine)
 - `output/interactive_plot.html` — Script 3 interactive output (plotly);
   open directly in a browser, no server needed
@@ -32,6 +37,13 @@ python scripts/01_fetch_metadata.py              # full run (skips cached)
 python scripts/01_fetch_metadata.py --refresh    # force re-fetch everything
 ```
 
+This script does exactly one thing: fetch and cache raw API responses to
+`cache/`. It does not merge/extract fields or write `book_metadata.json` —
+that's Script 2's job, deliberately, so that changing how fields are
+picked (e.g. which source's genre or publication year to prefer) never
+requires re-hitting the network. If nothing needs re-fetching, skip
+straight to Script 2.
+
 ### Google Books API key
 
 The keyless Google Books quota is shared across every anonymous caller on
@@ -43,18 +55,11 @@ the network and gets exhausted fast. Get your own free key:
 
 Set it as `GOOGLE_BOOKS_API_KEY` before running.
 
-Run `--limit 5` first and check `data/book_metadata.json` before doing
-the full 173-book run — that way you catch any systematic issues (rate
-limiting, wrong field names, etc.) early rather than after 173 calls.
+Run `--limit 5` first before doing the full 173-book run — that way you
+catch any systematic issues (rate limiting, wrong field names, etc.) early
+rather than after 173 calls.
 
-At the end it prints a list of books with no description or no author
-bio found. For those, look up the correct match yourself (Google Books
-volume ID from the URL, Open Library work key like `/works/OL123W`, or
-the exact Wikipedia page title) and add an entry to `overrides.json`,
-then re-run with `--refresh` for just that concern (or delete the
-specific cache file and re-run without `--refresh`, which is cheaper).
-
-## Script 2: generate embeddings
+## Script 2: extract metadata + generate embeddings
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
@@ -66,12 +71,29 @@ python scripts/02_generate_embeddings.py --provider openai --model text-embeddin
 python scripts/02_generate_embeddings.py --provider voyage --model voyage-3-large          # needs VOYAGE_API_KEY
 ```
 
-Combines each book's title/author/year/genre/description/author-bio into
-one text blob (see `build_text()`), then embeds all 173 with a pluggable
-provider (`EmbeddingProvider` subclasses in the script — add a new one and
-register it in `PROVIDERS` to support another embedding API). Local is the
-default so this runs free with no API key; swap to OpenAI/Voyage later by
-just changing the CLI flags, no code changes needed for existing providers.
+Two stages, both here:
+
+1. **Extract + merge** (`build_metadata()`): reads Script 1's cache
+   directly (no network), picks description/genre/publication year per
+   book, and writes `data/book_metadata.json`. Prefers Open Library's
+   `first_publish_year` over Google Books' `publishedDate` (which reflects
+   whatever specific edition got matched — often a recent reprint, not the
+   original). Genre starts from Google Books' category, but Google Books
+   only ever gives one flat top-level label (52% of this dataset was just
+   "Fiction") — when it's a generic fiction bucket, `extract_genre()`
+   looks for a more specific subgenre in Open Library's work-level
+   `subjects` list instead. At the end it prints a list of books still
+   missing a description or author bio; for those, look up the correct
+   match yourself and add an entry to `overrides.json` (see its docstring
+   for the field options), then delete the affected cache files (see
+   `KNOWN_ISSUES.md`'s "cache staleness trap" note) and re-run.
+2. **Embed** (`build_text()` + `EmbeddingProvider`): combines each book's
+   title/author/year/genre/description/author-bio into one text blob, then
+   embeds all 173 with a pluggable provider (`EmbeddingProvider` subclasses
+   in the script — add a new one and register it in `PROVIDERS` to support
+   another embedding API). Local is the default so this runs free with no
+   API key; swap to OpenAI/Voyage later by just changing the CLI flags, no
+   code changes needed for existing providers.
 
 `requirements.txt` pins `numpy`/`scipy`/`torch`/`transformers`/
 `sentence-transformers` to versions that are mutually compatible in this
@@ -114,4 +136,4 @@ not a default dependency) and renders:
   or a same-titled different book — spot-check `book_metadata.json`
   after the full run, especially for short/common titles.
 - See `KNOWN_ISSUES.md` for the current state of data gaps/quirks in
-  `book_metadata.json` and the bugs already found and fixed in Script 1.
+  `book_metadata.json` and the bugs already found and fixed in Scripts 1-2.

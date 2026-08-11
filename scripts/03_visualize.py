@@ -120,7 +120,7 @@ def load_data() -> tuple[pd.DataFrame, np.ndarray]:
         b = books.get(slug, {})
         year_read = extract_year(b.get("date_read"))
         year_published = extract_year(b.get("published_year"))
-        genre = (b.get("categories") or ["Unknown"])[0]
+        genre = b.get("genre") or "Unknown"
         rows.append(
             {
                 "slug": slug,

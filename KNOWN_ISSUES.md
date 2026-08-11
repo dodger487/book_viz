@@ -1,8 +1,49 @@
-# Known data issues (Script 1 output)
+# Known data issues (Script 1/2 output)
 
-Last updated after a second cleanup pass on the full 173-book run with
-`data/overrides.json` applied. Regenerate this picture by running
-`scripts/01_fetch_metadata.py` — it prints the same flagged list at the end.
+Last updated after the genre/published-year extraction fixes below.
+Regenerate this picture by running `scripts/02_generate_embeddings.py` —
+it prints the same flagged list at the end (extraction/merging moved from
+Script 1 to Script 2; Script 1 now only fetches and caches raw responses).
+
+## Genre and published-year extraction fixes
+
+Two systemic issues found by spot-checking the data, both in how fields
+were picked from the raw cached responses (not missing-data problems, so
+not in the flagged list below):
+
+- **Genre was almost always just "Fiction"**: Google Books' `categories`
+  field is a single flat top-level BISAC label for every edition in this
+  dataset — verified across all 160 categorized books, zero had more than
+  one category, zero had a hierarchical/subgenre path. 90 of 173 books
+  (52%) came back simply "Fiction." Fix: when Google Books' category is
+  generic ("Fiction"/"Juvenile Fiction"/"Young Adult Fiction"), fall back
+  to Open Library's work-level `subjects` list (richer, but noisy —
+  filtered against a fiction-subgenre keyword list) instead. Result:
+  generic "Fiction" dropped from 90 to 24 books, with Science Fiction (24),
+  Historical Fiction (8), Mystery (8), Romance (7), Fantasy (7), Thriller
+  (5), and others now distinguished. See `extract_genre()` in
+  `scripts/02_generate_embeddings.py`.
+- **Published year reflected whatever edition got matched, not the
+  original publication**: our Google Books search takes the first/
+  top-ranked result, and Google's ranking isn't date-aware — it tends to
+  surface whatever edition is currently for sale. E.g. *Sapiens* matched a
+  "Tenth Anniversary Edition" dated 2025-02-18, not the 2011 original.
+  Comparing against Open Library's `first_publish_year` across the whole
+  dataset found 57 of 173 books (33%) differed by more than 3 years,
+  almost all skewing "too recent" — classics hit hardest (*Pride and
+  Prejudice* showed 2017 instead of 1813, *The Picture of Dorian Gray*
+  showed 1998 instead of 1890, several Chandler/le Carré novels off by
+  25-92 years). Fix: prefer Open Library's `first_publish_year` over
+  Google Books' `publishedDate`. (Open Library isn't perfectly reliable
+  either — e.g. it gave "Virtual Light" a first-publish year of 1743,
+  clearly wrong — but it's right far more often than the edition-specific
+  Google Books date was.)
+
+Also note: the `subject` (singular) field on Open Library's search.json
+response is essentially always empty; the real subject/genre data lives on
+`subjects` (plural) on the work-detail endpoint
+(`/works/OL...W.json`, cached as `<slug>_work.json`) — same "wrong field
+name" bug pattern as the description issue below.
 
 ## Current coverage
 

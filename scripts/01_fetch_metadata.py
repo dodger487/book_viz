@@ -1,18 +1,23 @@
 #!/usr/bin/env python3
 """
-Script 1: book list -> cached raw metadata + combined embedding-input file.
+Script 1: book list -> cached raw API responses.
 
-Reads data/books.csv (columns: Date, Type, Name, Author), fetches:
+Reads data/books.csv (columns: Date, Type, Name, Author) and fetches, for
+each book:
   - Google Books API (primary): description, categories, publishedDate
   - Open Library API (fallback): description, subjects, first_publish_year
   - Wikipedia API: author bio (lead paragraph)
 
-Raw API responses are cached to disk per-book so re-runs are free and
-idempotent. A manual overrides file lets you pin the correct edition/
-author when auto-matching picks the wrong one.
+This script ONLY fetches and caches raw API responses to disk (one JSON
+file per book per source under cache/) -- it does no field extraction or
+merging. That logic lives in Script 2, which reads straight from this
+cache. Keeping them separate means changing how fields are picked/merged
+(e.g. preferring Open Library's first_publish_year over Google Books'
+edition-specific date) never requires re-fetching anything.
 
-Output: data/book_metadata.json — one combined record per book, ready
-to be turned into embedding-input text in Script 2.
+Raw responses are cached per-book so re-runs are free and idempotent. A
+manual overrides file lets you pin the correct edition/author when
+auto-matching picks the wrong one.
 
 Usage:
     python 01_fetch_metadata.py                # fetch all, skip cached
@@ -36,7 +41,6 @@ DATA_DIR = ROOT / "data"
 CACHE_DIR = ROOT / "cache"
 BOOKS_CSV = DATA_DIR / "books.csv"
 OVERRIDES_JSON = DATA_DIR / "overrides.json"
-OUTPUT_JSON = DATA_DIR / "book_metadata.json"
 
 GOOGLE_BOOKS_CACHE = CACHE_DIR / "google_books"
 OPEN_LIBRARY_CACHE = CACHE_DIR / "open_library"
@@ -171,15 +175,14 @@ def fetch_open_library(title: str, author: str, slug: str, override: dict, refre
     params = {"title": title, "author": author, "limit": 3}
     data = cached_get(cache_path, url, params=params, refresh=refresh)
 
-    # search.json never includes a description, only the /works/OL...W.json
-    # detail endpoint does. If we got a match, fetch that too.
+    # search.json never includes a description or rich subjects, only the
+    # /works/OL...W.json detail endpoint does. If we got a match, fetch that
+    # too (cached separately as <slug>_work.json). Script 2 merges the two.
     if data and data.get("docs"):
         key = data["docs"][0].get("key")  # e.g. "/works/OL123W"
         if key:
             work_cache_path = OPEN_LIBRARY_CACHE / f"{slug}_work.json"
-            work_data = cached_get(work_cache_path, f"https://openlibrary.org{key}.json", refresh=refresh)
-            if work_data:
-                data = {**data["docs"][0], **work_data}
+            cached_get(work_cache_path, f"https://openlibrary.org{key}.json", refresh=refresh)
     return data
 
 
@@ -193,51 +196,6 @@ def fetch_wikipedia_bio(author: str, override: dict, refresh: bool) -> dict | No
     return cached_get(cache_path, url, refresh=refresh)
 
 
-def extract_google_books_fields(raw: dict | None) -> dict:
-    out = {"description": None, "categories": None, "published_date": None, "match_title": None}
-    if not raw:
-        return out
-    items = raw.get("items") if "items" in raw else ([raw] if "volumeInfo" in raw else None)
-    if not items:
-        return out
-    info = items[0].get("volumeInfo", {})
-    out["description"] = info.get("description")
-    out["categories"] = info.get("categories")
-    out["published_date"] = info.get("publishedDate")
-    out["match_title"] = info.get("title")
-    return out
-
-
-def extract_open_library_fields(raw: dict | None) -> dict:
-    out = {"description": None, "subjects": None, "first_publish_year": None, "match_title": None}
-    if not raw:
-        return out
-    doc = None
-    if "docs" in raw and raw["docs"]:
-        doc = raw["docs"][0]
-    elif "title" in raw:
-        doc = raw
-    if not doc:
-        return out
-    desc = doc.get("description")
-    if isinstance(desc, dict):
-        desc = desc.get("value")
-    out["description"] = desc
-    out["subjects"] = doc.get("subject")
-    out["first_publish_year"] = doc.get("first_publish_year")
-    out["match_title"] = doc.get("title")
-    return out
-
-
-def extract_wikipedia_fields(raw: dict | None) -> dict:
-    out = {"bio": None, "matched_page": None}
-    if not raw or raw.get("type") == "https://mediawiki.org/wiki/HyperSwitch/errors/not_found":
-        return out
-    out["bio"] = raw.get("extract")
-    out["matched_page"] = raw.get("title")
-    return out
-
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--refresh", action="store_true", help="re-fetch even if cached")
@@ -249,9 +207,7 @@ def main():
         books = books[: args.limit]
     overrides = load_overrides()
 
-    print(f"Processing {len(books)} books...\n")
-    records = []
-    flagged = []
+    print(f"Fetching raw metadata for {len(books)} books...\n")
 
     for i, book in enumerate(books, 1):
         title, author = book["title"], book["author"]
@@ -259,50 +215,12 @@ def main():
         override = overrides.get(override_key(title, author), {})
         print(f"[{i}/{len(books)}] {title} — {author}")
 
-        gb_raw = fetch_google_books(title, author, slug, override, args.refresh)
-        ol_raw = fetch_open_library(title, author, slug, override, args.refresh)
-        wiki_raw = fetch_wikipedia_bio(author, override, args.refresh)
+        fetch_google_books(title, author, slug, override, args.refresh)
+        fetch_open_library(title, author, slug, override, args.refresh)
+        fetch_wikipedia_bio(author, override, args.refresh)
 
-        gb = extract_google_books_fields(gb_raw)
-        ol = extract_open_library_fields(ol_raw)
-        wiki = extract_wikipedia_fields(wiki_raw)
-
-        # Prefer Google Books, fall back to Open Library
-        description = gb["description"] or ol["description"]
-        categories = gb["categories"] or ol["subjects"]
-        year = gb["published_date"] or ol["first_publish_year"]
-
-        record = {
-            "title": title,
-            "author": author,
-            "date_read": book["date_read"],
-            "description": description,
-            "categories": categories,
-            "published_year": year,
-            "author_bio": wiki["bio"],
-            "sources": {
-                "google_books_matched_title": gb["match_title"],
-                "open_library_matched_title": ol["match_title"],
-                "wikipedia_matched_page": wiki["matched_page"],
-            },
-            "slug": slug,
-        }
-        records.append(record)
-
-        if not description:
-            flagged.append((title, author, "no description found"))
-        if not wiki["bio"]:
-            flagged.append((title, author, "no author bio found"))
-
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(records, f, indent=2, ensure_ascii=False)
-
-    print(f"\nWrote {len(records)} records to {OUTPUT_JSON}")
-    if flagged:
-        print(f"\n{len(flagged)} issue(s) to review (consider adding to {OVERRIDES_JSON.name}):")
-        for title, author, issue in flagged:
-            print(f"  - {title} ({author}): {issue}")
+    print(f"\nDone. Raw responses cached under {CACHE_DIR}.")
+    print("Run scripts/02_generate_embeddings.py to extract/merge fields and build embeddings.")
 
 
 if __name__ == "__main__":
