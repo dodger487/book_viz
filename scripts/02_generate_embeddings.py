@@ -16,9 +16,14 @@ alongside it. Since every raw response is already cached, re-running this
 script to pick up a merge-logic change costs nothing over the network.
 
 Output:
-  data/book_metadata.json    - merged per-book record (for inspection/QA)
-  data/embedding_input.json  - the constructed text per book (for inspection)
-  data/embeddings.npz        - slugs[] and embeddings[] arrays, aligned by index
+  data/book_metadata.json      - merged per-book record (for inspection/QA)
+  data/embedding_input.json    - the constructed text per book (for inspection)
+  data/embeddings_<provider>.npz - slugs[]/embeddings[]/provider/model, one
+                                    file per provider so running a different
+                                    --provider never overwrites another's
+                                    embeddings. Script 3 auto-discovers every
+                                    embeddings_*.npz file and lets you switch
+                                    between them in the interactive plot.
 
 Usage:
     python scripts/02_generate_embeddings.py                         # local, free, default model
@@ -42,7 +47,13 @@ BOOKS_CSV = DATA_DIR / "books.csv"
 OVERRIDES_JSON = DATA_DIR / "overrides.json"
 METADATA_JSON = DATA_DIR / "book_metadata.json"
 EMBEDDING_INPUT_JSON = DATA_DIR / "embedding_input.json"
-EMBEDDINGS_NPZ = DATA_DIR / "embeddings.npz"
+
+
+def embeddings_path(provider: str) -> Path:
+    """Each provider gets its own file (data/embeddings_<provider>.npz) so
+    generating one doesn't overwrite another -- Script 3 auto-discovers
+    every embeddings_*.npz file and lets you compare them in the UI."""
+    return DATA_DIR / f"embeddings_{provider}.npz"
 
 GOOGLE_BOOKS_CACHE = CACHE_DIR / "google_books"
 OPEN_LIBRARY_CACHE = CACHE_DIR / "open_library"
@@ -359,15 +370,17 @@ def main():
     print(f"Wrote embedding input text to {EMBEDDING_INPUT_JSON}")
 
     provider_cls = PROVIDERS[args.provider]
-    provider = provider_cls(args.model or provider_cls.default_model)
+    model_name = args.model or provider_cls.default_model
+    provider = provider_cls(model_name)
 
-    print(f"Embedding {len(records)} texts with provider={args.provider}, model={args.model or provider_cls.default_model}...")
+    print(f"Embedding {len(records)} texts with provider={args.provider}, model={model_name}...")
     embeddings = provider.embed([r["text"] for r in records])
     print(f"Got embeddings with shape {embeddings.shape}")
 
     slugs = np.array([r["slug"] for r in records])
-    np.savez(EMBEDDINGS_NPZ, slugs=slugs, embeddings=embeddings, provider=args.provider)
-    print(f"Wrote {EMBEDDINGS_NPZ}")
+    out_path = embeddings_path(args.provider)
+    np.savez(out_path, slugs=slugs, embeddings=embeddings, provider=args.provider, model=model_name)
+    print(f"Wrote {out_path}")
 
 
 if __name__ == "__main__":

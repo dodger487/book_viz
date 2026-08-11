@@ -92,8 +92,12 @@ Two stages, both here:
    embeds all 173 with a pluggable provider (`EmbeddingProvider` subclasses
    in the script — add a new one and register it in `PROVIDERS` to support
    another embedding API). Local is the default so this runs free with no
-   API key; swap to OpenAI/Voyage later by just changing the CLI flags, no
-   code changes needed for existing providers.
+   API key; swap to OpenAI/Voyage by just changing `--provider`, no code
+   changes needed for existing providers. Each provider writes its own
+   `data/embeddings_<provider>.npz` (e.g. `embeddings_local.npz`,
+   `embeddings_openai.npz`) rather than one shared file, so generating a
+   second provider's embeddings never overwrites the first — run both and
+   Script 3 lets you compare them side by side.
 
 `requirements.txt` pins `numpy`/`scipy`/`torch`/`transformers`/
 `sentence-transformers` to versions that are mutually compatible in this
@@ -107,26 +111,29 @@ the file rather than picking versions individually, or you'll hit runtime
 ## Script 3: visualize
 
 ```bash
-python scripts/03_visualize.py                          # PCA (default), colored by genre
-python scripts/03_visualize.py --method tsne --color decade_published
+python scripts/03_visualize.py                          # first embeddings_*.npz found, PCA, colored by genre
+python scripts/03_visualize.py --source openai --method tsne --color decade_published
 ```
 
-Reduces the 768-dim embeddings to 2D via a pluggable `DimReducer` (PCA and
-t-SNE via scikit-learn out of the box; a UMAP stub is included but needs
+Auto-discovers every `data/embeddings_<provider>.npz` Script 2 has
+produced — generate embeddings from more than one provider and this script
+picks all of them up automatically, no flag needed to "enable" a source.
+Reduces each one to 2D via a pluggable `DimReducer` (PCA and t-SNE via
+scikit-learn out of the box; a UMAP stub is included but needs
 `pip install umap-learn` separately — see the script comment for why it's
 not a default dependency) and renders:
 
-- `output/static_plot.png` (plotnine) — one fixed method/color combo, set
-  by `--method`/`--color`.
-- `output/interactive_plot.html` (plotly) — **every** method × color
-  combination is precomputed into the page, with dropdowns to switch
-  projection method and color-by live in the browser (no re-running the
-  script). `--method`/`--color` just set what's selected when the page
-  first loads. Color options: genre, year read (continuous — the reading
-  list only spans ~11 years, so decade buckets would collapse almost
-  everything into 2 colors), decade published (books span centuries, so
-  decade buckets make sense here). Hover any point for title/author/date
-  read.
+- `output/static_plot.png` (plotnine) — one fixed source/method/color
+  combo, set by `--source`/`--method`/`--color`.
+- `output/interactive_plot.html` (plotly) — **every** embedding source ×
+  method × color combination is precomputed into the page, with three
+  dropdowns to switch embedding source, projection method, and color-by
+  live in the browser (no re-running the script). `--source`/`--method`/
+  `--color` just set what's selected when the page first loads. Color
+  options: genre, year read (continuous — the reading list only spans ~11
+  years, so decade buckets would collapse almost everything into 2
+  colors), decade published (books span centuries, so decade buckets make
+  sense here). Hover any point for title/author/date read.
 
 ## Notes
 

@@ -18,8 +18,10 @@ scikit-learn
 plotnine
 plotly
 
-# Optional, only needed for --provider openai / --provider voyage:
-# openai
+# --provider openai
+openai
+
+# Optional, only needed for --provider voyage:
 # voyageai
 
 # Optional, only needed for --method umap in script 3 (see script comment

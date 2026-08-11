@@ -2,26 +2,30 @@
 """
 Script 3: embeddings -> 2D projection(s) -> static + interactive plots.
 
-Reads data/embeddings.npz + data/book_metadata.json, reduces the embeddings
-to 2D via every available DimReducer, then renders:
-  - a static plot (plotnine) for one method/color combo, saved to
-    output/static_plot.png
-  - an interactive plot (plotly) with dropdowns to switch projection method
-    (PCA/t-SNE/...) and color-by (genre/year read/decade published) on
-    the fly, plus hover tooltips -- saved to output/interactive_plot.html.
-    Fully self-contained (plotly.js embedded), open directly in a browser.
-    Year read uses a continuous color scale rather than decade buckets --
-    the reading list only spans ~11 years, so decade buckets would collapse
-    almost everything into two colors.
+Reads every data/embeddings_<provider>.npz Script 2 has produced (so you
+can generate embeddings from multiple providers -- e.g. both `local` and
+`openai` -- without one overwriting the other) plus data/book_metadata.json,
+reduces each embedding source to 2D via every available DimReducer, then
+renders:
+  - a static plot (plotnine) for one embedding-source/method/color combo,
+    saved to output/static_plot.png
+  - an interactive plot (plotly) with dropdowns to switch embedding source,
+    projection method (PCA/t-SNE/...), and color-by (genre/year read/decade
+    published) on the fly, plus hover tooltips -- saved to
+    output/interactive_plot.html. Fully self-contained (plotly.js
+    embedded), open directly in a browser. Year read uses a continuous
+    color scale rather than decade buckets -- the reading list only spans
+    ~11 years, so decade buckets would collapse almost everything into two
+    colors.
 
-The interactive plot always precomputes every method x color combination
-so the dropdowns work without re-running the script; --method/--color just
-pick what's selected by default when the page loads (and what the static
-plot uses).
+The interactive plot always precomputes every source x method x color
+combination so the dropdowns work without re-running the script;
+--source/--method/--color just pick what's selected by default when the
+page loads (and what the static plot uses).
 
 Usage:
     python scripts/03_visualize.py
-    python scripts/03_visualize.py --method tsne --color decade_read
+    python scripts/03_visualize.py --source openai --method tsne --color decade_published
 """
 import argparse
 import json
@@ -35,7 +39,6 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "output"
 METADATA_JSON = DATA_DIR / "book_metadata.json"
-EMBEDDINGS_NPZ = DATA_DIR / "embeddings.npz"
 
 CATEGORICAL_COLOR_COLUMNS = ["genre", "decade_published"]
 CONTINUOUS_COLOR_COLUMNS = ["year_read"]  # numeric -> continuous color scale, not a legend
@@ -108,34 +111,59 @@ def collapse_rare(series: pd.Series, top_n: int = 10) -> pd.Series:
     return series.where(series.isin(top), "Other")
 
 
-def load_data() -> tuple[pd.DataFrame, np.ndarray]:
-    npz = np.load(EMBEDDINGS_NPZ, allow_pickle=True)
-    slugs = npz["slugs"]
-    embeddings = npz["embeddings"]
-
-    books = {b["slug"]: b for b in json.loads(METADATA_JSON.read_text(encoding="utf-8"))}
-
+def load_metadata() -> pd.DataFrame:
+    books = json.loads(METADATA_JSON.read_text(encoding="utf-8"))
     rows = []
-    for slug in slugs:
-        b = books.get(slug, {})
+    for b in books:
         year_read = extract_year(b.get("date_read"))
         year_published = extract_year(b.get("published_year"))
-        genre = b.get("genre") or "Unknown"
         rows.append(
             {
-                "slug": slug,
-                "title": b.get("title", slug),
+                "slug": b["slug"],
+                "title": b.get("title", b["slug"]),
                 "author": b.get("author", ""),
                 "date_read": b.get("date_read", ""),
                 "year_read": year_read,
                 "year_published": year_published,
                 "decade_published": decade_of(year_published),
-                "genre": genre,
+                "genre": b.get("genre") or "Unknown",
             }
         )
     df = pd.DataFrame(rows)
     df["genre"] = collapse_rare(df["genre"])
-    return df, embeddings
+    return df
+
+
+PROVIDER_DISPLAY_NAMES = {"local": "Local", "openai": "OpenAI", "voyage": "Voyage AI"}
+
+
+def load_embedding_sources(canonical_slugs: list[str]) -> dict[str, dict]:
+    """Discovers every data/embeddings_<name>.npz file and reindexes each
+    to canonical_slugs order (the order load_metadata() returns), so all
+    sources line up with the same DataFrame regardless of what order each
+    was originally embedded in."""
+    sources = {}
+    for path in sorted(DATA_DIR.glob("embeddings_*.npz")):
+        name = path.stem[len("embeddings_") :]
+        npz = np.load(path, allow_pickle=True)
+        slug_to_row = {s: i for i, s in enumerate(npz["slugs"])}
+        missing = [s for s in canonical_slugs if s not in slug_to_row]
+        if missing:
+            print(f"  (skipping {path.name}: missing {len(missing)} book(s), e.g. {missing[0]} -- regenerate it)")
+            continue
+        order = [slug_to_row[s] for s in canonical_slugs]
+        provider = str(npz["provider"]) if "provider" in npz.files else name
+        model = str(npz["model"]) if "model" in npz.files else ""
+        provider_label = PROVIDER_DISPLAY_NAMES.get(provider, provider.title())
+        sources[name] = {
+            "embeddings": npz["embeddings"][order],
+            "label": provider_label + (f" ({model})" if model else ""),
+        }
+    if not sources:
+        raise SystemExit(
+            f"No embeddings_*.npz files found in {DATA_DIR}. Run scripts/02_generate_embeddings.py first."
+        )
+    return sources
 
 
 def compute_reductions(embeddings: np.ndarray) -> dict[str, np.ndarray]:
@@ -150,18 +178,19 @@ def compute_reductions(embeddings: np.ndarray) -> dict[str, np.ndarray]:
     return coords
 
 
-def make_static_plot(df: pd.DataFrame, method_coords: dict, method: str, color_col: str) -> Path:
+def make_static_plot(df: pd.DataFrame, all_coords: dict, source: str, method: str, color_col: str, source_label: str) -> Path:
     from plotnine import aes, element_text, geom_point, ggplot, labs, theme, theme_minimal
 
     d = df.copy()
-    d["x"], d["y"] = method_coords[method][:, 0], method_coords[method][:, 1]
+    coords = all_coords[source][method]
+    d["x"], d["y"] = coords[:, 0], coords[:, 1]
 
     p = (
         ggplot(d, aes(x="x", y="y", color=color_col))
         + geom_point(size=2.5, alpha=0.8)
         + theme_minimal()
         + labs(
-            title=f"Reading taste ({method.upper()} projection)",
+            title=f"Reading taste ({source_label}, {method.upper()} projection)",
             x="",
             y="",
             color=color_col.replace("_", " ").title(),
@@ -173,62 +202,74 @@ def make_static_plot(df: pd.DataFrame, method_coords: dict, method: str, color_c
     return out_path
 
 
-def build_combo_traces(df: pd.DataFrame, method_coords: dict) -> dict[str, list]:
-    """One set of plotly traces per (method, color) combination, keyed
-    'method|color'. Built with plotly express so each color category gets
-    its own trace (clickable legend), then extracted as plain trace dicts
-    so the page can swap between combos client-side with Plotly.react."""
+def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
+    """One set of plotly traces per (embedding source, method, color)
+    combination, keyed 'source|method|color'. Built with plotly express so
+    each color category gets its own trace (clickable legend), then
+    extracted as plain trace dicts so the page can swap between combos
+    client-side with Plotly.react."""
     import plotly.express as px
 
     combos = {}
-    for method, coords in method_coords.items():
-        d = df.copy()
-        d["x"], d["y"] = coords[:, 0], coords[:, 1]
-        for color_col in COLOR_COLUMNS:
-            extra_kwargs = {"color_continuous_scale": "Rainbow"} if color_col in CONTINUOUS_COLOR_COLUMNS else {}
-            hover_data = {
-                "author": True,
-                "date_read": True,
-                "year_read": True,
-                "year_published": True,
-                "x": False,
-                "y": False,
-            }
-            hover_data[color_col] = True
-            fig = px.scatter(
-                d,
-                x="x",
-                y="y",
-                color=color_col,
-                hover_name="title",
-                hover_data=hover_data,
-                **extra_kwargs,
-            )
-            fig.update_traces(marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")))
-            fig_dict = fig.to_dict()
-            # Continuous color (year_read) puts its colorscale/cmin/cmax on
-            # layout.coloraxis, not on the trace -- stash it alongside the
-            # trace data so the client-side dropdown swap can restore it.
-            # Without this, switching to a continuous color-by resets to
-            # Plotly's default colorscale instead of the one we picked.
-            combos[f"{method}|{color_col}"] = {
-                "data": fig_dict["data"],
-                "coloraxis": fig_dict["layout"].get("coloraxis", {}),
-            }
+    for source, method_coords in all_coords.items():
+        for method, coords in method_coords.items():
+            d = df.copy()
+            d["x"], d["y"] = coords[:, 0], coords[:, 1]
+            for color_col in COLOR_COLUMNS:
+                extra_kwargs = {"color_continuous_scale": "Rainbow"} if color_col in CONTINUOUS_COLOR_COLUMNS else {}
+                hover_data = {
+                    "author": True,
+                    "date_read": True,
+                    "year_read": True,
+                    "year_published": True,
+                    "x": False,
+                    "y": False,
+                }
+                hover_data[color_col] = True
+                fig = px.scatter(
+                    d,
+                    x="x",
+                    y="y",
+                    color=color_col,
+                    hover_name="title",
+                    hover_data=hover_data,
+                    **extra_kwargs,
+                )
+                fig.update_traces(marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")))
+                fig_dict = fig.to_dict()
+                # Continuous color (year_read) puts its colorscale/cmin/cmax on
+                # layout.coloraxis, not on the trace -- stash it alongside the
+                # trace data so the client-side dropdown swap can restore it.
+                # Without this, switching to a continuous color-by resets to
+                # Plotly's default colorscale instead of the one we picked.
+                combos[f"{source}|{method}|{color_col}"] = {
+                    "data": fig_dict["data"],
+                    "coloraxis": fig_dict["layout"].get("coloraxis", {}),
+                }
     return combos
 
 
-def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method: str, default_color: str) -> Path:
+def make_interactive_plot(
+    df: pd.DataFrame,
+    all_coords: dict,
+    source_labels: dict,
+    default_source: str,
+    default_method: str,
+    default_color: str,
+) -> Path:
     import plotly.graph_objects as go
     import plotly.io as pio
     import plotly.utils
 
-    combos = build_combo_traces(df, method_coords)
-    default_key = f"{default_method}|{default_color}"
+    combos = build_combo_traces(df, all_coords)
+    default_key = f"{default_source}|{default_method}|{default_color}"
     default_combo = combos.get(default_key, next(iter(combos.values())))
 
+    def title_for(source, method):
+        return f"Reading taste ({source_labels.get(source, source)}, {method.upper()} projection)"
+
     layout = dict(
-        title=f"Reading taste ({default_method.upper()} projection)",
+        title=title_for(default_source, default_method),
         legend_title_text=default_color.replace("_", " ").title(),
         xaxis=dict(visible=False),
         yaxis=dict(visible=False),
@@ -243,10 +284,15 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
         fig, include_plotlyjs=True, full_html=False, div_id="book-plot", config={"responsive": True}
     )
 
+    source_options_html = "".join(
+        f'<option value="{s}"{" selected" if s == default_source else ""}>{source_labels.get(s, s)}</option>'
+        for s in all_coords
+    )
     method_labels = {"pca": "PCA", "tsne": "t-SNE", "umap": "UMAP"}
+    any_method_coords = next(iter(all_coords.values()))
     method_options_html = "".join(
         f'<option value="{m}"{" selected" if m == default_method else ""}>{method_labels.get(m, m.upper())}</option>'
-        for m in method_coords
+        for m in any_method_coords
     )
     color_labels = {c: c.replace("_", " ").title() for c in COLOR_COLUMNS}
     color_options_html = "".join(
@@ -269,6 +315,8 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
 </head>
 <body>
   <div class="controls">
+    <label for="source-select">Embedding source:</label>
+    <select id="source-select">{source_options_html}</select>
     <label for="method-select">Projection method:</label>
     <select id="method-select">{method_options_html}</select>
     <label for="color-select">Color by:</label>
@@ -277,22 +325,26 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
   {plot_div}
   <script>
     const combos = {json.dumps(combos, cls=plotly.utils.PlotlyJSONEncoder)};
+    const sourceLabels = {json.dumps(source_labels)};
     const methodLabels = {json.dumps(method_labels)};
     const colorLabels = {json.dumps(color_labels)};
+    const sourceEl = document.getElementById('source-select');
     const methodEl = document.getElementById('method-select');
     const colorEl = document.getElementById('color-select');
     const plotDiv = document.getElementById('book-plot');
 
     function update() {{
+      const source = sourceEl.value;
       const method = methodEl.value;
       const color = colorEl.value;
-      const combo = combos[method + '|' + color];
+      const combo = combos[source + '|' + method + '|' + color];
       // combo.coloraxis carries the colorscale/cmin/cmax for continuous
       // color-by columns (e.g. year read) -- without re-applying it here,
       // Plotly.react would fall back to its default colorscale.
       const coloraxis = Object.assign({{}}, combo.coloraxis, {{ colorbar: {{ title: {{ text: colorLabels[color] }} }} }});
+      const sourceLabel = sourceLabels[source] || source;
       Plotly.react(plotDiv, combo.data, {{
-        title: 'Reading taste (' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
+        title: 'Reading taste (' + sourceLabel + ', ' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
         legend: {{ title: {{ text: colorLabels[color] }} }},
         coloraxis: coloraxis,
         xaxis: {{ visible: false }},
@@ -302,6 +354,7 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
         paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
       }});
     }}
+    sourceEl.addEventListener('change', update);
     methodEl.addEventListener('change', update);
     colorEl.addEventListener('change', update);
   </script>
@@ -315,20 +368,33 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument("--source", default=None, help="default embedding source selection (e.g. local, openai); defaults to whichever is found first")
     parser.add_argument("--method", choices=list(REDUCERS), default="pca", help="default selection on load / static plot method")
     parser.add_argument("--color", choices=COLOR_COLUMNS, default="genre", help="default selection on load / static plot color")
     args = parser.parse_args()
 
-    df, embeddings = load_data()
-    print(f"Reducing {embeddings.shape} embeddings to 2D...")
-    method_coords = compute_reductions(embeddings)
-    if args.method not in method_coords:
+    df = load_metadata()
+    embedding_sources = load_embedding_sources(df["slug"].tolist())
+    source_labels = {name: data["label"] for name, data in embedding_sources.items()}
+    print(f"Found embedding sources: {', '.join(f'{n} ({l})' for n, l in source_labels.items())}")
+
+    default_source = args.source or next(iter(embedding_sources))
+    if default_source not in embedding_sources:
+        raise SystemExit(f"--source {default_source!r} not found. Available: {list(embedding_sources)}")
+
+    all_coords = {}
+    for name, data in embedding_sources.items():
+        print(f"Reducing {data['embeddings'].shape} embeddings ({name}) to 2D...")
+        all_coords[name] = compute_reductions(data["embeddings"])
+    if args.method not in all_coords[default_source]:
         raise SystemExit(f"--method {args.method} unavailable (missing optional dependency)")
 
     OUTPUT_DIR.mkdir(exist_ok=True)
-    static_path = make_static_plot(df, method_coords, args.method, args.color)
+    static_path = make_static_plot(
+        df, all_coords, default_source, args.method, args.color, source_labels[default_source]
+    )
     print(f"Wrote {static_path}")
-    interactive_path = make_interactive_plot(df, method_coords, args.method, args.color)
+    interactive_path = make_interactive_plot(df, all_coords, source_labels, default_source, args.method, args.color)
     print(f"Wrote {interactive_path}")
 
 
