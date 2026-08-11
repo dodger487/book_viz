@@ -41,6 +41,12 @@ CATEGORICAL_COLOR_COLUMNS = ["genre", "decade_published"]
 CONTINUOUS_COLOR_COLUMNS = ["year_read"]  # numeric -> continuous color scale, not a legend
 COLOR_COLUMNS = CATEGORICAL_COLOR_COLUMNS + CONTINUOUS_COLOR_COLUMNS
 
+# Plotly Express's default template colors -- set explicitly (rather than
+# relying on the template) so they survive Plotly.react() layout swaps in
+# the browser, which otherwise reset to a plain white background.
+PLOT_BGCOLOR = "#E5ECF6"
+PAPER_BGCOLOR = "white"
+
 
 # --- Dimensionality reduction -------------------------------------------
 # Pluggable the same way Script 2's embedding providers are: implement
@@ -208,6 +214,8 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
         xaxis=dict(visible=False),
         yaxis=dict(visible=False),
         margin=dict(t=60),
+        plot_bgcolor=PLOT_BGCOLOR,
+        paper_bgcolor=PAPER_BGCOLOR,
     )
     fig = go.Figure(data=default_data, layout=layout)
     plot_div = pio.to_html(
@@ -265,6 +273,8 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
         xaxis: {{ visible: false }},
         yaxis: {{ visible: false }},
         margin: {{ t: 60 }},
+        plot_bgcolor: {json.dumps(PLOT_BGCOLOR)},
+        paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
       }});
     }}
     methodEl.addEventListener('change', update);
