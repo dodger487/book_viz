@@ -17,6 +17,10 @@ Pipeline: book list → metadata+tags → embeddings → 2D plot.
 - `data/embeddings.npz` — Script 2 output: `slugs[]` and `embeddings[]`
   arrays (aligned by index) plus which `provider` produced them
 - `scripts/02_generate_embeddings.py` — Script 2
+- `output/static_plot.png` — Script 3 static output (plotnine)
+- `output/interactive_plot.html` — Script 3 interactive output (plotly);
+  open directly in a browser, no server needed
+- `scripts/03_visualize.py` — Script 3
 
 ## Script 1: fetch metadata
 
@@ -78,6 +82,21 @@ the file rather than picking versions individually, or you'll hit runtime
 `numpy`/`torch` ABI errors that don't show up until you actually call
 `.encode()`.
 
+## Script 3: visualize
+
+```bash
+python scripts/03_visualize.py                    # PCA (default), colored by genre
+python scripts/03_visualize.py --method tsne       # t-SNE instead
+python scripts/03_visualize.py --color decade      # color by decade read instead of genre
+```
+
+Reduces the 768-dim embeddings to 2D via a pluggable `DimReducer` (PCA and
+t-SNE via scikit-learn out of the box; a UMAP stub is included but needs
+`pip install umap-learn` separately — see the script comment for why it's
+not a default dependency) and renders both a static PNG (plotnine) and an
+interactive HTML (plotly, hover over a point to see title/author/date
+read) to `output/`.
+
 ## Notes
 
 - Goodreads has no public API access (shut down 2020), hence Google
@@ -85,6 +104,5 @@ the file rather than picking versions individually, or you'll hit runtime
 - Fuzzy title/author search will occasionally match the wrong edition
   or a same-titled different book — spot-check `book_metadata.json`
   after the full run, especially for short/common titles.
-- Next: Script 3 reduces the embeddings to 2D and plots them.
 - See `KNOWN_ISSUES.md` for the current state of data gaps/quirks in
   `book_metadata.json` and the bugs already found and fixed in Script 1.

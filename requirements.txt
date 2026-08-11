@@ -12,6 +12,16 @@ torch==2.2.2
 transformers<4.45
 sentence-transformers<3.1
 
+# Script 3 (visualization)
+pandas
+scikit-learn
+plotnine
+plotly
+
 # Optional, only needed for --provider openai / --provider voyage:
 # openai
 # voyageai
+
+# Optional, only needed for --method umap in script 3 (see script comment
+# for why it's not a default dependency):
+# umap-learn
