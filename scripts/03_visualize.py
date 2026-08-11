@@ -138,21 +138,11 @@ def decade_of(year: int | None) -> str:
     return f"{(year // 10) * 10}s" if year else "Unknown"
 
 
-def compute_reading_chain(df: pd.DataFrame) -> dict[str, list[str]]:
-    """Each book's chronological chain neighbors: the book read immediately
-    before it and immediately after it, by date_read. Independent of
-    embedding source (it's just reading order), unlike compute_neighbors.
-    """
-    order = df.sort_values("date_read", key=lambda s: pd.to_datetime(s, format="%m/%d/%Y"))["slug"].tolist()
-    chain = {}
-    for i, slug in enumerate(order):
-        links = []
-        if i > 0:
-            links.append(order[i - 1])
-        if i < len(order) - 1:
-            links.append(order[i + 1])
-        chain[slug] = links
-    return chain
+def compute_reading_order(df: pd.DataFrame) -> list[str]:
+    """All book slugs sorted by date_read, oldest first. The client builds
+    the actual hover window/edges from this (see CHAIN_WINDOW in the JS) --
+    independent of embedding source, it's just reading chronology."""
+    return df.sort_values("date_read", key=lambda s: pd.to_datetime(s, format="%m/%d/%Y"))["slug"].tolist()
 
 
 def collapse_rare(series: pd.Series, top_n: int = 10) -> pd.Series:
@@ -319,7 +309,7 @@ def make_interactive_plot(
     df: pd.DataFrame,
     all_coords: dict,
     all_neighbors: dict,
-    chain_neighbors: dict,
+    reading_order: list[str],
     source_labels: dict,
     default_source: str,
     default_method: str,
@@ -408,7 +398,10 @@ def make_interactive_plot(
   <script>
     const combos = {json.dumps(combos, cls=plotly.utils.PlotlyJSONEncoder)};
     const neighbors = {json.dumps(all_neighbors)};
-    const chainNeighbors = {json.dumps(chain_neighbors)};
+    const readingOrder = {json.dumps(reading_order)};
+    const slugToOrderIndex = {{}};
+    readingOrder.forEach((s, i) => {{ slugToOrderIndex[s] = i; }});
+    const CHAIN_WINDOW = 2;  // 2 back + 2 forward + the hovered book = 5 nodes, 4 sequential edges
     const coordsLookup = {json.dumps(coords_lookup)};
     const edgeTraceTemplate = {json.dumps(EDGE_TRACE)};
     const neighborEdgeColor = {json.dumps(NEIGHBOR_EDGE_COLOR)};
@@ -445,6 +438,7 @@ def make_interactive_plot(
         margin: {{ t: 60 }},
         plot_bgcolor: {json.dumps(PLOT_BGCOLOR)},
         paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
+        annotations: [],
       }});
     }}
     sourceEl.addEventListener('change', update);
@@ -454,32 +448,11 @@ def make_interactive_plot(
     function clearEdges() {{
       const edgeTraceIndex = plotDiv.data.length - 1;
       Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
+      Plotly.relayout(plotDiv, {{annotations: []}});
     }}
 
-    // Hover a point -> draw lines to related books, source depending on
-    // the "On hover, show" dropdown:
-    //   - neighbors: the 5 nearest neighbors by cosine similarity in the
-    //     *original* high-dimensional embedding space (computed in Python
-    //     via compute_neighbors), NOT neighbors in the current 2D
-    //     projection -- some books land far apart on screen but are still
-    //     genuinely similar (same topic, different genre/projection quirk).
-    //   - chain: the book read immediately before and after it
-    //     chronologically (compute_reading_chain), independent of the
-    //     embedding entirely -- lets you trace your reading order as a
-    //     path through the embedding space.
-    //   - off: no edges.
-    plotDiv.on('plotly_hover', function (evt) {{
-      const mode = edgesEl.value;
-      if (mode === 'off') return;
-
-      const point = evt.points[0];
-      if (!point.customdata) return;
-      const slug = point.customdata[0];
-      const source = sourceEl.value;
-      const method = methodEl.value;
-
-      const related = mode === 'chain' ? (chainNeighbors[slug] || []) : ((neighbors[source] || {{}})[slug] || []);
-      const edgeColor = mode === 'chain' ? chainEdgeColor : neighborEdgeColor;
+    function showNeighborEdges(slug, source, method) {{
+      const related = (neighbors[source] || {{}})[slug] || [];
       const coordsForMethod = (coordsLookup[source] || {{}})[method] || {{}};
       const origin = coordsForMethod[slug];
       if (!origin || related.length === 0) return;
@@ -492,7 +465,70 @@ def make_interactive_plot(
         ys.push(origin[1], target[1], null);
       }}
       const edgeTraceIndex = plotDiv.data.length - 1;
-      Plotly.restyle(plotDiv, {{x: [xs], y: [ys], 'line.color': [edgeColor]}}, [edgeTraceIndex]);
+      Plotly.restyle(plotDiv, {{x: [xs], y: [ys], 'line.color': [neighborEdgeColor]}}, [edgeTraceIndex]);
+    }}
+
+    function showReadingChain(slug, source, method) {{
+      // 5-node window centered on the hovered book: 2 read before it, 2
+      // read after (clipped at either end of the whole reading history),
+      // connected as a single sequential path (4 edges), not a star --
+      // that's what makes it a "chain".
+      const centerIdx = slugToOrderIndex[slug];
+      if (centerIdx === undefined) return;
+      const start = Math.max(0, centerIdx - CHAIN_WINDOW);
+      const end = Math.min(readingOrder.length - 1, centerIdx + CHAIN_WINDOW);
+      const windowSlugs = readingOrder.slice(start, end + 1);
+
+      const coordsForMethod = (coordsLookup[source] || {{}})[method] || {{}};
+      const annotations = [];
+      for (let i = 0; i < windowSlugs.length - 1; i++) {{
+        const earlier = coordsForMethod[windowSlugs[i]];
+        const later = coordsForMethod[windowSlugs[i + 1]];
+        if (!earlier || !later) continue;
+        // Arrow always points from the earlier-read book to the
+        // later-read book, so direction = chronological direction.
+        annotations.push({{
+          x: later[0], y: later[1], xref: 'x', yref: 'y',
+          ax: earlier[0], ay: earlier[1], axref: 'x', ayref: 'y',
+          showarrow: true, arrowhead: 3, arrowsize: 1.2, arrowwidth: 2,
+          arrowcolor: chainEdgeColor, standoff: 7, startstandoff: 7, text: '',
+        }});
+      }}
+      Plotly.relayout(plotDiv, {{annotations: annotations}});
+    }}
+
+    // Hover a point -> draw edges to related books, source depending on
+    // the "On hover, show" dropdown:
+    //   - neighbors: the 5 nearest neighbors by cosine similarity in the
+    //     *original* high-dimensional embedding space (computed in Python
+    //     via compute_neighbors), NOT neighbors in the current 2D
+    //     projection -- some books land far apart on screen but are still
+    //     genuinely similar (same topic, different genre/projection quirk).
+    //     Undirected, so plain lines.
+    //   - chain: a directed 5-node path (2 read before, 2 read after)
+    //     through reading order (compute_reading_order), independent of
+    //     the embedding entirely. Rendered as arrows (Plotly annotations,
+    //     not the plain-line edge trace) pointing oldest -> newest so the
+    //     chronological direction is visible.
+    //   - off: no edges.
+    plotDiv.on('plotly_hover', function (evt) {{
+      const mode = edgesEl.value;
+      if (mode === 'off') return;
+
+      const point = evt.points[0];
+      if (!point.customdata) return;
+      const slug = point.customdata[0];
+      const source = sourceEl.value;
+      const method = methodEl.value;
+
+      if (mode === 'chain') {{
+        const edgeTraceIndex = plotDiv.data.length - 1;
+        Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
+        showReadingChain(slug, source, method);
+      }} else {{
+        Plotly.relayout(plotDiv, {{annotations: []}});
+        showNeighborEdges(slug, source, method);
+      }}
     }});
     plotDiv.on('plotly_unhover', clearEdges);
     edgesEl.addEventListener('change', clearEdges);
@@ -531,7 +567,7 @@ def main():
     if args.method not in all_coords[default_source]:
         raise SystemExit(f"--method {args.method} unavailable (missing optional dependency)")
 
-    chain_neighbors = compute_reading_chain(df)
+    reading_order = compute_reading_order(df)
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     static_path = make_static_plot(
@@ -539,7 +575,7 @@ def main():
     )
     print(f"Wrote {static_path}")
     interactive_path = make_interactive_plot(
-        df, all_coords, all_neighbors, chain_neighbors, source_labels, default_source, args.method, args.color
+        df, all_coords, all_neighbors, reading_order, source_labels, default_source, args.method, args.color
     )
     print(f"Wrote {interactive_path}")
 

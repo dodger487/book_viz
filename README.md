@@ -140,9 +140,13 @@ not a default dependency) and renders:
     the 2D projection — so you'll sometimes see an edge connect two points
     that landed far apart on screen but are still genuinely similar (e.g.
     same topic, different genre).
-  - **Reading order (chronological)** — lines to the book read immediately
-    before and after it, independent of the embedding entirely, so you can
-    trace your reading order as a path through the space.
+  - **Reading order (chronological)** — a directed 5-node path centered on
+    the hovered book: the 2 books read immediately before it and the 2
+    read immediately after, connected as a sequential chain (not a star
+    from the hovered book to all 4 — the chain shows the actual reading
+    order through that window), independent of the embedding entirely.
+    Rendered as arrows (not plain lines) pointing oldest → newest so the
+    chronological direction is visible.
   - **No links** — turns edges off.
 
 ## Notes
