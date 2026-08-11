@@ -126,19 +126,24 @@ not a default dependency) and renders:
 - `output/static_plot.png` (plotnine) — one fixed source/method/color
   combo, set by `--source`/`--method`/`--color`.
 - `output/interactive_plot.html` (plotly) — **every** embedding source ×
-  method × color combination is precomputed into the page, with three
-  dropdowns to switch embedding source, projection method, and color-by
-  live in the browser (no re-running the script). `--source`/`--method`/
-  `--color` just set what's selected when the page first loads. Color
-  options: genre, year read (continuous — the reading list only spans ~11
-  years, so decade buckets would collapse almost everything into 2
-  colors), decade published (books span centuries, so decade buckets make
-  sense here). Hover any point for title/author/date read, and to see
-  lines drawn to its 5 nearest neighbors -- computed by cosine similarity
-  in the *original* embedding space (not the 2D projection), so you'll
-  sometimes see an edge connect two points that ended up far apart on
-  screen but are still genuinely similar in the embedding (e.g. same
-  topic, different genre).
+  method × color combination is precomputed into the page, with dropdowns
+  to switch embedding source, projection method, and color-by live in the
+  browser (no re-running the script). `--source`/`--method`/`--color` just
+  set what's selected when the page first loads. Color options: genre,
+  year read (continuous — the reading list only spans ~11 years, so decade
+  buckets would collapse almost everything into 2 colors), decade
+  published (books span centuries, so decade buckets make sense here).
+  Hover any point for title/author/date read. A fourth dropdown ("On
+  hover, show") picks what edges appear when you hover:
+  - **Nearest neighbors** (default) — lines to the book's 5 nearest
+    neighbors by cosine similarity in the *original* embedding space, not
+    the 2D projection — so you'll sometimes see an edge connect two points
+    that landed far apart on screen but are still genuinely similar (e.g.
+    same topic, different genre).
+  - **Reading order (chronological)** — lines to the book read immediately
+    before and after it, independent of the embedding entirely, so you can
+    trace your reading order as a path through the space.
+  - **No links** — turns edges off.
 
 ## Notes
 

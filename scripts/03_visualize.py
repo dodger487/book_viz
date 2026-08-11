@@ -138,6 +138,23 @@ def decade_of(year: int | None) -> str:
     return f"{(year // 10) * 10}s" if year else "Unknown"
 
 
+def compute_reading_chain(df: pd.DataFrame) -> dict[str, list[str]]:
+    """Each book's chronological chain neighbors: the book read immediately
+    before it and immediately after it, by date_read. Independent of
+    embedding source (it's just reading order), unlike compute_neighbors.
+    """
+    order = df.sort_values("date_read", key=lambda s: pd.to_datetime(s, format="%m/%d/%Y"))["slug"].tolist()
+    chain = {}
+    for i, slug in enumerate(order):
+        links = []
+        if i > 0:
+            links.append(order[i - 1])
+        if i < len(order) - 1:
+            links.append(order[i + 1])
+        chain[slug] = links
+    return chain
+
+
 def collapse_rare(series: pd.Series, top_n: int = 10) -> pd.Series:
     """Bucket everything outside the top_n most common values into 'Other'
     so the legend stays readable."""
@@ -284,12 +301,15 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
     return combos
 
 
+NEIGHBOR_EDGE_COLOR = "rgba(50,50,50,0.6)"
+CHAIN_EDGE_COLOR = "rgba(31,119,180,0.7)"
+
 EDGE_TRACE = {
     "type": "scatter",
     "mode": "lines",
     "x": [],
     "y": [],
-    "line": {"color": "rgba(50,50,50,0.6)", "width": 1.5},
+    "line": {"color": NEIGHBOR_EDGE_COLOR, "width": 1.5},
     "hoverinfo": "skip",
     "showlegend": False,
 }
@@ -299,6 +319,7 @@ def make_interactive_plot(
     df: pd.DataFrame,
     all_coords: dict,
     all_neighbors: dict,
+    chain_neighbors: dict,
     source_labels: dict,
     default_source: str,
     default_method: str,
@@ -376,19 +397,29 @@ def make_interactive_plot(
     <select id="method-select">{method_options_html}</select>
     <label for="color-select">Color by:</label>
     <select id="color-select">{color_options_html}</select>
+    <label for="edges-select">On hover, show:</label>
+    <select id="edges-select">
+      <option value="off">No links</option>
+      <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
+      <option value="chain">Reading order (chronological)</option>
+    </select>
   </div>
   {plot_div}
   <script>
     const combos = {json.dumps(combos, cls=plotly.utils.PlotlyJSONEncoder)};
     const neighbors = {json.dumps(all_neighbors)};
+    const chainNeighbors = {json.dumps(chain_neighbors)};
     const coordsLookup = {json.dumps(coords_lookup)};
     const edgeTraceTemplate = {json.dumps(EDGE_TRACE)};
+    const neighborEdgeColor = {json.dumps(NEIGHBOR_EDGE_COLOR)};
+    const chainEdgeColor = {json.dumps(CHAIN_EDGE_COLOR)};
     const sourceLabels = {json.dumps(source_labels)};
     const methodLabels = {json.dumps(method_labels)};
     const colorLabels = {json.dumps(color_labels)};
     const sourceEl = document.getElementById('source-select');
     const methodEl = document.getElementById('method-select');
     const colorEl = document.getElementById('color-select');
+    const edgesEl = document.getElementById('edges-select');
     const plotDiv = document.getElementById('book-plot');
 
     function update() {{
@@ -420,36 +451,51 @@ def make_interactive_plot(
     methodEl.addEventListener('change', update);
     colorEl.addEventListener('change', update);
 
-    // Hover a point -> draw lines to its 5 nearest neighbors in the
-    // *original* high-dimensional embedding space (computed in Python via
-    // compute_neighbors), not neighbors in the current 2D projection --
-    // that's the point: some books land far apart on screen but are still
-    // genuinely similar (same topic, different genre/projection quirk).
+    function clearEdges() {{
+      const edgeTraceIndex = plotDiv.data.length - 1;
+      Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
+    }}
+
+    // Hover a point -> draw lines to related books, source depending on
+    // the "On hover, show" dropdown:
+    //   - neighbors: the 5 nearest neighbors by cosine similarity in the
+    //     *original* high-dimensional embedding space (computed in Python
+    //     via compute_neighbors), NOT neighbors in the current 2D
+    //     projection -- some books land far apart on screen but are still
+    //     genuinely similar (same topic, different genre/projection quirk).
+    //   - chain: the book read immediately before and after it
+    //     chronologically (compute_reading_chain), independent of the
+    //     embedding entirely -- lets you trace your reading order as a
+    //     path through the embedding space.
+    //   - off: no edges.
     plotDiv.on('plotly_hover', function (evt) {{
+      const mode = edgesEl.value;
+      if (mode === 'off') return;
+
       const point = evt.points[0];
       if (!point.customdata) return;
       const slug = point.customdata[0];
       const source = sourceEl.value;
       const method = methodEl.value;
-      const bookNeighbors = (neighbors[source] || {{}})[slug] || [];
+
+      const related = mode === 'chain' ? (chainNeighbors[slug] || []) : ((neighbors[source] || {{}})[slug] || []);
+      const edgeColor = mode === 'chain' ? chainEdgeColor : neighborEdgeColor;
       const coordsForMethod = (coordsLookup[source] || {{}})[method] || {{}};
       const origin = coordsForMethod[slug];
-      if (!origin || bookNeighbors.length === 0) return;
+      if (!origin || related.length === 0) return;
 
       const xs = [], ys = [];
-      for (const nSlug of bookNeighbors) {{
+      for (const nSlug of related) {{
         const target = coordsForMethod[nSlug];
         if (!target) continue;
         xs.push(origin[0], target[0], null);
         ys.push(origin[1], target[1], null);
       }}
       const edgeTraceIndex = plotDiv.data.length - 1;
-      Plotly.restyle(plotDiv, {{x: [xs], y: [ys]}}, [edgeTraceIndex]);
+      Plotly.restyle(plotDiv, {{x: [xs], y: [ys], 'line.color': [edgeColor]}}, [edgeTraceIndex]);
     }});
-    plotDiv.on('plotly_unhover', function () {{
-      const edgeTraceIndex = plotDiv.data.length - 1;
-      Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
-    }});
+    plotDiv.on('plotly_unhover', clearEdges);
+    edgesEl.addEventListener('change', clearEdges);
   </script>
 </body>
 </html>
@@ -485,13 +531,15 @@ def main():
     if args.method not in all_coords[default_source]:
         raise SystemExit(f"--method {args.method} unavailable (missing optional dependency)")
 
+    chain_neighbors = compute_reading_chain(df)
+
     OUTPUT_DIR.mkdir(exist_ok=True)
     static_path = make_static_plot(
         df, all_coords, default_source, args.method, args.color, source_labels[default_source]
     )
     print(f"Wrote {static_path}")
     interactive_path = make_interactive_plot(
-        df, all_coords, all_neighbors, source_labels, default_source, args.method, args.color
+        df, all_coords, all_neighbors, chain_neighbors, source_labels, default_source, args.method, args.color
     )
     print(f"Wrote {interactive_path}")
 
