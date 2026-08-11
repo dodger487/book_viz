@@ -9,10 +9,25 @@
     "wikipedia_title": "Joseph Ellis"
   },
   "Democracy for Realists|Christopher Achens and Larry Bartels": {
-    "search_author": "Christopher Achen"
+    "search_author": "Christopher Achen",
+    "wikipedia_title": "Larry Bartels"
   },
   "Getting to Yes|Roger Fisher and William Ury": {
+    "search_author": "Roger Fisher",
     "wikipedia_title": "Roger Fisher (academic)"
+  },
+  "The Black Monday Murders: Volume 1|Jonathan Hickman": {
+    "google_books_id": "FwDuDQAAQBAJ"
+  },
+  "The Mote in God's Eye|Larry Niven and Jerry Pournelle": {
+    "search_author": "Larry Niven",
+    "wikipedia_title": "Larry Niven"
+  },
+  "Lean Analytics|Alistair Croll and Benjamin Yoskovitz": {
+    "search_author": "Alistair Croll"
+  },
+  "Vanishing Treasures|Katherine Rundell": {
+    "google_books_id": "k0_0EAAAQBAJ"
   },
   "The Shame of the Nation: The Restoration of Aparthied Schooling in America|Jonathan Kozol": {
     "search_title": "The Shame of the Nation: The Restoration of Apartheid Schooling in America"
@@ -42,7 +57,8 @@
     "wikipedia_title": "Robert Wright (journalist)"
   },
   "Getting It Done: How to Lead When You're Not In Charge|John Richardson and Roger Fisher": {
-    "search_author": "Roger Fisher",
+    "search_title": "Getting It Done",
+    "search_author": "Alan Sharp",
     "wikipedia_title": "Roger Fisher (academic)"
   },
   "The Goldfinch|Donna Tart": {
