@@ -159,7 +159,7 @@ def make_static_plot(df: pd.DataFrame, method_coords: dict, method: str, color_c
             y="",
             color=color_col.replace("_", " ").title(),
         )
-        + theme(figure_size=(9, 9), plot_title=element_text(size=14))
+        + theme(figure_size=(13, 7.3), plot_title=element_text(size=14))
     )
     out_path = OUTPUT_DIR / "static_plot.png"
     p.save(out_path, dpi=150, verbose=False)
@@ -235,7 +235,7 @@ def make_interactive_plot(df: pd.DataFrame, method_coords: dict, default_method:
   .controls {{ margin-bottom: 12px; }}
   .controls label {{ margin-right: 6px; font-weight: 600; }}
   .controls select {{ margin-right: 24px; padding: 4px 8px; font-size: 14px; }}
-  #book-plot {{ width: 100%; max-width: 900px; aspect-ratio: 1 / 1; margin: 0 auto; }}
+  #book-plot {{ width: 100%; max-width: 1300px; aspect-ratio: 16 / 9; margin: 0 auto; }}
 </style>
 </head>
 <body>
