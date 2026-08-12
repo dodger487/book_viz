@@ -106,14 +106,16 @@ REDUCERS = {
     "pca": PCAReducer,
     "tsne_p30": lambda: TSNEReducer(perplexity=30),
     "tsne_p15": lambda: TSNEReducer(perplexity=15),
+    "tsne_p10": lambda: TSNEReducer(perplexity=10),
     "tsne_p5": lambda: TSNEReducer(perplexity=5),
     "umap": UMAPReducer,
 }
-REQUIRED_METHODS = {"pca", "tsne_p30", "tsne_p15", "tsne_p5"}  # always available via scikit-learn
+REQUIRED_METHODS = {"pca", "tsne_p30", "tsne_p15", "tsne_p10", "tsne_p5"}  # always available via scikit-learn
 METHOD_LABELS = {
     "pca": "PCA",
     "tsne_p30": "t-SNE (perplexity 30)",
     "tsne_p15": "t-SNE (perplexity 15)",
+    "tsne_p10": "t-SNE (perplexity 10)",
     "tsne_p5": "t-SNE (perplexity 5)",
     "umap": "UMAP",
 }
