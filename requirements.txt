@@ -25,5 +25,9 @@ openai
 # voyageai
 
 # Optional, only needed for --method umap in script 3 (see script comment
-# for why it's not a default dependency):
+# for why it's not a default dependency). On at least one dev machine this
+# failed to install: umap-learn -> numba -> llvmlite has no prebuilt wheel
+# for that Python/platform, and building from source needs a matching
+# system LLVM that wasn't present. `pip install umap-learn` and see if it
+# works for you before assuming it's broken everywhere.
 # umap-learn

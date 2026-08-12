@@ -112,16 +112,28 @@ the file rather than picking versions individually, or you'll hit runtime
 
 ```bash
 python scripts/03_visualize.py                          # first embeddings_*.npz found, PCA, colored by genre
-python scripts/03_visualize.py --source openai --method tsne --color decade_published
+python scripts/03_visualize.py --source openai --method tsne_p5 --color decade_published
 ```
 
 Auto-discovers every `data/embeddings_<provider>.npz` Script 2 has
 produced — generate embeddings from more than one provider and this script
 picks all of them up automatically, no flag needed to "enable" a source.
-Reduces each one to 2D via a pluggable `DimReducer` (PCA and t-SNE via
-scikit-learn out of the box; a UMAP stub is included but needs
-`pip install umap-learn` separately — see the script comment for why it's
-not a default dependency) and renders:
+Reduces each one to 2D via a pluggable `DimReducer` and renders it via
+every method in `REDUCERS`: `pca`, and t-SNE at three perplexity values
+(`tsne_p30`, `tsne_p15`, `tsne_p5` — lower perplexity weights local
+structure more, which tends to produce tighter, more separated clusters
+on a small (173-book) dataset; worth comparing since the "right" value
+isn't obvious upfront). A `umap` stub is included too but needs
+`pip install umap-learn` separately (skipped automatically if not
+installed) — see the script comment for why it's not a default
+dependency. **Heads up**: on this machine, `umap-learn`'s dependency
+`llvmlite` has no prebuilt wheel for this Python/platform combination and
+fails to build from source without a matching system LLVM install (not
+present here) — if you want UMAP, either `brew install llvm@15` (version
+must match what the installed `llvmlite`/`numba` expects) first, or try a
+different Python version where a prebuilt wheel might exist.
+
+Renders:
 
 - `output/static_plot.png` (plotnine) — one fixed source/method/color
   combo, set by `--source`/`--method`/`--color`.

@@ -76,10 +76,18 @@ class PCAReducer(DimReducer):
 
 
 class TSNEReducer(DimReducer):
+    """Perplexity roughly controls the local/global tradeoff -- lower
+    values weight local structure more, which tends to produce tighter,
+    more separated clusters on small datasets. Registered at a few values
+    below (REDUCERS) since the right one isn't obvious upfront."""
+
+    def __init__(self, perplexity: int = 30):
+        self.perplexity = perplexity
+
     def reduce(self, X):
         from sklearn.manifold import TSNE
 
-        return TSNE(n_components=2, random_state=0, init="pca", perplexity=30).fit_transform(X)
+        return TSNE(n_components=2, random_state=0, init="pca", perplexity=self.perplexity).fit_transform(X)
 
 
 class UMAPReducer(DimReducer):
@@ -94,8 +102,21 @@ class UMAPReducer(DimReducer):
         return umap.UMAP(n_components=2, random_state=0).fit_transform(X)
 
 
-REDUCERS = {"pca": PCAReducer, "tsne": TSNEReducer, "umap": UMAPReducer}
-REQUIRED_METHODS = {"pca", "tsne"}  # always available via scikit-learn
+REDUCERS = {
+    "pca": PCAReducer,
+    "tsne_p30": lambda: TSNEReducer(perplexity=30),
+    "tsne_p15": lambda: TSNEReducer(perplexity=15),
+    "tsne_p5": lambda: TSNEReducer(perplexity=5),
+    "umap": UMAPReducer,
+}
+REQUIRED_METHODS = {"pca", "tsne_p30", "tsne_p15", "tsne_p5"}  # always available via scikit-learn
+METHOD_LABELS = {
+    "pca": "PCA",
+    "tsne_p30": "t-SNE (perplexity 30)",
+    "tsne_p15": "t-SNE (perplexity 15)",
+    "tsne_p5": "t-SNE (perplexity 5)",
+    "umap": "UMAP",
+}
 
 NUM_NEIGHBORS = 5
 
@@ -231,7 +252,7 @@ def make_static_plot(df: pd.DataFrame, all_coords: dict, source: str, method: st
         + geom_point(size=2.5, alpha=0.8)
         + theme_minimal()
         + labs(
-            title=f"Reading taste ({source_label}, {method.upper()} projection)",
+            title=f"Reading taste ({source_label}, {METHOD_LABELS.get(method, method.upper())} projection)",
             x="",
             y="",
             color=color_col.replace("_", " ").title(),
@@ -332,7 +353,7 @@ def make_interactive_plot(
     }
 
     def title_for(source, method):
-        return f"Reading taste ({source_labels.get(source, source)}, {method.upper()} projection)"
+        return f"Reading taste ({source_labels.get(source, source)}, {METHOD_LABELS.get(method, method.upper())} projection)"
 
     layout = dict(
         title=title_for(default_source, default_method),
@@ -354,10 +375,9 @@ def make_interactive_plot(
         f'<option value="{s}"{" selected" if s == default_source else ""}>{source_labels.get(s, s)}</option>'
         for s in all_coords
     )
-    method_labels = {"pca": "PCA", "tsne": "t-SNE", "umap": "UMAP"}
     any_method_coords = next(iter(all_coords.values()))
     method_options_html = "".join(
-        f'<option value="{m}"{" selected" if m == default_method else ""}>{method_labels.get(m, m.upper())}</option>'
+        f'<option value="{m}"{" selected" if m == default_method else ""}>{METHOD_LABELS.get(m, m.upper())}</option>'
         for m in any_method_coords
     )
     color_labels = {c: c.replace("_", " ").title() for c in COLOR_COLUMNS}
@@ -407,7 +427,7 @@ def make_interactive_plot(
     const neighborEdgeColor = {json.dumps(NEIGHBOR_EDGE_COLOR)};
     const chainEdgeColor = {json.dumps(CHAIN_EDGE_COLOR)};
     const sourceLabels = {json.dumps(source_labels)};
-    const methodLabels = {json.dumps(method_labels)};
+    const methodLabels = {json.dumps(METHOD_LABELS)};
     const colorLabels = {json.dumps(color_labels)};
     const sourceEl = document.getElementById('source-select');
     const methodEl = document.getElementById('method-select');
