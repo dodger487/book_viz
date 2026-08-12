@@ -119,11 +119,13 @@ Auto-discovers every `data/embeddings_<provider>.npz` Script 2 has
 produced — generate embeddings from more than one provider and this script
 picks all of them up automatically, no flag needed to "enable" a source.
 Reduces each one to 2D via a pluggable `DimReducer` and renders it via
-every method in `REDUCERS`: `pca`, and t-SNE at three perplexity values
-(`tsne_p30`, `tsne_p15`, `tsne_p5` — lower perplexity weights local
-structure more, which tends to produce tighter, more separated clusters
-on a small (173-book) dataset; worth comparing since the "right" value
-isn't obvious upfront). A `umap` stub is included too but needs
+every method in `REDUCERS`: `pca`, and t-SNE at every perplexity in
+`TSNE_PERPLEXITIES` (`tsne_p5` through `tsne_p30` — lower perplexity
+weights local structure more, which tends to produce tighter, more
+separated clusters on a small (173-book) dataset). t-SNE is cheap enough
+at this size to just register a bunch of values and compare rather than
+guess the "right" one — add/remove values from that one list, nothing
+else to edit. A `umap` stub is included too but needs
 `pip install umap-learn` separately (skipped automatically if not
 installed) — see the script comment for why it's not a default
 dependency. **Heads up**: on this machine, `umap-learn`'s dependency

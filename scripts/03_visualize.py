@@ -102,23 +102,20 @@ class UMAPReducer(DimReducer):
         return umap.UMAP(n_components=2, random_state=0).fit_transform(X)
 
 
-REDUCERS = {
-    "pca": PCAReducer,
-    "tsne_p30": lambda: TSNEReducer(perplexity=30),
-    "tsne_p15": lambda: TSNEReducer(perplexity=15),
-    "tsne_p10": lambda: TSNEReducer(perplexity=10),
-    "tsne_p5": lambda: TSNEReducer(perplexity=5),
-    "umap": UMAPReducer,
-}
-REQUIRED_METHODS = {"pca", "tsne_p30", "tsne_p15", "tsne_p10", "tsne_p5"}  # always available via scikit-learn
-METHOD_LABELS = {
-    "pca": "PCA",
-    "tsne_p30": "t-SNE (perplexity 30)",
-    "tsne_p15": "t-SNE (perplexity 15)",
-    "tsne_p10": "t-SNE (perplexity 10)",
-    "tsne_p5": "t-SNE (perplexity 5)",
-    "umap": "UMAP",
-}
+# t-SNE is cheap to compute and cheap to store (just x,y per point) at this
+# dataset size, so it's fine to register many perplexity values rather than
+# guessing the "right" one -- add/remove values here, nothing else to edit.
+TSNE_PERPLEXITIES = [5, 6, 7, 8, 9, 10, 15, 30]
+
+REDUCERS = {"pca": PCAReducer}
+REDUCERS.update({f"tsne_p{p}": (lambda p=p: TSNEReducer(perplexity=p)) for p in TSNE_PERPLEXITIES})
+REDUCERS["umap"] = UMAPReducer
+
+REQUIRED_METHODS = {"pca"} | {f"tsne_p{p}" for p in TSNE_PERPLEXITIES}  # always available via scikit-learn
+
+METHOD_LABELS = {"pca": "PCA"}
+METHOD_LABELS.update({f"tsne_p{p}": f"t-SNE (perplexity {p})" for p in TSNE_PERPLEXITIES})
+METHOD_LABELS["umap"] = "UMAP"
 
 NUM_NEIGHBORS = 5
 
