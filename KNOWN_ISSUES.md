@@ -1,9 +1,46 @@
 # Known data issues (Script 1/2 output)
 
 Last updated after the genre/published-year extraction fixes below.
-Regenerate this picture by running `scripts/02_generate_embeddings.py` —
-it prints the same flagged list at the end (extraction/merging moved from
-Script 1 to Script 2; Script 1 now only fetches and caches raw responses).
+Regenerate this picture by running `scripts/02_extract_metadata.py` — it
+prints the same flagged list at the end (Script 1 only fetches/caches raw
+responses; Script 2 does extraction/merging; see README for the full
+5-script pipeline).
+
+## Wrong-edition Google Books matches found via Script 3 (LLM tagging)
+
+Building the V2 embedding pipeline (LLM-cleaned descriptions/genre, see
+README's "Embedding input methodology") surfaced three books where the
+Google Books search had matched a *different, real book* rather than the
+right one -- same class of bug as the earlier Robin/Robert Wright
+wrong-person match, but wrong-*book* instead of wrong-*person*, and this
+time caught because a confidently-wrong classification stood out in the
+LLM's structured output rather than being buried in an unread blurb:
+
+- **Built (Roma Agrawal)**: matched Google Books' `How Was That Built?`
+  (a 2022 children's picture book, unrelated) instead of Agrawal's actual
+  2018 adult popular-science book `Built: The Hidden Stories Behind Our
+  Structures`. This propagated all the way through: `genre` came back
+  "Juvenile Nonfiction," and the LLM tagging step (correctly marked "low"
+  familiarity, but still) classified it as a children's book about
+  architecture. Fixed via `google_books_id` override
+  (`fmMzDwAAQBAJ`).
+- **Station 11 (Emily St. John Mandel)**: matched a *study guide*
+  (`Summary to Station Eleven`) instead of the actual novel. Fixed via
+  `google_books_id` override (`lRGPEAAAQBAJ`).
+- **Binti (Nnedi Okorafor)**: matched `Binti: The Complete Trilogy` (the
+  370-page omnibus of all three novellas) instead of the standalone
+  96-page novella the reading list actually records. Fixed via
+  `google_books_id` override (`p01LDwAAQBAJ`).
+
+**Lesson**: a wrong-book match doesn't always look obviously wrong from
+the description text alone (short/generic blurbs can read as plausible
+for the wrong book too) -- what caught these was a fuzzy string-similarity
+check between `title` and `sources.google_books_matched_title` across the
+whole dataset (`difflib.SequenceMatcher` ratio), flagging anything below
+~0.5 for manual review. Most low-ratio matches were false positives (same
+book, just a longer/shorter title string, e.g. subtitle included or
+omitted) but 3 of ~10 flagged were real wrong-book matches. Worth
+re-running this check after any bulk re-fetch.
 
 ## Genre and published-year extraction fixes
 
