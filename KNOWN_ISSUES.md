@@ -144,3 +144,23 @@ these turn out to matter for the clustering results.
   synopsis as a bio. This is a different failure mode than the wrong-person
   bio above: not wrong-entity, but wrong-content-type for the field. Worth
   checking for both when reviewing any Wikipedia override.
+
+## Someday / not urgent
+
+Ideas raised while discussing cluster quality that aren't worth doing now
+but shouldn't be forgotten:
+
+- **UMAP as a projection method**: `UMAPReducer` is already stubbed into
+  `scripts/03_visualize.py`'s `REDUCERS`, but `pip install umap-learn`
+  fails on at least one dev machine — its dependency `llvmlite` has no
+  prebuilt wheel for that Python/platform combo, and building from source
+  needs a matching system LLVM that isn't installed. Would need either
+  `brew install llvm@<matching version>` first, or a Python version where
+  a prebuilt `llvmlite` wheel exists. UMAP is generally better than PCA/
+  t-SNE at preserving genuine cluster structure, so worth revisiting.
+- **Validate clusters against explicit clustering, not just eyeballing the
+  2D plot**: run k-means or HDBSCAN directly on the high-dimensional
+  embeddings (not the projection) and add cluster ID as another color-by
+  option. The 2D projection can understate or distort real structure —
+  this would show whether apparent "blobbiness" is a projection artifact
+  or genuinely weak separation in the underlying embedding.

@@ -108,6 +108,40 @@ the file rather than picking versions individually, or you'll hit runtime
 `numpy`/`torch` ABI errors that don't show up until you actually call
 `.encode()`.
 
+## Embedding input methodology (versions)
+
+What text actually gets embedded matters a lot for cluster quality, and
+we're iterating on it — this section tracks what each version does and
+why, in plain English, kept up to date as of whichever version is
+currently live in `output/`. See `data/embeddings_<name>.npz`'s `provider`
+field and the matching `data/embedding_input*.json` for exactly what
+produced any given file.
+
+### V1 (current, live in `output/`)
+
+`build_text()` in `scripts/02_generate_embeddings.py` concatenates, per
+book, in this order: title, author ("*Title* by *Author*."), publication
+year, genre (our heuristic-extracted single label), the raw description
+as fetched from Google Books/Open Library (unedited — includes whatever
+marketing language the source had, e.g. "WINNER of the National Book
+Award," blurbs, etc.), and the raw Wikipedia author bio. All of it goes
+into one string, embedded as a single vector per book.
+
+**Known issue with V1**: title and author, being distinctive/proper-noun
+text, appear to get outsized weight from the embedding models relative to
+their actual thematic relevance — observed on the OpenAI+t-SNE view,
+where books with similar-sounding titles clustered together somewhat
+independent of content. Raw descriptions also carry promotional
+boilerplate that's noise, not signal (correlates with a book being
+popular/awarded, not with what it's *about*). V2 addresses both — see
+below once implemented.
+
+### V2 (in progress)
+
+*(To be filled in once implemented — dropping title and author from the
+embedded text, and passing description/genre through an LLM cleaning +
+tagging pass first.)*
+
 ## Script 3: visualize
 
 ```bash
