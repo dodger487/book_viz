@@ -220,7 +220,7 @@ def main():
         fetch_wikipedia_bio(author, override, args.refresh)
 
     print(f"\nDone. Raw responses cached under {CACHE_DIR}.")
-    print("Run scripts/02_generate_embeddings.py to extract/merge fields and build embeddings.")
+    print("Run scripts/02_extract_metadata.py next to extract/merge fields.")
 
 
 if __name__ == "__main__":

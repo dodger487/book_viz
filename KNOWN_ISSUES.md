@@ -59,7 +59,7 @@ not in the flagged list below):
   generic "Fiction" dropped from 90 to 24 books, with Science Fiction (24),
   Historical Fiction (8), Mystery (8), Romance (7), Fantasy (7), Thriller
   (5), and others now distinguished. See `extract_genre()` in
-  `scripts/02_generate_embeddings.py`.
+  `scripts/02_extract_metadata.py`.
 - **Published year reflected whatever edition got matched, not the
   original publication**: our Google Books search takes the first/
   top-ranked result, and Google's ranking isn't date-aware — it tends to
@@ -188,7 +188,7 @@ Ideas raised while discussing cluster quality that aren't worth doing now
 but shouldn't be forgotten:
 
 - **UMAP as a projection method**: `UMAPReducer` is already stubbed into
-  `scripts/03_visualize.py`'s `REDUCERS`, but `pip install umap-learn`
+  `scripts/05_visualize.py`'s `REDUCERS`, but `pip install umap-learn`
   fails on at least one dev machine — its dependency `llvmlite` has no
   prebuilt wheel for that Python/platform combo, and building from source
   needs a matching system LLVM that isn't installed. Would need either
