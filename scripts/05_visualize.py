@@ -509,7 +509,21 @@ NEIGHBOR_EDGE_COLOR = "rgba(50,50,50,0.6)"
 CHAIN_EDGE_COLOR = "rgba(31,119,180,0.7)"
 SELECTION_HALO_COLOR = "#0b0b0b"  # primary ink -- reads against every palette color
 
+# Two separate edge traces -- one for the transient hover, one for the
+# persistent selection -- so hovering a second book while one is
+# selected draws both books' edges at once rather than the hover
+# replacing the selection's edges. Identical styling; only which slug
+# drives their coordinates differs (see refreshEdges() in the JS).
 EDGE_TRACE = {
+    "type": "scatter",
+    "mode": "lines",
+    "x": [],
+    "y": [],
+    "line": {"color": NEIGHBOR_EDGE_COLOR, "width": 1.5},
+    "hoverinfo": "skip",
+    "showlegend": False,
+}
+PINNED_EDGE_TRACE = {
     "type": "scatter",
     "mode": "lines",
     "x": [],
@@ -589,7 +603,7 @@ def make_interactive_plot(
         paper_bgcolor=PAPER_BGCOLOR,
         font=dict(family=PLOT_FONT_FAMILY),
     )
-    fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE, SELECTION_HALO_TRACE], layout=layout)
+    fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE, PINNED_EDGE_TRACE, SELECTION_HALO_TRACE], layout=layout)
     plot_div = pio.to_html(
         fig, include_plotlyjs=True, full_html=False, div_id="book-plot", config={"responsive": True}
     )
@@ -894,6 +908,7 @@ def make_interactive_plot(
     const CHAIN_WINDOW = 2;  // 2 back + 2 forward + the hovered book = 5 nodes, 4 sequential edges
     const coordsLookup = {json.dumps(coords_lookup)};
     const edgeTraceTemplate = {json.dumps(EDGE_TRACE)};
+    const pinnedEdgeTraceTemplate = {json.dumps(PINNED_EDGE_TRACE)};
     const haloTraceTemplate = {json.dumps(SELECTION_HALO_TRACE)};
     const neighborEdgeColor = {json.dumps(NEIGHBOR_EDGE_COLOR)};
     const chainEdgeColor = {json.dumps(CHAIN_EDGE_COLOR)};
@@ -916,9 +931,12 @@ def make_interactive_plot(
     const pinnedTooltipEl = document.getElementById('node-tooltip-pinned');
     const hoverTooltipEl = document.getElementById('node-tooltip-hover');
 
-    // Selection/hover/legend-highlight state. Priority for what's shown:
-    //   edges & details panel: hoveredSlug (transient) > selectedSlug
-    //     (persistent, from a node or list click) > nothing.
+    // Selection/hover/legend-highlight state.
+    //   details panel: hoveredSlug (transient) > selectedSlug (persistent,
+    //     from a node or list click) > nothing.
+    //   edges & tooltip: hoveredSlug and selectedSlug are each drawn
+    //     independently and simultaneously (separate traces/elements), so
+    //     hovering a second book while one is selected shows both.
     //   the halo ring: always tracks selectedSlug only, independent of
     //     hover, so a pinned book stays visibly marked while you explore.
     let hoveredSlug = null;
@@ -934,11 +952,15 @@ def make_interactive_plot(
       const method = methodEl.value;
       const color = colorEl.value;
       const combo = combos[source + '|' + method + '|' + color];
-      // Append fresh (empty) edge/halo traces as the last two traces --
-      // combo.data is the shared precomputed array, so copy rather than
-      // mutate it, or repeated switches back to the same combo would pile
-      // up edge traces.
-      const dataWithExtras = combo.data.concat([Object.assign({{}}, edgeTraceTemplate), Object.assign({{}}, haloTraceTemplate)]);
+      // Append fresh (empty) hover-edge/pinned-edge/halo traces as the
+      // last three traces -- combo.data is the shared precomputed array,
+      // so copy rather than mutate it, or repeated switches back to the
+      // same combo would pile up edge traces.
+      const dataWithExtras = combo.data.concat([
+        Object.assign({{}}, edgeTraceTemplate),
+        Object.assign({{}}, pinnedEdgeTraceTemplate),
+        Object.assign({{}}, haloTraceTemplate),
+      ]);
       // A color-by change repaints the legend with a different set of
       // categories, so any active legend highlight no longer refers to a
       // real trace name -- reset it rather than leave a stale dim state.
@@ -963,36 +985,28 @@ def make_interactive_plot(
     methodEl.addEventListener('change', update);
     colorEl.addEventListener('change', update);
 
-    function clearEdges() {{
-      const edgeTraceIndex = plotDiv.data.length - 2;
-      Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
-      Plotly.relayout(plotDiv, {{annotations: []}});
-    }}
-
-    function showNeighborEdges(slug, source, method) {{
+    function neighborEdgeXY(slug, source, method) {{
       const related = (neighbors[source] || {{}})[slug] || [];
       const coordsForMethod = (coordsLookup[source] || {{}})[method] || {{}};
       const origin = coordsForMethod[slug];
-      if (!origin || related.length === 0) return;
-
       const xs = [], ys = [];
+      if (!origin) return {{xs, ys}};
       for (const nSlug of related) {{
         const target = coordsForMethod[nSlug];
         if (!target) continue;
         xs.push(origin[0], target[0], null);
         ys.push(origin[1], target[1], null);
       }}
-      const edgeTraceIndex = plotDiv.data.length - 2;
-      Plotly.restyle(plotDiv, {{x: [xs], y: [ys], 'line.color': [neighborEdgeColor]}}, [edgeTraceIndex]);
+      return {{xs, ys}};
     }}
 
-    function showReadingChain(slug, source, method) {{
-      // 5-node window centered on the active book: 2 read before it, 2
-      // read after (clipped at either end of the whole reading history),
-      // connected as a single sequential path (4 edges), not a star --
-      // that's what makes it a "chain".
+    // 5-node window centered on the given book: 2 read before it, 2 read
+    // after (clipped at either end of the whole reading history),
+    // connected as a single sequential path (4 edges), not a star --
+    // that's what makes it a "chain". Returns Plotly annotations (arrows).
+    function chainAnnotations(slug, source, method, color) {{
       const centerIdx = slugToOrderIndex[slug];
-      if (centerIdx === undefined) return;
+      if (centerIdx === undefined) return [];
       const start = Math.max(0, centerIdx - CHAIN_WINDOW);
       const end = Math.min(readingOrder.length - 1, centerIdx + CHAIN_WINDOW);
       const windowSlugs = readingOrder.slice(start, end + 1);
@@ -1009,21 +1023,17 @@ def make_interactive_plot(
           x: later[0], y: later[1], xref: 'x', yref: 'y',
           ax: earlier[0], ay: earlier[1], axref: 'x', ayref: 'y',
           showarrow: true, arrowhead: 3, arrowsize: 1.2, arrowwidth: 2,
-          arrowcolor: chainEdgeColor, standoff: 7, startstandoff: 7, text: '',
+          arrowcolor: color, standoff: 7, startstandoff: 7, text: '',
         }});
       }}
-      Plotly.relayout(plotDiv, {{annotations: annotations}});
+      return annotations;
     }}
 
-    // The book whose edges/links should currently be drawn: whatever's
-    // hovered takes priority (transient exploration); failing that, fall
-    // back to whatever's selected (persistent, from a click), so the
-    // links stay on screen after the mouse moves away.
-    function activeEdgeSlug() {{
-      return hoveredSlug || selectedSlug || null;
-    }}
-
-    // Source depending on the "On hover/select, show" dropdown:
+    // Draws edges/links for the hovered book and the selected book
+    // independently and simultaneously (separate traces/annotations), so
+    // selecting a book keeps its links on screen even while hovering a
+    // different book to compare -- rather than one replacing the other.
+    // Mode, from the "On hover/select, show" dropdown:
     //   - neighbors: the 5 nearest neighbors by cosine similarity in the
     //     *original* high-dimensional embedding space (computed in Python
     //     via compute_neighbors), NOT neighbors in the current 2D
@@ -1033,25 +1043,34 @@ def make_interactive_plot(
     //   - chain: a directed 5-node path (2 read before, 2 read after)
     //     through reading order (compute_reading_order), independent of
     //     the embedding entirely. Rendered as arrows (Plotly annotations,
-    //     not the plain-line edge trace) pointing oldest -> newest so the
+    //     not the plain-line edge traces) pointing oldest -> newest so the
     //     chronological direction is visible.
     //   - off: no edges.
     function refreshEdges() {{
-      const slug = activeEdgeSlug();
       const mode = edgesEl.value;
-      if (!slug || mode === 'off') {{
-        clearEdges();
-        return;
-      }}
       const source = sourceEl.value;
       const method = methodEl.value;
-      if (mode === 'chain') {{
-        const edgeTraceIndex = plotDiv.data.length - 2;
-        Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
-        showReadingChain(slug, source, method);
-      }} else {{
+      const hoverEdgeIndex = plotDiv.data.length - 3;
+      const pinnedEdgeIndex = plotDiv.data.length - 2;
+      // Skip re-drawing the hover book's edges when it's the same book
+      // that's already selected -- they'd be identical lines on top of
+      // the pinned ones.
+      const hoverSlug = (hoveredSlug && hoveredSlug !== selectedSlug) ? hoveredSlug : null;
+
+      if (mode === 'neighbors') {{
+        const hoverXY = hoverSlug ? neighborEdgeXY(hoverSlug, source, method) : {{xs: [], ys: []}};
+        const pinnedXY = selectedSlug ? neighborEdgeXY(selectedSlug, source, method) : {{xs: [], ys: []}};
+        Plotly.restyle(plotDiv, {{x: [hoverXY.xs], y: [hoverXY.ys], 'line.color': [neighborEdgeColor]}}, [hoverEdgeIndex]);
+        Plotly.restyle(plotDiv, {{x: [pinnedXY.xs], y: [pinnedXY.ys], 'line.color': [neighborEdgeColor]}}, [pinnedEdgeIndex]);
         Plotly.relayout(plotDiv, {{annotations: []}});
-        showNeighborEdges(slug, source, method);
+      }} else if (mode === 'chain') {{
+        Plotly.restyle(plotDiv, {{x: [[], []], y: [[], []]}}, [hoverEdgeIndex, pinnedEdgeIndex]);
+        const pinnedAnn = selectedSlug ? chainAnnotations(selectedSlug, source, method, chainEdgeColor) : [];
+        const hoverAnn = hoverSlug ? chainAnnotations(hoverSlug, source, method, chainEdgeColor) : [];
+        Plotly.relayout(plotDiv, {{annotations: pinnedAnn.concat(hoverAnn)}});
+      }} else {{
+        Plotly.restyle(plotDiv, {{x: [[], []], y: [[], []]}}, [hoverEdgeIndex, pinnedEdgeIndex]);
+        Plotly.relayout(plotDiv, {{annotations: []}});
       }}
     }}
     edgesEl.addEventListener('change', refreshEdges);
