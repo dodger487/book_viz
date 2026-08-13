@@ -752,6 +752,25 @@ def make_interactive_plot(
     margin: 0 0 10px;
     color: var(--ink-primary);
   }}
+  /* Edge fade: signals "this box scrolls" without a persistent scrollbar
+     -- a soft shadow at whichever edge (top and/or bottom) still has
+     unseen content, gone once you've scrolled that edge into view. Two
+     gradient pairs per edge: a "cover" gradient that scrolls WITH the
+     content (background-attachment: local) and paints over the shadow
+     except right at that edge, plus the shadow itself pinned to the box
+     (background-attachment: scroll). Classic CSS-only technique -- no JS,
+     works automatically as content/scroll position changes. */
+  .scroll-fade {{
+    background:
+      linear-gradient(var(--surface) 30%, rgba(0, 0, 0, 0)),
+      linear-gradient(rgba(0, 0, 0, 0), var(--surface) 70%) 0 100%,
+      radial-gradient(farthest-side at 50% 0, rgba(11, 11, 11, 0.14), rgba(11, 11, 11, 0)),
+      radial-gradient(farthest-side at 50% 100%, rgba(11, 11, 11, 0.14), rgba(11, 11, 11, 0)) 0 100%;
+    background-repeat: no-repeat;
+    background-color: var(--surface);
+    background-size: 100% 28px, 100% 28px, 100% 12px, 100% 12px;
+    background-attachment: local, local, scroll, scroll;
+  }}
   #details-content {{
     flex: 1 1 auto;
     min-height: 0;
@@ -860,12 +879,12 @@ def make_interactive_plot(
       <div class="sidebar">
         <div id="details-panel" class="panel">
           <h2>Book Details</h2>
-          <div id="details-content"><p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p></div>
+          <div id="details-content" class="scroll-fade"><p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p></div>
         </div>
         <div id="book-list-panel" class="panel">
           <h2>All Books</h2>
           <input id="book-search" type="text" placeholder="Search title or author...">
-          <div id="book-list"></div>
+          <div id="book-list" class="scroll-fade"></div>
         </div>
       </div>
       <div class="main-col">
