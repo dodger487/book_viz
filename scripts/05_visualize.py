@@ -584,7 +584,7 @@ def make_interactive_plot(
         paper_bgcolor=PAPER_BGCOLOR,
         font=dict(family=PLOT_FONT_FAMILY),
         hoverlabel=dict(
-            bgcolor="rgba(255,255,255,0.82)",
+            bgcolor="rgba(255,255,255,0.8)",
             bordercolor="rgba(11,11,11,0.15)",
             font=dict(family=PLOT_FONT_FAMILY, size=12, color="#0b0b0b"),
         ),
@@ -698,11 +698,15 @@ def make_interactive_plot(
     border-radius: 10px;
     padding: 16px 18px;
     /* Fixed height, internal scroll -- so the sidebar's total height is
-       predictable and both panels stay visible next to the graph. */
-    height: 340px;
+       predictable and both panels stay visible next to the graph. Book
+       details gets more room than the list -- descriptions/tone/themes
+       run long, while the list is searchable so it doesn't need to show
+       many rows at once. */
     display: flex;
     flex-direction: column;
   }}
+  #details-panel {{ height: 460px; }}
+  #book-list-panel {{ height: 220px; }}
   .panel h2 {{
     flex: 0 0 auto;
     font-family: 'Fraunces', Georgia, serif;
@@ -818,11 +822,11 @@ def make_interactive_plot(
     <div class="layout">
       <div class="sidebar">
         <div id="details-panel" class="panel">
-          <h2>Book details</h2>
+          <h2>Book Details</h2>
           <div id="details-content"><p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p></div>
         </div>
         <div id="book-list-panel" class="panel">
-          <h2>All books</h2>
+          <h2>All Books</h2>
           <input id="book-search" type="text" placeholder="Search title or author...">
           <div id="book-list"></div>
         </div>
@@ -920,7 +924,7 @@ def make_interactive_plot(
         paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
         font: {{ family: {json.dumps(PLOT_FONT_FAMILY)} }},
         hoverlabel: {{
-          bgcolor: 'rgba(255,255,255,0.82)',
+          bgcolor: 'rgba(255,255,255,0.8)',
           bordercolor: 'rgba(11,11,11,0.15)',
           font: {{ family: {json.dumps(PLOT_FONT_FAMILY)}, size: 12, color: '#0b0b0b' }},
         }},
