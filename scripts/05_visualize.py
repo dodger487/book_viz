@@ -71,37 +71,43 @@ def color_label(color_col: str) -> str:
     return COLOR_LABEL_OVERRIDES.get(color_col, color_col.replace("_", " ").title())
 
 
-# Validated palette (see dataviz skill's references/palette.md) -- 8 fixed
-# hues in fixed order for nominal/identity color, extended below for genre
-# columns that have more than 8 real categories (by explicit request: more
+# A "vintage library" palette (parchment/leather/manuscript/crimson), built
+# by the same rules as the dataviz skill's own reference instance: 8 fixed
+# hues in a fixed order, validated against the six categorical checks (run
+# via the skill's scripts/validate_palette.js -- lightness band, chroma
+# floor, adjacent-pair + normal-vision CVD separation, contrast vs
+# PLOT_BGCOLOR below) rather than eyeballed, with the first 3 slots (the
+# most common genres, since slots are assigned by frequency) also clearing
+# the stricter all-pairs check scatter plots need. Extended below for genre
+# columns with more than 8 real categories (by earlier request: more
 # distinct genres on screen, traded off against strict all-pairs
 # colorblind-safety past slot 8 -- acceptable here since same-genre points
 # already cluster together, so exact neighbor/adjacent contrast matters
-# less than overall variety). NEUTRAL_COLOR is muted ink, used for "Other"/
-# "Unknown" buckets (never a real palette slot, so those buckets never
-# look like a real category or a real position in the order).
+# less than overall variety). NEUTRAL_COLOR is a muted warm gray, used for
+# "Other"/"Unknown" buckets (never a real palette slot, so those buckets
+# never look like a real category or a real position in the order).
 CATEGORICAL_PALETTE = [
-    "#2a78d6",  # blue
-    "#eb6834",  # orange
-    "#1baf7a",  # aqua
-    "#eda100",  # yellow
-    "#e87ba4",  # magenta
-    "#008300",  # green
-    "#4a3aa7",  # violet
-    "#e34948",  # red
+    "#964d03",  # oak / cognac
+    "#008558",  # manuscript green
+    "#3960ac",  # navy ink
+    "#4f6f11",  # olive
+    "#7e4899",  # plum
+    "#b22430",  # crimson
+    "#9d7602",  # mustard / gilt
+    "#a92d56",  # rose / berry
 ]
-# Diverging pair (see palette.md "Diverging pair"): blue <-> red poles with
-# a neutral gray midpoint. Used for ordinal/ordered color (decade/year) --
+# Diverging pair (see palette.md "Diverging pair"): warm/cool poles with a
+# neutral gray midpoint. Used for ordinal/ordered color (decade/year) --
 # stronger visual contrast than a single-hue light->dark ramp, by request.
-DIVERGING_COOL = "#2a78d6"  # blue pole (oldest/earliest)
-DIVERGING_MIDPOINT = "#6e6c66"  # neutral gray midpoint -- darkened from the
-# documented light-surface value (#f0efec) because that's ~1.03:1 contrast
-# against PLOT_BGCOLOR (a light blue tint, not the neutral white/off-white
-# surface the reference palette assumes), i.e. effectively invisible.
-# #6e6c66 -- a darker step of the same muted-ink family as NEUTRAL_COLOR --
-# clears 4.4:1 against PLOT_BGCOLOR.
-DIVERGING_WARM = "#e34948"  # red pole (newest/latest)
-NEUTRAL_COLOR = "#898781"  # muted ink -- "Other"/"Unknown", never a data value
+# Cool pole reuses the categorical navy; warm pole reuses the categorical
+# crimson, so the ramp reads as part of the same "ink" family as the rest
+# of the palette rather than a separate color system.
+DIVERGING_COOL = "#3960ac"  # navy pole (oldest/earliest)
+DIVERGING_MIDPOINT = "#6e6350"  # neutral warm-gray midpoint, picked (not
+# eyeballed) for contrast against the new PLOT_BGCOLOR: clears 4.75:1.
+DIVERGING_WARM = "#b22430"  # crimson pole (newest/latest)
+NEUTRAL_COLOR = "#796a56"  # muted warm gray -- "Other"/"Unknown", never a
+# data value; clears 4.2:1 against PLOT_BGCOLOR.
 
 
 def _hex_to_rgb(h: str) -> tuple[int, int, int]:
@@ -156,7 +162,12 @@ def extended_categorical_palette(n: int) -> list[str]:
     extra = []
     for k in range(n_extra):
         h = (0.045 + k / n_extra) % 1.0
-        r, g, b = colorsys.hls_to_rgb(h, 0.52, 0.55)
+        # L=0.46, S=0.60 -- deeper/richer than a generic default, chosen to
+        # sit closer to the 8 validated hues' OKLCH character (checked
+        # empirically against the validator's oklch() for the same reason
+        # the base 8 were hand-tuned: an "extra" hue that reads pastel next
+        # to deep crimson/oak/navy would look like a different palette).
+        r, g, b = colorsys.hls_to_rgb(h, 0.46, 0.60)
         extra.append(_rgb_to_hex((r * 255, g * 255, b * 255)))
     return base + extra
 
@@ -183,11 +194,13 @@ def ordinal_color_map(categories_chronological: list[str]) -> dict[str, str]:
         cmap["Unknown"] = NEUTRAL_COLOR
     return cmap
 
-# Plotly Express's default template colors -- set explicitly (rather than
-# relying on the template) so they survive Plotly.react() layout swaps in
-# the browser, which otherwise reset to a plain white background.
-PLOT_BGCOLOR = "#E5ECF6"
-PAPER_BGCOLOR = "white"
+# Set explicitly (rather than relying on the Plotly Express template) so
+# they survive Plotly.react() layout swaps in the browser, which otherwise
+# reset to a plain white background. Warm parchment tones -- PLOT_BGCOLOR
+# (the data area itself) is a shade deeper than PAPER_BGCOLOR (the margin
+# around it), like an aged page sitting on a lighter mat.
+PLOT_BGCOLOR = "#efe6d2"
+PAPER_BGCOLOR = "#fbf7ee"
 
 # Plotly renders its own text (legend, tooltip, axis, title) with its own
 # default font, ignoring the page's CSS -- has to be set explicitly or it
@@ -497,7 +510,7 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
                 # settings. A custom hovertemplate always wins over
                 # hoverinfo, so both must be cleared.
                 fig.update_traces(
-                    marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")),
+                    marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color=PAPER_BGCOLOR)),
                     hoverinfo="none",
                     hovertemplate=None,
                 )
@@ -505,9 +518,9 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
     return combos
 
 
-NEIGHBOR_EDGE_COLOR = "rgba(50,50,50,0.6)"
-CHAIN_EDGE_COLOR = "rgba(31,119,180,0.7)"
-SELECTION_HALO_COLOR = "#0b0b0b"  # primary ink -- reads against every palette color
+NEIGHBOR_EDGE_COLOR = "rgba(42,26,23,0.55)"  # ink-primary, translucent
+CHAIN_EDGE_COLOR = "rgba(57,96,172,0.75)"  # navy accent -- reads as "ink," distinct from the neighbor-edge color
+SELECTION_HALO_COLOR = "#2a1a17"  # ink-primary -- dark and neutral enough to read against every palette hue, including crimson (slot 6)
 
 # Two separate edge traces -- one for the transient hover, one for the
 # persistent selection -- so hovering a second book while one is
@@ -633,12 +646,18 @@ def make_interactive_plot(
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {{
-    --page-plane: #f9f9f7;
-    --surface: #fcfcfb;
-    --ink-primary: #0b0b0b;
-    --ink-secondary: #52514e;
-    --ink-muted: #898781;
-    --border: rgba(11,11,11,0.10);
+    /* "Vintage library": parchment/leather neutrals, manuscript/crimson
+       used sparingly for accents (headings, buttons, the selected-book
+       marker) -- see CATEGORICAL_PALETTE above for the matching genre
+       colors and README for the validation this was built against. */
+    --page-plane: #f6f0e4;
+    --surface: #fbf7ee;
+    --ink-primary: #2a1a17;
+    --ink-secondary: #6b5344;
+    --ink-muted: #96826c;
+    --border: rgba(83,44,46,0.16);
+    --binding: #532c2e;
+    --crimson: #b22430;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -655,6 +674,7 @@ def make_interactive_plot(
     font-size: 28px;
     letter-spacing: -0.01em;
     margin: 0 0 16px;
+    color: var(--binding);
   }}
   /* Sidebar (Book details + All books) sits beside the graph, not below
      it, so both are visible at once without clicking then scrolling. */
@@ -684,6 +704,7 @@ def make_interactive_plot(
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: 10px;
+    position: relative;
   }}
   .control-group {{
     display: flex;
@@ -705,6 +726,45 @@ def make_interactive_plot(
     border: 1px solid var(--border);
     border-radius: 6px;
   }}
+  .help-wrap {{
+    margin-left: auto;
+    position: relative;
+  }}
+  .help-btn {{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--page-plane);
+    color: var(--ink-secondary);
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+  }}
+  .help-btn:hover {{ border-color: var(--crimson); color: var(--crimson); }}
+  .help-popover {{
+    display: none;
+    position: absolute;
+    top: 32px;
+    right: 0;
+    width: 260px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 13px;
+    color: var(--ink-primary);
+    line-height: 1.5;
+    box-shadow: 0 4px 16px rgba(83,44,46,0.14);
+    z-index: 20;
+  }}
+  .help-popover p {{ margin: 0; }}
+  .help-popover.open {{ display: block; }}
   #plot-wrapper {{ position: relative; }}
   #book-plot {{ width: 100%; aspect-ratio: 16 / 9; }}
   /* Real HTML/CSS tooltips, not Plotly's native hoverlabel -- Plotly
@@ -719,8 +779,8 @@ def make_interactive_plot(
     display: none;
     position: absolute;
     transform: translate(10px, -100%);
-    background: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(11, 11, 11, 0.15);
+    background: rgba(251, 247, 238, 0.8);
+    border: 1px solid var(--border);
     border-radius: 6px;
     padding: 3px 8px;
     font-size: 12px;
@@ -750,7 +810,7 @@ def make_interactive_plot(
     font-weight: 600;
     font-size: 16px;
     margin: 0 0 10px;
-    color: var(--ink-primary);
+    color: var(--binding);
   }}
   /* Edge fade: signals "this box scrolls" without a persistent scrollbar
      -- a soft shadow at whichever edge (top and/or bottom) still has
@@ -764,8 +824,8 @@ def make_interactive_plot(
     background:
       linear-gradient(var(--surface) 30%, rgba(0, 0, 0, 0)),
       linear-gradient(rgba(0, 0, 0, 0), var(--surface) 70%) 0 100%,
-      radial-gradient(farthest-side at 50% 0, rgba(11, 11, 11, 0.14), rgba(11, 11, 11, 0)),
-      radial-gradient(farthest-side at 50% 100%, rgba(11, 11, 11, 0.14), rgba(11, 11, 11, 0)) 0 100%;
+      radial-gradient(farthest-side at 50% 0, rgba(83, 44, 46, 0.16), rgba(83, 44, 46, 0)),
+      radial-gradient(farthest-side at 50% 100%, rgba(83, 44, 46, 0.16), rgba(83, 44, 46, 0)) 0 100%;
     background-repeat: no-repeat;
     background-color: var(--surface);
     background-size: 100% 28px, 100% 28px, 100% 12px, 100% 12px;
@@ -823,9 +883,9 @@ def make_interactive_plot(
     margin-top: 14px;
     font-family: inherit;
     font-size: 12px;
-    color: var(--ink-secondary);
-    background: var(--page-plane);
-    border: 1px solid var(--border);
+    color: var(--crimson);
+    background: var(--surface);
+    border: 1px solid var(--crimson);
     border-radius: 6px;
     padding: 5px 10px;
     cursor: pointer;
@@ -841,6 +901,10 @@ def make_interactive_plot(
     border: 1px solid var(--border);
     border-radius: 6px;
     margin-bottom: 10px;
+  }}
+  #book-search:focus {{
+    outline: none;
+    border-color: var(--crimson);
   }}
   #book-list {{
     flex: 1 1 auto;
@@ -862,7 +926,12 @@ def make_interactive_plot(
     cursor: pointer;
   }}
   .book-list-item:hover {{ background: var(--page-plane); }}
-  .book-list-item.selected {{ background: var(--page-plane); font-weight: 600; }}
+  .book-list-item.selected {{
+    background: var(--page-plane);
+    font-weight: 600;
+    border-left: 3px solid var(--crimson);
+    padding-left: 5px;
+  }}
   .book-list-item .item-author {{ color: var(--ink-secondary); font-weight: 400; }}
   #book-list .empty {{ color: var(--ink-muted); font-size: 13px; padding: 8px 4px; }}
   @media (max-width: 900px) {{
@@ -908,6 +977,12 @@ def make_interactive_plot(
               <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
               <option value="chain">Reading order (chronological)</option>
             </select>
+          </div>
+          <div class="help-wrap">
+            <button id="help-btn" class="help-btn" type="button" aria-label="About this visualization" aria-expanded="false">?</button>
+            <div id="help-popover" class="help-popover" role="tooltip">
+              <p>Each book is turned into a numeric "fingerprint" based on its description and themes, then flattened down to the two dimensions you see here. Books with similar fingerprints usually land close together &mdash; but squeezing that much information onto a flat page is lossy, so closeness is a strong hint, not a guarantee.</p>
+            </div>
           </div>
         </div>
         <div id="plot-wrapper">
@@ -1311,6 +1386,26 @@ def make_interactive_plot(
     }}
     plotDiv.on('plotly_legendclick', handleLegendClick);
     plotDiv.on('plotly_legenddoubleclick', handleLegendClick);  // same behavior, no isolate-and-hide-rest
+
+    const helpBtn = document.getElementById('help-btn');
+    const helpPopover = document.getElementById('help-popover');
+    helpBtn.addEventListener('click', function (evt) {{
+      evt.stopPropagation();
+      const open = helpPopover.classList.toggle('open');
+      helpBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }});
+    document.addEventListener('click', function (evt) {{
+      if (!helpPopover.classList.contains('open')) return;
+      if (evt.target === helpBtn || helpPopover.contains(evt.target)) return;
+      helpPopover.classList.remove('open');
+      helpBtn.setAttribute('aria-expanded', 'false');
+    }});
+    document.addEventListener('keydown', function (evt) {{
+      if (evt.key === 'Escape') {{
+        helpPopover.classList.remove('open');
+        helpBtn.setAttribute('aria-expanded', 'false');
+      }}
+    }});
 
     renderBookList();
     renderDetails(null);

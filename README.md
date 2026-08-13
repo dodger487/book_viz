@@ -296,19 +296,41 @@ Renders:
     chronological direction is visible.
   - **No links** — turns edges off.
 
+  A small "?" button at the right edge of the controls bar opens a brief
+  explainer (embeddings → 2D projection → proximity is a hint, not a
+  guarantee) — click elsewhere, click it again, or press Escape to close it.
+
 ### Design system: color and type
 
-Colors are assigned by the job each column does, not picked by eye —
+The palette is a "vintage library" theme — parchment/leather neutrals with
+manuscript-green/navy/crimson used as accents — sourced from a "vintage
+library" reference palette (Parchment `#f6f2ea`, Leather `#c29b87`, Oak
+`#a97954`, Manuscript `#1e423f`, Binding `#532c2e`, Crimson `#34000b`) and
+adapted to this page's needs. Chrome tones (`--page-plane`, `--surface`,
+`--ink-primary`, `--ink-secondary`, `--ink-muted`, `--border` in the page
+CSS) are free to reskin on taste since they carry no data meaning; the
+categorical genre palette is not — it's the single biggest visual signal
+on the page and still has to pass the dataviz design system's six
+colorblind-safety checks, so it was rebuilt (not just recolored) the same
+way the previous palette was: candidate warm "book spine" hues generated
+in-band (OKLCH lightness 0.43–0.77, chroma ≥ 0.10) against the new
+`PLOT_BGCOLOR`, then every ordering brute-forced through the dataviz
+skill's `scripts/validate_palette.js` to find one clearing the adjacent-pair
+CVD/normal-vision floors — the shipped order (oak → manuscript green → navy
+→ olive → plum → crimson → mustard → rose) also has its first 3 slots
+(the most common genres) passing the *stricter* all-pairs check scatter
+plots need, matching the reference palette's own guarantee. Colors are
+still assigned by the job each column does, not picked by eye —
 `color_order_and_map()` in the script implements this:
 
 - **Genre / Genre (LLM-refined)** are *nominal* (identity — swapping the
   order wouldn't change the meaning). The first 8 categories by frequency
-  get the fixed-order categorical palette from Anthropic's dataviz design
-  system, validated colorblind-safe; categories beyond 8 get additional
+  get the validated 8-hue set above; categories beyond 8 get additional
   hues generated deterministically (`extended_categorical_palette()` —
-  evenly-spaced hues at a fixed phase offset, not validated against the
-  colorblind-safety gates the first 8 pass). By default almost every
-  distinct value gets shown rather than folding into "Other"
+  evenly-spaced hues at a fixed phase offset, tuned toward the same deep,
+  moderately-saturated character as the validated 8 but not validated
+  against the colorblind-safety gates those 8 pass). By default almost
+  every distinct value gets shown rather than folding into "Other"
   (`collapse_rare(top_n=...)` — 20 for the heuristic `genre` column, which
   has ~42 raw values and gets capped there for legend legibility and
   render time; effectively uncapped for `genre_llm`, which has ~21). This
@@ -317,27 +339,28 @@ Colors are assigned by the job each column does, not picked by eye —
   already cluster spatially, so exact color contrast between distant
   points matters less.
 - **Decade published / Year read** are *ordinal* (order carries meaning),
-  so they get a **diverging** blue↔gray↔red ramp in chronological order
-  (`ORDINAL_COLOR_COLUMNS`, `interpolate_ordinal_colors()` — blue for
-  earliest, gray at the midpoint, red for latest) rather than a single
-  light→dark hue or, worse, a rainbow scale with no ordering signal at all
-  (the original bug here). Both stay discrete/click-able legend traces,
-  not a continuous colorbar — year read has few enough distinct values
-  (~11) that discrete is more legible than continuous. `DIVERGING_MIDPOINT`
-  is `#6e6c66`, darker than the dataviz design system's documented
-  light-surface neutral gray (`#f0efec`) — that value is ~1.03:1 contrast
-  against `PLOT_BGCOLOR` (a light blue tint, not the neutral white/off-white
-  surface the reference assumes), i.e. the midpoint decades were nearly
-  invisible against the chart background. `#6e6c66` clears 4.4:1.
+  so they get a **diverging** navy↔gray↔crimson ramp in chronological order
+  (`ORDINAL_COLOR_COLUMNS`, `interpolate_ordinal_colors()` — navy for
+  earliest, warm gray at the midpoint, crimson for latest) rather than a
+  single light→dark hue or, worse, a rainbow scale with no ordering signal
+  at all (the original bug here). Both stay discrete/click-able legend
+  traces, not a continuous colorbar — year read has few enough distinct
+  values (~11) that discrete is more legible than continuous.
+  `DIVERGING_MIDPOINT` (`#6e6350`) and `NEUTRAL_COLOR` (`#796a56`, used for
+  "Other"/"Unknown") were each picked for contrast against `PLOT_BGCOLOR`
+  specifically, not eyeballed — a lesson from the previous palette, whose
+  midpoint was ~1.03:1 contrast (effectively invisible) against a plot
+  background that wasn't the neutral white/off-white surface the original
+  value assumed.
 
-Type: **Fraunces** (serif, the page `<h1>` and in-chart plot title) paired
-with **Public Sans** (everything else — controls, legend, tooltip, axis).
-Loaded via Google Fonts; safe now that this is genuinely hosted online
-rather than a local file. Plotly doesn't inherit the page's CSS font by
-default, so `PLOT_FONT_FAMILY`/`PLOT_TITLE_FONT_FAMILY` are set explicitly
-on the Python-built layout *and* re-applied in the JS `update()` function
-— otherwise switching dropdowns would reset the chart back to Plotly's
-own default font.
+Type: **Fraunces** (serif, the page `<h1>` and panel headings, colored with
+the palette's Binding tone) paired with **Public Sans** (everything else —
+controls, legend, tooltip, axis). Loaded via Google Fonts. Plotly doesn't
+inherit the page's CSS font by default, so `PLOT_FONT_FAMILY` is set
+explicitly on the Python-built layout *and* re-applied in the JS `update()`
+function — otherwise switching dropdowns would reset the chart back to
+Plotly's own default font. (There's no separate in-chart title anymore —
+it duplicated the page `<h1>`.)
 
 ## Notes
 
