@@ -205,7 +205,7 @@ caused).
 ## Script 5: visualize
 
 ```bash
-python scripts/05_visualize.py                          # defaults: openai_v2, t-SNE(7), colored by genre
+python scripts/05_visualize.py                          # defaults: openai_v2, t-SNE(7), colored by genre_llm
 python scripts/05_visualize.py --source local_v1 --method tsne_p5 --color decade_published
 ```
 
@@ -245,17 +245,42 @@ Renders:
   to switch embedding source, projection method, and color-by live in the
   browser (no re-running the script). `--source`/`--method`/`--color` just
   set what's selected when the page first loads (currently `openai_v2` +
-  `tsne_p7` + `genre` — the combo that's looked best so far; change via
-  `PREFERRED_DEFAULT_SOURCE`/`--method`/`--color` in `main()`). Hover any
-  point for title/author/date read. A fourth dropdown ("On hover, show")
-  picks what edges appear when you hover:
+  `tsne_p7` + `genre_llm` — the combo that's looked best so far; change via
+  `PREFERRED_DEFAULT_SOURCE`/`--method`/`--color` in `main()`).
+
+  There's no floating tooltip — Plotly's own hover box is suppressed
+  (`hoverinfo="none"` *and* `hovertemplate=None`; Plotly Express sets a
+  default `hovertemplate` on every trace that otherwise overrides
+  `hoverinfo` and shows the box anyway). Instead:
+
+  - A **details panel** below the plot shows title, author, published/read
+    year, genre, and (when `book_tags.json` exists) the LLM-generated
+    description/tone/pacing/themes/setting for whichever book is active.
+  - A **searchable book list** (filtered by title or author as you type)
+    sits alongside the details panel — click any entry to select that book.
+  - **Clicking a node** (or a list entry) *selects* it: a hollow ring marks
+    it on the plot, its edges/links stay drawn even after the mouse moves
+    away, and its details stay pinned in the panel. Clicking the same book
+    again (node, list entry, or the "Clear selection" button) deselects it.
+  - **Hovering** a point shows that book's details/edges transiently,
+    taking priority over whatever's selected; moving the mouse away falls
+    back to the pinned selection (if any), not to nothing.
+  - **Clicking a legend entry** highlights that category and dims (never
+    hides) every other point, Tableau-style, so relative position is still
+    visible — click the same entry again to restore everyone to full
+    opacity, or click a different entry to switch the highlight. This
+    replaces Plotly's default legend-click behavior, which hides the
+    clicked trace entirely.
+
+  A fourth dropdown ("On hover/select, show") picks what edges/links are
+  drawn for the active book (hovered, or failing that, selected):
   - **Nearest neighbors** (default) — lines to the book's 5 nearest
     neighbors by cosine similarity in the *original* embedding space, not
     the 2D projection — so you'll sometimes see an edge connect two points
     that landed far apart on screen but are still genuinely similar (e.g.
     same topic, different genre).
   - **Reading order (chronological)** — a directed 5-node path centered on
-    the hovered book: the 2 books read immediately before it and the 2
+    the active book: the 2 books read immediately before it and the 2
     read immediately after, connected as a sequential chain (not a star
     from the hovered book to all 4 — the chain shows the actual reading
     order through that window), independent of the embedding entirely.
@@ -269,20 +294,28 @@ Colors are assigned by the job each column does, not picked by eye —
 `color_order_and_map()` in the script implements this:
 
 - **Genre / Genre (LLM-refined)** are *nominal* (identity — swapping the
-  order wouldn't change the meaning), so they get the 8-hue fixed-order
-  categorical palette from Anthropic's dataviz design system, validated
-  colorblind-safe (`NOMINAL_COLOR_COLUMNS`, `CATEGORICAL_PALETTE`).
-  Anything beyond the top 8 by frequency folds into a neutral gray
-  "Other," same as before.
+  order wouldn't change the meaning). The first 8 categories by frequency
+  get the fixed-order categorical palette from Anthropic's dataviz design
+  system, validated colorblind-safe; categories beyond 8 get additional
+  hues generated deterministically (`extended_categorical_palette()` —
+  evenly-spaced hues at a fixed phase offset, not validated against the
+  colorblind-safety gates the first 8 pass). By default almost every
+  distinct value gets shown rather than folding into "Other"
+  (`collapse_rare(top_n=...)` — 20 for the heuristic `genre` column, which
+  has ~42 raw values and gets capped there for legend legibility and
+  render time; effectively uncapped for `genre_llm`, which has ~21). This
+  trades strict adjacent-pair colorblind-safety past the 8th category for
+  more visible genre variety — acceptable here since same-genre points
+  already cluster spatially, so exact color contrast between distant
+  points matters less.
 - **Decade published / Year read** are *ordinal* (order carries meaning),
-  so they get a single hue stepped light→dark in chronological order
-  (`ORDINAL_COLOR_COLUMNS`, `interpolate_ordinal_colors()`) instead of an
-  arbitrary categorical palette or a rainbow scale — both of which used to
-  be true here (decade's legend order was whatever pandas felt like, and
-  year read was a genuine rainbow continuous scale with no ordering
-  signal). Both stay discrete/click-able legend traces, not a continuous
-  colorbar — year read has few enough distinct values (~11) that discrete
-  is more legible than continuous.
+  so they get a **diverging** blue↔gray↔red ramp in chronological order
+  (`ORDINAL_COLOR_COLUMNS`, `interpolate_ordinal_colors()` — blue for
+  earliest, gray at the midpoint, red for latest) rather than a single
+  light→dark hue or, worse, a rainbow scale with no ordering signal at all
+  (the original bug here). Both stay discrete/click-able legend traces,
+  not a continuous colorbar — year read has few enough distinct values
+  (~11) that discrete is more legible than continuous.
 
 Type: **Fraunces** (serif, the page `<h1>` and in-chart plot title) paired
 with **Public Sans** (everything else — controls, legend, tooltip, axis).

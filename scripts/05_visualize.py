@@ -335,6 +335,11 @@ def load_metadata() -> pd.DataFrame:
         }
         if HAS_LLM_TAGS:
             row["genre_llm"] = (tags.get("genre") if tags else None) or "Unknown"
+            row["clean_description"] = (tags.get("clean_description") if tags else None) or ""
+            row["tone_and_style"] = (tags.get("tone_and_style") if tags else None) or ""
+            row["pacing"] = (tags.get("pacing") if tags else None) or ""
+            row["themes"] = (tags.get("themes") if tags else None) or ""
+            row["setting"] = (tags.get("setting") if tags else None) or ""
         rows.append(row)
     df = pd.DataFrame(rows)
     # genre (heuristic) has ~42 distinct values -- capped well below "all"
@@ -467,15 +472,6 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
             d["x"], d["y"] = coords[:, 0], coords[:, 1]
             for color_col in COLOR_COLUMNS:
                 order, cmap = order_and_map_by_color[color_col]
-                hover_data = {
-                    "author": True,
-                    "date_read": True,
-                    "year_read": True,
-                    "year_published": True,
-                    "x": False,
-                    "y": False,
-                }
-                hover_data[color_col] = True
                 fig = px.scatter(
                     d,
                     x="x",
@@ -483,17 +479,27 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
                     color=color_col,
                     category_orders={color_col: order},
                     color_discrete_map=cmap,
-                    hover_name="title",
-                    hover_data=hover_data,
-                    custom_data=["slug"],  # not shown in tooltip; read by the JS hover handler below
+                    custom_data=["slug"],  # read by the JS hover/click handlers below
                 )
-                fig.update_traces(marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")))
+                # Plotly's own floating tooltip is suppressed (hoverinfo
+                # "none") -- it covers exactly the nodes/edges it's
+                # describing. Hover/click events still fire; a fixed
+                # details panel below the plot replaces the tooltip.
+                # Plotly Express sets its own hovertemplate on every trace,
+                # which takes precedence over hoverinfo="none" and shows
+                # the native box anyway -- must be cleared too.
+                fig.update_traces(
+                    marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")),
+                    hoverinfo="none",
+                    hovertemplate=None,
+                )
                 combos[f"{source}|{method}|{color_col}"] = {"data": fig.to_dict()["data"]}
     return combos
 
 
 NEIGHBOR_EDGE_COLOR = "rgba(50,50,50,0.6)"
 CHAIN_EDGE_COLOR = "rgba(31,119,180,0.7)"
+SELECTION_HALO_COLOR = "#0b0b0b"  # primary ink -- reads against every palette color
 
 EDGE_TRACE = {
     "type": "scatter",
@@ -501,6 +507,20 @@ EDGE_TRACE = {
     "x": [],
     "y": [],
     "line": {"color": NEIGHBOR_EDGE_COLOR, "width": 1.5},
+    "hoverinfo": "skip",
+    "showlegend": False,
+}
+
+# A single large hollow-ring marker drawn on top of whichever book is
+# currently selected (clicked, from the plot or the book list) -- "keeps
+# it highlighted" independent of hover, since hover is transient and
+# selection is meant to persist until deselected.
+SELECTION_HALO_TRACE = {
+    "type": "scatter",
+    "mode": "markers",
+    "x": [],
+    "y": [],
+    "marker": {"size": 22, "color": "rgba(0,0,0,0)", "line": {"width": 3, "color": SELECTION_HALO_COLOR}},
     "hoverinfo": "skip",
     "showlegend": False,
 }
@@ -532,6 +552,23 @@ def make_interactive_plot(
         for source, method_coords in all_coords.items()
     }
 
+    # Book details for the details panel (replaces the floating tooltip)
+    # and the searchable list -- keyed by slug so the same lookup backs
+    # hover, click, and list-item rendering.
+    detail_fields = ["title", "author", "date_read", "year_published", "genre"]
+    if HAS_LLM_TAGS:
+        detail_fields += ["genre_llm", "clean_description", "tone_and_style", "pacing", "themes", "setting"]
+    book_details = {}
+    for row in df.to_dict(orient="records"):
+        detail = {f: row[f] for f in detail_fields}
+        # year_published is a float in the DataFrame (NaN mixed with ints
+        # coerces the whole column) -- normalize to a plain int or None so
+        # the details panel doesn't render "2015.0".
+        yp = detail.get("year_published")
+        detail["year_published"] = int(yp) if pd.notna(yp) else None
+        book_details[row["slug"]] = detail
+    book_order = sorted(slugs, key=lambda s: (book_details[s]["title"].lower(), book_details[s]["author"].lower()))
+
     def title_for(source, method):
         return f"Reading taste ({source_labels.get(source, source)}, {METHOD_LABELS.get(method, method.upper())} projection)"
 
@@ -545,7 +582,7 @@ def make_interactive_plot(
         paper_bgcolor=PAPER_BGCOLOR,
         font=dict(family=PLOT_FONT_FAMILY),
     )
-    fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE], layout=layout)
+    fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE, SELECTION_HALO_TRACE], layout=layout)
     plot_div = pio.to_html(
         fig, include_plotlyjs=True, full_html=False, div_id="book-plot", config={"responsive": True}
     )
@@ -633,6 +670,121 @@ def make_interactive_plot(
     border-radius: 6px;
   }}
   #book-plot {{ width: 100%; max-width: 1300px; aspect-ratio: 16 / 9; margin: 0 auto; }}
+  .below-plot {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1300px;
+    margin: 20px auto 0;
+    align-items: flex-start;
+  }}
+  .panel {{
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+  }}
+  .panel h2 {{
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0 0 10px;
+    color: var(--ink-primary);
+  }}
+  #details-panel {{
+    flex: 1 1 360px;
+    min-height: 160px;
+  }}
+  #details-panel .placeholder {{
+    color: var(--ink-muted);
+    font-size: 14px;
+  }}
+  #details-panel .book-title {{
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 600;
+    font-size: 19px;
+    margin: 0 0 2px;
+  }}
+  #details-panel .book-author {{
+    color: var(--ink-secondary);
+    font-size: 14px;
+    margin: 0 0 12px;
+  }}
+  #details-panel .book-meta {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 10px;
+    margin: 0 0 12px;
+  }}
+  #details-panel .book-meta span {{
+    font-size: 12px;
+    color: var(--ink-secondary);
+    background: var(--page-plane);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 3px 8px;
+  }}
+  #details-panel dl {{
+    margin: 0;
+    font-size: 13px;
+  }}
+  #details-panel dt {{
+    font-weight: 600;
+    color: var(--ink-secondary);
+    margin-top: 8px;
+  }}
+  #details-panel dd {{
+    margin: 2px 0 0;
+    color: var(--ink-primary);
+    line-height: 1.45;
+  }}
+  #details-panel .deselect-btn {{
+    margin-top: 14px;
+    font-family: inherit;
+    font-size: 12px;
+    color: var(--ink-secondary);
+    background: var(--page-plane);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }}
+  #book-list-panel {{
+    flex: 1 1 360px;
+  }}
+  #book-search {{
+    width: 100%;
+    font-family: inherit;
+    font-size: 14px;
+    color: var(--ink-primary);
+    background: var(--page-plane);
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }}
+  #book-list {{
+    max-height: 320px;
+    overflow-y: auto;
+    border-top: 1px solid var(--border);
+  }}
+  .book-list-item {{
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-family: inherit;
+    font-size: 13px;
+    color: var(--ink-primary);
+    background: none;
+    border: none;
+    border-bottom: 1px solid var(--border);
+    padding: 8px 4px;
+    cursor: pointer;
+  }}
+  .book-list-item:hover {{ background: var(--page-plane); }}
+  .book-list-item.selected {{ background: var(--page-plane); font-weight: 600; }}
+  .book-list-item .item-author {{ color: var(--ink-secondary); font-weight: 400; }}
+  #book-list .empty {{ color: var(--ink-muted); font-size: 13px; padding: 8px 4px; }}
 </style>
 </head>
 <body>
@@ -651,7 +803,7 @@ def make_interactive_plot(
       <select id="color-select">{color_options_html}</select>
     </div>
     <div class="control-group">
-      <label for="edges-select">On hover, show</label>
+      <label for="edges-select">On hover/select, show</label>
       <select id="edges-select">
         <option value="off">No links</option>
         <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
@@ -660,6 +812,17 @@ def make_interactive_plot(
     </div>
   </div>
   {plot_div}
+  <div class="below-plot">
+    <div id="details-panel" class="panel">
+      <h2>Book details</h2>
+      <div id="details-content"><p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p></div>
+    </div>
+    <div id="book-list-panel" class="panel">
+      <h2>All books</h2>
+      <input id="book-search" type="text" placeholder="Search title or author...">
+      <div id="book-list"></div>
+    </div>
+  </div>
   <script>
     const combos = {json.dumps(combos, cls=plotly.utils.PlotlyJSONEncoder)};
     const neighbors = {json.dumps(all_neighbors)};
@@ -669,16 +832,37 @@ def make_interactive_plot(
     const CHAIN_WINDOW = 2;  // 2 back + 2 forward + the hovered book = 5 nodes, 4 sequential edges
     const coordsLookup = {json.dumps(coords_lookup)};
     const edgeTraceTemplate = {json.dumps(EDGE_TRACE)};
+    const haloTraceTemplate = {json.dumps(SELECTION_HALO_TRACE)};
     const neighborEdgeColor = {json.dumps(NEIGHBOR_EDGE_COLOR)};
     const chainEdgeColor = {json.dumps(CHAIN_EDGE_COLOR)};
     const sourceLabels = {json.dumps(source_labels)};
     const methodLabels = {json.dumps(METHOD_LABELS)};
     const colorLabels = {json.dumps(color_labels)};
+    const bookDetails = {json.dumps(book_details)};
+    const bookOrder = {json.dumps(book_order)};
+    const BASE_MARKER_OPACITY = 0.85;
+    const DIMMED_MARKER_OPACITY = 0.12;
     const sourceEl = document.getElementById('source-select');
     const methodEl = document.getElementById('method-select');
     const colorEl = document.getElementById('color-select');
     const edgesEl = document.getElementById('edges-select');
+    const searchEl = document.getElementById('book-search');
+    const listEl = document.getElementById('book-list');
+    const detailsEl = document.getElementById('details-content');
     const plotDiv = document.getElementById('book-plot');
+
+    // Selection/hover/legend-highlight state. Priority for what's shown:
+    //   edges & details panel: hoveredSlug (transient) > selectedSlug
+    //     (persistent, from a node or list click) > nothing.
+    //   the halo ring: always tracks selectedSlug only, independent of
+    //     hover, so a pinned book stays visibly marked while you explore.
+    let hoveredSlug = null;
+    let selectedSlug = null;
+    let highlightedLegendValue = null;
+
+    function escapeHtml(s) {{
+      return String(s).replace(/[&<>"']/g, c => ({{'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}}[c]));
+    }}
 
     function update() {{
       const source = sourceEl.value;
@@ -686,11 +870,16 @@ def make_interactive_plot(
       const color = colorEl.value;
       const combo = combos[source + '|' + method + '|' + color];
       const sourceLabel = sourceLabels[source] || source;
-      // Append a fresh (empty) edges trace as the last trace -- combo.data
-      // is the shared precomputed array, so copy rather than mutate it, or
-      // repeated switches back to the same combo would pile up edge traces.
-      const dataWithEdges = combo.data.concat([Object.assign({{}}, edgeTraceTemplate)]);
-      Plotly.react(plotDiv, dataWithEdges, {{
+      // Append fresh (empty) edge/halo traces as the last two traces --
+      // combo.data is the shared precomputed array, so copy rather than
+      // mutate it, or repeated switches back to the same combo would pile
+      // up edge traces.
+      const dataWithExtras = combo.data.concat([Object.assign({{}}, edgeTraceTemplate), Object.assign({{}}, haloTraceTemplate)]);
+      // A color-by change repaints the legend with a different set of
+      // categories, so any active legend highlight no longer refers to a
+      // real trace name -- reset it rather than leave a stale dim state.
+      highlightedLegendValue = null;
+      Plotly.react(plotDiv, dataWithExtras, {{
         title: {{
           text: 'Reading taste (' + sourceLabel + ', ' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
           font: {{ family: {json.dumps(PLOT_TITLE_FONT_FAMILY)}, size: 20 }},
@@ -704,13 +893,15 @@ def make_interactive_plot(
         font: {{ family: {json.dumps(PLOT_FONT_FAMILY)} }},
         annotations: [],
       }});
+      refreshHalo();
+      refreshEdges();
     }}
     sourceEl.addEventListener('change', update);
     methodEl.addEventListener('change', update);
     colorEl.addEventListener('change', update);
 
     function clearEdges() {{
-      const edgeTraceIndex = plotDiv.data.length - 1;
+      const edgeTraceIndex = plotDiv.data.length - 2;
       Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
       Plotly.relayout(plotDiv, {{annotations: []}});
     }}
@@ -728,12 +919,12 @@ def make_interactive_plot(
         xs.push(origin[0], target[0], null);
         ys.push(origin[1], target[1], null);
       }}
-      const edgeTraceIndex = plotDiv.data.length - 1;
+      const edgeTraceIndex = plotDiv.data.length - 2;
       Plotly.restyle(plotDiv, {{x: [xs], y: [ys], 'line.color': [neighborEdgeColor]}}, [edgeTraceIndex]);
     }}
 
     function showReadingChain(slug, source, method) {{
-      // 5-node window centered on the hovered book: 2 read before it, 2
+      // 5-node window centered on the active book: 2 read before it, 2
       // read after (clipped at either end of the whole reading history),
       // connected as a single sequential path (4 edges), not a star --
       // that's what makes it a "chain".
@@ -761,8 +952,15 @@ def make_interactive_plot(
       Plotly.relayout(plotDiv, {{annotations: annotations}});
     }}
 
-    // Hover a point -> draw edges to related books, source depending on
-    // the "On hover, show" dropdown:
+    // The book whose edges/links should currently be drawn: whatever's
+    // hovered takes priority (transient exploration); failing that, fall
+    // back to whatever's selected (persistent, from a click), so the
+    // links stay on screen after the mouse moves away.
+    function activeEdgeSlug() {{
+      return hoveredSlug || selectedSlug || null;
+    }}
+
+    // Source depending on the "On hover/select, show" dropdown:
     //   - neighbors: the 5 nearest neighbors by cosine similarity in the
     //     *original* high-dimensional embedding space (computed in Python
     //     via compute_neighbors), NOT neighbors in the current 2D
@@ -775,27 +973,161 @@ def make_interactive_plot(
     //     not the plain-line edge trace) pointing oldest -> newest so the
     //     chronological direction is visible.
     //   - off: no edges.
-    plotDiv.on('plotly_hover', function (evt) {{
+    function refreshEdges() {{
+      const slug = activeEdgeSlug();
       const mode = edgesEl.value;
-      if (mode === 'off') return;
-
-      const point = evt.points[0];
-      if (!point.customdata) return;
-      const slug = point.customdata[0];
+      if (!slug || mode === 'off') {{
+        clearEdges();
+        return;
+      }}
       const source = sourceEl.value;
       const method = methodEl.value;
-
       if (mode === 'chain') {{
-        const edgeTraceIndex = plotDiv.data.length - 1;
+        const edgeTraceIndex = plotDiv.data.length - 2;
         Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [edgeTraceIndex]);
         showReadingChain(slug, source, method);
       }} else {{
         Plotly.relayout(plotDiv, {{annotations: []}});
         showNeighborEdges(slug, source, method);
       }}
+    }}
+    edgesEl.addEventListener('change', refreshEdges);
+
+    // The hollow-ring halo always tracks selectedSlug (not hover), so a
+    // pinned book stays visibly marked while the mouse roams elsewhere.
+    function refreshHalo() {{
+      const haloTraceIndex = plotDiv.data.length - 1;
+      const source = sourceEl.value;
+      const method = methodEl.value;
+      const coordsForMethod = (coordsLookup[source] || {{}})[method] || {{}};
+      const point = selectedSlug ? coordsForMethod[selectedSlug] : null;
+      if (point) {{
+        Plotly.restyle(plotDiv, {{x: [[point[0]]], y: [[point[1]]]}}, [haloTraceIndex]);
+      }} else {{
+        Plotly.restyle(plotDiv, {{x: [[]], y: [[]]}}, [haloTraceIndex]);
+      }}
+    }}
+
+    function renderDetails(slug) {{
+      if (!slug || !bookDetails[slug]) {{
+        detailsEl.innerHTML = '<p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p>';
+        return;
+      }}
+      const b = bookDetails[slug];
+      const meta = [];
+      if (b.year_published) meta.push('Published ' + b.year_published);
+      if (b.date_read) meta.push('Read ' + b.date_read);
+      if (b.genre_llm || b.genre) meta.push(b.genre_llm || b.genre);
+      let html = '';
+      html += '<p class="book-title">' + escapeHtml(b.title) + '</p>';
+      html += '<p class="book-author">' + escapeHtml(b.author) + '</p>';
+      if (meta.length) {{
+        html += '<div class="book-meta">' + meta.map(m => '<span>' + escapeHtml(m) + '</span>').join('') + '</div>';
+      }}
+      html += '<dl>';
+      const longFields = [
+        ['Description', b.clean_description],
+        ['Tone & style', b.tone_and_style],
+        ['Pacing', b.pacing],
+        ['Themes', b.themes],
+        ['Setting', b.setting],
+      ];
+      for (const [label, value] of longFields) {{
+        if (value) html += '<dt>' + label + '</dt><dd>' + escapeHtml(value) + '</dd>';
+      }}
+      html += '</dl>';
+      if (selectedSlug === slug) {{
+        html += '<button type="button" class="deselect-btn" id="deselect-btn">Clear selection</button>';
+      }}
+      detailsEl.innerHTML = html;
+      if (selectedSlug === slug) {{
+        document.getElementById('deselect-btn').addEventListener('click', () => selectBook(null));
+      }}
+    }}
+
+    function renderBookList() {{
+      const q = searchEl.value.trim().toLowerCase();
+      const filtered = bookOrder.filter(slug => {{
+        const b = bookDetails[slug];
+        return !q || b.title.toLowerCase().includes(q) || b.author.toLowerCase().includes(q);
+      }});
+      if (filtered.length === 0) {{
+        listEl.innerHTML = '<div class="empty">No books match.</div>';
+        return;
+      }}
+      listEl.innerHTML = filtered.map(slug => {{
+        const b = bookDetails[slug];
+        const cls = 'book-list-item' + (slug === selectedSlug ? ' selected' : '');
+        return '<button type="button" class="' + cls + '" data-slug="' + slug + '">'
+          + escapeHtml(b.title) + ' <span class="item-author">— ' + escapeHtml(b.author) + '</span></button>';
+      }}).join('');
+      listEl.querySelectorAll('.book-list-item').forEach(btn => {{
+        btn.addEventListener('click', () => selectBook(btn.dataset.slug));
+      }});
+    }}
+    searchEl.addEventListener('input', renderBookList);
+
+    // Clicking a node or a list entry pins it: the halo marks it, its
+    // edges stay drawn even after the mouse moves away, and its details
+    // stay in the panel. Clicking the same book again (node, list, or the
+    // "Clear selection" button) un-pins it.
+    function selectBook(slug) {{
+      selectedSlug = (slug && slug === selectedSlug) ? null : slug;
+      refreshHalo();
+      refreshEdges();
+      renderDetails(hoveredSlug || selectedSlug);
+      renderBookList();
+    }}
+
+    plotDiv.on('plotly_click', function (evt) {{
+      const point = evt.points[0];
+      if (!point || !point.customdata) return;
+      selectBook(point.customdata[0]);
     }});
-    plotDiv.on('plotly_unhover', clearEdges);
-    edgesEl.addEventListener('change', clearEdges);
+
+    plotDiv.on('plotly_hover', function (evt) {{
+      const point = evt.points[0];
+      if (!point.customdata) return;
+      hoveredSlug = point.customdata[0];
+      refreshEdges();
+      renderDetails(hoveredSlug);
+    }});
+    plotDiv.on('plotly_unhover', function () {{
+      hoveredSlug = null;
+      refreshEdges();
+      renderDetails(selectedSlug);
+    }});
+
+    // Tableau-style legend click: instead of Plotly's default (hide the
+    // clicked series entirely), highlight it and dim -- not hide -- every
+    // other series, so relative position is still visible. Clicking the
+    // same legend entry again restores everyone to full opacity; clicking
+    // a different entry switches the highlight.
+    function applyLegendHighlightState() {{
+      const indices = [];
+      const opacities = [];
+      plotDiv.data.forEach((trace, i) => {{
+        if (!trace.name) return;  // edge/halo traces have no name
+        indices.push(i);
+        opacities.push(
+          highlightedLegendValue === null || trace.name === highlightedLegendValue
+            ? BASE_MARKER_OPACITY
+            : DIMMED_MARKER_OPACITY
+        );
+      }});
+      if (indices.length) Plotly.restyle(plotDiv, {{'marker.opacity': opacities}}, indices);
+    }}
+    function handleLegendClick(evt) {{
+      const trace = evt.data[evt.curveNumber];
+      highlightedLegendValue = (highlightedLegendValue === trace.name) ? null : trace.name;
+      applyLegendHighlightState();
+      return false;  // prevent Plotly's default hide-this-trace behavior
+    }}
+    plotDiv.on('plotly_legendclick', handleLegendClick);
+    plotDiv.on('plotly_legenddoubleclick', handleLegendClick);  // same behavior, no isolate-and-hide-rest
+
+    renderBookList();
+    renderDetails(null);
   </script>
 </body>
 </html>
