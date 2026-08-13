@@ -72,10 +72,14 @@ def color_label(color_col: str) -> str:
 
 
 # Validated palette (see dataviz skill's references/palette.md) -- 8 fixed
-# hues in fixed order for nominal/identity color, one blue hue light->dark
-# for ordinal/ordered color. NEUTRAL_COLOR is muted ink, used for "Other"/
-# "Unknown" buckets in either case (never a real palette slot, so those
-# buckets never look like a real category or a real position in the order).
+# hues in fixed order for nominal/identity color, extended below for genre
+# columns that have more than 8 real categories (by explicit request: more
+# distinct genres on screen, traded off against strict all-pairs
+# colorblind-safety past slot 8 -- acceptable here since same-genre points
+# already cluster together, so exact neighbor/adjacent contrast matters
+# less than overall variety). NEUTRAL_COLOR is muted ink, used for "Other"/
+# "Unknown" buckets (never a real palette slot, so those buckets never
+# look like a real category or a real position in the order).
 CATEGORICAL_PALETTE = [
     "#2a78d6",  # blue
     "#eb6834",  # orange
@@ -86,8 +90,12 @@ CATEGORICAL_PALETTE = [
     "#4a3aa7",  # violet
     "#e34948",  # red
 ]
-ORDINAL_RAMP_LIGHT = "#86b6ef"  # sequential blue, step 250 (lightest valid for an ordinal ramp)
-ORDINAL_RAMP_DARK = "#0d366b"  # sequential blue, step 700 (darkest)
+# Diverging pair (see palette.md "Diverging pair"): blue <-> red poles with
+# a neutral gray midpoint. Used for ordinal/ordered color (decade/year) --
+# stronger visual contrast than a single-hue light->dark ramp, by request.
+DIVERGING_COOL = "#2a78d6"  # blue pole (oldest/earliest)
+DIVERGING_MIDPOINT = "#f0efec"  # neutral gray midpoint (light surface)
+DIVERGING_WARM = "#e34948"  # red pole (newest/latest)
 NEUTRAL_COLOR = "#898781"  # muted ink -- "Other"/"Unknown", never a data value
 
 
@@ -100,29 +108,63 @@ def _rgb_to_hex(rgb: tuple[float, float, float]) -> str:
     return "#{:02x}{:02x}{:02x}".format(*(max(0, min(255, round(c))) for c in rgb))
 
 
+def _lerp_hex(a: str, b: str, t: float) -> str:
+    ra, rb = _hex_to_rgb(a), _hex_to_rgb(b)
+    return _rgb_to_hex(tuple(ra[c] + (rb[c] - ra[c]) * t for c in range(3)))
+
+
 def interpolate_ordinal_colors(n: int) -> list[str]:
-    """n evenly-spaced colors from light to dark blue, for n ordered
-    categories -- generalizes the documented ramp's steps to any count
-    (we have up to 15 decades, more than the 10 named steps) by
-    interpolating within the validated light/dark endpoints, so every
-    generated step stays inside the validated lightness band."""
+    """n evenly-spaced colors from blue (earliest) through a neutral gray
+    midpoint to red (latest) -- the documented diverging pair (palette.md),
+    used here (rather than the single-hue sequential ramp the design
+    system would default to for ordinal data) for stronger visual
+    contrast, by request. 'Equal step count per arm': the midpoint category
+    (if n is odd) gets the neutral gray itself."""
     if n <= 1:
-        return [ORDINAL_RAMP_DARK]
-    lo, hi = _hex_to_rgb(ORDINAL_RAMP_LIGHT), _hex_to_rgb(ORDINAL_RAMP_DARK)
-    return [
-        _rgb_to_hex(tuple(lo[c] + (hi[c] - lo[c]) * t / (n - 1) for c in range(3)))
-        for t in range(n)
-    ]
+        return [DIVERGING_MIDPOINT]
+    mid = (n - 1) / 2
+    colors = []
+    for i in range(n):
+        t = i / mid  # 0 at first category, 1 at the midpoint, 2 at the last
+        if t <= 1:
+            colors.append(_lerp_hex(DIVERGING_COOL, DIVERGING_MIDPOINT, t))
+        else:
+            colors.append(_lerp_hex(DIVERGING_MIDPOINT, DIVERGING_WARM, t - 1))
+    return colors
+
+
+def extended_categorical_palette(n: int) -> list[str]:
+    """The 8 validated hues first (best colorblind-safety, used for the
+    most common categories), then additional hues for anything beyond 8,
+    evenly spaced around the remaining hue circle (a 0.045 phase offset
+    keeps them from landing exactly on a base hue) -- computed, not
+    eyeballed, even though they're not from the validated instance file.
+    Deterministic and O(n): an earlier rejection-sampling version could
+    need more hue-circle room than exists once collision checks pile up
+    against every previously placed hue, and would spin (near-)forever."""
+    import colorsys
+
+    base = list(CATEGORICAL_PALETTE)
+    if n <= len(base):
+        return base[:n]
+    n_extra = n - len(base)
+    extra = []
+    for k in range(n_extra):
+        h = (0.045 + k / n_extra) % 1.0
+        r, g, b = colorsys.hls_to_rgb(h, 0.52, 0.55)
+        extra.append(_rgb_to_hex((r * 255, g * 255, b * 255)))
+    return base + extra
 
 
 def nominal_color_map(categories_by_frequency: list[str]) -> dict[str, str]:
-    """categories_by_frequency: most-common first (collapse_rare already
-    folds anything beyond the palette size into 'Other'). Slot assignment
-    is in that fixed order -- never re-derived per book list, so a color
-    keeps meaning the same genre across runs as long as its rank is stable."""
-    cmap = {}
-    for i, cat in enumerate(categories_by_frequency):
-        cmap[cat] = NEUTRAL_COLOR if cat == "Other" else CATEGORICAL_PALETTE[i]
+    """categories_by_frequency: most-common first. Slot assignment is in
+    that fixed order -- never re-derived per book list, so a color keeps
+    meaning the same genre across runs as long as its rank is stable."""
+    real = [c for c in categories_by_frequency if c != "Other"]
+    palette = extended_categorical_palette(len(real))
+    cmap = dict(zip(real, palette))
+    if "Other" in categories_by_frequency:
+        cmap["Other"] = NEUTRAL_COLOR
     return cmap
 
 
@@ -260,10 +302,12 @@ def compute_reading_order(df: pd.DataFrame) -> list[str]:
     return df.sort_values("date_read", key=lambda s: pd.to_datetime(s, format="%m/%d/%Y"))["slug"].tolist()
 
 
-def collapse_rare(series: pd.Series, top_n: int = len(CATEGORICAL_PALETTE)) -> pd.Series:
-    """Bucket everything outside the top_n most common values into 'Other'
-    so the legend stays readable -- top_n defaults to the categorical
-    palette size, since every real category needs its own validated slot."""
+def collapse_rare(series: pd.Series, top_n: int = 100) -> pd.Series:
+    """Bucket everything outside the top_n most common values into 'Other'.
+    Defaults to effectively unlimited (100 >> any genre count here) --
+    by request, show every real genre rather than folding rare ones into
+    'Other', even though that makes the legend longer. Still available
+    with an explicit lower top_n if a future color column needs folding."""
     top = series.value_counts().nlargest(top_n).index
     return series.where(series.isin(top), "Other")
 
@@ -293,7 +337,12 @@ def load_metadata() -> pd.DataFrame:
             row["genre_llm"] = (tags.get("genre") if tags else None) or "Unknown"
         rows.append(row)
     df = pd.DataFrame(rows)
-    df["genre"] = collapse_rare(df["genre"])
+    # genre (heuristic) has ~42 distinct values -- capped well below "all"
+    # since that many traces noticeably slows figure generation across 144
+    # combos and produces a barely-legible legend; genre_llm's natural
+    # count (~21) is left effectively uncapped since it's small enough to
+    # not cause either problem.
+    df["genre"] = collapse_rare(df["genre"], top_n=20)
     if HAS_LLM_TAGS:
         df["genre_llm"] = collapse_rare(df["genre_llm"])
     return df
@@ -406,13 +455,18 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
     client-side with Plotly.react."""
     import plotly.express as px
 
+    # Depends only on df + color_col, not source/method -- compute once
+    # per color column rather than 144 times (once per combo), which was
+    # slow enough to matter once genre's category count grew.
+    order_and_map_by_color = {c: color_order_and_map(df, c) for c in COLOR_COLUMNS}
+
     combos = {}
     for source, method_coords in all_coords.items():
         for method, coords in method_coords.items():
             d = df.copy()
             d["x"], d["y"] = coords[:, 0], coords[:, 1]
             for color_col in COLOR_COLUMNS:
-                order, cmap = color_order_and_map(df, color_col)
+                order, cmap = order_and_map_by_color[color_col]
                 hover_data = {
                     "author": True,
                     "date_read": True,
@@ -755,7 +809,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", default=None, help="default embedding source selection; falls back to openai_v2, then whichever is found first")
     parser.add_argument("--method", choices=list(REDUCERS), default="tsne_p7", help="default selection on load / static plot method")
-    parser.add_argument("--color", choices=COLOR_COLUMNS, default="genre", help="default selection on load / static plot color")
+    default_color_choice = "genre_llm" if "genre_llm" in COLOR_COLUMNS else "genre"
+    parser.add_argument("--color", choices=COLOR_COLUMNS, default=default_color_choice, help="default selection on load / static plot color")
     args = parser.parse_args()
 
     df = load_metadata()
