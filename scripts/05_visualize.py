@@ -658,6 +658,7 @@ def make_interactive_plot(
     --border: rgba(83,44,46,0.16);
     --binding: #532c2e;
     --crimson: #b22430;
+    --manuscript: #1e423f;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -879,6 +880,23 @@ def make_interactive_plot(
     color: var(--ink-primary);
     line-height: 1.45;
   }}
+  #details-content .similar-book-link {{
+    display: block;
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 2px 0;
+    font-family: inherit;
+    font-size: 13px;
+    text-align: left;
+    color: var(--manuscript);
+    text-decoration: underline;
+    text-decoration-color: rgba(30,66,63,0.35);
+    text-underline-offset: 2px;
+    cursor: pointer;
+  }}
+  #details-content .similar-book-link:hover {{ text-decoration-color: var(--manuscript); }}
+  #details-content .similar-book-link .item-author {{ color: var(--ink-secondary); text-decoration: none; }}
   #details-content .deselect-btn {{
     margin-top: 14px;
     font-family: inherit;
@@ -1211,11 +1229,26 @@ def make_interactive_plot(
       for (const [label, value] of longFields) {{
         if (value) html += '<dt>' + label + '</dt><dd>' + escapeHtml(value) + '</dd>';
       }}
+      // Reuses the same nearest-neighbor data that drives the "on
+      // hover/select, show" edges -- no separate lookup, just a
+      // clickable rendering of it. Clicking one selects that book in
+      // place, so you can follow the similarity trail from book to book.
+      const neighborSlugs = ((neighbors[sourceEl.value] || {{}})[slug] || []).filter(s => bookDetails[s]);
+      if (neighborSlugs.length) {{
+        html += '<dt>Similar Books</dt><dd>' + neighborSlugs.map(nSlug => {{
+          const nb = bookDetails[nSlug];
+          return '<button type="button" class="similar-book-link" data-slug="' + nSlug + '">'
+            + escapeHtml(nb.title) + ' <span class="item-author">— ' + escapeHtml(nb.author) + '</span></button>';
+        }}).join('') + '</dd>';
+      }}
       html += '</dl>';
       if (selectedSlug === slug) {{
         html += '<button type="button" class="deselect-btn" id="deselect-btn">Clear selection</button>';
       }}
       detailsEl.innerHTML = html;
+      detailsEl.querySelectorAll('.similar-book-link').forEach(btn => {{
+        btn.addEventListener('click', () => selectBook(btn.dataset.slug));
+      }});
       if (selectedSlug === slug) {{
         document.getElementById('deselect-btn').addEventListener('click', () => selectBook(null));
       }}
