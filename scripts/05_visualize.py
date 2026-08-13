@@ -16,10 +16,12 @@ DimReducer, then renders:
     projection method (PCA/t-SNE/...), and color-by (genre/year read/decade
     published) on the fly, plus hover tooltips -- saved to
     output/interactive_plot.html. Fully self-contained (plotly.js
-    embedded), open directly in a browser. Year read uses a continuous
-    color scale rather than decade buckets -- the reading list only spans
-    ~11 years, so decade buckets would collapse almost everything into two
-    colors. Hovering a point also draws lines to its 5 nearest neighbors
+    embedded), open directly in a browser. Color is assigned by the job it
+    does (see color_order_and_map()): genre is nominal identity, so it gets
+    the fixed-order categorical palette; decade/year read are ordinal (the
+    order is the point), so they get a single hue stepped light->dark in
+    chronological order, never an arbitrary/rainbow scale. Hovering a
+    point also draws lines to its 5 nearest neighbors
     in the *original* high-dimensional embedding space (see
     compute_neighbors()) -- deliberately not neighbors in the 2D
     projection, since two books can land far apart on screen (different
@@ -50,22 +52,103 @@ METADATA_JSON = DATA_DIR / "book_metadata.json"
 TAGS_JSON = DATA_DIR / "book_tags.json"
 HAS_LLM_TAGS = TAGS_JSON.exists()
 
-CATEGORICAL_COLOR_COLUMNS = ["genre", "decade_published"]
+# Color is assigned by the job it does (see the dataviz design system):
+#   - nominal: identity, order doesn't mean anything (genre) -> fixed-order
+#     8-hue categorical palette, validated colorblind-safe in adjacent pairs.
+#   - ordinal: position in a sequence (decade/year) -> a single hue, light to
+#     dark, so the reading order is visible in the color itself. Never a
+#     rainbow -- that was the bug with the old "year read" continuous scale,
+#     which used every hue with no ordering signal at all.
+NOMINAL_COLOR_COLUMNS = ["genre"]
 if HAS_LLM_TAGS:
-    CATEGORICAL_COLOR_COLUMNS.append("genre_llm")
-CONTINUOUS_COLOR_COLUMNS = ["year_read"]  # numeric -> continuous color scale, not a legend
-COLOR_COLUMNS = CATEGORICAL_COLOR_COLUMNS + CONTINUOUS_COLOR_COLUMNS
+    NOMINAL_COLOR_COLUMNS.append("genre_llm")
+ORDINAL_COLOR_COLUMNS = ["decade_published", "year_read"]
+COLOR_COLUMNS = NOMINAL_COLOR_COLUMNS + ORDINAL_COLOR_COLUMNS
 COLOR_LABEL_OVERRIDES = {"genre_llm": "Genre (LLM-refined)"}
 
 
 def color_label(color_col: str) -> str:
     return COLOR_LABEL_OVERRIDES.get(color_col, color_col.replace("_", " ").title())
 
+
+# Validated palette (see dataviz skill's references/palette.md) -- 8 fixed
+# hues in fixed order for nominal/identity color, one blue hue light->dark
+# for ordinal/ordered color. NEUTRAL_COLOR is muted ink, used for "Other"/
+# "Unknown" buckets in either case (never a real palette slot, so those
+# buckets never look like a real category or a real position in the order).
+CATEGORICAL_PALETTE = [
+    "#2a78d6",  # blue
+    "#eb6834",  # orange
+    "#1baf7a",  # aqua
+    "#eda100",  # yellow
+    "#e87ba4",  # magenta
+    "#008300",  # green
+    "#4a3aa7",  # violet
+    "#e34948",  # red
+]
+ORDINAL_RAMP_LIGHT = "#86b6ef"  # sequential blue, step 250 (lightest valid for an ordinal ramp)
+ORDINAL_RAMP_DARK = "#0d366b"  # sequential blue, step 700 (darkest)
+NEUTRAL_COLOR = "#898781"  # muted ink -- "Other"/"Unknown", never a data value
+
+
+def _hex_to_rgb(h: str) -> tuple[int, int, int]:
+    h = h.lstrip("#")
+    return tuple(int(h[i : i + 2], 16) for i in (0, 2, 4))
+
+
+def _rgb_to_hex(rgb: tuple[float, float, float]) -> str:
+    return "#{:02x}{:02x}{:02x}".format(*(max(0, min(255, round(c))) for c in rgb))
+
+
+def interpolate_ordinal_colors(n: int) -> list[str]:
+    """n evenly-spaced colors from light to dark blue, for n ordered
+    categories -- generalizes the documented ramp's steps to any count
+    (we have up to 15 decades, more than the 10 named steps) by
+    interpolating within the validated light/dark endpoints, so every
+    generated step stays inside the validated lightness band."""
+    if n <= 1:
+        return [ORDINAL_RAMP_DARK]
+    lo, hi = _hex_to_rgb(ORDINAL_RAMP_LIGHT), _hex_to_rgb(ORDINAL_RAMP_DARK)
+    return [
+        _rgb_to_hex(tuple(lo[c] + (hi[c] - lo[c]) * t / (n - 1) for c in range(3)))
+        for t in range(n)
+    ]
+
+
+def nominal_color_map(categories_by_frequency: list[str]) -> dict[str, str]:
+    """categories_by_frequency: most-common first (collapse_rare already
+    folds anything beyond the palette size into 'Other'). Slot assignment
+    is in that fixed order -- never re-derived per book list, so a color
+    keeps meaning the same genre across runs as long as its rank is stable."""
+    cmap = {}
+    for i, cat in enumerate(categories_by_frequency):
+        cmap[cat] = NEUTRAL_COLOR if cat == "Other" else CATEGORICAL_PALETTE[i]
+    return cmap
+
+
+def ordinal_color_map(categories_chronological: list[str]) -> dict[str, str]:
+    """categories_chronological: oldest/earliest first. 'Unknown' (if
+    present) gets the neutral color instead of a ramp step -- it has no
+    position in the sequence, so it shouldn't look like it does."""
+    real = [c for c in categories_chronological if c != "Unknown"]
+    cmap = dict(zip(real, interpolate_ordinal_colors(len(real))))
+    if "Unknown" in categories_chronological:
+        cmap["Unknown"] = NEUTRAL_COLOR
+    return cmap
+
 # Plotly Express's default template colors -- set explicitly (rather than
 # relying on the template) so they survive Plotly.react() layout swaps in
 # the browser, which otherwise reset to a plain white background.
 PLOT_BGCOLOR = "#E5ECF6"
 PAPER_BGCOLOR = "white"
+
+# Plotly renders its own text (legend, tooltip, axis, title) with its own
+# default font, ignoring the page's CSS -- has to be set explicitly or it
+# silently mismatches whatever font the surrounding HTML uses. Public Sans
+# for everything Plotly draws except the in-chart title, which gets the
+# page's serif (Fraunces) to match the <h1> above the plot.
+PLOT_FONT_FAMILY = "Public Sans, -apple-system, sans-serif"
+PLOT_TITLE_FONT_FAMILY = "Fraunces, Georgia, serif"
 
 
 # --- Dimensionality reduction -------------------------------------------
@@ -177,9 +260,10 @@ def compute_reading_order(df: pd.DataFrame) -> list[str]:
     return df.sort_values("date_read", key=lambda s: pd.to_datetime(s, format="%m/%d/%Y"))["slug"].tolist()
 
 
-def collapse_rare(series: pd.Series, top_n: int = 10) -> pd.Series:
+def collapse_rare(series: pd.Series, top_n: int = len(CATEGORICAL_PALETTE)) -> pd.Series:
     """Bucket everything outside the top_n most common values into 'Other'
-    so the legend stays readable."""
+    so the legend stays readable -- top_n defaults to the categorical
+    palette size, since every real category needs its own validated slot."""
     top = series.value_counts().nlargest(top_n).index
     return series.where(series.isin(top), "Other")
 
@@ -200,7 +284,7 @@ def load_metadata() -> pd.DataFrame:
             "title": b.get("title", b["slug"]),
             "author": b.get("author", ""),
             "date_read": b.get("date_read", ""),
-            "year_read": year_read,
+            "year_read": str(year_read) if year_read else "Unknown",
             "year_published": year_published,
             "decade_published": decade_of(year_published),
             "genre": b.get("genre") or "Unknown",
@@ -213,6 +297,31 @@ def load_metadata() -> pd.DataFrame:
     if HAS_LLM_TAGS:
         df["genre_llm"] = collapse_rare(df["genre_llm"])
     return df
+
+
+def _ordinal_sort_key(value: str) -> tuple[bool, int]:
+    """Sorts 'Unknown' last, everything else numerically (strips a
+    trailing 's' for decade strings like '1920s', handles plain year
+    strings like '2015' as-is)."""
+    if value == "Unknown":
+        return (True, 0)
+    return (False, int(value[:-1] if value.endswith("s") else value))
+
+
+def color_order_and_map(df: pd.DataFrame, color_col: str) -> tuple[list[str], dict[str, str]]:
+    """(category_orders list, color_discrete_map dict) for one color
+    column -- nominal columns (genre) get the fixed-order categorical
+    palette, most-common-first; ordinal columns (decade/year) get the
+    light->dark ramp in chronological order. Both stay legend/click-able
+    discrete traces rather than a continuous colorbar."""
+    if color_col in NOMINAL_COLOR_COLUMNS:
+        counts = df[color_col].value_counts()
+        order = [c for c in counts.index if c != "Other"]
+        if "Other" in counts.index:
+            order.append("Other")
+        return order, nominal_color_map(order)
+    order = sorted(df[color_col].unique(), key=_ordinal_sort_key)
+    return order, ordinal_color_map(order)
 
 
 PROVIDER_DISPLAY_NAMES = {"local": "Local", "openai": "OpenAI", "voyage": "Voyage AI"}
@@ -264,15 +373,17 @@ def compute_reductions(embeddings: np.ndarray) -> dict[str, np.ndarray]:
 
 
 def make_static_plot(df: pd.DataFrame, all_coords: dict, source: str, method: str, color_col: str, source_label: str) -> Path:
-    from plotnine import aes, element_text, geom_point, ggplot, labs, theme, theme_minimal
+    from plotnine import aes, element_text, geom_point, ggplot, labs, scale_color_manual, theme, theme_minimal
 
     d = df.copy()
     coords = all_coords[source][method]
     d["x"], d["y"] = coords[:, 0], coords[:, 1]
+    order, cmap = color_order_and_map(df, color_col)
 
     p = (
         ggplot(d, aes(x="x", y="y", color=color_col))
         + geom_point(size=2.5, alpha=0.8)
+        + scale_color_manual(values=cmap, limits=order)
         + theme_minimal()
         + labs(
             title=f"Reading taste ({source_label}, {METHOD_LABELS.get(method, method.upper())} projection)",
@@ -301,7 +412,7 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
             d = df.copy()
             d["x"], d["y"] = coords[:, 0], coords[:, 1]
             for color_col in COLOR_COLUMNS:
-                extra_kwargs = {"color_continuous_scale": "Rainbow"} if color_col in CONTINUOUS_COLOR_COLUMNS else {}
+                order, cmap = color_order_and_map(df, color_col)
                 hover_data = {
                     "author": True,
                     "date_read": True,
@@ -316,22 +427,14 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
                     x="x",
                     y="y",
                     color=color_col,
+                    category_orders={color_col: order},
+                    color_discrete_map=cmap,
                     hover_name="title",
                     hover_data=hover_data,
                     custom_data=["slug"],  # not shown in tooltip; read by the JS hover handler below
-                    **extra_kwargs,
                 )
                 fig.update_traces(marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")))
-                fig_dict = fig.to_dict()
-                # Continuous color (year_read) puts its colorscale/cmin/cmax on
-                # layout.coloraxis, not on the trace -- stash it alongside the
-                # trace data so the client-side dropdown swap can restore it.
-                # Without this, switching to a continuous color-by resets to
-                # Plotly's default colorscale instead of the one we picked.
-                combos[f"{source}|{method}|{color_col}"] = {
-                    "data": fig_dict["data"],
-                    "coloraxis": fig_dict["layout"].get("coloraxis", {}),
-                }
+                combos[f"{source}|{method}|{color_col}"] = {"data": fig.to_dict()["data"]}
     return combos
 
 
@@ -379,16 +482,15 @@ def make_interactive_plot(
         return f"Reading taste ({source_labels.get(source, source)}, {METHOD_LABELS.get(method, method.upper())} projection)"
 
     layout = dict(
-        title=title_for(default_source, default_method),
+        title=dict(text=title_for(default_source, default_method), font=dict(family=PLOT_TITLE_FONT_FAMILY, size=20)),
         legend_title_text=color_label(default_color),
         xaxis=dict(visible=False),
         yaxis=dict(visible=False),
         margin=dict(t=60),
         plot_bgcolor=PLOT_BGCOLOR,
         paper_bgcolor=PAPER_BGCOLOR,
+        font=dict(family=PLOT_FONT_FAMILY),
     )
-    if default_combo["coloraxis"]:
-        layout["coloraxis"] = default_combo["coloraxis"]
     fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE], layout=layout)
     plot_div = pio.to_html(
         fig, include_plotlyjs=True, full_html=False, div_id="book-plot", config={"responsive": True}
@@ -414,28 +516,94 @@ def make_interactive_plot(
 <head>
 <meta charset="utf-8">
 <title>Reading Taste Visualization</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  body {{ font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin: 0; padding: 16px; }}
-  .controls {{ margin-bottom: 12px; }}
-  .controls label {{ margin-right: 6px; font-weight: 600; }}
-  .controls select {{ margin-right: 24px; padding: 4px 8px; font-size: 14px; }}
+  :root {{
+    --page-plane: #f9f9f7;
+    --surface: #fcfcfb;
+    --ink-primary: #0b0b0b;
+    --ink-secondary: #52514e;
+    --ink-muted: #898781;
+    --border: rgba(11,11,11,0.10);
+  }}
+  * {{ box-sizing: border-box; }}
+  body {{
+    font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--page-plane);
+    color: var(--ink-primary);
+    margin: 0;
+    padding: 24px 16px 40px;
+  }}
+  h1 {{
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 600;
+    font-size: 28px;
+    letter-spacing: -0.01em;
+    margin: 0 0 16px;
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+  }}
+  .controls {{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 14px 28px;
+    max-width: 1300px;
+    margin: 0 auto 20px;
+    padding: 14px 18px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }}
+  .control-group {{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    white-space: nowrap;
+  }}
+  .control-group label {{
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--ink-secondary);
+  }}
+  .control-group select {{
+    font-family: inherit;
+    font-size: 14px;
+    color: var(--ink-primary);
+    background: var(--page-plane);
+    padding: 6px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }}
   #book-plot {{ width: 100%; max-width: 1300px; aspect-ratio: 16 / 9; margin: 0 auto; }}
 </style>
 </head>
 <body>
+  <h1>Reading Taste</h1>
   <div class="controls">
-    <label for="source-select">Embedding source:</label>
-    <select id="source-select">{source_options_html}</select>
-    <label for="method-select">Projection method:</label>
-    <select id="method-select">{method_options_html}</select>
-    <label for="color-select">Color by:</label>
-    <select id="color-select">{color_options_html}</select>
-    <label for="edges-select">On hover, show:</label>
-    <select id="edges-select">
-      <option value="off">No links</option>
-      <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
-      <option value="chain">Reading order (chronological)</option>
-    </select>
+    <div class="control-group">
+      <label for="source-select">Embedding source</label>
+      <select id="source-select">{source_options_html}</select>
+    </div>
+    <div class="control-group">
+      <label for="method-select">Projection method</label>
+      <select id="method-select">{method_options_html}</select>
+    </div>
+    <div class="control-group">
+      <label for="color-select">Color by</label>
+      <select id="color-select">{color_options_html}</select>
+    </div>
+    <div class="control-group">
+      <label for="edges-select">On hover, show</label>
+      <select id="edges-select">
+        <option value="off">No links</option>
+        <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
+        <option value="chain">Reading order (chronological)</option>
+      </select>
+    </div>
   </div>
   {plot_div}
   <script>
@@ -463,24 +631,23 @@ def make_interactive_plot(
       const method = methodEl.value;
       const color = colorEl.value;
       const combo = combos[source + '|' + method + '|' + color];
-      // combo.coloraxis carries the colorscale/cmin/cmax for continuous
-      // color-by columns (e.g. year read) -- without re-applying it here,
-      // Plotly.react would fall back to its default colorscale.
-      const coloraxis = Object.assign({{}}, combo.coloraxis, {{ colorbar: {{ title: {{ text: colorLabels[color] }} }} }});
       const sourceLabel = sourceLabels[source] || source;
       // Append a fresh (empty) edges trace as the last trace -- combo.data
       // is the shared precomputed array, so copy rather than mutate it, or
       // repeated switches back to the same combo would pile up edge traces.
       const dataWithEdges = combo.data.concat([Object.assign({{}}, edgeTraceTemplate)]);
       Plotly.react(plotDiv, dataWithEdges, {{
-        title: 'Reading taste (' + sourceLabel + ', ' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
+        title: {{
+          text: 'Reading taste (' + sourceLabel + ', ' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
+          font: {{ family: {json.dumps(PLOT_TITLE_FONT_FAMILY)}, size: 20 }},
+        }},
         legend: {{ title: {{ text: colorLabels[color] }} }},
-        coloraxis: coloraxis,
         xaxis: {{ visible: false }},
         yaxis: {{ visible: false }},
         margin: {{ t: 60 }},
         plot_bgcolor: {json.dumps(PLOT_BGCOLOR)},
         paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
+        font: {{ family: {json.dumps(PLOT_FONT_FAMILY)} }},
         annotations: [],
       }});
     }}
@@ -586,8 +753,8 @@ def make_interactive_plot(
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--source", default=None, help="default embedding source selection (e.g. local, openai); defaults to whichever is found first")
-    parser.add_argument("--method", choices=list(REDUCERS), default="pca", help="default selection on load / static plot method")
+    parser.add_argument("--source", default=None, help="default embedding source selection; falls back to openai_v2, then whichever is found first")
+    parser.add_argument("--method", choices=list(REDUCERS), default="tsne_p7", help="default selection on load / static plot method")
     parser.add_argument("--color", choices=COLOR_COLUMNS, default="genre", help="default selection on load / static plot color")
     args = parser.parse_args()
 
@@ -596,9 +763,13 @@ def main():
     source_labels = {name: data["label"] for name, data in embedding_sources.items()}
     print(f"Found embedding sources: {', '.join(f'{n} ({l})' for n, l in source_labels.items())}")
 
-    default_source = args.source or next(iter(embedding_sources))
-    if default_source not in embedding_sources:
-        raise SystemExit(f"--source {default_source!r} not found. Available: {list(embedding_sources)}")
+    PREFERRED_DEFAULT_SOURCE = "openai_v2"
+    if args.source:
+        default_source = args.source
+        if default_source not in embedding_sources:
+            raise SystemExit(f"--source {default_source!r} not found. Available: {list(embedding_sources)}")
+    else:
+        default_source = PREFERRED_DEFAULT_SOURCE if PREFERRED_DEFAULT_SOURCE in embedding_sources else next(iter(embedding_sources))
 
     slugs = df["slug"].tolist()
     all_coords = {}

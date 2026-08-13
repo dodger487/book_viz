@@ -205,8 +205,8 @@ caused).
 ## Script 5: visualize
 
 ```bash
-python scripts/05_visualize.py                          # first embeddings_*.npz found, PCA, colored by genre
-python scripts/05_visualize.py --source openai_v2 --method tsne_p5 --color decade_published
+python scripts/05_visualize.py                          # defaults: openai_v2, t-SNE(7), colored by genre
+python scripts/05_visualize.py --source local_v1 --method tsne_p5 --color decade_published
 ```
 
 Auto-discovers every `data/embeddings_<provider>_<variant>.npz` Script 4
@@ -244,14 +244,11 @@ Renders:
   method × color combination is precomputed into the page, with dropdowns
   to switch embedding source, projection method, and color-by live in the
   browser (no re-running the script). `--source`/`--method`/`--color` just
-  set what's selected when the page first loads. Color options: genre
-  (heuristic, Script 2), genre (LLM-refined, Script 3, if
-  `book_tags.json` exists), year read (continuous — the reading list only
-  spans ~11 years, so decade buckets would collapse almost everything into
-  2 colors), decade published (books span centuries, so decade buckets
-  make sense here). Hover any point for title/author/date read. A fourth
-  dropdown ("On
-  hover, show") picks what edges appear when you hover:
+  set what's selected when the page first loads (currently `openai_v2` +
+  `tsne_p7` + `genre` — the combo that's looked best so far; change via
+  `PREFERRED_DEFAULT_SOURCE`/`--method`/`--color` in `main()`). Hover any
+  point for title/author/date read. A fourth dropdown ("On hover, show")
+  picks what edges appear when you hover:
   - **Nearest neighbors** (default) — lines to the book's 5 nearest
     neighbors by cosine similarity in the *original* embedding space, not
     the 2D projection — so you'll sometimes see an edge connect two points
@@ -265,6 +262,36 @@ Renders:
     Rendered as arrows (not plain lines) pointing oldest → newest so the
     chronological direction is visible.
   - **No links** — turns edges off.
+
+### Design system: color and type
+
+Colors are assigned by the job each column does, not picked by eye —
+`color_order_and_map()` in the script implements this:
+
+- **Genre / Genre (LLM-refined)** are *nominal* (identity — swapping the
+  order wouldn't change the meaning), so they get the 8-hue fixed-order
+  categorical palette from Anthropic's dataviz design system, validated
+  colorblind-safe (`NOMINAL_COLOR_COLUMNS`, `CATEGORICAL_PALETTE`).
+  Anything beyond the top 8 by frequency folds into a neutral gray
+  "Other," same as before.
+- **Decade published / Year read** are *ordinal* (order carries meaning),
+  so they get a single hue stepped light→dark in chronological order
+  (`ORDINAL_COLOR_COLUMNS`, `interpolate_ordinal_colors()`) instead of an
+  arbitrary categorical palette or a rainbow scale — both of which used to
+  be true here (decade's legend order was whatever pandas felt like, and
+  year read was a genuine rainbow continuous scale with no ordering
+  signal). Both stay discrete/click-able legend traces, not a continuous
+  colorbar — year read has few enough distinct values (~11) that discrete
+  is more legible than continuous.
+
+Type: **Fraunces** (serif, the page `<h1>` and in-chart plot title) paired
+with **Public Sans** (everything else — controls, legend, tooltip, axis).
+Loaded via Google Fonts; safe now that this is genuinely hosted online
+rather than a local file. Plotly doesn't inherit the page's CSS font by
+default, so `PLOT_FONT_FAMILY`/`PLOT_TITLE_FONT_FAMILY` are set explicitly
+on the Python-built layout *and* re-applied in the JS `update()` function
+— otherwise switching dropdowns would reset the chart back to Plotly's
+own default font.
 
 ## Notes
 
