@@ -94,7 +94,12 @@ CATEGORICAL_PALETTE = [
 # a neutral gray midpoint. Used for ordinal/ordered color (decade/year) --
 # stronger visual contrast than a single-hue light->dark ramp, by request.
 DIVERGING_COOL = "#2a78d6"  # blue pole (oldest/earliest)
-DIVERGING_MIDPOINT = "#f0efec"  # neutral gray midpoint (light surface)
+DIVERGING_MIDPOINT = "#6e6c66"  # neutral gray midpoint -- darkened from the
+# documented light-surface value (#f0efec) because that's ~1.03:1 contrast
+# against PLOT_BGCOLOR (a light blue tint, not the neutral white/off-white
+# surface the reference palette assumes), i.e. effectively invisible.
+# #6e6c66 -- a darker step of the same muted-ink family as NEUTRAL_COLOR --
+# clears 4.4:1 against PLOT_BGCOLOR.
 DIVERGING_WARM = "#e34948"  # red pole (newest/latest)
 NEUTRAL_COLOR = "#898781"  # muted ink -- "Other"/"Unknown", never a data value
 
@@ -479,19 +484,17 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
                     color=color_col,
                     category_orders={color_col: order},
                     color_discrete_map=cmap,
-                    custom_data=["slug"],  # read by the JS hover/click handlers below
+                    custom_data=["slug", "title"],  # read by the JS hover/click handlers below
                 )
-                # Plotly's own floating tooltip is suppressed (hoverinfo
-                # "none") -- it covers exactly the nodes/edges it's
-                # describing. Hover/click events still fire; a fixed
-                # details panel below the plot replaces the tooltip.
-                # Plotly Express sets its own hovertemplate on every trace,
-                # which takes precedence over hoverinfo="none" and shows
-                # the native box anyway -- must be cleared too.
+                # A lightweight tooltip -- just the title, nothing else --
+                # replaces both Plotly's verbose default (genre=X, x=.., y=..)
+                # and the old fully-suppressed version that gave no on-canvas
+                # feedback at all. Semi-transparent hoverlabel is set in the
+                # page layout. Note: a custom hovertemplate always wins over
+                # hoverinfo, so hoverinfo is irrelevant here.
                 fig.update_traces(
                     marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")),
-                    hoverinfo="none",
-                    hovertemplate=None,
+                    hovertemplate="%{customdata[1]}<extra></extra>",
                 )
                 combos[f"{source}|{method}|{color_col}"] = {"data": fig.to_dict()["data"]}
     return combos
@@ -569,18 +572,22 @@ def make_interactive_plot(
         book_details[row["slug"]] = detail
     book_order = sorted(slugs, key=lambda s: (book_details[s]["title"].lower(), book_details[s]["author"].lower()))
 
-    def title_for(source, method):
-        return f"Reading taste ({source_labels.get(source, source)}, {METHOD_LABELS.get(method, method.upper())} projection)"
-
+    # No in-chart title -- it duplicated the page <h1> ("A Map of Books"),
+    # which already names the page; source/method are visible in the
+    # controls above instead.
     layout = dict(
-        title=dict(text=title_for(default_source, default_method), font=dict(family=PLOT_TITLE_FONT_FAMILY, size=20)),
         legend_title_text=color_label(default_color),
         xaxis=dict(visible=False),
         yaxis=dict(visible=False),
-        margin=dict(t=60),
+        margin=dict(t=20),
         plot_bgcolor=PLOT_BGCOLOR,
         paper_bgcolor=PAPER_BGCOLOR,
         font=dict(family=PLOT_FONT_FAMILY),
+        hoverlabel=dict(
+            bgcolor="rgba(255,255,255,0.82)",
+            bordercolor="rgba(11,11,11,0.15)",
+            font=dict(family=PLOT_FONT_FAMILY, size=12, color="#0b0b0b"),
+        ),
     )
     fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE, SELECTION_HALO_TRACE], layout=layout)
     plot_div = pio.to_html(
@@ -606,7 +613,7 @@ def make_interactive_plot(
 <html>
 <head>
 <meta charset="utf-8">
-<title>Reading Taste Visualization</title>
+<title>A Map of Books</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -627,23 +634,38 @@ def make_interactive_plot(
     margin: 0;
     padding: 24px 16px 40px;
   }}
+  .page {{ max-width: 1500px; margin: 0 auto; }}
   h1 {{
     font-family: 'Fraunces', Georgia, serif;
     font-weight: 600;
     font-size: 28px;
     letter-spacing: -0.01em;
     margin: 0 0 16px;
-    max-width: 1300px;
-    margin-left: auto;
-    margin-right: auto;
+  }}
+  /* Sidebar (Book details + All books) sits beside the graph, not below
+     it, so both are visible at once without clicking then scrolling. */
+  .layout {{
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }}
+  .sidebar {{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 320px;
+    flex: 0 0 320px;
+  }}
+  .main-col {{
+    flex: 1 1 auto;
+    min-width: 0;
   }}
   .controls {{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     gap: 14px 28px;
-    max-width: 1300px;
-    margin: 0 auto 20px;
+    margin: 0 0 20px;
     padding: 14px 18px;
     background: var(--surface);
     border: 1px solid var(--border);
@@ -669,54 +691,53 @@ def make_interactive_plot(
     border: 1px solid var(--border);
     border-radius: 6px;
   }}
-  #book-plot {{ width: 100%; max-width: 1300px; aspect-ratio: 16 / 9; margin: 0 auto; }}
-  .below-plot {{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    max-width: 1300px;
-    margin: 20px auto 0;
-    align-items: flex-start;
-  }}
+  #book-plot {{ width: 100%; aspect-ratio: 16 / 9; }}
   .panel {{
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: 10px;
     padding: 16px 18px;
+    /* Fixed height, internal scroll -- so the sidebar's total height is
+       predictable and both panels stay visible next to the graph. */
+    height: 340px;
+    display: flex;
+    flex-direction: column;
   }}
   .panel h2 {{
+    flex: 0 0 auto;
     font-family: 'Fraunces', Georgia, serif;
     font-weight: 600;
     font-size: 16px;
     margin: 0 0 10px;
     color: var(--ink-primary);
   }}
-  #details-panel {{
-    flex: 1 1 360px;
-    min-height: 160px;
+  #details-content {{
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
   }}
-  #details-panel .placeholder {{
+  #details-content .placeholder {{
     color: var(--ink-muted);
     font-size: 14px;
   }}
-  #details-panel .book-title {{
+  #details-content .book-title {{
     font-family: 'Fraunces', Georgia, serif;
     font-weight: 600;
     font-size: 19px;
     margin: 0 0 2px;
   }}
-  #details-panel .book-author {{
+  #details-content .book-author {{
     color: var(--ink-secondary);
     font-size: 14px;
     margin: 0 0 12px;
   }}
-  #details-panel .book-meta {{
+  #details-content .book-meta {{
     display: flex;
     flex-wrap: wrap;
     gap: 6px 10px;
     margin: 0 0 12px;
   }}
-  #details-panel .book-meta span {{
+  #details-content .book-meta span {{
     font-size: 12px;
     color: var(--ink-secondary);
     background: var(--page-plane);
@@ -724,21 +745,21 @@ def make_interactive_plot(
     border-radius: 5px;
     padding: 3px 8px;
   }}
-  #details-panel dl {{
+  #details-content dl {{
     margin: 0;
     font-size: 13px;
   }}
-  #details-panel dt {{
+  #details-content dt {{
     font-weight: 600;
     color: var(--ink-secondary);
     margin-top: 8px;
   }}
-  #details-panel dd {{
+  #details-content dd {{
     margin: 2px 0 0;
     color: var(--ink-primary);
     line-height: 1.45;
   }}
-  #details-panel .deselect-btn {{
+  #details-content .deselect-btn {{
     margin-top: 14px;
     font-family: inherit;
     font-size: 12px;
@@ -749,10 +770,8 @@ def make_interactive_plot(
     padding: 5px 10px;
     cursor: pointer;
   }}
-  #book-list-panel {{
-    flex: 1 1 360px;
-  }}
   #book-search {{
+    flex: 0 0 auto;
     width: 100%;
     font-family: inherit;
     font-size: 14px;
@@ -764,7 +783,8 @@ def make_interactive_plot(
     margin-bottom: 10px;
   }}
   #book-list {{
-    max-height: 320px;
+    flex: 1 1 auto;
+    min-height: 0;
     overflow-y: auto;
     border-top: 1px solid var(--border);
   }}
@@ -785,42 +805,53 @@ def make_interactive_plot(
   .book-list-item.selected {{ background: var(--page-plane); font-weight: 600; }}
   .book-list-item .item-author {{ color: var(--ink-secondary); font-weight: 400; }}
   #book-list .empty {{ color: var(--ink-muted); font-size: 13px; padding: 8px 4px; }}
+  @media (max-width: 900px) {{
+    .layout {{ flex-direction: column; }}
+    .sidebar {{ width: 100%; flex: none; flex-direction: row; flex-wrap: wrap; }}
+    .sidebar .panel {{ flex: 1 1 280px; }}
+  }}
 </style>
 </head>
 <body>
-  <h1>Reading Taste</h1>
-  <div class="controls">
-    <div class="control-group">
-      <label for="source-select">Embedding source</label>
-      <select id="source-select">{source_options_html}</select>
-    </div>
-    <div class="control-group">
-      <label for="method-select">Projection method</label>
-      <select id="method-select">{method_options_html}</select>
-    </div>
-    <div class="control-group">
-      <label for="color-select">Color by</label>
-      <select id="color-select">{color_options_html}</select>
-    </div>
-    <div class="control-group">
-      <label for="edges-select">On hover/select, show</label>
-      <select id="edges-select">
-        <option value="off">No links</option>
-        <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
-        <option value="chain">Reading order (chronological)</option>
-      </select>
-    </div>
-  </div>
-  {plot_div}
-  <div class="below-plot">
-    <div id="details-panel" class="panel">
-      <h2>Book details</h2>
-      <div id="details-content"><p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p></div>
-    </div>
-    <div id="book-list-panel" class="panel">
-      <h2>All books</h2>
-      <input id="book-search" type="text" placeholder="Search title or author...">
-      <div id="book-list"></div>
+  <div class="page">
+    <h1>A Map of Books</h1>
+    <div class="layout">
+      <div class="sidebar">
+        <div id="details-panel" class="panel">
+          <h2>Book details</h2>
+          <div id="details-content"><p class="placeholder">Hover or click a point, or pick a book from the list, to see details here.</p></div>
+        </div>
+        <div id="book-list-panel" class="panel">
+          <h2>All books</h2>
+          <input id="book-search" type="text" placeholder="Search title or author...">
+          <div id="book-list"></div>
+        </div>
+      </div>
+      <div class="main-col">
+        <div class="controls">
+          <div class="control-group">
+            <label for="source-select">Embedding source</label>
+            <select id="source-select">{source_options_html}</select>
+          </div>
+          <div class="control-group">
+            <label for="method-select">Projection method</label>
+            <select id="method-select">{method_options_html}</select>
+          </div>
+          <div class="control-group">
+            <label for="color-select">Color by</label>
+            <select id="color-select">{color_options_html}</select>
+          </div>
+          <div class="control-group">
+            <label for="edges-select">On hover/select, show</label>
+            <select id="edges-select">
+              <option value="off">No links</option>
+              <option value="neighbors" selected>Nearest neighbors (by similarity)</option>
+              <option value="chain">Reading order (chronological)</option>
+            </select>
+          </div>
+        </div>
+        {plot_div}
+      </div>
     </div>
   </div>
   <script>
@@ -869,7 +900,6 @@ def make_interactive_plot(
       const method = methodEl.value;
       const color = colorEl.value;
       const combo = combos[source + '|' + method + '|' + color];
-      const sourceLabel = sourceLabels[source] || source;
       // Append fresh (empty) edge/halo traces as the last two traces --
       // combo.data is the shared precomputed array, so copy rather than
       // mutate it, or repeated switches back to the same combo would pile
@@ -879,22 +909,26 @@ def make_interactive_plot(
       // categories, so any active legend highlight no longer refers to a
       // real trace name -- reset it rather than leave a stale dim state.
       highlightedLegendValue = null;
+      // No in-chart title (see Python side) -- source/method are already
+      // visible in the controls above, no need to repeat them here.
       Plotly.react(plotDiv, dataWithExtras, {{
-        title: {{
-          text: 'Reading taste (' + sourceLabel + ', ' + (methodLabels[method] || method.toUpperCase()) + ' projection)',
-          font: {{ family: {json.dumps(PLOT_TITLE_FONT_FAMILY)}, size: 20 }},
-        }},
         legend: {{ title: {{ text: colorLabels[color] }} }},
         xaxis: {{ visible: false }},
         yaxis: {{ visible: false }},
-        margin: {{ t: 60 }},
+        margin: {{ t: 20 }},
         plot_bgcolor: {json.dumps(PLOT_BGCOLOR)},
         paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
         font: {{ family: {json.dumps(PLOT_FONT_FAMILY)} }},
+        hoverlabel: {{
+          bgcolor: 'rgba(255,255,255,0.82)',
+          bordercolor: 'rgba(11,11,11,0.15)',
+          font: {{ family: {json.dumps(PLOT_FONT_FAMILY)}, size: 12, color: '#0b0b0b' }},
+        }},
         annotations: [],
       }});
       refreshHalo();
       refreshEdges();
+      pinTooltip(selectedSlug);
     }}
     sourceEl.addEventListener('change', update);
     methodEl.addEventListener('change', update);
@@ -1067,22 +1101,70 @@ def make_interactive_plot(
     }}
     searchEl.addEventListener('input', renderBookList);
 
+    // Locates a slug's current (curveNumber, pointNumber) so the native
+    // tooltip can be triggered programmatically for it (see pinTooltip).
+    function pointLocationFor(slug) {{
+      for (let i = 0; i < plotDiv.data.length; i++) {{
+        const trace = plotDiv.data[i];
+        if (!trace.customdata) continue;
+        for (let j = 0; j < trace.customdata.length; j++) {{
+          if (trace.customdata[j][0] === slug) return {{curveNumber: i, pointNumber: j}};
+        }}
+      }}
+      return null;
+    }}
+
+    // Keeps the lightweight title tooltip visible for the selected book
+    // even when the mouse isn't over it -- Plotly.Fx.hover can be
+    // triggered programmatically and the label stays until explicitly
+    // cleared, unlike a real hover which clears on mouseout.
+    function pinTooltip(slug) {{
+      const loc = slug ? pointLocationFor(slug) : null;
+      if (loc) {{
+        Plotly.Fx.hover(plotDiv, [loc]);
+      }} else if (!hoveredSlug) {{
+        Plotly.Fx.unhover(plotDiv);
+      }}
+    }}
+
     // Clicking a node or a list entry pins it: the halo marks it, its
-    // edges stay drawn even after the mouse moves away, and its details
-    // stay in the panel. Clicking the same book again (node, list, or the
-    // "Clear selection" button) un-pins it.
+    // edges stay drawn even after the mouse moves away, its details stay
+    // in the panel, and its tooltip stays pinned. Clicking the same book
+    // again (node, list, empty canvas, or the "Clear selection" button)
+    // un-pins it.
     function selectBook(slug) {{
       selectedSlug = (slug && slug === selectedSlug) ? null : slug;
       refreshHalo();
       refreshEdges();
       renderDetails(hoveredSlug || selectedSlug);
       renderBookList();
+      pinTooltip(selectedSlug);
     }}
 
+    // Plotly overlays an invisible drag/zoom rect on top of the entire
+    // plot area, so a native click's event.target is always that rect --
+    // never the marker path -- even for a dead-on marker click. DOM
+    // target inspection can't tell a marker click from a background
+    // click, so use a flag instead: plotly_click only fires (with a real
+    // point) when a marker was actually hit, and it fires before the
+    // native 'click' event (during Plotly's mouseup handling), so the
+    // flag is reliably set by the time the native listener below runs.
+    let markerClickHandled = false;
     plotDiv.on('plotly_click', function (evt) {{
       const point = evt.points[0];
       if (!point || !point.customdata) return;
+      markerClickHandled = true;
       selectBook(point.customdata[0]);
+    }});
+
+    // Clicking anywhere on the plot that ISN'T a marker (empty canvas)
+    // clears the current selection -- otherwise the only way to deselect
+    // was re-clicking the same node or picking a different one. Excludes
+    // the legend and modebar, which have their own click behaviors.
+    plotDiv.addEventListener('click', function (evt) {{
+      if (markerClickHandled) {{ markerClickHandled = false; return; }}
+      if (evt.target.closest('.legend') || evt.target.closest('.modebar')) return;
+      if (selectedSlug !== null) selectBook(selectedSlug);
     }});
 
     plotDiv.on('plotly_hover', function (evt) {{
@@ -1096,6 +1178,7 @@ def make_interactive_plot(
       hoveredSlug = null;
       refreshEdges();
       renderDetails(selectedSlug);
+      pinTooltip(selectedSlug);
     }});
 
     // Tableau-style legend click: instead of Plotly's default (hide the

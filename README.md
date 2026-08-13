@@ -248,20 +248,28 @@ Renders:
   `tsne_p7` + `genre_llm` — the combo that's looked best so far; change via
   `PREFERRED_DEFAULT_SOURCE`/`--method`/`--color` in `main()`).
 
-  There's no floating tooltip — Plotly's own hover box is suppressed
-  (`hoverinfo="none"` *and* `hovertemplate=None`; Plotly Express sets a
-  default `hovertemplate` on every trace that otherwise overrides
-  `hoverinfo` and shows the box anyway). Instead:
+  There's no page title over the chart itself — it duplicated the page
+  `<h1>` ("A Map of Books"). Plotly's default hover box (which used to
+  show `genre_llm=X, x=.., y=..` and cover exactly the nodes/edges it was
+  describing) is replaced by a lightweight one showing just the book's
+  title at partial opacity (`hoverlabel` in the layout; a custom
+  `hovertemplate` per trace, since Plotly Express's own default
+  `hovertemplate` otherwise overrides `hoverinfo` and shows the verbose
+  box regardless). A **Book details** panel and a searchable **All
+  books** list sit in a fixed-width, fixed-height (independently
+  scrollable) sidebar to the left of the graph, so both are visible at
+  the same time as the plot rather than requiring a click-then-scroll:
 
-  - A **details panel** below the plot shows title, author, published/read
-    year, genre, and (when `book_tags.json` exists) the LLM-generated
-    description/tone/pacing/themes/setting for whichever book is active.
-  - A **searchable book list** (filtered by title or author as you type)
-    sits alongside the details panel — click any entry to select that book.
   - **Clicking a node** (or a list entry) *selects* it: a hollow ring marks
-    it on the plot, its edges/links stay drawn even after the mouse moves
-    away, and its details stay pinned in the panel. Clicking the same book
-    again (node, list entry, or the "Clear selection" button) deselects it.
+    it on the plot, its title tooltip stays pinned (via `Plotly.Fx.hover`,
+    which — unlike a real hover — doesn't clear on mouseout), its
+    edges/links stay drawn even after the mouse moves away, and its
+    details stay in the sidebar panel. Clicking the same book again (node,
+    list entry, empty canvas, or the "Clear selection" button) deselects
+    it. Note: Plotly overlays an invisible drag/zoom rect on top of the
+    whole plot area, so a raw click's DOM target is never actually the
+    marker — telling a marker click from an empty-canvas click uses a flag
+    set by the `plotly_click` event instead (only fires for a real point).
   - **Hovering** a point shows that book's details/edges transiently,
     taking priority over whatever's selected; moving the mouse away falls
     back to the pinned selection (if any), not to nothing.
@@ -315,7 +323,12 @@ Colors are assigned by the job each column does, not picked by eye —
   light→dark hue or, worse, a rainbow scale with no ordering signal at all
   (the original bug here). Both stay discrete/click-able legend traces,
   not a continuous colorbar — year read has few enough distinct values
-  (~11) that discrete is more legible than continuous.
+  (~11) that discrete is more legible than continuous. `DIVERGING_MIDPOINT`
+  is `#6e6c66`, darker than the dataviz design system's documented
+  light-surface neutral gray (`#f0efec`) — that value is ~1.03:1 contrast
+  against `PLOT_BGCOLOR` (a light blue tint, not the neutral white/off-white
+  surface the reference assumes), i.e. the midpoint decades were nearly
+  invisible against the chart background. `#6e6c66` clears 4.4:1.
 
 Type: **Fraunces** (serif, the page `<h1>` and in-chart plot title) paired
 with **Public Sans** (everything else — controls, legend, tooltip, axis).
