@@ -484,17 +484,22 @@ def build_combo_traces(df: pd.DataFrame, all_coords: dict) -> dict[str, dict]:
                     color=color_col,
                     category_orders={color_col: order},
                     color_discrete_map=cmap,
-                    custom_data=["slug", "title"],  # read by the JS hover/click handlers below
+                    custom_data=["slug"],  # read by the JS hover/click handlers below
                 )
-                # A lightweight tooltip -- just the title, nothing else --
-                # replaces both Plotly's verbose default (genre=X, x=.., y=..)
-                # and the old fully-suppressed version that gave no on-canvas
-                # feedback at all. Semi-transparent hoverlabel is set in the
-                # page layout. Note: a custom hovertemplate always wins over
-                # hoverinfo, so hoverinfo is irrelevant here.
+                # Plotly's own hover box is fully suppressed -- it can't
+                # render true transparency (see node-tooltip below): its
+                # hoverlabel.bgcolor is pre-composited against the chart
+                # background into a flat, fully opaque color rather than
+                # rendered with real alpha, so a "slightly transparent"
+                # request there is structurally impossible. A custom
+                # HTML/CSS tooltip (real rgba compositing) replaces it.
+                # Hover/click events still fire regardless of these
+                # settings. A custom hovertemplate always wins over
+                # hoverinfo, so both must be cleared.
                 fig.update_traces(
                     marker=dict(size=9, opacity=0.85, line=dict(width=0.5, color="white")),
-                    hovertemplate="%{customdata[1]}<extra></extra>",
+                    hoverinfo="none",
+                    hovertemplate=None,
                 )
                 combos[f"{source}|{method}|{color_col}"] = {"data": fig.to_dict()["data"]}
     return combos
@@ -583,11 +588,6 @@ def make_interactive_plot(
         plot_bgcolor=PLOT_BGCOLOR,
         paper_bgcolor=PAPER_BGCOLOR,
         font=dict(family=PLOT_FONT_FAMILY),
-        hoverlabel=dict(
-            bgcolor="rgba(255,255,255,0.8)",
-            bordercolor="rgba(11,11,11,0.15)",
-            font=dict(family=PLOT_FONT_FAMILY, size=12, color="#0b0b0b"),
-        ),
     )
     fig = go.Figure(data=default_combo["data"] + [EDGE_TRACE, SELECTION_HALO_TRACE], layout=layout)
     plot_div = pio.to_html(
@@ -691,7 +691,27 @@ def make_interactive_plot(
     border: 1px solid var(--border);
     border-radius: 6px;
   }}
+  #plot-wrapper {{ position: relative; }}
   #book-plot {{ width: 100%; aspect-ratio: 16 / 9; }}
+  /* A real HTML/CSS tooltip, not Plotly's native hoverlabel -- Plotly
+     pre-composites hoverlabel.bgcolor against the chart background into
+     a flat, fully opaque color instead of rendering it with true alpha,
+     so it can never actually look "slightly transparent" over the nodes
+     and edges underneath it. This div gets genuine browser compositing. */
+  #node-tooltip {{
+    display: none;
+    position: absolute;
+    transform: translate(10px, -100%);
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(11, 11, 11, 0.15);
+    border-radius: 6px;
+    padding: 3px 8px;
+    font-size: 12px;
+    color: var(--ink-primary);
+    white-space: nowrap;
+    pointer-events: none;
+    z-index: 10;
+  }}
   .panel {{
     background: var(--surface);
     border: 1px solid var(--border);
@@ -854,7 +874,10 @@ def make_interactive_plot(
             </select>
           </div>
         </div>
-        {plot_div}
+        <div id="plot-wrapper">
+          {plot_div}
+          <div id="node-tooltip"></div>
+        </div>
       </div>
     </div>
   </div>
@@ -885,6 +908,8 @@ def make_interactive_plot(
     const listEl = document.getElementById('book-list');
     const detailsEl = document.getElementById('details-content');
     const plotDiv = document.getElementById('book-plot');
+    const plotWrapper = document.getElementById('plot-wrapper');
+    const tooltipEl = document.getElementById('node-tooltip');
 
     // Selection/hover/legend-highlight state. Priority for what's shown:
     //   edges & details panel: hoveredSlug (transient) > selectedSlug
@@ -923,11 +948,6 @@ def make_interactive_plot(
         plot_bgcolor: {json.dumps(PLOT_BGCOLOR)},
         paper_bgcolor: {json.dumps(PAPER_BGCOLOR)},
         font: {{ family: {json.dumps(PLOT_FONT_FAMILY)} }},
-        hoverlabel: {{
-          bgcolor: 'rgba(255,255,255,0.8)',
-          bordercolor: 'rgba(11,11,11,0.15)',
-          font: {{ family: {json.dumps(PLOT_FONT_FAMILY)}, size: 12, color: '#0b0b0b' }},
-        }},
         annotations: [],
       }});
       refreshHalo();
@@ -1105,8 +1125,8 @@ def make_interactive_plot(
     }}
     searchEl.addEventListener('input', renderBookList);
 
-    // Locates a slug's current (curveNumber, pointNumber) so the native
-    // tooltip can be triggered programmatically for it (see pinTooltip).
+    // Locates a slug's current (curveNumber, pointNumber) so its on-screen
+    // position can be found (see screenPositionFor).
     function pointLocationFor(slug) {{
       for (let i = 0; i < plotDiv.data.length; i++) {{
         const trace = plotDiv.data[i];
@@ -1118,16 +1138,39 @@ def make_interactive_plot(
       return null;
     }}
 
+    // The actual rendered marker element for a slug, found by walking the
+    // SVG in the same order as plotDiv.data (trace groups) and each
+    // trace's points (markers) -- Plotly doesn't expose a lookup for this.
+    function screenPositionFor(slug) {{
+      const loc = pointLocationFor(slug);
+      if (!loc) return null;
+      const traceEl = plotDiv.querySelectorAll('.scatterlayer .trace')[loc.curveNumber];
+      const pointEl = traceEl ? traceEl.querySelectorAll('.points path')[loc.pointNumber] : null;
+      if (!pointEl) return null;
+      const rect = pointEl.getBoundingClientRect();
+      const wrapperRect = plotWrapper.getBoundingClientRect();
+      return {{ x: rect.x + rect.width / 2 - wrapperRect.left, y: rect.y + rect.height / 2 - wrapperRect.top }};
+    }}
+
+    function showTooltip(text, x, y) {{
+      tooltipEl.textContent = text;
+      tooltipEl.style.left = x + 'px';
+      tooltipEl.style.top = y + 'px';
+      tooltipEl.style.display = 'block';
+    }}
+    function hideTooltip() {{
+      tooltipEl.style.display = 'none';
+    }}
+
     // Keeps the lightweight title tooltip visible for the selected book
-    // even when the mouse isn't over it -- Plotly.Fx.hover can be
-    // triggered programmatically and the label stays until explicitly
-    // cleared, unlike a real hover which clears on mouseout.
+    // even when the mouse isn't over it, by positioning the tooltip at
+    // that book's current marker location instead of the cursor.
     function pinTooltip(slug) {{
-      const loc = slug ? pointLocationFor(slug) : null;
-      if (loc) {{
-        Plotly.Fx.hover(plotDiv, [loc]);
+      const pos = slug ? screenPositionFor(slug) : null;
+      if (pos) {{
+        showTooltip(bookDetails[slug].title, pos.x, pos.y);
       }} else if (!hoveredSlug) {{
-        Plotly.Fx.unhover(plotDiv);
+        hideTooltip();
       }}
     }}
 
@@ -1177,6 +1220,14 @@ def make_interactive_plot(
       hoveredSlug = point.customdata[0];
       refreshEdges();
       renderDetails(hoveredSlug);
+      // Follow the actual cursor while genuinely hovering (falls back to
+      // the marker's position if a real mouse event isn't available).
+      if (evt.event) {{
+        const wrapperRect = plotWrapper.getBoundingClientRect();
+        showTooltip(bookDetails[hoveredSlug].title, evt.event.clientX - wrapperRect.left, evt.event.clientY - wrapperRect.top);
+      }} else {{
+        pinTooltip(hoveredSlug);
+      }}
     }});
     plotDiv.on('plotly_unhover', function () {{
       hoveredSlug = null;
