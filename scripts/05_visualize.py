@@ -693,12 +693,15 @@ def make_interactive_plot(
   }}
   #plot-wrapper {{ position: relative; }}
   #book-plot {{ width: 100%; aspect-ratio: 16 / 9; }}
-  /* A real HTML/CSS tooltip, not Plotly's native hoverlabel -- Plotly
+  /* Real HTML/CSS tooltips, not Plotly's native hoverlabel -- Plotly
      pre-composites hoverlabel.bgcolor against the chart background into
      a flat, fully opaque color instead of rendering it with true alpha,
      so it can never actually look "slightly transparent" over the nodes
-     and edges underneath it. This div gets genuine browser compositing. */
-  #node-tooltip {{
+     and edges underneath it. These divs get genuine browser compositing.
+     Two separate elements (pinned + hover) so the selected book's
+     tooltip can stay up while a different book's hover tooltip also
+     shows -- one tracking selectedSlug, the other hoveredSlug. */
+  .node-tooltip {{
     display: none;
     position: absolute;
     transform: translate(10px, -100%);
@@ -876,7 +879,8 @@ def make_interactive_plot(
         </div>
         <div id="plot-wrapper">
           {plot_div}
-          <div id="node-tooltip"></div>
+          <div id="node-tooltip-pinned" class="node-tooltip"></div>
+          <div id="node-tooltip-hover" class="node-tooltip"></div>
         </div>
       </div>
     </div>
@@ -909,7 +913,8 @@ def make_interactive_plot(
     const detailsEl = document.getElementById('details-content');
     const plotDiv = document.getElementById('book-plot');
     const plotWrapper = document.getElementById('plot-wrapper');
-    const tooltipEl = document.getElementById('node-tooltip');
+    const pinnedTooltipEl = document.getElementById('node-tooltip-pinned');
+    const hoverTooltipEl = document.getElementById('node-tooltip-hover');
 
     // Selection/hover/legend-highlight state. Priority for what's shown:
     //   edges & details panel: hoveredSlug (transient) > selectedSlug
@@ -952,7 +957,7 @@ def make_interactive_plot(
       }});
       refreshHalo();
       refreshEdges();
-      pinTooltip(selectedSlug);
+      updatePinnedTooltip();
     }}
     sourceEl.addEventListener('change', update);
     methodEl.addEventListener('change', update);
@@ -1152,25 +1157,27 @@ def make_interactive_plot(
       return {{ x: rect.x + rect.width / 2 - wrapperRect.left, y: rect.y + rect.height / 2 - wrapperRect.top }};
     }}
 
-    function showTooltip(text, x, y) {{
-      tooltipEl.textContent = text;
-      tooltipEl.style.left = x + 'px';
-      tooltipEl.style.top = y + 'px';
-      tooltipEl.style.display = 'block';
+    function showTooltip(el, text, x, y) {{
+      el.textContent = text;
+      el.style.left = x + 'px';
+      el.style.top = y + 'px';
+      el.style.display = 'block';
     }}
-    function hideTooltip() {{
-      tooltipEl.style.display = 'none';
+    function hideTooltip(el) {{
+      el.style.display = 'none';
     }}
 
-    // Keeps the lightweight title tooltip visible for the selected book
-    // even when the mouse isn't over it, by positioning the tooltip at
-    // that book's current marker location instead of the cursor.
-    function pinTooltip(slug) {{
-      const pos = slug ? screenPositionFor(slug) : null;
+    // The pinned tooltip tracks selectedSlug only, independently of
+    // whatever's being hovered (a separate element from the hover
+    // tooltip -- see below) -- so the selected book's title can stay up
+    // at the same time as a different book's hover tooltip, rather than
+    // one replacing the other.
+    function updatePinnedTooltip() {{
+      const pos = selectedSlug ? screenPositionFor(selectedSlug) : null;
       if (pos) {{
-        showTooltip(bookDetails[slug].title, pos.x, pos.y);
-      }} else if (!hoveredSlug) {{
-        hideTooltip();
+        showTooltip(pinnedTooltipEl, bookDetails[selectedSlug].title, pos.x, pos.y);
+      }} else {{
+        hideTooltip(pinnedTooltipEl);
       }}
     }}
 
@@ -1185,7 +1192,7 @@ def make_interactive_plot(
       refreshEdges();
       renderDetails(hoveredSlug || selectedSlug);
       renderBookList();
-      pinTooltip(selectedSlug);
+      updatePinnedTooltip();
     }}
 
     // Plotly overlays an invisible drag/zoom rect on top of the entire
@@ -1221,19 +1228,22 @@ def make_interactive_plot(
       refreshEdges();
       renderDetails(hoveredSlug);
       // Follow the actual cursor while genuinely hovering (falls back to
-      // the marker's position if a real mouse event isn't available).
+      // the marker's position if a real mouse event isn't available). A
+      // separate element from the pinned tooltip, so hovering a second
+      // book while one is selected shows both at once.
       if (evt.event) {{
         const wrapperRect = plotWrapper.getBoundingClientRect();
-        showTooltip(bookDetails[hoveredSlug].title, evt.event.clientX - wrapperRect.left, evt.event.clientY - wrapperRect.top);
+        showTooltip(hoverTooltipEl, bookDetails[hoveredSlug].title, evt.event.clientX - wrapperRect.left, evt.event.clientY - wrapperRect.top);
       }} else {{
-        pinTooltip(hoveredSlug);
+        const pos = screenPositionFor(hoveredSlug);
+        if (pos) showTooltip(hoverTooltipEl, bookDetails[hoveredSlug].title, pos.x, pos.y);
       }}
     }});
     plotDiv.on('plotly_unhover', function () {{
       hoveredSlug = null;
       refreshEdges();
       renderDetails(selectedSlug);
-      pinTooltip(selectedSlug);
+      hideTooltip(hoverTooltipEl);
     }});
 
     // Tableau-style legend click: instead of Plotly's default (hide the
