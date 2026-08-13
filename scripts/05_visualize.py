@@ -622,6 +622,12 @@ def main():
     )
     print(f"Wrote {interactive_path}")
 
+    # Also publish as index.html so static hosts (Netlify etc.) serve the
+    # viz directly at the site root, with no filename in the URL.
+    index_path = OUTPUT_DIR / "index.html"
+    index_path.write_text(interactive_path.read_text(encoding="utf-8"), encoding="utf-8")
+    print(f"Wrote {index_path}")
+
 
 if __name__ == "__main__":
     main()
