@@ -1,0 +1,66 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Either/or",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL3031163A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL25808022W",
+  "subjects": [
+    "education",
+    "coming of age",
+    "love",
+    "personal development",
+    "Women college students",
+    "Fiction",
+    "Identity (Psychology)",
+    "Turkish Americans",
+    "FICTION / Literary",
+    "FICTION / Coming of Age",
+    "FICTION / Women",
+    "FICTION / Diversity & Multicultural",
+    "Fiction, coming of age",
+    "Fiction, women",
+    "Cambridge (mass.), fiction"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Selin returns to Harvard for her sophomore year, spends lots of time thinking about Ivan, then moves on."
+  },
+  "subject_places": [
+    "Harvard",
+    "Cambridge",
+    "Boston",
+    "Turkey"
+  ],
+  "subject_people": [
+    "Soren Kierkegaard",
+    "Alexander Pushkin"
+  ],
+  "subject_times": [
+    "the mid 1990s"
+  ],
+  "covers": [
+    12440520,
+    13237279,
+    13330289
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-08T03:06:12.747107"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-25T17:32:30.337643"
+  }
+}

@@ -1920,7 +1920,7 @@
   {
     "title": "Freedom",
     "author": "Jonathan Franzen",
-    "date_read": "3/15/2023",
+    "date_read": "8/13/2022",
     "description": "Patty and Walter Berglund were the new pioneers of old St. Paul—the gentrifiers, the hands-on parents, the avant-garde of the Whole Foods generation. Patty was the ideal sort of neighbor, who could tell you where to recycle your batteries and how to get the local cops to actually do their job. She was an enviably perfect mother and the wife of Walter's dreams. Together with Walter—environmental lawyer, commuter cyclist, total family man—she was doing her small part to build a better world. But now, in the new millennium, the Berglunds have become a mystery. Why has their teenage son moved in with the aggressively Republican family next door? Why has Walter taken a job working with Big Coal? What exactly is Richard Katz—outré rocker and Walter's college best friend and rival—still doing in the picture? Most of all, what has happened to Patty? Why has the bright star of Barrier Street become \"a very different kind of neighbor,\" an implacable Fury coming unhinged before the street's attentive eyes? In his first novel since The Corrections, Jonathan Franzen has given us an epic of contemporary love and marriage. Freedom comically and tragically captures the temptations and burdens of liberty: the thrills of teenage lust, the shaken compromises of middle age, the wages of suburban sprawl, the heavy weight of empire. In charting the mistakes and joys of Freedom's characters as they struggle to learn how to live in an ever more confusing world, Franzen has produced an indelible and deeply moving portrait of our time.",
     "genre": "Fiction",
     "categories": [
@@ -3118,5 +3118,37 @@
       "wikipedia_matched_page": "David Gessner"
     },
     "slug": "ultimate_obsession_david_gessner"
+  },
+  {
+    "title": "His Majesty's Dragon: Book One of Temeraire",
+    "author": "Naomi Novik",
+    "date_read": "9/4/2022",
+    "description": null,
+    "genre": "Unknown",
+    "categories": null,
+    "published_year": null,
+    "author_bio": "Naomi Novik is an American author of speculative fiction. She is known for her Temeraire series (2006–2016), an alternate history of the Napoleonic Wars involving dragons; and her Scholomance trilogy (2020–2022). Her standalone fantasy novels Uprooted (2015) and Spinning Silver (2018) were inspired by Polish folklore and the Rumpelstiltskin fairy tale respectively. She also helped create the Organization for Transformative Works and was a cofounder of their project Archive of Our Own. Novik has won many awards for her work, including the Alex, Audie, British Fantasy, Locus, Mythopoeic and Nebula Awards.",
+    "sources": {
+      "google_books_matched_title": null,
+      "open_library_matched_title": null,
+      "wikipedia_matched_page": "Naomi Novik"
+    },
+    "slug": "his_majestys_dragon_book_one_of_temeraire_naomi_novik"
+  },
+  {
+    "title": "Either/Or",
+    "author": "Elif Batuman",
+    "date_read": "6/9/2022",
+    "description": "Selin returns to Harvard for her sophomore year, spends lots of time thinking about Ivan, then moves on.",
+    "genre": "Coming Of Age",
+    "categories": null,
+    "published_year": 2022,
+    "author_bio": "Elif Batuman is an American author, academic, and journalist. She is the author of three books: a memoir, The Possessed (2010), the novel The Idiot (2017), which was a finalist for the 2018 Pulitzer Prize for Fiction, and Either/Or (2022). Batuman is a staff writer for The New Yorker.",
+    "sources": {
+      "google_books_matched_title": null,
+      "open_library_matched_title": "Either/or",
+      "wikipedia_matched_page": "Elif Batuman"
+    },
+    "slug": "eitheror_elif_batuman"
   }
 ]

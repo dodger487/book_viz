@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Naomi Novik",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Naomi Novik</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q242643",
+  "titles": {
+    "canonical": "Naomi_Novik",
+    "normalized": "Naomi Novik",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Naomi Novik</span></span>"
+  },
+  "pageid": 4734491,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Naomi_Novik_July08.jpg/330px-Naomi_Novik_July08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 472
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Naomi_Novik_July08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2213,
+    "height": 3168
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364772300",
+  "tid": "1180d400-82a7-11f1-965f-6e213e07808e",
+  "timestamp": "2026-07-18T12:49:09Z",
+  "description": "American author (born 1973)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Naomi_Novik",
+      "revisions": "https://en.wikipedia.org/wiki/Naomi_Novik?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Naomi_Novik?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Naomi_Novik"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Naomi_Novik",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Naomi_Novik",
+      "edit": "https://en.wikipedia.org/wiki/Naomi_Novik?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Naomi_Novik"
+    }
+  },
+  "extract": "Naomi Novik is an American author of speculative fiction. She is known for her Temeraire series (2006\u20132016), an alternate history of the Napoleonic Wars involving dragons; and her Scholomance trilogy (2020\u20132022). Her standalone fantasy novels Uprooted (2015) and Spinning Silver (2018) were inspired by Polish folklore and the Rumpelstiltskin fairy tale respectively. She also helped create the Organization for Transformative Works and was a cofounder of their project Archive of Our Own. Novik has won many awards for her work, including the Alex, Audie, British Fantasy, Locus, Mythopoeic and Nebula Awards.",
+  "extract_html": "<p><b>Naomi Novik</b> is an American author of speculative fiction. She is known for her <i>Temeraire</i> series (2006\u20132016), an alternate history of the Napoleonic Wars involving dragons; and her <i>Scholomance</i> trilogy (2020\u20132022). Her standalone fantasy novels <i>Uprooted</i> (2015) and <i>Spinning Silver</i> (2018) were inspired by Polish folklore and the Rumpelstiltskin fairy tale respectively. She also helped create the Organization for Transformative Works and was a cofounder of their project Archive of Our Own. Novik has won many awards for her work, including the Alex, Audie, British Fantasy, Locus, Mythopoeic and Nebula Awards.</p>"
+}

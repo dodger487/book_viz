@@ -1,0 +1,32 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3031163A"
+      ],
+      "author_name": [
+        "Elif Batuman"
+      ],
+      "cover_edition_key": "OL35162615M",
+      "cover_i": 12440520,
+      "ebook_access": "no_ebook",
+      "edition_count": 9,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL25808022W",
+      "language": [
+        "spa",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Either/or"
+    }
+  ]
+}
