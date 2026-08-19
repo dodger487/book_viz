@@ -1,0 +1,39 @@
+name: Deploy to GitHub Pages
+
+# Publishes output/ (the pre-built plot -- see scripts/05_visualize.py)
+# to GitHub Pages on every push to main. Unlike the old Netlify setup,
+# Pages deploys aren't metered/credited, so there's no need to throttle
+# this -- it can just run on every push, including the weekly book-sync
+# workflow's commits.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
