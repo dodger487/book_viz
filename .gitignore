@@ -11,16 +11,9 @@ venv/
 # books not already present in these files, so they must persist across
 # runs. GitHub Actions runners are ephemeral with no other shared disk, so
 # "regenerable" here means "committed" -- untracking these would force a
-# full (paid) re-fetch/re-tag/re-embed of every book on every sync.
-# CI only maintains the openai/v2 embeddings; other provider/variant
-# combos stay untracked and are a local-only, manual thing.
-data/embedding_input_v1.json
-data/embeddings_local_v1.npz
-data/embeddings_local_v2.npz
-data/embeddings_openai_v1.npz
-
-# Local Netlify folder
-.netlify
+# full (paid) re-fetch/re-tag/re-embed of every book on every sync. CI
+# keeps all four provider/text-variant combinations in sync (local is
+# free API-wise and openai is a fraction of a cent per book either way).
 
 # Local Netlify folder
 .netlify
