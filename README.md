@@ -1,9 +1,19 @@
 # Book Embedding Visualization
 
-Pipeline: book list → metadata+tags → embeddings → 2D plot. The book list is
-synced automatically from a Google Sheet and the site redeploys itself on
-every change — see "Keeping it up to date automatically" below if you just
-want to know how that works or how to run it by hand.
+## What is this?
+
+A map of every book I've read: each one gets turned into a numeric
+"fingerprint" based on its description and themes, then flattened down to
+the two dimensions you see on the page. Books with similar fingerprints
+usually land close together — but squeezing that much information onto a
+flat page is lossy, so closeness is a strong hint, not a guarantee. Live
+at **https://www.relevantmisc.com/book_viz/**.
+
+This repo is the pipeline behind it: book list → metadata+tags →
+embeddings → 2D plot. The book list is synced automatically from a Google
+Sheet and the site redeploys itself on every change — see "Keeping it up
+to date automatically" below if you just want to know how that works or
+how to run it by hand.
 
 ## Structure
 
