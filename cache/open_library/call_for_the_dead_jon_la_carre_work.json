@@ -1,0 +1,47 @@
+{
+  "description": "Le Carre's first book which introduces George Smiley. Smiley investigates the apparent suicide of Samuel Fennan, who worked in the Foreign Office and had been under investigation due to his communist background at Oxford.",
+  "title": "Call for the Dead",
+  "covers": [
+    570844
+  ],
+  "subject_places": [
+    "England"
+  ],
+  "first_publish_date": "1961",
+  "key": "/works/OL29776W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2101074A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Cold War",
+    "George Smiley (Fictitious character)",
+    "Intelligence officers",
+    "English language",
+    "Readers",
+    "Cold War (1945-1989) fast (OCoLC)fst01754978",
+    "Large type books",
+    "Smiley, george (fictitious character), fiction",
+    "Fiction, thrillers, espionage"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-01-02T12:32:25.788004"
+  }
+}

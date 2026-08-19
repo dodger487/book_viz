@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "a4XnEAAAQBAJ",
+      "etag": "R1UKzx3OgKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a4XnEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Romantic Comedy: Reese's Book Club",
+        "subtitle": "A Novel",
+        "authors": [
+          "Curtis Sittenfeld"
+        ],
+        "publisher": "Random House Trade Paperbacks",
+        "publishedDate": "2024-03-26",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 REESE\u2019S BOOK CLUB PICK \u2022 A comedy writer thinks she\u2019s sworn off love, until a dreamy pop star flips the script on all her assumptions\u2014a \u201csmart, sophisticated, and fun\u201d (Oprah Daily) novel from the author of Eligible, Rodham, and Prep. \u201cFull of dazzling banter and sizzling chemistry.\u201d\u2014People \u201cIf you ever wanted a backstage pass to Saturday Night Live, this is the book for you.\u201d\u2014Zibby Owens, Good Morning America A BEST BOOK OF THE YEAR: The Washington Post, NPR, USA Today, BuzzFeed, PopSugar, Harper\u2019s Bazaar, Real Simple, She Reads, New York Post Sally Milz is a sketch writer for The Night Owls, a late-night live comedy show that airs every Saturday. With a couple of heartbreaks under her belt, she\u2019s long abandoned the search for love, settling instead for the occasional hook-up, career success, and a close relationship with her stepfather to round out a satisfying life. But when Sally\u2019s friend and fellow writer Danny Horst begins dating Annabel, a glamorous actress who guest-hosted the show, he joins the not-so-exclusive group of talented but average-looking and even dorky men at the show\u2014and in society at large\u2014who\u2019ve gotten romantically involved with incredibly beautiful and accomplished women. Sally channels her annoyance into a sketch called The Danny Horst Rule, poking fun at this phenomenon while underscoring how unlikely it is that the reverse would ever happen for a woman. Enter Noah Brewster, a pop music sensation with a reputation for dating models, who signed on as both host and musical guest for this week\u2019s show. Dazzled by his charms, Sally hits it off with Noah instantly, and as they collaborate on one sketch after another, she begins to wonder if there might actually be sparks flying. But this isn\u2019t a romantic comedy\u2014it\u2019s real life. And in real life, someone like him would never date someone like her . . . right? With her keen observations and trademark ability to bring complex women to life on the page, Curtis Sittenfeld explores the neurosis-inducing and heart-fluttering wonder of love, while slyly dissecting the social rituals of romance and gender relations in the modern age.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780399590962"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "039959096X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a4XnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a4XnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=a4XnEAAAQBAJ&printsec=frontcover&dq=intitle:%22Romantic+Comedy%22+inauthor:%22Curtis+Sittenfeld%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a4XnEAAAQBAJ&dq=intitle:%22Romantic+Comedy%22+inauthor:%22Curtis+Sittenfeld%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romantic_Comedy_Reese_s_Book_Club.html?hl=&id=a4XnEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a4XnEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 REESE\u2019S BOOK CLUB PICK \u2022 A comedy writer thinks she\u2019s sworn off love, until a dreamy pop star flips the script on all her assumptions\u2014a \u201csmart, sophisticated, and fun\u201d (Oprah Daily) novel from the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V-cEEQAAQBAJ",
+      "etag": "xL86yDNNk0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V-cEEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Romantic Comedy",
+        "subtitle": "Roman",
+        "authors": [
+          "Curtis Sittenfeld"
+        ],
+        "publisher": "Dumont Buchverlag",
+        "publishedDate": "2024-07-01",
+        "description": "Sally Milz ist Comedy-Autorin f\u00fcr eine der bekanntesten Late-Night-Shows in Amerika. Ihr Job ist ihr Leben, das Thema Beziehung h\u00e4lt sie mit den Waffen der Ironie auf Distanz. Als ihr Kollege Danny Hirst mit einer Schauspielerin zusammenkommt und sich damit in die gar nicht so kleine Riege eher durchschnittlicher M\u00e4nner, die mit unglaublich sch\u00f6nen und erfolgreichen Frauen eine Beziehung f\u00fchren, einreiht, platzt ihr fast der Kragen. Warum tritt der umgekehrte Fall eigentlich nie ein? Sie tut, was sie immer tut, schreibt einen Sketch und verwandelt ihre Gef\u00fchle in Comedy. Doch dann tritt Noah Brewster in ihr Leben. Der Popstar ist als musikalischer Gast f\u00fcr die Show engagiert. Sie verstehen sich auf Anhieb, und Sally fragt sich bald, ob da nicht vielleicht mehr zwischen ihnen sein k\u00f6nnte. Aber das hier ist keine romantische Kom\u00f6die, sondern das wahre Leben. Und im echten Leben w\u00fcrde sich jemand wie er niemals auf jemanden wie sie einlassen, oder?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783755810629"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "375581062X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V-cEEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V-cEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=V-cEEQAAQBAJ&printsec=frontcover&dq=intitle:%22Romantic+Comedy%22+inauthor:%22Curtis+Sittenfeld%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V-cEEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V-cEEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=V-cEEQAAQBAJ&rdid=book-V-cEEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romantic_Comedy-sample-epub.acsm?id=V-cEEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romantic_Comedy-sample-pdf.acsm?id=V-cEEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V-cEEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sally Milz ist Comedy-Autorin f\u00fcr eine der bekanntesten Late-Night-Shows in Amerika."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MD3fEQAAQBAJ",
+      "etag": "a2vhb0pH9kg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MD3fEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Romantic Comedy",
+        "authors": [
+          "Curtis Sittenfeld"
+        ],
+        "publisher": "J.M. Meulenhoff",
+        "publishedDate": "2026-06-22",
+        "description": "Een humoristische liefdesroman van New York Times-bestsellerauteur Curtis Sittenfeld, vol scherpe observaties over romantiek en de moderne verhoudingen tussen mannen en vrouwen Sally Milz schrijft sketches voor The Night Owls, een live comedyshow die elke zaterdagavond wordt uitgezonden. Na een paar pijnlijke ervaringen is ze haar geloof in de ware liefde verloren. Haar collega en goede vriend Danny Horst heeft een prille relatie met een glamoureuze actrice, en voegt zich daarmee bij het groeiende clubje van getalenteerde maar doodgewone, of zelfs wat sukkelige mannen die een relatie hebben met mooie, succesvolle vrouwen. Andersom zou dit natuurlijk nooit gebeuren. Sally verwerkt haar frustratie hierover in een sketch, waarin ze dit fenomeen op de hak neemt. Dan is daar Noah Brewster, een oogverblindend knappe popster die ooit doorbrak met een kitscherig zomerhitje en nu te gast is in de show. Tot haar eigen verbazing kunnen ze het meteen goed met elkaar vinden. In de hectische opmaat naar de uitzending begint Sally zich af te vragen of er misschien echt iets tussen hen speelt. Maar dit is geen romcom, dit is de echte wereld. En in de echte wereld zou iemand zoals hij nooit vallen voor iemand zoals zij... toch? Met haar kenmerkende talent voor het neerzetten van gelaagde, levensechte vrouwen onderzoekt Curtis Sittenfeld de zenuwslopende \u00e9n betoverende kanten van de liefde Romantic Comedy laat je hardop lachen en zit tegelijkertijd vol citeerbare wijsheden In de pers 'Een liefdesbrief aan de klassieke romcom. Sittenfelds werk draait om het ontrafelen van vrouwelijke verlangens: wat we willen, wat we absoluut niet willen, en misschien wel het belangrijkste, wat we \u00fcberhaupt m\u00f3gen willen. Een bruisende rit.' The New York Times Book Review (editor's choice) 'Sprankelend, onweerstaanbaar meeslepend, vol warmte en drama. Romantic Comedy blinkt uit in structuur, tempo en dialogen. Een charmant en slim geschreven verhaal over werk en liefde.' The Guardian 'Raakt zowel het hart als de lachspieren. Wat het extra leuk maakt, is dat de hoofdpersoon in Romantic Comedy zich maar al te bewust is van de clich\u00e9s van romantische komedies. Ze weet dat het echte leven geen sprookje is. Maar zou het dit keer anders zijn?' The Washington Post",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789402327977"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9402327975"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MD3fEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MD3fEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com/books?id=MD3fEQAAQBAJ&printsec=frontcover&dq=intitle:%22Romantic+Comedy%22+inauthor:%22Curtis+Sittenfeld%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MD3fEQAAQBAJ&dq=intitle:%22Romantic+Comedy%22+inauthor:%22Curtis+Sittenfeld%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romantic_Comedy.html?hl=&id=MD3fEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romantic_Comedy-sample-epub.acsm?id=MD3fEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Romantic_Comedy-sample-pdf.acsm?id=MD3fEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MD3fEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Met haar kenmerkende talent voor het neerzetten van gelaagde, levensechte vrouwen onderzoekt Curtis Sittenfeld de zenuwslopende \u00e9n betoverende kanten van de liefde Romantic Comedy laat je hardop lachen en zit tegelijkertijd vol citeerbare ..."
+      }
+    }
+  ]
+}

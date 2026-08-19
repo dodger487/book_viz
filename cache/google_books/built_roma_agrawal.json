@@ -1,0 +1,115 @@
+{
+  "kind": "books#volume",
+  "id": "fmMzDwAAQBAJ",
+  "etag": "CCHZ5OUkSCI",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/fmMzDwAAQBAJ",
+  "volumeInfo": {
+    "title": "Built",
+    "subtitle": "The Hidden Stories Behind Our Structures",
+    "authors": [
+      "Roma Agrawal"
+    ],
+    "publisher": "Bloomsbury Publishing USA",
+    "publishedDate": "2018-02-13",
+    "description": "<b>Winner of the AAAS/Subaru SB&F Prize for Excellence in Science Books </b><br><b><br></b><b>The wonders of engineering revealed--by the inspirational female engineer behind the Shard, Western Europe's tallest building.</b><br><br>While our cities are full of incredible engineering feats, most of us live with little idea of what goes into creating the built environment, let alone how a new building goes up, what it is constructed upon, or how it remains standing.<br><br>In <i>Built</i>, star structural engineer Roma Agrawal explains how construction has evolved from the mud huts of our ancestors to skyscrapers of steel that reach into the sky. She unearths how humans have tunneled through solid mountains; how we've walked across the widest of rivers, and tamed nature's precious water resources. She tells vivid tales of the visionaries who created the groundbreaking materials used to build the Pantheon and the Eiffel Tower; and explains how careful engineering can minimize tragedies like the collapse of the Quebec Bridge. Interweaving science, history, illustrations, and personal stories, <i>Built </i>offers a fascinating window into a subject that makes up the foundation of our everyday lives.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1635570212"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781635570212"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 320,
+    "printedPageCount": 321,
+    "dimensions": {
+      "height": "25.00 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Architecture / Buildings / Public, Commercial & Industrial",
+      "Technology & Engineering / Construction / General",
+      "Technology & Engineering / Structural",
+      "Science / General"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.22.21.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=fmMzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71awfs352nwXBYHjwmjo0j9BMhsc4CIYK-0I_b6PSv21o3JfZunjQr1uNtgFe6W-qxRACq-ve9ogRMu4wK_uYwzGxEfnFTv-FKlZKY8ilI7sRS9Mic3HnZ_fWX-KkMVEqOfTxp2&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=fmMzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71GTVGg_mloWoF3vwzRQKC222Krf5oXhT4fId0qaelq5igH_SqK8Bf_Z9GHeQxmx6JMrsotavcqwgREoYYtAFCPPdUsw6DY_wCmjTJXlOpfHzArWknWdv2WEAMY51U8gUe3UEmd&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=fmMzDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73TLk4MDIBV-YfGkuNjws3ZrbJwV-ASjGxIY9PF9NOak_P131Zy_BhUBrbueY83QEPax13hOerrB2qhCa3zxSqUhW9hDz6QJmKhLnOgOyjv_tRgwy2ZrqcIyt9t1GNREKNPjKIW&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=fmMzDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71M6GJI2S-v6CAJjixUWiFf4k2YONDBqZh-aKAoJK7mk6Pi4AB-k3ZBfcDO6KKBPDtBU0NWm4IeQCP1NNS7ORoeuSYFq9EsCk5pva_HjhWaB4IkVl6N3yWtRQRCwAAprl2uPusq&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=fmMzDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73YUm4ChwYZki0jPJawNKCjoj5KBgfFF9wZmhTt5hhc8seFp91NRib34Rt8xw7M8BGtMFJO-xIFK9dNVnGdOaNu-qe5P-bMEXc00uLQ-BkYdlCGcPutNK3gRE7Q9s7a1gZ1p8dh&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=fmMzDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72egGI5dxFBEVYFV8dC2IgLjs1JjEhanRuNM040X7RyjmFUu9bUypYApQpvXGAj5j8J2qZF7lpir0lnBTyH9uh5EFU1qsHrDWaYE1JzCYxkSJKeRUHGdscqNNrN3b93kA9fMFVC&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fmMzDwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fmMzDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fmMzDwAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "29"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 15.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 15.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fmMzDwAAQBAJ&rdid=book-fmMzDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 15990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 15990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fmMzDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

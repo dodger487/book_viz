@@ -1,0 +1,227 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "O9E8gGrjhj4C",
+      "etag": "M+rBR9iDJBE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O9E8gGrjhj4C",
+      "volumeInfo": {
+        "title": "American Pastoral",
+        "authors": [
+          "Philip Roth"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "1998",
+        "description": "\"Seymour 'Swede' Levov - a legendary high school athlete, a devoted family man, a hard worker, the prosperous inheritor of his father's Newark glove factory - comes of age in thriving, triumphant post-war America. But everything he loves is lost when the country begins to run amok in the turbulent 1960s. American Pastoral is the story of a fortunate American's rise and fall - of a strong, confident master of social equilibrium overwhelmed by the forces of social disorder.\"--Publisher's website.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780099771814"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0099771810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.88.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O9E8gGrjhj4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O9E8gGrjhj4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=O9E8gGrjhj4C&dq=intitle:%22American+Pastoral%22+inauthor:%22Philip+Roth%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=O9E8gGrjhj4C&dq=intitle:%22American+Pastoral%22+inauthor:%22Philip+Roth%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Pastoral.html?hl=&id=O9E8gGrjhj4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O9E8gGrjhj4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "American Pastoral is the story of a fortunate American&#39;s rise and fall - of a strong, confident master of social equilibrium overwhelmed by the forces of social disorder.&quot;--Publisher&#39;s website."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iDrV0QEACAAJ",
+      "etag": "dplHpPrLbCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iDrV0QEACAAJ",
+      "volumeInfo": {
+        "title": "American Pastoral",
+        "subtitle": "A Novel",
+        "authors": [
+          "Philip Roth"
+        ],
+        "publisher": "Mariner Books",
+        "publishedDate": "2026-05-26",
+        "description": "WINNER OF THE PULITZER PRIZE A Los Angeles Times Best Fiction Book of the Last 30 Years \"An incandescent fiction.... American Pastoral scintillates with more Rothian wit, paradox, eloquent tantrums and absurd pratfalls placed at the exit of each irresistible argument that can be counted.... He strikes a vivid blaze.\" --Los Angeles Times Book Review The first book in the brilliant American Trilogy of postwar set novels, American Pastoral dissects the American dream during the social upheaval of the 1960s and is widely considered to be one Philip Roth's masterpieces. Seymour \"Swede\" Levov--a legendary high school athlete, a devoted family man, a hard worker, the prosperous inheritor of his father's Newark glove factory--comes of age in thriving, triumphant postwar America. But everything he loves is lost when the country begins to run amok, including his beloved daughter Merry, who commits an outlandish act of political terrorism. Not even the most private, well-intentioned citizen, it seems, gets to sidestep the sweep of history. With vigorous realism, Roth takes us back to the conflicts and violent transitions of the 1960s. It's a book about wanting to belong--and refusing to belong--to America. It sets the desire for an American pastoral--a respectable life of space, calm, order, optimism, and achievement--against the American Berserk.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0063499304"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063499300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iDrV0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iDrV0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iDrV0QEACAAJ&dq=intitle:%22American+Pastoral%22+inauthor:%22Philip+Roth%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iDrV0QEACAAJ&dq=intitle:%22American+Pastoral%22+inauthor:%22Philip+Roth%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Pastoral.html?hl=&id=iDrV0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iDrV0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; --Los Angeles Times Book Review The first book in the brilliant American Trilogy of postwar set novels, American Pastoral dissects the American dream during the social upheaval of the 1960s and is widely considered to be one Philip Roth&#39;s ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RtrbAgAAQBAJ",
+      "etag": "/UZqGHSrTQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RtrbAgAAQBAJ",
+      "volumeInfo": {
+        "title": "American Pastoral (Mandarin Edition)",
+        "authors": [
+          "Philip Roth"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-02-25",
+        "description": "\u300a\u7f8e\u56fd\u7267\u6b4c\u300b It is an elegy for all our century's promises of prosperity, civic order, and domestic bliss. Swede Levov, a legendary athlete at his Newark high school, who grows up in the booming postwar years to marry a former Miss New Jersey, inherit his father's glove factory, and move into a stone house in the idyllic hamlet of Old Rimrock. And then one day in 1968, Swede's beautiful American luck deserts him. \u201c\u7f8e\u56fd\u4e09\u90e8\u66f2\u201d\u4e4b\u9996\u7684\u300a\u7f8e\u56fd\u7267\u6b4c\u300b\uff0c\u4f53\u73b0\u4e86\u7f8e\u56fd\u793e\u4f1a\u4e2d\u7531\u6765\u5df2\u4e45\u7684\u51b2\u7a81\uff1a\u76f8\u4fe1\u201c\u7f8e\u56fd\u68a6\u201d\u7684\u4eba\uff0c\u4ee5\u4e3a\u53ea\u8981\u52aa\u529b\u548c\u6b63\u6d3e\uff0c\u5c31\u53ef\u7f8e\u68a6\u6210\u771f\uff1b\u7136\u800c\u5386\u53f2\u7684\u60b2\u5267\u6027\u5e38\u5e38\u548c\u4e2a\u4eba\u662f\u5426\u52aa\u529b\u548c\u6b63\u6d3e\u65e0\u5173\u3002",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9787894000590"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "7894000590"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RtrbAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RtrbAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "zh-CN",
+        "previewLink": "http://books.google.com/books?id=RtrbAgAAQBAJ&printsec=frontcover&dq=intitle:%22American+Pastoral%22+inauthor:%22Philip+Roth%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RtrbAgAAQBAJ&dq=intitle:%22American+Pastoral%22+inauthor:%22Philip+Roth%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Pastoral_Mandarin_Edition.html?hl=&id=RtrbAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/American_Pastoral_Mandarin_Edition-sample-epub.acsm?id=RtrbAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RtrbAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u300a\u7f8e\u56fd\u7267\u6b4c\u300b It is an elegy for all our century&#39;s promises of prosperity, civic order, and domestic bliss."
+      }
+    }
+  ]
+}

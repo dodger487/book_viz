@@ -1,0 +1,67 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3379613A"
+      ],
+      "author_name": [
+        "Ta-Nehisi Coates"
+      ],
+      "cover_edition_key": "OL25773328M",
+      "cover_i": 11328078,
+      "ebook_access": "printdisabled",
+      "edition_count": 18,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "betweenworldme0000coat_d7q6",
+        "isbn_9781925240702"
+      ],
+      "ia_collection": [
+        "americana",
+        "bannedbooks",
+        "internetarchivebooks",
+        "openlibraryscanningteam",
+        "printdisabled"
+      ],
+      "key": "/works/OL17201654W",
+      "language": [
+        "eng",
+        "fre",
+        "ger",
+        "kor"
+      ],
+      "public_scan_b": false,
+      "title": "Between the World and Me"
+    },
+    {
+      "author_key": [
+        "OL3379613A"
+      ],
+      "author_name": [
+        "Ta-Nehisi Coates"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1957,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_S0-BKC-984"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43095361W",
+      "public_scan_b": false,
+      "title": " Between the World and Me"
+    }
+  ]
+}

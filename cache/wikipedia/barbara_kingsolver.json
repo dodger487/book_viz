@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Barbara Kingsolver",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Barbara Kingsolver</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1264643",
+  "titles": {
+    "canonical": "Barbara_Kingsolver",
+    "normalized": "Barbara Kingsolver",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Barbara Kingsolver</span></span>"
+  },
+  "pageid": 783923,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Barbara_Kingsolver_%2848684513758%29_%28cropped%29.jpg/330px-Barbara_Kingsolver_%2848684513758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Barbara_Kingsolver_%2848684513758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 655,
+    "height": 874
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366970842",
+  "tid": "af56a23c-8c92-11f1-8146-984132215f0e",
+  "timestamp": "2026-07-31T03:48:26Z",
+  "description": "American author, poet, and essayist (born 1955)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Barbara_Kingsolver",
+      "revisions": "https://en.wikipedia.org/wiki/Barbara_Kingsolver?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Barbara_Kingsolver?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Barbara_Kingsolver"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Barbara_Kingsolver",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Barbara_Kingsolver",
+      "edit": "https://en.wikipedia.org/wiki/Barbara_Kingsolver?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Barbara_Kingsolver"
+    }
+  },
+  "extract": "Barbara Ellen Kingsolver is an American novelist, essayist, and poet. Her widely known works include The Poisonwood Bible, the tale of a missionary family in the Congo; and Animal, Vegetable, Miracle, a nonfiction account of her family's attempts to eat locally. In 2023, she was awarded the Pulitzer Prize for Fiction for the novel Demon Copperhead. Her work often focuses on topics such as social justice, biodiversity, and the interaction between humans and their communities and environments.",
+  "extract_html": "<p><b>Barbara Ellen Kingsolver</b> is an American novelist, essayist, and poet. Her widely known works include <i>The Poisonwood Bible</i>, the tale of a missionary family in the Congo; and <i>Animal, Vegetable, Miracle</i>, a nonfiction account of her family's attempts to eat locally. In 2023, she was awarded the Pulitzer Prize for Fiction for the novel <i>Demon Copperhead</i>. Her work often focuses on topics such as social justice, biodiversity, and the interaction between humans and their communities and environments.</p>"
+}

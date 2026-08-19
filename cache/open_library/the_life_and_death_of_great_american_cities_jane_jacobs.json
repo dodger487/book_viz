@@ -1,0 +1,83 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL29371A"
+      ],
+      "author_name": [
+        "Jane Jacobs"
+      ],
+      "cover_edition_key": "OL18337175M",
+      "cover_i": 5540237,
+      "ebook_access": "printdisabled",
+      "edition_count": 47,
+      "first_publish_year": 1961,
+      "has_fulltext": true,
+      "ia": [
+        "deathlifeofgreat0000jane",
+        "deathlifeofgreat0000jaco_e4x9",
+        "deathlifeofgreat0000jaco_n0t5",
+        "deathlifeofgre00jaco",
+        "deathlifeofgreat00jaco"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "marygrovecollege",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "saiacs-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofthewest-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL93641W",
+      "language": [
+        "heb",
+        "ger",
+        "eng",
+        "spa",
+        "ita",
+        "fre",
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "The Death and Life of Great American Cities"
+    },
+    {
+      "author_key": [
+        "OL29371A"
+      ],
+      "author_name": [
+        "Jane Jacobs"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1962,
+      "has_fulltext": false,
+      "key": "/works/OL44958675W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Reprints of three reviews of The Death and Life of Great American Cities, by Jane Jacobs, Random House. 1961"
+    }
+  ]
+}

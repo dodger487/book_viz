@@ -1,0 +1,66 @@
+{
+  "description": "In noir master Raymond Chandler's The Long Goodbye, Philip Marlowe befriends a down on his luck war veteran with the scars to prove it. Then he finds out that Terry Lennox has a very wealthy nymphomaniac wife, whom he divorced and remarried and who ends up dead. And now Lennox is on the lam and the cops and a crazy gangster are after Marlowe.",
+  "title": "The Long Goodbye",
+  "covers": [
+    1284561,
+    4992597
+  ],
+  "subject_places": [
+    "Los Angeles (Calif.)",
+    "California",
+    "Los Angeles"
+  ],
+  "subjects": [
+    "Los Angeles (Calif.)",
+    "Private investigators",
+    "Detective and mystery stories",
+    "Los Angeles (Calif.) - Fiction",
+    "Mystery & Detective",
+    "Political",
+    "Hard-Boiled",
+    "Fiction",
+    "Mystery fiction",
+    "American Detective and mystery stories",
+    "General",
+    "California",
+    "Private investigators - California - Los Angeles - Fiction",
+    "Los Angeles",
+    "Marlowe; Philip (Fictitious character)",
+    "Philip Marlowe (Fictitious character)",
+    "Marlowe; Philip (Fictitious character) - Fiction",
+    "Crime",
+    "Fiction, mystery & detective, hard-boiled",
+    "California, fiction",
+    "Marlowe, philip (fictitious character), fiction",
+    "Los angeles (calif.), fiction",
+    "Private investigators, fiction",
+    "Edgar Award"
+  ],
+  "subject_people": [
+    "Private investigators- Marlowe; Philip (Fictitious character)"
+  ],
+  "key": "/works/OL15400581W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2632008A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-10-11T22:16:39.732695"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-01-05T20:14:38.601307"
+  }
+}

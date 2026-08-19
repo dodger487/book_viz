@@ -1,0 +1,173 @@
+{
+  "numFound": 10,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 10,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL28314A"
+      ],
+      "author_name": [
+        "Dashiell Hammett"
+      ],
+      "cover_edition_key": "OL9021179M",
+      "cover_i": 998587,
+      "ebook_access": "public",
+      "edition_count": 95,
+      "first_publish_year": 1929,
+      "has_fulltext": true,
+      "ia": [
+        "maltesefalcon0000dash",
+        "maltesefalcon01hamm",
+        "demaltezervalk0000hamm",
+        "isbn_9788535901153",
+        "halconmaltesel0000dash",
+        "maltesefalcon0000dash_i5l4",
+        "maltesefalcon0000dash_l8s6",
+        "bwb_O7-BTR-340",
+        "maltesefalcon000hamm",
+        "maltesefalcon0000hamm",
+        "maltesefalcon200hamm",
+        "maltesefalcon100hamm",
+        "maltesefalconcri00dash",
+        "M199382014"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "delawarecountydistrictlibrary",
+        "duke_libraries",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "stmaryscountylibrary",
+        "swarthmore-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol",
+        "wrlc-ol"
+      ],
+      "key": "/works/OL47266W",
+      "language": [
+        "eng",
+        "por",
+        "ind",
+        "ger",
+        "spa",
+        "jpn",
+        "dut",
+        "heb",
+        "fre"
+      ],
+      "lending_edition_s": "OL58934836M",
+      "lending_identifier_s": "maltesefalcon0000dash",
+      "public_scan_b": true,
+      "title": "The Maltese Falcon"
+    },
+    {
+      "author_key": [
+        "OL28314A"
+      ],
+      "author_name": [
+        "Dashiell Hammett"
+      ],
+      "cover_edition_key": "OL389457M",
+      "cover_i": 929386,
+      "ebook_access": "borrowable",
+      "edition_count": 17,
+      "first_publish_year": 1965,
+      "has_fulltext": true,
+      "ia": [
+        "completenovelsre00hamm",
+        "dashiellhammettf00hamm",
+        "dashiellhammettf0000hamm",
+        "completenovelsre00hamm"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL47279W",
+      "language": [
+        "rus",
+        "eng"
+      ],
+      "lending_edition_s": "OL24928922M",
+      "lending_identifier_s": "completenovelsre00hamm",
+      "public_scan_b": false,
+      "title": "Novels (Red Harvest / The Dain Curse / The Maltese Falcon / The Glass Key / The Thin Man)"
+    },
+    {
+      "author_key": [
+        "OL28314A"
+      ],
+      "author_name": [
+        "Dashiell Hammett"
+      ],
+      "cover_edition_key": "OL46914505M",
+      "cover_i": 15011006,
+      "ebook_access": "borrowable",
+      "edition_count": 3,
+      "first_publish_year": 1964,
+      "has_fulltext": true,
+      "ia": [
+        "maltesefalconthi0000dash"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL47273W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL46914505M",
+      "lending_identifier_s": "maltesefalconthi0000dash",
+      "public_scan_b": false,
+      "title": "The Maltese falcon, & The thin man"
+    }
+  ]
+}

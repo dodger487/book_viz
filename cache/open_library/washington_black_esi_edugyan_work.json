@@ -1,0 +1,73 @@
+{
+  "description": "George Washington Black, or \"Wash,\" an eleven-year-old field slave on a Barbados sugar plantation, is terrified to be chosen by his master's brother as his manservant. To his surprise, the eccentric Christopher Wilde turns out to be a naturalist, explorer, inventor, and abolitionist. Soon Wash is initiated into a world where a flying machine can carry a man across the sky, where even a boy born in chains may embrace a life of dignity and meaning--and where two people, separated by an impossible divide, can begin to see each other as human. But when a man is killed and a bounty is placed on Wash's head, Christopher and Wash must abandon everything. What follows is their flight along the eastern coast of America, and, finally, to a remote outpost in the Arctic. What brings Christopher and Wash together will tear them apart, propelling Wash even further across the globe in search of his true self.",
+  "covers": [
+    8825098,
+    8843525,
+    10720671,
+    10855852,
+    11231941
+  ],
+  "key": "/works/OL19669797W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1392804A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Washington Black",
+  "subjects": [
+    "Fiction",
+    "Freedom",
+    "Men",
+    "Ficiton",
+    "Slavery",
+    "nyt:trade-fiction-paperback=2019-05-12",
+    "New York Times bestseller",
+    "Fiction, historical, general",
+    "Caribbean area, fiction",
+    "Slaves, fiction",
+    "Fiction, historical",
+    "Voyages and travels",
+    "African American",
+    "Historical",
+    "Action & Adventure",
+    "Literary",
+    "FICTION / African American / Historical",
+    "FICTION / Action & Adventure",
+    "FICTION / Literary",
+    "Canadian fiction",
+    "Slaves",
+    "Collection:Canada Reads",
+    "Collection:Canada Reads 2022",
+    "Fugitive slaves",
+    "Naturalists",
+    "Flying-machines"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_people": [
+    "Washington Black \"Wash\"",
+    "Christopher Wilde"
+  ],
+  "subject_places": [
+    "Barbados.",
+    "Carribean Sugar Plantation",
+    "American East Coast",
+    "Arctic Region"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-15T08:52:40.018622"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-06T08:40:08.988943"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nmznDwAAQBAJ",
+      "etag": "egVyBpVZX8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nmznDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Four Futures",
+        "subtitle": "Life After Capitalism",
+        "authors": [
+          "Peter Frase"
+        ],
+        "publisher": "Verso Books",
+        "publishedDate": "2016-11-01",
+        "description": "\"It is easier to imagine the end of the world,\" the theorist Fredric Jameson has remarked, \"than to imagine the end of capitalism.\" Jacobin Editor Peter Frase argues that technological advancements and environmental threats will inevitably push our society beyond capitalism, and Four Futures imagines just how this might look. Extrapolating possible futures from current changes the world is now experiencing, and drawing upon speculative fictions to illustrate how these futures might be realized, Four Futures examines communism, rentism, socialism, and exterminism-or in other words, the socialisms we may reach if a resurgent Left is successful and the barbarisms we may be consigned to if those movements fail.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781688144"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781688141"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nmznDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nmznDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nmznDwAAQBAJ&printsec=frontcover&dq=intitle:%22Four+Futures%22+inauthor:%22Peter+Frase%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nmznDwAAQBAJ&dq=intitle:%22Four+Futures%22+inauthor:%22Peter+Frase%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Four_Futures.html?hl=&id=nmznDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Four_Futures-sample-epub.acsm?id=nmznDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Four_Futures-sample-pdf.acsm?id=nmznDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nmznDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; Jacobin Editor Peter Frase argues that technological advancements and environmental threats will inevitably push our society beyond capitalism, and Four Futures imagines just how this might look."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LWgL0AEACAAJ",
+      "etag": "mTQ8tuyUTco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LWgL0AEACAAJ",
+      "volumeInfo": {
+        "title": "Four Futures",
+        "subtitle": "Life After Capitalism",
+        "authors": [
+          "Peter Frase"
+        ],
+        "publisher": "Verso Books",
+        "publishedDate": "2016-10-11",
+        "description": "An \u201cinvigorating\u201d vision of four post-capitalist futures that consider the intersections of technology, the environment, and modern politics (The Guardian) Peter Frase argues that increasing automation and a growing scarcity of resources, thanks to climate change, will bring it all tumbling down. In Four Futures, Frase imagines how this post-capitalist world might look, deploying the tools of both social science and speculative fiction to explore what communism, rentism, socialism and exterminism might actually entail. Could the current rise of real-life robocops usher in a world that resembles Ender\u2019s Game? And sure, communism will bring an end to material scarcities and inequalities of wealth\u2014but there\u2019s no guarantee that social hierarchies, governed by an economy of \u201clikes,\u201d wouldn\u2019t rise to take their place. A whirlwind tour through science fiction, social theory and the new technologies already shaping our lives, Four Futures is a balance sheet of the socialisms we may reach if a resurgent Left is successful, and the barbarisms we may be consigned to if those movements fail.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781688137"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781688133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LWgL0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LWgL0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LWgL0AEACAAJ&dq=intitle:%22Four+Futures%22+inauthor:%22Peter+Frase%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LWgL0AEACAAJ&dq=intitle:%22Four+Futures%22+inauthor:%22Peter+Frase%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Four_Futures.html?hl=&id=LWgL0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LWgL0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; &#39;Jacobin&#39; Editor Peter Frase argues that technological advancements and environmental threats will inevitably push our society beyond capitalism, and &#39;Four Futures&#39; imagines just how this might look."
+      }
+    }
+  ]
+}

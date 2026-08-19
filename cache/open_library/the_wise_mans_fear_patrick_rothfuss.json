@@ -1,0 +1,124 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2830895A"
+      ],
+      "author_name": [
+        "Patrick Rothfuss"
+      ],
+      "cover_edition_key": "OL9808760M",
+      "cover_i": 8294024,
+      "ebook_access": "borrowable",
+      "edition_count": 32,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "eltemordelhombre0000roth",
+        "wisemansfear0000roth",
+        "wisemansfear0000roth_y0g0",
+        "isbn_9780756407124",
+        "isbn_9780756404734"
+      ],
+      "ia_collection": [
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "stmaryscountylibrary",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL8479869W",
+      "language": [
+        "eng",
+        "por",
+        "tur",
+        "spa",
+        "cat",
+        "heb"
+      ],
+      "lending_edition_s": "OL26433923M",
+      "lending_identifier_s": "eltemordelhombre0000roth",
+      "public_scan_b": false,
+      "series_key": [
+        "OL337960L"
+      ],
+      "series_name": [
+        "The Kingkiller Chronicle"
+      ],
+      "series_position": [
+        "2"
+      ],
+      "title": "The Wise Man\u2019s Fear"
+    },
+    {
+      "author_key": [
+        "OL2830895A"
+      ],
+      "author_name": [
+        "Patrick Rothfuss"
+      ],
+      "cover_edition_key": "OL32576402M",
+      "cover_i": 11218175,
+      "ebook_access": "borrowable",
+      "edition_count": 5,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9782352946588"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16817144W",
+      "language": [
+        "ger",
+        "fre",
+        "gre"
+      ],
+      "lending_edition_s": "OL25443622M",
+      "lending_identifier_s": "isbn_9782352946588",
+      "public_scan_b": false,
+      "title": "The Wise Man\u2019s Fear [1/2]"
+    },
+    {
+      "author_key": [
+        "OL2830895A"
+      ],
+      "author_name": [
+        "Patrick Rothfuss"
+      ],
+      "cover_edition_key": "OL32576408M",
+      "cover_i": 11218180,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL16817145W",
+      "language": [
+        "ger",
+        "fre",
+        "gre"
+      ],
+      "public_scan_b": false,
+      "title": "The Wise Man\u2019s Fear [2/2]"
+    }
+  ]
+}

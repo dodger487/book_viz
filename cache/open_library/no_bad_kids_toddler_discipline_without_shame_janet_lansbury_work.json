@@ -1,0 +1,44 @@
+{
+  "title": "No Bad Kids: Toddler Discipline Without Shame",
+  "subjects": [
+    "Discipline",
+    "Parenting",
+    "Parent and child",
+    "Discipline of children",
+    "Child rearing",
+    "Toddlers",
+    "Parent-Child Relations",
+    "Child Rearing",
+    "Parents et enfants",
+    "\u00c9ducation des enfants",
+    "R\u00f4le parental",
+    "Enfants"
+  ],
+  "key": "/works/OL17340178W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7415460A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12984325
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-05-13T15:56:10.444678"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-11-03T05:02:50.249448"
+  }
+}

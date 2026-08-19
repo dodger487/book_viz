@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David McCullough",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David McCullough</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q374610",
+  "titles": {
+    "canonical": "David_McCullough",
+    "normalized": "David McCullough",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David McCullough</span></span>"
+  },
+  "pageid": 1186092,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/David_McCullough_64-CFD-20050630-01-005_%28cropped%29.jpg/330px-David_McCullough_64-CFD-20050630-01-005_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 400
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/David_McCullough_64-CFD-20050630-01-005_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 859,
+    "height": 1041
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366240127",
+  "tid": "8f9d42ee-8951-11f1-82d5-9dc2ac07e1ad",
+  "timestamp": "2026-07-27T00:24:42Z",
+  "description": "American historian and author (1933\u20132022)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_McCullough",
+      "revisions": "https://en.wikipedia.org/wiki/David_McCullough?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_McCullough?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_McCullough"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_McCullough",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_McCullough",
+      "edit": "https://en.wikipedia.org/wiki/David_McCullough?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_McCullough"
+    }
+  },
+  "extract": "David Gaub McCullough was an American popular historian and author. He was a two-time winner of both the Pulitzer Prize and the National Book Award. In 2006, he was given the Presidential Medal of Freedom, the United States' highest civilian award.",
+  "extract_html": "<p><b>David Gaub McCullough</b> was an American popular historian and author. He was a two-time winner of both the Pulitzer Prize and the National Book Award. In 2006, he was given the Presidential Medal of Freedom, the United States' highest civilian award.</p>"
+}

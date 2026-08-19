@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Jenny Zhang",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jenny Zhang</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q109520403",
+  "titles": {
+    "canonical": "Jenny_Zhang",
+    "normalized": "Jenny Zhang",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jenny Zhang</span></span>"
+  },
+  "pageid": 69239104,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354769542",
+  "tid": "7fd9f364-5270-11f1-a1c1-562aadc31184",
+  "timestamp": "2026-05-18T04:17:36Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jenny_Zhang",
+      "revisions": "https://en.wikipedia.org/wiki/Jenny_Zhang?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jenny_Zhang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jenny_Zhang"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jenny_Zhang",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jenny_Zhang",
+      "edit": "https://en.wikipedia.org/wiki/Jenny_Zhang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jenny_Zhang"
+    }
+  },
+  "extract": "Jenny Zhang may refer to:Jenny Zhang (actress), Chinese actress and singer\nJenny Zhang (chemist), Chinese Australian chemist\nJenny Zhang (writer), American writer, poet, and essayist\nJenny Tinghui Zhang (writer), American writer",
+  "extract_html": "<p><b>Jenny Zhang</b> may refer to:</p><ul><li>Jenny Zhang (actress), Chinese actress and singer</li>\n<li>Jenny Zhang (chemist), Chinese Australian chemist</li>\n<li>Jenny Zhang (writer), American writer, poet, and essayist</li>\n<li>Jenny Tinghui Zhang (writer), American writer</li></ul>"
+}

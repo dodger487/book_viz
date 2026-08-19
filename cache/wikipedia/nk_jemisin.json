@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "N. K. Jemisin",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">N. K. Jemisin</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2427544",
+  "titles": {
+    "canonical": "N._K._Jemisin",
+    "normalized": "N. K. Jemisin",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">N. K. Jemisin</span></span>"
+  },
+  "pageid": 29828568,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/N._K._Jemisin_%28cropped%29.jpg/330px-N._K._Jemisin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 403
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/N._K._Jemisin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 400,
+    "height": 488
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354631406",
+  "tid": "3947b0a8-51f6-11f1-8553-a47ad8df5161",
+  "timestamp": "2026-05-17T13:42:19Z",
+  "description": "American science fiction and fantasy writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/N._K._Jemisin",
+      "revisions": "https://en.wikipedia.org/wiki/N._K._Jemisin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/N._K._Jemisin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:N._K._Jemisin"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/N._K._Jemisin",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/N._K._Jemisin",
+      "edit": "https://en.wikipedia.org/wiki/N._K._Jemisin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:N._K._Jemisin"
+    }
+  },
+  "extract": "Nora Keita Jemisin is an American science fiction and fantasy writer. Her fiction includes a wide range of themes, notably cultural conflict and oppression. Her debut novel, The Hundred Thousand Kingdoms (2010), and the subsequent books in her Inheritance Trilogy received critical acclaim.",
+  "extract_html": "<p><b>Nora Keita Jemisin</b> is an American science fiction and fantasy writer. Her fiction includes a wide range of themes, notably cultural conflict and oppression. Her debut novel, <i>The Hundred Thousand Kingdoms</i> (2010), and the subsequent books in her <i>Inheritance Trilogy</i> received critical acclaim.</p>"
+}

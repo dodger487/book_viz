@@ -1,0 +1,61 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7487247A"
+      ],
+      "author_name": [
+        "Noah Strycker"
+      ],
+      "cover_edition_key": "OL33933684M",
+      "cover_i": 12441558,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL21348742W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Birding Without Borders"
+    },
+    {
+      "author_key": [
+        "OL7487247A"
+      ],
+      "author_name": [
+        "Noah Strycker"
+      ],
+      "cover_edition_key": "OL26810876M",
+      "cover_i": 8468115,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "birdingwithoutbo0000stry"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19354400W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL26810876M",
+      "lending_identifier_s": "birdingwithoutbo0000stry",
+      "public_scan_b": false,
+      "title": "Birding Without Borders: An Obsession, a Quest, and the Biggest Year in the World"
+    }
+  ]
+}

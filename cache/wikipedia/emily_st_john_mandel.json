@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Emily St. John Mandel",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily St. John Mandel</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3052385",
+  "titles": {
+    "canonical": "Emily_St._John_Mandel",
+    "normalized": "Emily St. John Mandel",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily St. John Mandel</span></span>"
+  },
+  "pageid": 44266591,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Emily_St_John_Mandel_-_2017.jpg/330px-Emily_St_John_Mandel_-_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 333
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Emily_St_John_Mandel_-_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 897,
+    "height": 905
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1362993099",
+  "tid": "77946c27-7a00-11f1-a1ab-d5c34bca9313",
+  "timestamp": "2026-07-07T12:36:25Z",
+  "description": "Canadian writer (born 1979)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Emily_St._John_Mandel",
+      "revisions": "https://en.wikipedia.org/wiki/Emily_St._John_Mandel?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Emily_St._John_Mandel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emily_St._John_Mandel"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Emily_St._John_Mandel",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Emily_St._John_Mandel",
+      "edit": "https://en.wikipedia.org/wiki/Emily_St._John_Mandel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emily_St._John_Mandel"
+    }
+  },
+  "extract": "Emily St. John Mandel is a Canadian novelist and essayist. She has written six novels, including Station Eleven (2014), The Glass Hotel (2020), and Sea of Tranquility (2022). Station Eleven, which has been translated into 33 languages, has been adapted into a limited series on HBO Max. The Glass Hotel was translated into twenty languages and was selected by Barack Obama as one of his favorite books of 2020. Sea of Tranquility was published in April 2022 and debuted at number three on The New York Times Best Seller list.",
+  "extract_html": "<p><b>Emily St. John Mandel</b> is a Canadian novelist and essayist. She has written six novels, including <i>Station Eleven</i> (2014), <i>The Glass Hotel</i> (2020), and <i>Sea of Tranquility</i> (2022). <i>Station Eleven</i>, which has been translated into 33 languages, has been adapted into a limited series on HBO Max. <i>The Glass Hotel</i> was translated into twenty languages and was selected by Barack Obama as one of his favorite books of 2020. <i>Sea of Tranquility</i> was published in April 2022 and debuted at number three on <span><i>The New York Times</i> Best Seller list</span>.</p>"
+}

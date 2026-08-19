@@ -1,0 +1,218 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1MK1DlcNYXoC",
+      "etag": "u1IM8VN7J7U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1MK1DlcNYXoC",
+      "volumeInfo": {
+        "title": "Three Bags Full",
+        "authors": [
+          "Leonie Swann"
+        ],
+        "publisher": "Anchor Canada",
+        "publishedDate": "2010-10-29",
+        "description": "A witty philosophical murder mystery with a charming twist: the crack detectives are sheep determined to discover who killed their beloved shepherd. On a hillside near the cozy Irish village of Glennkill, a flock of sheep gathers around their shepherd, George, whose body lies pinned to the ground with a spade. George has cared devotedly for the flock, even reading them books every night. Led by Miss Maple, the smartest sheep in Glennkill (and possibly the world), they set out to find George\u2019s killer. The A-team of investigators includes Othello, the \u201cbad-boy\u201d black ram; Mopple the Whale, a Merino who eats a lot and remembers everything; and Zora, a pensive black-faced ewe with a weakness for abysses. Joined by other members of the richly talented flock, they engage in nightlong discussions about the crime, wild metaphysical speculations, and embark on reconnaissance missions into the village, where they encounter some likely suspects. Along the way, the sheep confront their own all-too-human struggles with guilt, misdeeds, and unrequited love. Funny, fresh, and endearing, it introduces a wonderful new breed of detectives to Canadian readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385673792"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385673795"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1MK1DlcNYXoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1MK1DlcNYXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1MK1DlcNYXoC&printsec=frontcover&dq=intitle:%22Three+Bags+Full%22+inauthor:%22Leonie+Swann%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1MK1DlcNYXoC&dq=intitle:%22Three+Bags+Full%22+inauthor:%22Leonie+Swann%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Bags_Full.html?hl=&id=1MK1DlcNYXoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Three_Bags_Full-sample-epub.acsm?id=1MK1DlcNYXoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1MK1DlcNYXoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A witty philosophical murder mystery with a charming twist: the crack detectives are sheep determined to discover who killed their beloved shepherd."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MtpbPgAACAAJ",
+      "etag": "kpN8tFmNtKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MtpbPgAACAAJ",
+      "volumeInfo": {
+        "title": "Three Bags Full",
+        "subtitle": "A Sheep Detective Story",
+        "authors": [
+          "Leonie Swann"
+        ],
+        "publishedDate": "2007",
+        "description": "After a herd of sheep discover their shepherd pinned to their pasture with a spade, they embark on an investigation to nail his murderer. While some of the detectives insist on chewing the evidence, Miss Maple, keeps her cohorts in line.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405639237"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405639231"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 429,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MtpbPgAACAAJ&dq=intitle:%22Three+Bags+Full%22+inauthor:%22Leonie+Swann%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MtpbPgAACAAJ&dq=intitle:%22Three+Bags+Full%22+inauthor:%22Leonie+Swann%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Bags_Full.html?hl=&id=MtpbPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MtpbPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After a herd of sheep discover their shepherd pinned to their pasture with a spade, they embark on an investigation to nail his murderer. While some of the detectives insist on chewing the evidence, Miss Maple, keeps her cohorts in line."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q4jAEQAAQBAJ",
+      "etag": "jHaPBCCJl7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q4jAEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Three Bags Full (The Sheep Detectives Movie Tie-in Edition)",
+        "authors": [
+          "Leonie Swann"
+        ],
+        "publisher": "Soho Press Inc",
+        "publishedDate": "2026-04-14",
+        "description": "Now a major motion picture (The Sheep Detectives starring Hugh Jackman, Nicholas Galitzine, and Emma Thompson), this funny and surprising mystery stars a new breed of detectives you\u2019ve got to read to baaaaa-lieve. This movie tie-in edition features a foreword by internationally bestselling author A. J. Finn, discussion questions, and bonus materials. Something is not right with George the shepherd. His sheep have gathered around him outside the cozy Irish village of Glennkill to assess the situation. George has cared for the sheep, reading them books every night, and now he lies pinned to the ground with a spade. His flock, far savvier about the workings of the human mind than your average sheep, sets out to find George\u2019s killer, led by Miss Maple, the smartest sheep in Glennkill (and possibly the world). Her team of investigators includes Othello, who was rescued from the Dublin Zoo; Mopple the Whale, who is always hungry and remembers everything; and Zora, an existential ewe\u2014just to name a few. Together, the sheep discuss the crime late into the night, and their speculations vary wildly. Determined to unravel the mystery, they embark on furtive missions into the village, where they encounter a hoof-full of two-legged suspects. There\u2019s Ham, the terrifying butcher who smells of death; Rebecca, the secretive village newcomer; and Father Will, a sinister priest the sheep call God. With wit and heart, this clever international bestseller is a mystery to chew on\u2014and savor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781641299084"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1641299088"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q4jAEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q4jAEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Q4jAEQAAQBAJ&dq=intitle:%22Three+Bags+Full%22+inauthor:%22Leonie+Swann%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Q4jAEQAAQBAJ&dq=intitle:%22Three+Bags+Full%22+inauthor:%22Leonie+Swann%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Bags_Full_The_Sheep_Detectives_Mov.html?hl=&id=Q4jAEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q4jAEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now a major motion picture (The Sheep Detectives starring Hugh Jackman, Nicholas Galitzine, and Emma Thompson), this funny and surprising mystery stars a new breed of detectives you\u2019ve got to read to baaaaa-lieve."
+      }
+    }
+  ]
+}

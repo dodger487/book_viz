@@ -1,0 +1,117 @@
+{
+  "numFound": 5,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 5,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL28493A"
+      ],
+      "author_name": [
+        "Kazuo Ishiguro"
+      ],
+      "cover_edition_key": "OL7856480M",
+      "cover_i": 95742,
+      "ebook_access": "borrowable",
+      "edition_count": 87,
+      "first_publish_year": 1989,
+      "has_fulltext": true,
+      "ia": [
+        "lesvestigesdujou0000kazu",
+        "ostacidana0000ishi",
+        "ostatokdniaroman0000ishi",
+        "ostatokdniaroman0000ishi_p8g8",
+        "wasvomtageubrigb0000ishi",
+        "changrijiangjin0000ishi",
+        "bwb_KS-374-438",
+        "remainsofday0000ishi",
+        "remainsofday00ishi",
+        "remainsofday00ishirich",
+        "remainsofday0000kazu",
+        "namainnunnanalre0000ishi",
+        "remainsofday0000ishi_y2u7",
+        "remainsofday00ishirich",
+        "remainsofday00ishi",
+        "remainsofday00ishi_1",
+        "remainsofday0000ishi_o4b0",
+        "remainsofday0000ishi_m2v5",
+        "remainsofday0000ishi_b3c7",
+        "remainsofday0000ishi_e9c9"
+      ],
+      "ia_collection": [
+        "americana",
+        "dartmouthlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "universityofarizona-ol"
+      ],
+      "key": "/works/OL59048W",
+      "language": [
+        "eng",
+        "ara",
+        "ger",
+        "tur",
+        "spa",
+        "srp",
+        "chi",
+        "pol",
+        "jpn",
+        "kor",
+        "rus",
+        "cat",
+        "ita",
+        "heb",
+        "fre"
+      ],
+      "lending_edition_s": "OL39220356M",
+      "lending_identifier_s": "lesvestigesdujou0000kazu",
+      "public_scan_b": false,
+      "title": "The Remains of the Day"
+    },
+    {
+      "author_key": [
+        "OL28493A"
+      ],
+      "author_name": [
+        "Kazuo Ishiguro"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL14875876W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Remains of the Day"
+    },
+    {
+      "author_key": [
+        "OL28493A"
+      ],
+      "author_name": [
+        "Kazuo Ishiguro"
+      ],
+      "cover_edition_key": "OL10641701M",
+      "cover_i": 2521417,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL14875879W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "An Artist Of The Floating World / The Remains Of The Day / The Unconsoled"
+    }
+  ]
+}

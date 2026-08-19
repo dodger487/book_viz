@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Maggie Nelson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Maggie Nelson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6730288",
+  "titles": {
+    "canonical": "Maggie_Nelson",
+    "normalized": "Maggie Nelson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Maggie Nelson</span></span>"
+  },
+  "pageid": 10027934,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maggie_Nelson.png/330px-Maggie_Nelson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 307
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Maggie_Nelson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 775,
+    "height": 720
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1347931561",
+  "tid": "6063d440-343d-11f1-b348-df7cc191c900",
+  "timestamp": "2026-04-09T17:56:04Z",
+  "description": "American writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Maggie_Nelson",
+      "revisions": "https://en.wikipedia.org/wiki/Maggie_Nelson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Maggie_Nelson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Maggie_Nelson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Maggie_Nelson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Maggie_Nelson",
+      "edit": "https://en.wikipedia.org/wiki/Maggie_Nelson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Maggie_Nelson"
+    }
+  },
+  "extract": "Maggie Nelson is an American writer. She has been described as a genre-busting writer defying classification, working in autobiography, art criticism, theory, feminism, queerness, sexual violence, the history of the avant-garde, aesthetic theory, philosophy, scholarship, and poetry. Nelson received a 2016 MacArthur Fellowship, and several other major awards in the years before that. She is best known for her work of autotheory, The Argonauts (2015).",
+  "extract_html": "<p><b>Maggie Nelson</b> is an American writer. She has been described as a genre-busting writer defying classification, working in autobiography, art criticism, theory, feminism, queerness, sexual violence, the history of the avant-garde, aesthetic theory, philosophy, scholarship, and poetry. Nelson received a 2016 MacArthur Fellowship, and several other major awards in the years before that. She is best known for her work of autotheory, <i>The Argonauts</i> (2015).</p>"
+}

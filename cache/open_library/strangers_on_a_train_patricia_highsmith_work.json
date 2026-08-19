@@ -1,0 +1,78 @@
+{
+  "covers": [
+    250171,
+    93434,
+    10325718,
+    381611,
+    8563139,
+    10858439,
+    10853986,
+    3177148,
+    12778532,
+    12889946
+  ],
+  "key": "/works/OL59482W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL28577A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Strangers On a Train",
+  "subjects": [
+    "Fiction",
+    "Mystery",
+    "Thriller",
+    "Classics",
+    "Crime",
+    "Mystery Thriller",
+    "Noir",
+    "Suspense",
+    "Gay murderers",
+    "Railroad travel",
+    "Murderers",
+    "Fiction, psychological",
+    "American literature",
+    "Audio-visual aids",
+    "Study and teaching",
+    "Readers",
+    "English language",
+    "High interest-low vocabulary books",
+    "Sound recordings for second language learners",
+    "Readers for new literates",
+    "Study and teaching as a second language",
+    "Fiction, mystery & detective, general",
+    "Murder",
+    "Insanity (Law)",
+    "Voyages en train",
+    "Romans, nouvelles",
+    "Meurtriers"
+  ],
+  "subject_times": [
+    "1940's"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "The world of Patricia Highsmith has always been filled with ordinary people, all of whom are capable of very ordinary crimes. This theme was present from the beginning, when her debut, Strangers on a Train, galvanized the reading public. Here we encounter Guy Haines and Charles Anthony Bruno, passengers on the same train. But while Guy is a successful architect in the midst of a divorce, Bruno turns out to be a sadistic psychopath who manipulates Guy into swapping murders with him. \"Some people are better off dead,\" Bruno remarks, \"like your wife and my father, for instance.\" As Bruno carries out his twisted plan, Guy is trapped in Highsmith's perilous world, where, under the right circumstances, anybody is capable of murder.",
+  "subject_people": [
+    "Guy Haines",
+    "Charles Anthony Bruno",
+    "Anne Faulkner",
+    "Miriam Haines"
+  ],
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T22:46:15.529792"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-29T19:23:22.046342"
+  }
+}

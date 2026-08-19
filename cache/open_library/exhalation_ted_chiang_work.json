@@ -1,0 +1,60 @@
+{
+  "subjects": [
+    "Fiction, short stories (single author)",
+    "Fiction, science fiction, short stories",
+    "nyt:hardcover-fiction=2019-05-26",
+    "New York Times bestseller",
+    "American Short stories",
+    "FICTION / Short Stories (single author)",
+    "FICTION / Literary",
+    "FICTION / Science Fiction / General",
+    "Scientists",
+    "Fiction",
+    "Artificial intelligence",
+    "Human behavior",
+    "Science fiction",
+    "Short stories",
+    "Science-Fiction",
+    "American Science fiction"
+  ],
+  "key": "/works/OL20149336W",
+  "title": "Exhalation",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1604887A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8793546,
+    8750324,
+    9207303,
+    10164098,
+    10175467,
+    10443864,
+    10630262,
+    12293934,
+    13798846
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "NATIONAL BESTSELLER \u2022 ONE OF THE NEW YORK TIMES BEST BOOKS OF THE YEAR \u2022 Nine stunningly original, provocative, and poignant stories\u2014two published for the very first time\u2014all from the mind of the incomparable author of Stories of Your Life and Others\r\n\r\nTackling some of humanity\u2019s oldest questions along with new quandaries only he could imagine, these stories will change the way you think, feel, and see the world. They are Ted Chiang at his best: profound, sympathetic, revelatory.\r\n\r\nTed Chiang tackles some of humanity\u2019s oldest questions along with new quandaries only he could imagine.\r\n\r\nIn \u201cThe Merchant and the Alchemist\u2019s Gate,\u201d a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and second chances. In \u201cExhalation,\u201d an alien scientist makes a shocking discovery with ramifications that are literally universal. In \u201cAnxiety Is the Dizziness of Freedom,\u201d the ability to glimpse into alternate universes necessitates a radically new examination of the concepts of choice and free will."
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-10-03T05:16:31.811369"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-03-15T14:03:16.763041"
+  }
+}

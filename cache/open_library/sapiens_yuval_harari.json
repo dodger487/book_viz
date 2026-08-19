@@ -1,0 +1,130 @@
+{
+  "numFound": 7,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 7,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3778242A"
+      ],
+      "author_name": [
+        "Yuval Noah Harari"
+      ],
+      "cover_edition_key": "OL26234146M",
+      "cover_i": 8634250,
+      "ebook_access": "borrowable",
+      "edition_count": 86,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "einekurzegeschic0000yuva",
+        "sapiensodzwierzt0000unse",
+        "deanimalesdioses0000hara",
+        "sapiensbriefhist0000hara",
+        "isbn_9780099590088",
+        "sapiensbriefhist0000hara_a2m1",
+        "sapiensdeanimale0000hara"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "openlibraryscanningteam",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL17075811W",
+      "language": [
+        "por",
+        "rum",
+        "fre",
+        "spa",
+        "eng",
+        "ger",
+        "pol",
+        "kor",
+        "urd",
+        "tur",
+        "hrv",
+        "ita",
+        "jpn"
+      ],
+      "lending_edition_s": "OL30624316M",
+      "lending_identifier_s": "einekurzegeschic0000yuva",
+      "public_scan_b": false,
+      "subtitle": "A Brief History of Humankind",
+      "title": "Sapiens"
+    },
+    {
+      "author_key": [
+        "OL3778242A"
+      ],
+      "author_name": [
+        "Yuval Noah Harari"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "sapiensbriefhist0000yuva"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43336900W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Sapiens"
+    },
+    {
+      "author_key": [
+        "OL3778242A"
+      ],
+      "author_name": [
+        "Yuval Noah Harari"
+      ],
+      "cover_edition_key": "OL27383406M",
+      "cover_i": 8846275,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL20196515W",
+      "public_scan_b": false,
+      "title": "Sapiens/Homo Deus box set"
+    }
+  ]
+}

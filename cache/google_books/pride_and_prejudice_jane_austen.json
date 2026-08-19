@@ -1,0 +1,222 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QeNSswEACAAJ",
+      "etag": "5k3qtYX9DAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QeNSswEACAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "subtitle": "By Jane Austen - Illustrated",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "2017-03-31",
+        "description": "How is this book unique? Font adjustments & biography included Unabridged (100% Original content) Illustrated About Pride and Prejudice by Jane Austen Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency. Elizabeth is the second of five daughters of a country gentleman, Mr. Bennet living in Longbourn. Page 2 of a letter from Jane Austen to her sister Cassandra (11 June 1799) in which she first mentions Pride and Prejudice, using its working title First Impressions. Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth. Pride and Prejudice retains a fascination for modern readers, continuing near the top of lists of \"most loved books.\" It has become one of the most popular novels in English literature, selling over 20 million copies, and receives considerable attention from literary scholars. Modern interest in the book has resulted in a number of dramatic adaptations and an abundance of novels and stories imitating Austen's memorable characters or themes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1520820070"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781520820071"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QeNSswEACAAJ&dq=intitle:%22Pride+and+Prejudice%22+inauthor:%22Jane+Austen%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QeNSswEACAAJ&dq=intitle:%22Pride+and+Prejudice%22+inauthor:%22Jane+Austen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=QeNSswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QeNSswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How is this book unique? Font adjustments &amp; biography included Unabridged (100% Original content) Illustrated About Pride and Prejudice by Jane Austen Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1gVAAAAYAAJ",
+      "etag": "421XXZnDfb8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1gVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1918",
+        "description": "Austen\u2019s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets\u2019 home in the English countryside, Elizabeth meets the wealthy, proud Fitzwilliam Darcy. Elizabeth initially finds Darcy haughty and intolerable, but circumstances continue to unite the pair. Mr. Darcy finds himself captivated by Elizabeth\u2019s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen\u2019s wry wit.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044086796588"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Courtship"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 350,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.14.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&printsec=frontcover&dq=intitle:%22Pride+and+Prejudice%22+inauthor:%22Jane+Austen%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&rdid=book-s1gVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.epub?id=s1gVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.pdf?id=s1gVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dQw5JDWdbVgk2VRHyDjVMT4oIaA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1gVAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mr. Darcy finds himself captivated by Elizabeth\u2019s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen\u2019s wry wit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5GbdTc9OJ78C",
+      "etag": "0OT2OZk0fEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5GbdTc9OJ78C",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1992",
+        "description": "Elizabeth Bennet's early determination to dislike Mr. Darcy is a prejudice only matched by his arrogant pride.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1853260002"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781853260001"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5GbdTc9OJ78C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5GbdTc9OJ78C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5GbdTc9OJ78C&printsec=frontcover&dq=intitle:%22Pride+and+Prejudice%22+inauthor:%22Jane+Austen%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5GbdTc9OJ78C&dq=intitle:%22Pride+and+Prejudice%22+inauthor:%22Jane+Austen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=5GbdTc9OJ78C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice-sample-epub.acsm?id=5GbdTc9OJ78C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pride_and_Prejudice-sample-pdf.acsm?id=5GbdTc9OJ78C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5GbdTc9OJ78C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From its famous opening sentence the story of the Bennet family and of the novel&#39;s two protagonists, Elizabeth and Darcy, told with a wit that its author feared might prove &#39;rather too light and bright, and sparkling&#39;, delights its most ..."
+      }
+    }
+  ]
+}

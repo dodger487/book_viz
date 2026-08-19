@@ -1,0 +1,99 @@
+{
+  "numFound": 18,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 18,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2632008A"
+      ],
+      "author_name": [
+        "Raymond Chandler"
+      ],
+      "cover_edition_key": "OL7852506M",
+      "cover_i": 1284561,
+      "ebook_access": "printdisabled",
+      "edition_count": 35,
+      "first_publish_year": 1953,
+      "has_fulltext": true,
+      "ia": [
+        "longgoodbye00chan_0",
+        "longgoodbye0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15400581W",
+      "language": [
+        "eng",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "The Long Goodbye"
+    },
+    {
+      "author_key": [
+        "OL2632008A"
+      ],
+      "author_name": [
+        "Raymond Chandler"
+      ],
+      "cover_edition_key": "OL24940743M",
+      "cover_i": 6958832,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1971,
+      "has_fulltext": true,
+      "ia": [
+        "longgoodbye00chan"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "printdisabled",
+        "randolph-macon-college-ol"
+      ],
+      "key": "/works/OL16039309W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The long goodbye"
+    },
+    {
+      "author_key": [
+        "OL2632008A"
+      ],
+      "author_name": [
+        "Raymond Chandler"
+      ],
+      "cover_edition_key": "OL33220648M",
+      "cover_i": 11932514,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "longgoodbye0000chan_o5f0",
+        "longgoodbye0000chan_q7f4"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24990898W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The long good-bye"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jane Austen",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jane Austen</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q36322",
+  "titles": {
+    "canonical": "Jane_Austen",
+    "normalized": "Jane Austen",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jane Austen</span></span>"
+  },
+  "pageid": 15782,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/330px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 426
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2400,
+    "height": 3096
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367981209",
+  "tid": "c0fbe8aa-9179-11f1-a154-aad7c773fe02",
+  "timestamp": "2026-08-06T09:32:34Z",
+  "description": "English novelist (1775\u20131817)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jane_Austen",
+      "revisions": "https://en.wikipedia.org/wiki/Jane_Austen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jane_Austen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jane_Austen"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jane_Austen",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jane_Austen",
+      "edit": "https://en.wikipedia.org/wiki/Jane_Austen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jane_Austen"
+    }
+  },
+  "extract": "Jane Austen was an English writer known primarily for her six novels, which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century.",
+  "extract_html": "<p><b>Jane Austen</b> was an English writer known primarily for <span class=\"mw-selflink-fragment\">her six novels</span>, which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century.</p>"
+}

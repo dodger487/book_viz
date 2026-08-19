@@ -1,0 +1,251 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dvuK7isszLIC",
+      "etag": "hRam6g1ws6c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dvuK7isszLIC",
+      "volumeInfo": {
+        "title": "The Goldfinch",
+        "subtitle": "A Novel (Pulitzer Prize for Fiction)",
+        "authors": [
+          "Donna Tartt"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2013-10-22",
+        "description": "A young New Yorker grieving his mother's death is pulled into a gritty underworld of art and wealth in this \u201cextraordinary\u201d and beloved novel that \"connects with the heart as well as the mind\" (Stephen King, New York Times Book Review), named a New York Times Best Book of the 21st Century. Theo Decker, a 13-year-old New Yorker, miraculously survives an accident that kills his mother. Abandoned by his father, Theo is taken in by the family of a wealthy friend. Bewildered by his strange new home on Park Avenue, disturbed by schoolmates who don't know how to talk to him, and tormented above all by a longing for his mother, he clings to the one thing that reminds him of her: a small, mysteriously captivating painting that ultimately draws Theo into a wealthy and insular art community. As an adult, Theo moves silkily between the drawing rooms of the rich and the dusty labyrinth of an antiques store where he works. He is alienated and in love \u2014 and at the center of a narrowing, ever more dangerous circle. The Goldfinch is a mesmerizing, stay-up-all-night and tell-all-your-friends triumph, an old-fashioned story of loss and obsession, survival and self-invention. From the streets of New York to the dark corners of the art underworld, this \"soaring masterpiece\" examines the devastating impact of grief and the ruthless machinations of fate (Ron Charles, Washington Post).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316248679"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316248673"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 524,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.24.24.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dvuK7isszLIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dvuK7isszLIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dvuK7isszLIC&printsec=frontcover&dq=intitle:%22The+Goldfinch%22+inauthor:%22Donna+Tartt%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dvuK7isszLIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dvuK7isszLIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dvuK7isszLIC&rdid=book-dvuK7isszLIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Goldfinch-sample-epub.acsm?id=dvuK7isszLIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dvuK7isszLIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Goldfinch is a mesmerizing, stay-up-all-night and tell-all-your-friends triumph, an old-fashioned story of loss and obsession, survival and self-invention."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SkRrngEACAAJ",
+      "etag": "Rsn+HEzrtoE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SkRrngEACAAJ",
+      "volumeInfo": {
+        "title": "The Goldfinch",
+        "subtitle": "A Novel (Pulitzer Prize for Fiction)",
+        "authors": [
+          "Donna Tartt"
+        ],
+        "publisher": "Back Bay Books",
+        "publishedDate": "2015-04-07",
+        "description": "WINNER OF THE PULITZER PRIZE \"The Goldfinch is a rarity that comes along perhaps half a dozen times per decade, a smartly written literary novel that connects with the heart as well as the mind....Donna Tartt has delivered an extraordinary work of fiction.\"--Stephen King, The New York Times Book Review Theo Decker, a 13-year-old New Yorker, miraculously survives an accident that kills his mother. Abandoned by his father, Theo is taken in by the family of a wealthy friend. Bewildered by his strange new home on Park Avenue, disturbed by schoolmates who don't know how to talk to him, and tormented above all by his longing for his mother, he clings to the one thing that reminds him of her: a small, mysteriously captivating painting that ultimately draws Theo into the underworld of art. As an adult, Theo moves silkily between the drawing rooms of the rich and the dusty labyrinth of an antiques store where he works. He is alienated and in love--and at the center of a narrowing, ever more dangerous circle. The Goldfinch is a mesmerizing, stay-up-all-night and tell-all-your-friends triumph, an old-fashioned story of loss and obsession, survival and self-invention, and the ruthless machinations of fate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316055441"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316055444"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 784,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SkRrngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SkRrngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SkRrngEACAAJ&dq=intitle:%22The+Goldfinch%22+inauthor:%22Donna+Tartt%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SkRrngEACAAJ&dq=intitle:%22The+Goldfinch%22+inauthor:%22Donna+Tartt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Goldfinch.html?hl=&id=SkRrngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SkRrngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Goldfinch is a mesmerizing, stay-up-all-night and tell-all-your-friends triumph, an old-fashioned story of loss and obsession, survival and self-invention, and the ruthless machinations of fate."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WoO6zwEACAAJ",
+      "etag": "RqvVVtNkypo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WoO6zwEACAAJ",
+      "volumeInfo": {
+        "title": "The Goldfinch - 10th Anniversary Edition",
+        "authors": [
+          "Donna Tartt"
+        ],
+        "publisher": "Abacus",
+        "publishedDate": "2023-10-31",
+        "description": "Winner of the Pulitzer Prize for Fiction[Bokinfo].",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0349146268"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349146263"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WoO6zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WoO6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WoO6zwEACAAJ&dq=intitle:%22The+Goldfinch%22+inauthor:%22Donna+Tartt%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WoO6zwEACAAJ&dq=intitle:%22The+Goldfinch%22+inauthor:%22Donna+Tartt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Goldfinch_10th_Anniversary_Edition.html?hl=&id=WoO6zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WoO6zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Winner of the Pulitzer Prize for Fiction[Bokinfo]."
+      }
+    }
+  ]
+}

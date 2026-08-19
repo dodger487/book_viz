@@ -1,0 +1,126 @@
+{
+  "numFound": 8,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 8,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL28314A"
+      ],
+      "author_name": [
+        "Dashiell Hammett"
+      ],
+      "cover_edition_key": "OL8839205M",
+      "cover_i": 968508,
+      "ebook_access": "public",
+      "edition_count": 47,
+      "first_publish_year": 1929,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_O8-BOR-751",
+        "lamoissonrouge0000hamm",
+        "redharvest00hamm",
+        "isbn_9781439507292"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "oliverwendellholmeslibrary",
+        "phillipsacademy",
+        "printdisabled"
+      ],
+      "key": "/works/OL47269W",
+      "language": [
+        "spa",
+        "fre",
+        "eng",
+        "ger",
+        "heb"
+      ],
+      "lending_edition_s": "OL58645217M",
+      "lending_identifier_s": "bwb_O8-BOR-751",
+      "public_scan_b": true,
+      "title": "Red Harvest"
+    },
+    {
+      "author_key": [
+        "OL28314A"
+      ],
+      "author_name": [
+        "Dashiell Hammett"
+      ],
+      "cover_edition_key": "OL389457M",
+      "cover_i": 929386,
+      "ebook_access": "borrowable",
+      "edition_count": 17,
+      "first_publish_year": 1965,
+      "has_fulltext": true,
+      "ia": [
+        "completenovelsre00hamm",
+        "dashiellhammettf00hamm",
+        "dashiellhammettf0000hamm",
+        "completenovelsre00hamm"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL47279W",
+      "language": [
+        "rus",
+        "eng"
+      ],
+      "lending_edition_s": "OL24928922M",
+      "lending_identifier_s": "completenovelsre00hamm",
+      "public_scan_b": false,
+      "title": "Novels (Red Harvest / The Dain Curse / The Maltese Falcon / The Glass Key / The Thin Man)"
+    },
+    {
+      "author_key": [
+        "OL28314A"
+      ],
+      "author_name": [
+        "Dashiell Hammett"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1931,
+      "has_fulltext": false,
+      "key": "/works/OL45122354W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Red Harvest"
+    }
+  ]
+}

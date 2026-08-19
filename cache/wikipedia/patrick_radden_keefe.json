@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Patrick Radden Keefe",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrick Radden Keefe</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q22087892",
+  "titles": {
+    "canonical": "Patrick_Radden_Keefe",
+    "normalized": "Patrick Radden Keefe",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrick Radden Keefe</span></span>"
+  },
+  "pageid": 48935605,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Patrick_Radden_Keefe.jpg/330px-Patrick_Radden_Keefe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 498
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Patrick_Radden_Keefe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1496,
+    "height": 2256
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368669334",
+  "tid": "de022262-94b1-11f1-9999-e1dcbe9f31a6",
+  "timestamp": "2026-08-10T11:51:48Z",
+  "description": "American writer (born 1976)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Patrick_Radden_Keefe",
+      "revisions": "https://en.wikipedia.org/wiki/Patrick_Radden_Keefe?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Patrick_Radden_Keefe?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Patrick_Radden_Keefe"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Patrick_Radden_Keefe",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Patrick_Radden_Keefe",
+      "edit": "https://en.wikipedia.org/wiki/Patrick_Radden_Keefe?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Patrick_Radden_Keefe"
+    }
+  },
+  "extract": "Patrick Radden Keefe is an American writer and investigative journalist. He is the author of six books\u2014Chatter (2005), The Snakehead (2009), Say Nothing (2018), Empire of Pain (2021), Rogues (2022), and London Falling (2026)\u2014and has written extensively for many publications, including The New Yorker, Slate, and The New York Times Magazine. He is a staff writer at The New Yorker.",
+  "extract_html": "<p><b>Patrick Radden Keefe</b> is an American writer and investigative journalist. He is the author of six books\u2014<i>Chatter</i> (2005), <i>The Snakehead</i> (2009), <i>Say Nothing</i> (2018), <i>Empire of Pain</i> (2021), <i>Rogues</i> (2022), and <i>London Falling</i> (2026)\u2014and has written extensively for many publications, including <i>The New Yorker</i>, <i>Slate</i>, and <i>The New York Times Magazine</i>. He is a staff writer at <i>The New Yorker</i>.</p>"
+}

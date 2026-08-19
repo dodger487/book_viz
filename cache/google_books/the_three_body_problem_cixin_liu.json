@@ -1,0 +1,244 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QxbFBAAAQBAJ",
+      "etag": "NqxCFYneK5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QxbFBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Three-Body Problem",
+        "authors": [
+          "Cixin Liu"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2014-11-11",
+        "description": "Experience Cixin Liu's award-winning and bestselling masterpiece, The Three Body Problem. A secret military group sends signals into space in hopes of establishing contact with aliens--and succeeds. Picking up their signal is an alien civilization on the brink of destruction who now readies to invade Earth. News of the coming invasion divides humanity like never before. Some want to help the superior beings take over a world they see as corrupt. Others prepare to fight the invasion at all cost. The Three Body Problem begins a ground-breaking saga of enormous scope and vision. \"The War of the Worlds for the twenty-first century . . . Packed with a sense of wonder.\" --The Wall Street Journal The Remembrance of Earth's Past Trilogy The Three-Body Problem The Dark Forest Death's End Other Books Ball Lightning (forthcoming)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765377067"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0765377063"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QxbFBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QxbFBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QxbFBAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Three+Body+Problem%22+inauthor:%22Cixin+Liu%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QxbFBAAAQBAJ&dq=intitle:%22The+Three+Body+Problem%22+inauthor:%22Cixin+Liu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Three_Body_Problem.html?hl=&id=QxbFBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QxbFBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Hugo-Award winning tour de force near-future adventure with the scope of Dune and commercial action of Independence Day from China&#39;s most beloved science fiction writer"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "95gQDgAAQBAJ",
+      "etag": "abNMm7ySiEM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/95gQDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Three-Body Problem Series",
+        "subtitle": "The Three-Body Problem, The Dark Forest, Death's End",
+        "authors": [
+          "Cixin Liu"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2017-03-14",
+        "description": "The inspiration for the Netflix series 3 Body Problem! WINNER OF THE HUGO AWARD FOR BEST NOVEL Over 1 million copies sold in North America \u201cA mind-bending epic.\u201d\u2014The New York Times \u2022 \u201cWar of the Worlds for the 21st century.\u201d\u2014The Wall Street Journal \u2022 \u201cFascinating.\u201d\u2014TIME \u2022 \u201cExtraordinary.\u201d\u2014The New Yorker \u2022 \u201cWildly imaginative.\u201d\u2014Barack Obama \u2022 \u201cProvocative.\u201d\u2014Slate \u2022 \u201cA breakthrough book.\u201d\u2014George R. R. Martin \u2022 \u201cImpossible to put down.\u201d\u2014GQ \u2022 \u201cAbsolutely mind-unfolding.\u201d\u2014NPR \u2022 \u201cYou should be reading Liu Cixin.\u201d\u2014The Washington Post The Three-Body Problem Series eBook bundle contains all three volumes of the groundbreaking, Hugo Award-winning series\u2014The Three-Body Problem, The Dark Forest, and Death's End\u2014by China's most beloved science fiction author, Cixin Liu. A secret military group sends signals into space in hopes of establishing contact with aliens\u2014and succeeds. Picking up their signal is an alien civilization on the brink of destruction who now readies to invade Earth. News of the coming invasion divides humanity like never before. Some want to help the superior beings take over a world they see as corrupt. Others prepare to fight the invasion at all cost. The Three Body Problem trilogy is a ground-breaking saga of enormous scope and vision. The Three-Body Problem Series The Three-Body Problem The Dark Forest Death's End Other Books by Cixin Liu Ball Lightning Supernova Era To Hold Up the Sky The Wandering Earth A View from the Stars At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765397485"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "076539748X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.15.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=95gQDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=95gQDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=95gQDgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Three+Body+Problem%22+inauthor:%22Cixin+Liu%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=95gQDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=95gQDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 30.38,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 30.38,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=95gQDgAAQBAJ&rdid=book-95gQDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 30380000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 30380000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=95gQDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The inspiration for the Netflix series 3 Body Problem!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bYhcvgAACAAJ",
+      "etag": "XJYSZXC3nDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bYhcvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Three-Body Problem",
+        "authors": [
+          "Cixin Liu"
+        ],
+        "publisher": "Tor Science Fiction",
+        "publishedDate": "2019-07-02",
+        "description": "The Three-Body Problem is the first chance for English-speaking readers to experience this multiple award winning phenomenon from China's most beloved science fiction author, Liu Cixin.Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765377071"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765377074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bYhcvgAACAAJ&dq=intitle:%22The+Three+Body+Problem%22+inauthor:%22Cixin+Liu%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bYhcvgAACAAJ&dq=intitle:%22The+Three+Body+Problem%22+inauthor:%22Cixin+Liu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Three_Body_Problem.html?hl=&id=bYhcvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bYhcvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

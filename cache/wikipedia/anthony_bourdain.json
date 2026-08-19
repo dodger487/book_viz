@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Anthony Bourdain",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Anthony Bourdain</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q426582",
+  "titles": {
+    "canonical": "Anthony_Bourdain",
+    "normalized": "Anthony Bourdain",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Anthony Bourdain</span></span>"
+  },
+  "pageid": 595394,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Anthony_Bourdain_Peabody_2014b.jpg/330px-Anthony_Bourdain_Peabody_2014b.jpg",
+    "width": 330,
+    "height": 460
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Anthony_Bourdain_Peabody_2014b.jpg",
+    "width": 1057,
+    "height": 1474
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366990445",
+  "tid": "dc19b2b7-8cb0-11f1-9c88-80f39fc98e60",
+  "timestamp": "2026-07-31T07:24:26Z",
+  "description": "American chef and travel documentarian (1956\u20132018)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Anthony_Bourdain",
+      "revisions": "https://en.wikipedia.org/wiki/Anthony_Bourdain?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Anthony_Bourdain?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Anthony_Bourdain"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Anthony_Bourdain",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Anthony_Bourdain",
+      "edit": "https://en.wikipedia.org/wiki/Anthony_Bourdain?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Anthony_Bourdain"
+    }
+  },
+  "extract": "Anthony Michael Bourdain was an American celebrity chef, author, and travel documentarian. He starred in programs focusing on the exploration of international culture, cuisine, and the human condition.",
+  "extract_html": "<p><b>Anthony Michael Bourdain</b> was an American celebrity chef, author, and travel documentarian. He starred in programs focusing on the exploration of international culture, cuisine, and the human condition.</p>"
+}

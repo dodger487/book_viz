@@ -1,0 +1,180 @@
+{
+  "description": "Evicted: Poverty and Profit in the American City is a 2016 non-fiction book by American author Matthew Desmond. Set in the poorest areas of Milwaukee, Wisconsin, the book follows eight families struggling to pay rent to their landlords during the financial crisis of 2007\u20132008. Through a year of ethnographic fieldwork, Desmond's goal in the book is to highlight the issues of extreme poverty, affordable housing, and economic exploitation in the United States.\r\n\r\nEvicted was well-received and won multiple book awards such as the 2017 Pulitzer Prize for General Nonfiction and the Robert F. Kennedy Book Award. The Pulitzer committee selected the book \"for a deeply researched expos\u00e9 that showed how mass evictions after the 2008 economic crash were less a consequence than a cause of poverty.\"",
+  "links": [
+    {
+      "title": "EVICTED",
+      "url": "http://www.evictedbook.com/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Evicted: Poverty and Profit in the American City - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evicted:_Poverty_and_Profit_in_the_American_City",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://www.gatesnotes.com/Books/Evicted",
+      "title": "A searing portrait of American poverty | Bill Gates - Gates Notes",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Matthew Desmond\u2019s \u2018Evicted: Poverty and Profit in the American City\u2019",
+      "url": "https://www.nytimes.com/2016/02/28/books/review/matthew-desmonds-evicted-poverty-and-profit-in-the-american-city.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://www.pulitzer.org/winners/matthew-desmond",
+      "title": "pulitzer.org/winners/matthew-desmond",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2016/02/28/books/review/matthew-desmonds-evicted-poverty-and-profit-in-the-american-city.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://bookmarks.reviews/reviews/evicted-poverty-and-profit-in-the-american-city/",
+      "title": "bookmarks.reviews/reviews/evicted-poverty-and-profit-in-the-american-city/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Evicted",
+  "covers": [
+    12915110,
+    14297491,
+    14297492,
+    14297494,
+    14297493
+  ],
+  "subject_places": [
+    "Milwaukee",
+    "Wisconsin",
+    "United States"
+  ],
+  "subjects": [
+    "Domestic Politics",
+    "non-fiction",
+    "2008 financial crisis",
+    "low-income housing",
+    "eviction",
+    "poverty",
+    "profit",
+    "cities and towns",
+    "social science",
+    "urban sociology",
+    "poverty and homelessness",
+    "extreme poverty",
+    "affordable housing",
+    "SOCIAL SCIENCE / Poverty & Homelessness",
+    "POLITICAL SCIENCE / Public Policy / General",
+    "SOCIAL SCIENCE / Sociology / Urban",
+    "Poor, housing",
+    "Cities and towns, united states",
+    "nyt:combined-print-and-e-book-nonfiction=2016-03-20",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Sociology",
+    "Urban",
+    "Public Housing",
+    "Poverty Areas",
+    "Homeless Persons",
+    "Poverty & Homelessness",
+    "POLITICAL SCIENCE",
+    "Public Policy",
+    "General",
+    "Stadt",
+    "Armut",
+    "Miete",
+    "Schulden",
+    "R\u00e4umungsvollstreckung",
+    "Ausgrenzung",
+    "Landlord and tenant",
+    "COMMUNAUT\u00c9S LOCALES + GROUPES LI\u00c9S \u00c0 UN LIEU + SOCIOLOGIE URBAINE",
+    "Fre",
+    "GHETTOS + ZONES DE S\u00c9GR\u00c9GATION",
+    "MILWAUKEE",
+    "MIS\u00c8RE FINANCI\u00c8RE ET PAUVRET\u00c9",
+    "POLITIQUE DU LOGEMENT",
+    "QUARTIERS MIS\u00c9REUX + TAUDIS",
+    "SANS-ABRI + VAGABONDAGE",
+    "\u00c9TATS-UNIS D'AM\u00c9RIQUE, USA",
+    "Umschulungswerkst\u00e4tten f\u00fcr Siedler und Auswanderer",
+    "Pauvres",
+    "Logement",
+    "Expulsion (Droit)",
+    "Pauvret\u00e9",
+    "Villes",
+    "Logement social",
+    "Housing projects",
+    "Case studies",
+    "Social conditions",
+    "Economic conditions",
+    "Economic history",
+    "Social sciences"
+  ],
+  "subject_people": [
+    "Scott",
+    "Lamar",
+    "Vanetta",
+    "Sherrena Tarver",
+    "Tobin Charney",
+    "Arleen"
+  ],
+  "key": "/works/OL17828326W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL3392352A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9947207A"
+      }
+    }
+  ],
+  "subject_times": [
+    "2008"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "excerpts": [
+    {
+      "comment": "First sentence.",
+      "author": {
+        "key": "/people/seabelis"
+      },
+      "excerpt": "Jori and his cousin were cutting up, tossing snowballs at passing cars."
+    }
+  ],
+  "latest_revision": 29,
+  "revision": 29,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-01-13T19:15:40.699327"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-10T02:07:19.249799"
+  }
+}

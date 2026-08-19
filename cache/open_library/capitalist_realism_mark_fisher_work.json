@@ -1,0 +1,62 @@
+{
+  "subtitle": "Is There No Alternative?",
+  "description": "It is easier to imagine the end of the world than the end of capitalism. After 1989, capitalism has successfully presented itself as the only realistic political-economic system - a situation that the bank crisis of 2008, far from ending, actually compounded. The book analyses the development and principal features of this capitalist realism as a lived ideological framework. Using examples from politics, film (Children Of Men, Jason Bourne, Supernanny), fiction (Le Guin and Kafka), work and education, it argues that capitalist realism colours all areas of contemporary experience, is anything but realistic and asks how capitalism and its inconsistencies can be challenged. It is a sharp analysis of the post-ideological malaise that suggests that the economics and politics of free market neo-liberalism are givens rather than constructions.",
+  "title": "Capitalist Realism",
+  "covers": [
+    6707037,
+    -1,
+    10861808,
+    8542709
+  ],
+  "subjects": [
+    "Accelerationism",
+    "Capitalism / History / 21st century",
+    "Postmoderne",
+    "Capitalism",
+    "Capitalism / History / 20th century",
+    "Politics",
+    "Kapitalisme",
+    "Alternatieven",
+    "Kapitalismus",
+    "Kultur",
+    "History",
+    "Popular culture",
+    "Capitalism--history",
+    "Capitalism--history--20th century",
+    "Capitalism--history--21st century",
+    "Hb501 .f573 2009",
+    "330.122"
+  ],
+  "key": "/works/OL15683250W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7859745A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL12549917A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-03-04T01:13:37.939804"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-18T21:46:22.366815"
+  }
+}

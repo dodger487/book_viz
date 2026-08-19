@@ -1,0 +1,41 @@
+{
+  "description": "Time-travel secret agent Shannon Moss visits future time periods for clues about a Navy SEAL astronaut's murdered family and the disappearance of his teenage daughter, a case that is complicated by the SEAL's and Shannon's own impact on the timeline.",
+  "covers": [
+    8808811
+  ],
+  "key": "/works/OL19732028W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7503842A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Gone World",
+  "subjects": [
+    "Subversive activities",
+    "Murder",
+    "Investigation",
+    "Criminal investigation",
+    "Time travel",
+    "Fiction",
+    "Fiction, mystery & detective, general",
+    "Fiction, science fiction, general"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-24T03:36:20.108065"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-12-30T19:56:12.119589"
+  }
+}

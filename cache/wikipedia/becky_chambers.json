@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Becky Chambers",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Becky Chambers</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q25298820",
+  "titles": {
+    "canonical": "Becky_Chambers",
+    "normalized": "Becky Chambers",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Becky Chambers</span></span>"
+  },
+  "pageid": 52864820,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Becky_Chambers.jpg/330px-Becky_Chambers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Becky_Chambers.jpg/3840px-Becky_Chambers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 3888,
+    "height": 5184
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367198848",
+  "tid": "2cd1fe14-8dcc-11f1-a90a-ebf7a8aa3344",
+  "timestamp": "2026-08-01T17:12:29Z",
+  "description": "American science-fiction writer (born 1985)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Becky_Chambers",
+      "revisions": "https://en.wikipedia.org/wiki/Becky_Chambers?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Becky_Chambers?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Becky_Chambers"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Becky_Chambers",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Becky_Chambers",
+      "edit": "https://en.wikipedia.org/wiki/Becky_Chambers?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Becky_Chambers"
+    }
+  },
+  "extract": "Becky Chambers is an American science fiction writer. She is the author of the Hugo Award-winning Wayfarers series as well as novellas including To Be Taught, If Fortunate (2019) and the Monk & Robot series, which begins with the Hugo Award-winning A Psalm for the Wild-Built (2021). She is known for her innovative worldbuilding and character-driven stories, and is a pioneer of the hopepunk genre.",
+  "extract_html": "<p><b>Becky Chambers</b> is an American science fiction writer. She is the author of the Hugo Award-winning <i>Wayfarers</i> series as well as novellas including <i>To Be Taught, If Fortunate</i> (2019) and the <i>Monk &amp; Robot</i> series, which begins with the Hugo Award-winning <i>A Psalm for the Wild-Built</i> (2021). She is known for her innovative worldbuilding and character-driven stories, and is a pioneer of the hopepunk genre.</p>"
+}

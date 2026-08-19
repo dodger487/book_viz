@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lili\u02bbuokalani",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lili\u02bbuokalani</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q107288",
+  "titles": {
+    "canonical": "Lili\u02bbuokalani",
+    "normalized": "Lili\u02bbuokalani",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lili\u02bbuokalani</span></span>"
+  },
+  "pageid": 195173,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lili%CA%BBuokalani.jpg/330px-Lili%CA%BBuokalani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 459
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lili%CA%BBuokalani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3186,
+    "height": 4427
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367844612",
+  "tid": "6b71fe3c-90dd-11f1-893f-7ce4e339dd7c",
+  "timestamp": "2026-08-05T14:53:29Z",
+  "description": "Queen of Hawaii from 1891 to 1893",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani",
+      "revisions": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lili%CA%BBuokalani"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lili%CA%BBuokalani",
+      "edit": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lili%CA%BBuokalani"
+    }
+  },
+  "extract": "Lili\u02bbuokalani was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a coup that was led by the Committee of Safety, composed of seven foreign residents and six Hawaiian Kingdom subjects of American descent in Honolulu. The composer of \"Aloha \u02bbOe\" and numerous other works, she wrote her autobiography Hawai\u02bbi's Story by Hawai\u02bbi's Queen (1898) during her imprisonment following the overthrow.",
+  "extract_html": "<p><b>Lili\u02bbuokalani</b> was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a coup that was led by the Committee of Safety, composed of seven foreign residents and six Hawaiian Kingdom subjects of American descent in Honolulu. The composer of \"Aloha \u02bbOe\" and numerous other works, she wrote her autobiography <i>Hawai\u02bbi's Story by Hawai\u02bbi's Queen</i> (1898) during her imprisonment following the overthrow.</p>"
+}

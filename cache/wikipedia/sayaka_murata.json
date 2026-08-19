@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sayaka Murata",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sayaka Murata</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q11523472",
+  "titles": {
+    "canonical": "Sayaka_Murata",
+    "normalized": "Sayaka Murata",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sayaka Murata</span></span>"
+  },
+  "pageid": 56561435,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sayaka_Murata_DSC05864_%28cropped%29.jpg/330px-Sayaka_Murata_DSC05864_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 427
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sayaka_Murata_DSC05864_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 469,
+    "height": 607
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1356043968",
+  "tid": "5140b69b-5832-11f1-93b4-c577719299f4",
+  "timestamp": "2026-05-25T12:07:36Z",
+  "description": "Japanese writer (born 1979)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sayaka_Murata",
+      "revisions": "https://en.wikipedia.org/wiki/Sayaka_Murata?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sayaka_Murata?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sayaka_Murata"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Sayaka_Murata",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Sayaka_Murata",
+      "edit": "https://en.wikipedia.org/wiki/Sayaka_Murata?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sayaka_Murata"
+    }
+  },
+  "extract": "Sayaka Murata is a Japanese writer. She is best known for the international bestseller Convenience Store Woman (2016) which has been translated into more than thirty languages worldwide. Murata has won many major literary prizes in Japan, including the Gunzo Prize for New Writers in 2003, the Noma Literary New Face Prize in 2009, the Mishima Yukio Prize in 2013, and the Akutagawa Prize for Convenience Store Woman in 2016. All the English translations of her work are done by Ginny Tapley Takemori. In addition to Convenience Store Woman, Murata's first book to be published in English, Takemori has translated the novels Earthlings and Vanishing World, the short-story collection Life Ceremony, the short stories \"Faith\", \"Survival\", and \"A Clean Marriage\", as well as the New York Times published opinion piece \"The Future of Sex Lives in All of Us\", among others.",
+  "extract_html": "<p><b>Sayaka Murata</b> is a Japanese writer. She is best known for the international bestseller <i>Convenience Store Woman</i> (2016) which has been translated into more than thirty languages worldwide. Murata has won many major literary prizes in Japan, including the Gunzo Prize for New Writers in 2003, the Noma Literary New Face Prize in 2009, the Mishima Yukio Prize in 2013, and the Akutagawa Prize for <i>Convenience Store Woman</i> in 2016. All the English translations of her work are done by Ginny Tapley Takemori. In addition to <i>Convenience Store Woman</i>, Murata's first book to be published in English, Takemori has translated the novels <i>Earthlings</i> and <i>Vanishing World</i>, the short-story collection <i>Life Ceremony</i>, the short stories \"Faith\", \"Survival\", and \"A Clean Marriage\", as well as the <i>New York Times</i> published opinion piece \"The Future of Sex Lives in All of Us\", among others.</p>"
+}

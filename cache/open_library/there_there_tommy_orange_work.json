@@ -1,0 +1,97 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "\"Not since Sherman Alexie's The Lone Ranger and Tonto Fistfight in Heaven and Louise Erdrich's Love Medicine has such a powerful and urgent Native American voice exploded onto the landscape of contemporary fiction. Tommy Orange's There There introduces a brilliant new author at the start of a major career. \"We all came to the powwow for different reasons. The messy, dangling threads of our lives got pulled into a braid--tied to the back of everything we'd been doing all along to get us here. There will be death and playing dead, there will be screams and unbearable silences, forever-silences, and a kind of time-travel, at the moment the gunshots start, when we look around and see ourselves as we are, in our regalia, and something in our blood will recoil then boil hot enough to burn through time and place and memory. We'll go back to where we came from, when we were people running from bullets at the end of that old world. The tragedy of it all will be unspeakable, that we've been fighting for decades to be recognized as a present-tense people, modern and relevant, only to die in the grass wearing feathers.\" Jacquie Red Feather is newly sober and trying to make it back to the family she left behind in shame in Oakland. Dene Oxedrene is pulling his life together after his uncle's death and has come to work the powwow and to honor his uncle's memory. Edwin Frank has come to find his true father. Bobby Big Medicine has come to drum the Grand Entry. Opal Viola Victoria Bear Shield has come to watch her nephew Orvil Red Feather; Orvil has taught himself Indian dance through YouTube videos, and he has come to the Big Oakland Powwow to dance in public for the very first time. Tony Loneman is a young Native American boy whose future seems destined to be as bleak as his past, and he has come to the Powwow with darker intentions--intentions that will destroy the lives of everyone in his path. Fierce, angry, funny, groundbreaking--Tommy Orange's first novel is a wondrous and shattering portrait of an America few of us have ever seen. There There is a multi-generational, relentlessly paced story about violence and recovery, hope and loss, identity and power, dislocation and communion, and the beauty and despair woven into the history of a nation and its people. A glorious, unforgettable debut\"--"
+  },
+  "subtitle": "a novel",
+  "title": "There There",
+  "covers": [
+    8312263,
+    8594803,
+    10855517,
+    11195186,
+    14051628,
+    14051629
+  ],
+  "subjects": [
+    "Fiction",
+    "Indians of North America",
+    "Powwows",
+    "Interpersonal relations",
+    "FICTION / Literary",
+    "FICTION / Political",
+    "FICTION / Cultural Heritage",
+    "FICTION / Native American & Aboriginal",
+    "Indians of north america, fiction",
+    "Fiction, political",
+    "Oakland (calif.), fiction",
+    "nyt:hardcover-fiction=2018-06-24",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "FICTION",
+    "Literary",
+    "Political",
+    "Group identity",
+    "Collective memory",
+    "Identity (Philosophical concept)",
+    "Alcoholics",
+    "Dysfunctional families",
+    "Mass shootings",
+    "Interpersonal relationships",
+    "Ethnic identity",
+    "Documentary films",
+    "Production and direction",
+    "Recovering alcoholics",
+    "Indians of north america",
+    "Fiction / literary",
+    "Fiction / political",
+    "Fiction / cultural heritage",
+    "Fiction / native american & aboriginal",
+    "Nyt:hardcover-fiction=2018-06-24",
+    "New york times bestseller",
+    "New york times reviewed",
+    "nyt:trade-fiction-paperback=2019-05-26",
+    "Nyt:trade-fiction-paperback=2019-05-26"
+  ],
+  "key": "/works/OL18143930W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7442140A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7311601A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2018/06/19/books/review/tommy-orange-there-there.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-12-23T00:26:57.506312"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-03-04T02:11:17.880752"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "subtitle": "negotiating agreement without giving in",
+  "description": {
+    "type": "/type/text",
+    "value": "Getting to Yes offers a concise, step-by-step, proven strategy for coming to mutually acceptable agreements in every sort of conflict\u2014whether it involves parents and children, neighbors, bosses and employees, customers or corporations, tenants or diplomats. Based on the work of the Harvard Negotiation Project, a group that deals continually with all levels of negotiation and conflict resolution from domestic to business to international, Getting to Yes tells you how to:Separate the people from the problem;Focus on interests, not positions;Work together to create options that will satisfy both parties; andNegotiate successfully with people who are more powerful, refuse to play by the rules, or resort to \"dirty tricks.\"Since its original publication in 1981, Getting to Yes has been translated into 18 languages and has sold over 1 million copies in its various editions. This completely revised edition is a universal guide to the art of negotiating personal and professional disputes. It offers a concise strategy for coming to mutually acceptable agreements in every sort of conflict."
+  },
+  "title": "Getting to yes",
+  "covers": [
+    96165,
+    4380053
+  ],
+  "first_publish_date": "1981",
+  "key": "/works/OL1837566W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL220090A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2658259A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL25374A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Negotiation",
+    "Interpersonal Relations",
+    "Applied Psychology",
+    "Conflict (Psychology)",
+    "Business",
+    "Nonfiction",
+    "Onderhandelen",
+    "N\u00e9gociations",
+    "Administracao",
+    "Negocio Fiduciario",
+    "Verhandlungstechnik",
+    "Conflict management",
+    "Psychological Conflict",
+    "R\u00e9unions",
+    "Psychologie du travail",
+    "N\u00e9gociation",
+    "D\u00e9veloppement d'aptitudes",
+    "Kommunikationstraining",
+    "Conflict (Psychology.)",
+    "Verhandlung",
+    "Sozialer Konsens",
+    "Interpersonale Kommunikation",
+    "Negotiating",
+    "MANAGEMENT DEVELOPMENT",
+    "MANUALS",
+    "Negotiation in business",
+    "Psychology, applied",
+    "Conflict, psychological",
+    "Bf637.n4 f57 1991",
+    "Bf 637.n4 f535g 1991",
+    "158/.5",
+    "Bf637.n4 f57 1992",
+    "Bf 637.n4 f535 1991",
+    "Surveyor Program (U.S.)"
+  ],
+  "latest_revision": 24,
+  "revision": 24,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:26:52.292291"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-04-11T21:38:39.862103"
+  }
+}

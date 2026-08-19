@@ -1,0 +1,125 @@
+{
+  "numFound": 7,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 7,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2444787A"
+      ],
+      "author_name": [
+        "Philip Roth"
+      ],
+      "cover_edition_key": "OL1009341M",
+      "cover_i": 9322643,
+      "ebook_access": "borrowable",
+      "edition_count": 27,
+      "first_publish_year": 1997,
+      "has_fulltext": true,
+      "ia": [
+        "amerikanskaiapas0000roth",
+        "americanpastoral0000roth_a5u6",
+        "americanpastoral0000roth",
+        "americanpastoral0000roth_k0b4",
+        "americanpastoral00roth",
+        "americanpastora000roth",
+        "isbn_9780395860212"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "printdisabled",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "udc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL74666W",
+      "language": [
+        "ger",
+        "eng",
+        "spa",
+        "fre",
+        "rus",
+        "por"
+      ],
+      "lending_edition_s": "OL32775949M",
+      "lending_identifier_s": "amerikanskaiapas0000roth",
+      "public_scan_b": false,
+      "title": "American Pastoral"
+    },
+    {
+      "author_key": [
+        "OL2444787A"
+      ],
+      "author_name": [
+        "Philip Roth"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL29307859W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "American Pastoral"
+    },
+    {
+      "author_key": [
+        "OL2444787A"
+      ],
+      "author_name": [
+        "Philip Roth"
+      ],
+      "cover_edition_key": "OL26075985M",
+      "cover_i": 12624952,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "americantrilogy10000roth"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17489174W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The American Trilogy 1997-2000 (American Pastoral / Human Stain / I Married A Communist)"
+    }
+  ]
+}

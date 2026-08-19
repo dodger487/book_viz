@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Walter Isaacson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Walter Isaacson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q681012",
+  "titles": {
+    "canonical": "Walter_Isaacson",
+    "normalized": "Walter Isaacson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Walter Isaacson</span></span>"
+  },
+  "pageid": 2266694,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Walter_Isaacson_VF_2012_Shankbone_2.JPG/330px-Walter_Isaacson_VF_2012_Shankbone_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 413
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Walter_Isaacson_VF_2012_Shankbone_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2006,
+    "height": 2508
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366165488",
+  "tid": "c441d6c9-891a-11f1-aca2-d64397a57de0",
+  "timestamp": "2026-07-26T17:52:28Z",
+  "description": "American author and journalist (born 1952)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Walter_Isaacson",
+      "revisions": "https://en.wikipedia.org/wiki/Walter_Isaacson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Walter_Isaacson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Walter_Isaacson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Walter_Isaacson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Walter_Isaacson",
+      "edit": "https://en.wikipedia.org/wiki/Walter_Isaacson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Walter_Isaacson"
+    }
+  },
+  "extract": "Walter Seff Isaacson is an American journalist who has written biographies of Henry Kissinger, Benjamin Franklin, Leonardo da Vinci, Albert Einstein, Steve Jobs, Jennifer Doudna, and Elon Musk. As of 2024, Isaacson is a professor at Tulane University and, since 2018, an interviewer for the PBS and CNN news show Amanpour & Company.",
+  "extract_html": "<p><b>Walter Seff Isaacson</b> is an American journalist who has written biographies of Henry Kissinger, Benjamin Franklin, Leonardo da Vinci, Albert Einstein, Steve Jobs, Jennifer Doudna, and Elon Musk. As of 2024, Isaacson is a professor at Tulane University and, since 2018, an interviewer for the PBS and CNN news show <i>Amanpour &amp; Company</i>.</p>"
+}

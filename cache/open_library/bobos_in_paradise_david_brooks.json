@@ -1,0 +1,42 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1393795A"
+      ],
+      "author_name": [
+        "David Brooks"
+      ],
+      "cover_edition_key": "OL9064409M",
+      "cover_i": 1020175,
+      "ebook_access": "printdisabled",
+      "edition_count": 9,
+      "first_publish_year": 2000,
+      "has_fulltext": true,
+      "ia": [
+        "bobosinparadisen00broo",
+        "bobosinparadise000broo"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL251813W",
+      "language": [
+        "spa",
+        "eng",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Bobos in paradise"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4bEty3TO-R8C",
+      "etag": "hE0GEKkSTdQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4bEty3TO-R8C",
+      "volumeInfo": {
+        "title": "Getting to Yes",
+        "subtitle": "Negotiating Agreement Without Giving In; Second Edition",
+        "authors": [
+          "Roger Fisher",
+          "William Ury"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1991-12-01",
+        "description": "Getting to Yes offers a concise, step-by-step, proven strategy for coming to mutually acceptable agreements in every sort of conflict\u2014whether it involves parents and children, neighbors, bosses and employees, customers or corporations, tenants or diplomats. Based on the work of the Harvard Negotiation Project, a group that deals continually with all levels of negotiation and conflict resolution from domestic to business to international, Getting to Yes tells you how to: * Separate the people from the problem; * Focus on interests, not positions; * Work together to create options that will satisfy both parties; and * Negotiate successfully with people who are more powerful, refuse to play by the rules, or resort to \"dirty tricks.\" Since its original publication in 1981, Getting to Yes has been translated into 18 languages and has sold over 1 million copies in its various editions. This completely revised edition is a universal guide to the art of negotiating personal and professional disputes. It offers a concise strategy for coming to mutually acceptable agreements in every sort of conflict.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440673108"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440673101"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4bEty3TO-R8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4bEty3TO-R8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4bEty3TO-R8C&printsec=frontcover&dq=intitle:%22Getting+to+Yes%22+inauthor:%22Roger+Fisher%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4bEty3TO-R8C&dq=intitle:%22Getting+to+Yes%22+inauthor:%22Roger+Fisher%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Getting_to_Yes.html?hl=&id=4bEty3TO-R8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Getting_to_Yes-sample-epub.acsm?id=4bEty3TO-R8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4bEty3TO-R8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on the work of the Harvard Negotiation Project, a group that deals continually with all levels of negotiation and conflict resolution from domestic to business to international, Getting to Yes tells you how to: * Separate the people ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vOpGAAAAMAAJ",
+      "etag": "/llLN5eApNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vOpGAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Getting to Yes",
+        "subtitle": "Negotiating Agreement Without Giving in",
+        "authors": [
+          "Roger Fisher",
+          "William Ury"
+        ],
+        "publisher": "Boston : Houghton Mifflin",
+        "publishedDate": "1981",
+        "description": "First published in 1981, this business classic offers five steps that can be used in business, school, relationships, and life in general to help resolve difficult situations. The goal is a win-win for both sides based on mutual advantage and basic principles. To achieve that, we need to get past our emotions and back off from polarized positions. If both sides in the negotiation can find a way to see the other person's perspective, conflicts can be resolved without either side feeling something had to be given up. Roger Fisher and William Ury provide a variety of case studies and situations that illustrate how both sides can win if we realize \"It's not personal.\"",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015040516398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vOpGAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vOpGAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vOpGAAAAMAAJ&dq=intitle:%22Getting+to+Yes%22+inauthor:%22Roger+Fisher%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vOpGAAAAMAAJ&dq=intitle:%22Getting+to+Yes%22+inauthor:%22Roger+Fisher%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Getting_to_Yes.html?hl=&id=vOpGAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vOpGAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roger Fisher and William Ury provide a variety of case studies and situations that illustrate how both sides can win if we realize &quot;It&#39;s not personal.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jbQ3wQEACAAJ",
+      "etag": "J0HrS15uoiw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jbQ3wQEACAAJ",
+      "volumeInfo": {
+        "title": "Getting to Yes",
+        "subtitle": "Negotiating Agreement Without Giving in",
+        "authors": [
+          "Roger Fisher",
+          "William Ury"
+        ],
+        "publishedDate": "2013",
+        "description": "\"Since it was first published in 1981 Getting to Yes has become a central book in the Business Canon: the key text on the psychology of negotiation. Its message of \"principled negotiations\"--Finding acceptable compromise by determining which needs are fixed and which are flexible for negotiating parties--has influenced generations of businesspeople, lawyers, educators and anyone who has sought to achieve a win-win situation in arriving at an agreement. It has sold over 8 million copies worldwide in 30 languages, and since it was first published by Penguin in 1991 (a reissue of the original addition with Bruce Patton as additional coauthor) has sold over 2.5 million copies--which places it as the #10 bestselling title overall in Penguin Books, and #3 bestselling nonfiction title overall. We have recently relicensed the rights to Getting to Yes, and will be doing a new revised edition--a 30th anniversary of the original publication and 20th of the Penguin edition. The authors will be bringing the book up to date with new material and a assessment of the legacy and achievement of Getting to Yes after three decades\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1011740015"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Negotiation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jbQ3wQEACAAJ&dq=intitle:%22Getting+to+Yes%22+inauthor:%22Roger+Fisher%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jbQ3wQEACAAJ&dq=intitle:%22Getting+to+Yes%22+inauthor:%22Roger+Fisher%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Getting_to_Yes.html?hl=&id=jbQ3wQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jbQ3wQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The authors will be bringing the book up to date with new material and a assessment of the legacy and achievement of Getting to Yes after three decades&quot;--Provided by publisher."
+      }
+    }
+  ]
+}

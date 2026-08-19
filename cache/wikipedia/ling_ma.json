@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ling Ma",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ling Ma</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q56427737",
+  "titles": {
+    "canonical": "Ling_Ma",
+    "normalized": "Ling Ma",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ling Ma</span></span>"
+  },
+  "pageid": 59749427,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ling_Ma_%2852691467064%29_%28cropped%29.jpg/330px-Ling_Ma_%2852691467064%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ling_Ma_%2852691467064%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1166,
+    "height": 1556
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366694452",
+  "tid": "abc5fd5f-8b66-11f1-8f99-70a3ae42fe28",
+  "timestamp": "2026-07-29T16:00:51Z",
+  "description": "Chinese American novelist and academic",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ling_Ma",
+      "revisions": "https://en.wikipedia.org/wiki/Ling_Ma?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ling_Ma?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ling_Ma"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ling_Ma",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ling_Ma",
+      "edit": "https://en.wikipedia.org/wiki/Ling_Ma?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ling_Ma"
+    }
+  },
+  "extract": "Ling Ma is a Chinese American novelist and professor at the University of Chicago. Her first book, Severance (2018), won a 2018 Kirkus Prize and was listed as a New York Times Notable Book of 2018 and shortlisted for the PEN/Hemingway Award. Her second book, Bliss Montage (2022), won the National Book Critics Circle Award for Fiction and The Story Prize. She is a 2024 MacArthur Fellow.",
+  "extract_html": "<p><b>Ling Ma</b> is a Chinese American novelist and professor at the University of Chicago. Her first book, <i>Severance</i> (2018), won a 2018 Kirkus Prize and was listed as a <i>New York Times</i> Notable Book of 2018 and shortlisted for the PEN/Hemingway Award. Her second book, <i>Bliss Montage</i> (2022), won the National Book Critics Circle Award for Fiction and The Story Prize. She is a 2024 MacArthur Fellow.</p>"
+}

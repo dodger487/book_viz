@@ -1,0 +1,30 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Superpumped. La batalla por Uber",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL8293587A"
+      }
+    }
+  ],
+  "covers": [
+    13565521
+  ],
+  "key": "/works/OL34805595W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-03-17T14:40:36.373122"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-03-17T14:40:36.373122"
+  }
+}

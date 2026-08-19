@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ernest Cline",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ernest Cline</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3732112",
+  "titles": {
+    "canonical": "Ernest_Cline",
+    "normalized": "Ernest Cline",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ernest Cline</span></span>"
+  },
+  "pageid": 8643352,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NBF2024-ernest-cline.jpg/330px-NBF2024-ernest-cline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/NBF2024-ernest-cline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3173,
+    "height": 4759
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1360967967",
+  "tid": "2308ed7d-7009-11f1-bec4-7cab6af577aa",
+  "timestamp": "2026-06-24T20:13:17Z",
+  "description": "American novelist, slam poet, and screenwriter (born 1972)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ernest_Cline",
+      "revisions": "https://en.wikipedia.org/wiki/Ernest_Cline?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ernest_Cline?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ernest_Cline"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ernest_Cline",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ernest_Cline",
+      "edit": "https://en.wikipedia.org/wiki/Ernest_Cline?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ernest_Cline"
+    }
+  },
+  "extract": "Ernest Christy Cline is an American science fiction novelist, slam poet and screenwriter. He wrote the novels Ready Player One, Armada, and Ready Player Two, and co-wrote the screenplay for the film adaptation of Ready Player One, directed by Steven Spielberg.",
+  "extract_html": "<p><b>Ernest Christy Cline</b> is an American science fiction novelist, slam poet and screenwriter. He wrote the novels <i>Ready Player One</i>, <i>Armada</i>, and <i>Ready Player Two</i>, and co-wrote the screenplay for the film adaptation of <i>Ready Player One</i>, directed by Steven Spielberg.</p>"
+}

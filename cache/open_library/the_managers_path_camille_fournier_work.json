@@ -1,0 +1,50 @@
+{
+  "subtitle": "A Guide for Tech Leaders Navigating Growth and Change",
+  "description": {
+    "type": "/type/text",
+    "value": "Managing people is difficult wherever you work. But in the tech industry, where management is also a technical discipline, the learning curve can be brutal\u2014especially when there are few tools, texts, and frameworks to help you. In this practical guide, author Camille Fournier (tech lead turned CTO) takes you through each stage in the journey from engineer to technical manager.\r\n\r\nFrom mentoring interns to working with senior staff, you\u2019ll get actionable advice for approaching various obstacles in your path. This book is ideal whether you\u2019re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization.\r\n\r\n- Begin by exploring what you expect from a manager\r\n- Understand what it takes to be a good mentor, and a good tech lead\r\n- Learn how to manage individual members while remaining focused on the entire team\r\n- Understand how to manage yourself and avoid common pitfalls that challenge many leaders\r\n- Manage multiple teams and learn how to manage managers\r\n- Learn how to build and bootstrap a unifying culture in teams"
+  },
+  "title": "The Manager's Path",
+  "covers": [
+    8667291
+  ],
+  "subjects": [
+    "Management",
+    "Business",
+    "Software Development",
+    "Professional employees",
+    "Personnel management",
+    "Handbooks, manuals",
+    "Leadership",
+    "Industrial management",
+    "Management -- Handbooks, manuals, etc",
+    "Wirtschaftsingenieur",
+    "BUSINESS & ECONOMICS / Leadership",
+    "COMPUTERS / Software Development & Engineering / General",
+    "TECHNOLOGY & ENGINEERING / Project Management"
+  ],
+  "key": "/works/OL19860807W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7564045A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-01T22:45:17.169575"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-05T13:05:07.967369"
+  }
+}

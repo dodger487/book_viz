@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Tom Sweterlitsch",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Sweterlitsch</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q65963459",
+  "titles": {
+    "canonical": "Tom_Sweterlitsch",
+    "normalized": "Tom Sweterlitsch",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Sweterlitsch</span></span>"
+  },
+  "pageid": 69694638,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1344261697",
+  "tid": "2c364e60-2378-11f1-9949-9dbdf8a5cfa9",
+  "timestamp": "2026-03-19T09:44:07Z",
+  "description": "American author (born 1977)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tom_Sweterlitsch",
+      "revisions": "https://en.wikipedia.org/wiki/Tom_Sweterlitsch?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tom_Sweterlitsch?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Sweterlitsch"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tom_Sweterlitsch",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tom_Sweterlitsch",
+      "edit": "https://en.wikipedia.org/wiki/Tom_Sweterlitsch?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Sweterlitsch"
+    }
+  },
+  "extract": "Tom Sweterlitsch is an American author who has published the novels Tomorrow and Tomorrow and The Gone World.",
+  "extract_html": "<p><b>Tom Sweterlitsch</b> is an American author who has published the novels <i>Tomorrow and Tomorrow</i> and <i>The Gone World</i>.</p>"
+}

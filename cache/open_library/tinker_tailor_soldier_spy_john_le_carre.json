@@ -1,0 +1,115 @@
+{
+  "numFound": 31,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 31,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL20299199M",
+      "cover_i": 7021556,
+      "ebook_access": "printdisabled",
+      "edition_count": 23,
+      "first_publish_year": 1974,
+      "has_fulltext": true,
+      "ia": [
+        "tinkertailorsol000leca",
+        "tinkertailorsold00john_1",
+        "tinkertailorsold0000leca_j1t1",
+        "tinkertailorsold1985leca",
+        "tinkertailorsol00leca",
+        "tinkertailorsold0000leca_l2k3",
+        "tinkertailorsold00john",
+        "tinkertailorsold0000leca_q9w5",
+        "tinkertailorsol000john",
+        "tinkertailorsold0000leca_y0j4"
+      ],
+      "ia_collection": [
+        "americana",
+        "barryuniversity-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "stmaryscountylibrary",
+        "toronto",
+        "tulsacc-ol",
+        "udc-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL15723131W",
+      "language": [
+        "eng",
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Tinker Tailor Soldier Spy"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL26471389M",
+      "cover_i": 8752853,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL17893647W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tinker, Tailor, Soldier, Spy"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 15,
+      "first_publish_year": 1987,
+      "has_fulltext": false,
+      "key": "/works/OL25645882W",
+      "language": [
+        "swe",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Tinker, Tailor, Soldier, Spy"
+    }
+  ]
+}

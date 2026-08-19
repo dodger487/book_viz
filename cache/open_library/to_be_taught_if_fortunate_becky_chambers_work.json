@@ -1,0 +1,61 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "At the turn of the twenty-second century, scientists make a breakthrough in human spaceflight. Through a revolutionary method known as somaforming, astronauts can survive in hostile environments off Earth using synthetic biological supplementations. With the fragile body no longer a limiting factor, human beings are at last able to explore exoplanets long suspected to harbour life."
+  },
+  "title": "To Be Taught, If Fortunate",
+  "covers": [
+    10114139
+  ],
+  "subject_places": [
+    "Aecor",
+    "Mirabilis",
+    "Opera",
+    "Votum"
+  ],
+  "subjects": [
+    "Fiction",
+    "Science fiction",
+    "American literature",
+    "Fiction, science fiction, general",
+    "Life on other planets",
+    "Astronauts",
+    "Time dilatation",
+    "Genetic engineering",
+    "Exploration",
+    "Moral and ethical aspects",
+    "Discoveries in geography",
+    "Interplanetary voyages",
+    "Cultural relations"
+  ],
+  "subject_people": [
+    "Ariadne O'Neill"
+  ],
+  "key": "/works/OL20642211W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7387940A"
+      }
+    }
+  ],
+  "subject_times": [
+    "22nd century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-02-03T21:42:09.612572"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-10T21:29:42.166296"
+  }
+}

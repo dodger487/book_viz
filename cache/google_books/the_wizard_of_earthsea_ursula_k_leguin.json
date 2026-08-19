@@ -1,0 +1,263 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FD72ekYZqIkC",
+      "etag": "+TkaYN0KCwk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FD72ekYZqIkC",
+      "volumeInfo": {
+        "title": "A Wizard of Earthsea",
+        "authors": [
+          "Ursula K. Le Guin"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2012",
+        "description": "A boy grows to manhood while attempting to subdue the evil he unleashed on the world as an apprentice to the Master Wizard.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547851396"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0547851391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FD72ekYZqIkC&printsec=frontcover&dq=intitle:%22The+Wizard+of+Earthsea%22+inauthor:%22Ursula+K+LeGuin%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FD72ekYZqIkC&dq=intitle:%22The+Wizard+of+Earthsea%22+inauthor:%22Ursula+K+LeGuin%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Wizard_of_Earthsea.html?hl=&id=FD72ekYZqIkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Wizard_of_Earthsea-sample-pdf.acsm?id=FD72ekYZqIkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FD72ekYZqIkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A boy grows to manhood while attempting to subdue the evil he unleashed on the world as an apprentice to the Master Wizard."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mWqxEAAAQBAJ",
+      "etag": "pc+cTe4ilzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mWqxEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ursula K. Le Guin\u2019s \"A Wizard of Earthsea\"",
+        "subtitle": "A Critical Companion",
+        "authors": [
+          "Timothy S. Miller"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2023-03-01",
+        "description": "Written not so long after \"Tolkien mania\" first gripped the United States in the 1960s, Ursula K. Le Guin's novel A Wizard of Earthsea (1968) has long been recognized as a classic of the fantasy genre, and the series of Earthsea books that followed on it over the next several decades earned its author both considerable sales and critical accolades. This new introduction to the text will closely contextualize the original novel in relation to its heady decade of composition and publication \u2014 a momentous time for genre publishing \u2014 and also survey the half century and more of scholarship on Earthsea, which has shifted in direction and emphasis many times over the decades, just as surely as Le Guin frequently adjusted her own sails when composing later works set in the fantasy world. Above all, this book positions A Wizard of Earthsea as perhaps an \"old text\" that nevertheless belongs in a \"new canon,\" a key novel in the author's career and the genre in which it participates, and one that at once looks back to Tolkien and his own antecedents in masculinist early fantasy; looks forward to Le Guin's own continuing feminist and progressive education; and anticipates and indeed helped to shape young adult literature in its contemporary form.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783031246401"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3031246403"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mWqxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mWqxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mWqxEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wizard+of+Earthsea%22+inauthor:%22Ursula+K+LeGuin%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mWqxEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mWqxEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 43.44,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mWqxEAAAQBAJ&rdid=book-mWqxEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43440000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 19250000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16750000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ursula_K_Le_Guin_s_A_Wizard_of_Earthsea-sample-epub.acsm?id=mWqxEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ursula_K_Le_Guin_s_A_Wizard_of_Earthsea-sample-pdf.acsm?id=mWqxEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mWqxEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Above all, this book positions A Wizard of Earthsea as perhaps an &quot;old text&quot; that nevertheless belongs in a &quot;new canon,&quot; a key novel in the author&#39;s career and the genre in which it participates, and one that at once looks back to Tolkien ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nuVp0QEACAAJ",
+      "etag": "NVTh2J52ghI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nuVp0QEACAAJ",
+      "volumeInfo": {
+        "title": "The Farthest Shore",
+        "authors": [
+          "Ursula K. Le Guin"
+        ],
+        "publisher": "Bantam",
+        "publishedDate": "1984",
+        "description": "Book Three of Ursula K. Le Guin's Earthsea Cycle Darkness threatens to overtake Earthsea: the world and its wizards are losing their magic. Despite being wearied with age, Ged Sparrowhawk -- Archmage, wizard, and dragonlord -- embarks on a daring, treacherous journey, accompanied by Enlad's young Prince Arren, to discover the reasons behind this devastating pattern of loss. Together they will sail to the farthest reaches of their world -- even beyond the realm of death -- as they seek to restore magic to a land desperately thirsty for it. With millions of copies sold worldwide, Ursula K. Le Guin's Earthsea Cycle has earned a treasured place on the shelves of fantasy lovers everywhere, alongside the works of such beloved authors as J. R. R. Tolkien and C. S. Lewis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0553238280"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553238280"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nuVp0QEACAAJ&dq=intitle:%22The+Wizard+of+Earthsea%22+inauthor:%22Ursula+K+LeGuin%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nuVp0QEACAAJ&dq=intitle:%22The+Wizard+of+Earthsea%22+inauthor:%22Ursula+K+LeGuin%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Farthest_Shore.html?hl=&id=nuVp0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nuVp0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With millions of copies sold worldwide, Ursula K. Le Guin&#39;s Earthsea Cycle has earned a treasured place on the shelves of fantasy lovers everywhere, alongside the works of such beloved authors as J. R. R. Tolkien and C. S. Lewis."
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1394865A"
+      ],
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL25870671W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Brandon Sanderson's Fantasy Firsts : (the Way of Kings, Mistborn: the Final Empire, Rithmatist, Alcatraz vs. the Evil Librarians)"
+    },
+    {
+      "author_key": [
+        "OL1394865A"
+      ],
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL36855325W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Mistborn 7 Books Collection Set by Brandon Sanderson (Final Empire, Well of Ascension, Hero of Ages, Band of Mourning, Alloy of Law, Shadows of Self & the Lost Metal)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "I Deliver Parcels in Beijing",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL15011762A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL42451249W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-01-25T04:12:07.931493"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-23T15:24:23.742193"
+  }
+}

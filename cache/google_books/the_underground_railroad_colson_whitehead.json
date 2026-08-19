@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xYtIDwAAQBAJ",
+      "etag": "3vPKMItkyFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xYtIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Underground Railroad",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2018-01-30",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 PULITZER PRIZE WINNER \u2022 NATIONAL BOOK AWARD WINNER \u2022 \"An American masterpiece\" (NPR) that chronicles a young slave's adventures as she makes a desperate bid for freedom in the antebellum South. One of The New York Times\u2019s 10 Best Books of the 21st Century \u2022 A Kirkus Reviews Best Fiction Book of the Century \u2022 A Los Angeles Times Best Fiction Book of the Last 30 Years The basis for the acclaimed original Prime Video series directed by Barry Jenkins. Cora is a slave on a cotton plantation in Georgia. An outcast even among her fellow Africans, she is on the cusp of womanhood\u2014where greater pain awaits. And so when Caesar, a slave who has recently arrived from Virginia, urges her to join him on the Underground Railroad, she seizes the opportunity and escapes with him. In Colson Whitehead's ingenious conception, the Underground Railroad is no mere metaphor: engineers and conductors operate a secret network of actual tracks and tunnels beneath the Southern soil. Cora embarks on a harrowing flight from one state to the next, encountering, like Gulliver, strange yet familiar iterations of her own world at each stop. As Whitehead brilliantly re-creates the terrors of the antebellum era, he weaves in the saga of our nation, from the brutal abduction of Africans to the unfulfilled promises of the present day. The Underground Railroad is both the gripping tale of one woman's will to escape the horrors of bondage\u2014and a powerful meditation on the history we all share.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345804327"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345804325"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xYtIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xYtIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xYtIDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Underground+Railroad%22+inauthor:%22Colson+Whitehead%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xYtIDwAAQBAJ&dq=intitle:%22The+Underground+Railroad%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Underground_Railroad.html?hl=&id=xYtIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xYtIDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Underground Railroad is both the gripping tale of one woman&#39;s will to escape the horrors of bondage\u2014and a powerful meditation on the history we all share."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MepRCwAAQBAJ",
+      "etag": "IYNkZsOVA40",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MepRCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Underground Railroad (Pulitzer Prize Winner) (National Book Award Winner) (Oprah's Book Club)",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2016-08-02",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 PULITZER PRIZE WINNER \u2022 NATIONAL BOOK AWARD WINNER \u2022 \"An American masterpiece\" (NPR) that chronicles a young slave's adventures as she makes a desperate bid for freedom in the antebellum South. One of The New York Times\u2019s 10 Best Books of the 21st Century \u2022 A Kirkus Reviews Best Fiction Book of the Century \u2022 A Los Angeles Times Best Fiction Book of the Last 30 Years The basis for the acclaimed original Prime Video series directed by Barry Jenkins. Cora is a slave on a cotton plantation in Georgia. An outcast even among her fellow Africans, she is on the cusp of womanhood\u2014where greater pain awaits. And so when Caesar, a slave who has recently arrived from Virginia, urges her to join him on the Underground Railroad, she seizes the opportunity and escapes with him. In Colson Whitehead's ingenious conception, the Underground Railroad is no mere metaphor: engineers and conductors operate a secret network of actual tracks and tunnels beneath the Southern soil. Cora embarks on a harrowing flight from one state to the next, encountering, like Gulliver, strange yet familiar iterations of her own world at each stop. As Whitehead brilliantly re-creates the terrors of the antebellum era, he weaves in the saga of our nation, from the brutal abduction of Africans to the unfulfilled promises of the present day. The Underground Railroad is both the gripping tale of one woman's will to escape the horrors of bondage\u2014and a powerful meditation on the history we all share.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385537049"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385537042"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.31.29.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MepRCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MepRCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MepRCwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Underground+Railroad%22+inauthor:%22Colson+Whitehead%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MepRCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MepRCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MepRCwAAQBAJ&rdid=book-MepRCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Underground_Railroad_Pulitzer_Prize-sample-epub.acsm?id=MepRCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MepRCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Underground Railroad is both the gripping tale of one woman&#39;s will to escape the horrors of bondage\u2014and a powerful meditation on the history we all share."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "brSPEAAAQBAJ",
+      "etag": "gwFdyd4rTMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/brSPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Underground Railroad (Oprah's Book Club)",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2016-08-02",
+        "description": "Winner of the Pulitzer Prize and the National Book Award, the #1 New York Times bestseller from Colson Whitehead, a magnificent tour de force chronicling a young slave's adventures as she makes a desperate bid for freedom in the antebellum South. Now an original Amazon Prime Video series directed by Barry Jenkins. Cora is a slave on a cotton plantation in Georgia. Life is hell for all the slaves, but especially bad for Cora; an outcast even among her fellow Africans, she is coming into womanhood\u2014where even greater pain awaits. When Caesar, a recent arrival from Virginia, tells her about the Underground Railroad, they decide to take a terrifying risk and escape. Matters do not go as planned\u2014Cora kills a young white boy who tries to capture her. Though they manage to find a station and head north, they are being hunted. In Whitehead\u2019s ingenious conception, the Underground Railroad is no mere metaphor\u2014engineers and conductors operate a secret network of tracks and tunnels beneath the Southern soil. Cora and Caesar\u2019s first stop is South Carolina, in a city that initially seems like a haven. But the city\u2019s placid surface masks an insidious scheme designed for its black denizens. And even worse: Ridgeway, the relentless slave catcher, is close on their heels. Forced to flee again, Cora embarks on a harrowing flight, state by state, seeking true freedom. Like the protagonist of Gulliver\u2019s Travels, Cora encounters different worlds at each stage of her journey\u2014hers is an odyssey through time as well as space. As Whitehead brilliantly re-creates the unique terrors for black people in the pre\u2013Civil War era, his narrative seamlessly weaves the saga of America from the brutal importation of Africans to the unfulfilled promises of the present day. The Underground Railroad is at once a kinetic adventure tale of one woman\u2019s ferocious will to escape the horrors of bondage and a shattering, powerful meditation on the history we all share. Look for Colson Whitehead\u2019s best-selling new novel, Harlem Shuffle!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524736309"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524736309"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=brSPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=brSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=brSPEAAAQBAJ&dq=intitle:%22The+Underground+Railroad%22+inauthor:%22Colson+Whitehead%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=brSPEAAAQBAJ&dq=intitle:%22The+Underground+Railroad%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Underground_Railroad_Oprah_s_Book_Cl.html?hl=&id=brSPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=brSPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Winner of the Pulitzer Prize and the National Book Award, the #1 New York Times bestseller from Colson Whitehead, a magnificent tour de force chronicling a young slave&#39;s adventures as she makes a desperate bid for freedom in the antebellum ..."
+      }
+    }
+  ]
+}

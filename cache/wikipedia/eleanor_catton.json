@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Eleanor Catton",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eleanor Catton</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3050522",
+  "titles": {
+    "canonical": "Eleanor_Catton",
+    "normalized": "Eleanor Catton",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eleanor Catton</span></span>"
+  },
+  "pageid": 23918703,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eleanor_Catton.jpg/330px-Eleanor_Catton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Eleanor_Catton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3600,
+    "height": 5400
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365508753",
+  "tid": "c30f635e-861b-11f1-88a3-feff72b535a4",
+  "timestamp": "2026-07-22T22:22:02Z",
+  "description": "New Zealand novelist and screenwriter",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Eleanor_Catton",
+      "revisions": "https://en.wikipedia.org/wiki/Eleanor_Catton?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Eleanor_Catton?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Eleanor_Catton"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Eleanor_Catton",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Eleanor_Catton",
+      "edit": "https://en.wikipedia.org/wiki/Eleanor_Catton?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Eleanor_Catton"
+    }
+  },
+  "extract": "Eleanor Catton is a New Zealand novelist and screenwriter. Born in Canada, Catton moved to New Zealand as a child and grew up in Christchurch. She completed a master's degree in creative writing at the International Institute of Modern Letters. Her award-winning debut novel, The Rehearsal, written as her Master's thesis, was published in 2008, and has been adapted into a 2016 film of the same name. Her second novel, The Luminaries, won the 2013 Booker Prize, making Catton the youngest author ever to win the prize and only the second New Zealander. It was subsequently adapted into a television miniseries, with Catton as screenwriter. In 2023, she was named on the Granta Best of Young British Novelists list.",
+  "extract_html": "<p><b>Eleanor Catton</b> is a New Zealand novelist and screenwriter. Born in Canada, Catton moved to New Zealand as a child and grew up in Christchurch. She completed a master's degree in creative writing at the International Institute of Modern Letters. Her award-winning debut novel, <i>The Rehearsal</i>, written as her Master's thesis, was published in 2008, and has been adapted into a 2016 film of the same name. Her second novel, <i>The Luminaries</i>, won the 2013 Booker Prize, making Catton the youngest author ever to win the prize and only the second New Zealander. It was subsequently adapted into a television miniseries, with Catton as screenwriter. In 2023, she was named on the <i>Granta</i> Best of Young British Novelists list.</p>"
+}

@@ -1,0 +1,105 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ipc9EAAAQBAJ",
+      "etag": "VBz3suZAC+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ipc9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Prayer for the Crown-Shy",
+        "subtitle": "A Monk and Robot Book",
+        "authors": [
+          "Becky Chambers"
+        ],
+        "publisher": "Tordotcom",
+        "publishedDate": "2022-07-12",
+        "description": "A USA Today Bestseller! \u201cTender and healing... I\u2019m prescribing a preorder to anyone who has ever felt lost. Stunning, kind, necessary.\u201d \u2014Sarah Gailey on book 1: A Psalm for the Wild-Built A Prayer for the Crown-Shy is a story of kindness and love from one of the foremost practitioners of hopeful SF. After touring the rural areas of Panga, Sibling Dex (a Tea Monk of some renown) and Mosscap (a robot sent on a quest to determine what humanity really needs) turn their attention to the villages and cities of the little moon they call home. They hope to find the answers they seek, while making new friends, learning new concepts, and experiencing the entropic nature of the universe. Becky Chambers's new series continues to ask: in a world where people have what they want, does having more even matter? At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250236241"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "125023624X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ipc9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ipc9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ipc9EAAAQBAJ&printsec=frontcover&dq=intitle:%22A+Prayer+for+the+Crown-shy%22+inauthor:%22Becky+Chambers%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ipc9EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ipc9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ipc9EAAAQBAJ&rdid=book-ipc9EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ipc9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Becky Chambers&#39;s new series continues to ask: in a world where people have what they want, does having more even matter? At the Publisher&#39;s request, this title is being sold without Digital Rights Management Software (DRM) applied."
+      }
+    }
+  ]
+}

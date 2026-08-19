@@ -1,0 +1,66 @@
+{
+  "description": "No matter your goals, Atomic Habits offers a proven framework for improving every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.\u00a0[**Atomic Habits pdf**](https://chesserresources.com/doc/atomic-habits-by-james-clear-pdf-2/)",
+  "subjects": [
+    "Habit",
+    "Habit breaking",
+    "Behavior modification",
+    "Self-actualization (psychology)",
+    "Business",
+    "psychology",
+    "Personal Growth",
+    "New York Times bestseller",
+    "BUSINESS & ECONOMICS / Organizational Behavior",
+    "PSYCHOLOGY / Social Psychology",
+    "SELF-HELP / Personal Growth / General."
+  ],
+  "key": "/works/OL17930368W",
+  "title": "Atomic Habits",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7422948A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12539702,
+    10457042,
+    10958382,
+    8260535,
+    12225471,
+    10510589,
+    11646973
+  ],
+  "links": [
+    {
+      "title": "Atomic Habits pdf",
+      "url": "https://chesserresources.com/doc/atomic-habits-by-james-clear-pdf-2/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Booksdata.org",
+      "url": "https://catalog.booksdata.org/book/BD00055376/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear-9780735211292",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 74,
+  "revision": 74,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-10-20T04:53:43.040839"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-06T14:43:25.888846"
+  }
+}

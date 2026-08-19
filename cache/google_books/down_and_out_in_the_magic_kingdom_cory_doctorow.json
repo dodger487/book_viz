@@ -1,0 +1,213 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "h8DvDwAAQBAJ",
+      "etag": "9CXeikH8Rco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h8DvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Down and Out in the Magic Kingdom",
+        "authors": [
+          "Cory Doctorow"
+        ],
+        "publisher": "Open Road Media",
+        "publishedDate": "2020-07-14",
+        "description": "Amusement park rides are the ultimate battleground in this Locus Award\u2013winning dystopian sci-fi novel by the acclaimed author of Little Brother. In the near-future world of the Bitchun Society, scarcity is a thing of the past, death has been conquered, and a constant internal interface allows everyone to monitor their ultimate pursuit: the esteem of others. At barely a century old, Jules is still a young man when he realizes his dream of living and working at Disney World. He devotes himself to keeping the classic attractions intact, with only minor adjustments to their original twentieth-century designs. But when the Hall of Presidents is overtaken by a rival group, the old animatronic designs are replaced with a new, direct-to-brain immersive experience. For Jules, this assault on the artistic purity of Disney World cannot stand. And it only upsets him more when someone has him killed. After rebooting in a new body, Jules is ready for war. \u201cA black-comedic sci-fi prophecy on the dangers of surrendering our consensual hallucination to the regime. Fun to read, but difficult to sleep afterwards.\u201d \u2014Douglas Rushkoff, author of Cyberia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781504063753"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1504063759"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h8DvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h8DvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h8DvDwAAQBAJ&printsec=frontcover&dq=intitle:%22Down+and+Out+in+the+Magic+Kingdom%22+inauthor:%22Cory+Doctorow%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h8DvDwAAQBAJ&dq=intitle:%22Down+and+Out+in+the+Magic+Kingdom%22+inauthor:%22Cory+Doctorow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Down_and_Out_in_the_Magic_Kingdom.html?hl=&id=h8DvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_in_the_Magic_Kingdom-sample-epub.acsm?id=h8DvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_in_the_Magic_Kingdom-sample-pdf.acsm?id=h8DvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h8DvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Amusement park rides are the ultimate battleground in this Locus Award\u2013winning dystopian sci-fi novel by the acclaimed author of Little Brother."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JdGCtAEACAAJ",
+      "etag": "zbhd09DnUXk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JdGCtAEACAAJ",
+      "volumeInfo": {
+        "title": "Down and Out in the Magic Kingdom by Cory Doctorow",
+        "subtitle": "Down and Out in the Magic Kingdom by Cory Doctorow, the Classic Books",
+        "authors": [
+          "Cory Doctorow"
+        ],
+        "publishedDate": "2017-07-13",
+        "description": "\"The classic book has always read again and again.\"\"What is the classic book?\"\"\"\"Why is the classic book?\"\"READ READ READ.. then you'll know it's excellence.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548843490"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548843496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JdGCtAEACAAJ&dq=intitle:%22Down+and+Out+in+the+Magic+Kingdom%22+inauthor:%22Cory+Doctorow%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JdGCtAEACAAJ&dq=intitle:%22Down+and+Out+in+the+Magic+Kingdom%22+inauthor:%22Cory+Doctorow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Down_and_Out_in_the_Magic_Kingdom_by_Cor.html?hl=&id=JdGCtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JdGCtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The classic book has always read again and again.&quot;&quot;What is the classic book?&quot;&quot;&quot;&quot;Why is the classic book?&quot;&quot;READ READ READ.. then you&#39;ll know it&#39;s excellence.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jkVcvgEACAAJ",
+      "etag": "nwtIWnXU+XQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jkVcvgEACAAJ",
+      "volumeInfo": {
+        "title": "Down and Out in the Magic Kingdom",
+        "subtitle": "8. 5 X 11",
+        "authors": [
+          "Cory Doctorow"
+        ],
+        "publishedDate": "2017-07-14",
+        "description": "Classic Book Hall of Frame",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548851361"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548851361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jkVcvgEACAAJ&dq=intitle:%22Down+and+Out+in+the+Magic+Kingdom%22+inauthor:%22Cory+Doctorow%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jkVcvgEACAAJ&dq=intitle:%22Down+and+Out+in+the+Magic+Kingdom%22+inauthor:%22Cory+Doctorow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Down_and_Out_in_the_Magic_Kingdom.html?hl=&id=jkVcvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jkVcvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Classic Book Hall of Frame"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL455001A"
+      ],
+      "author_name": [
+        "Izumi, Kyo\u0304ka"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1990,
+      "has_fulltext": false,
+      "key": "/works/OL12046078W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The saint of Mt. Koya  The song of the troubadour"
+    },
+    {
+      "author_key": [
+        "OL455001A"
+      ],
+      "author_name": [
+        "Izumi, Kyo\u0304ka"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1990,
+      "has_fulltext": false,
+      "key": "/works/OL10347027W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Saint of Mt. Koya; and, The song of the troubadour"
+    },
+    {
+      "author_key": [
+        "OL12015063A"
+      ],
+      "author_name": [
+        "Ky\u014dka Izumi"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1990,
+      "has_fulltext": false,
+      "key": "/works/OL38838050W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Saint of Mt. Koya; and, The song of the troubadour"
+    }
+  ]
+}

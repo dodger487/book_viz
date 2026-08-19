@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Liu Cixin",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liu Cixin</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q607588",
+  "titles": {
+    "canonical": "Liu_Cixin",
+    "normalized": "Liu Cixin",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liu Cixin</span></span>"
+  },
+  "pageid": 30091140,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cixin_Liu_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards.jpg/330px-Cixin_Liu_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cixin_Liu_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 518,
+    "height": 691
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365025809",
+  "tid": "f3a29335-83b6-11f1-b572-6a605171887e",
+  "timestamp": "2026-07-19T21:15:22Z",
+  "description": "Chinese science fiction writer (born 1963)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Liu_Cixin",
+      "revisions": "https://en.wikipedia.org/wiki/Liu_Cixin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Liu_Cixin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Liu_Cixin"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Liu_Cixin",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Liu_Cixin",
+      "edit": "https://en.wikipedia.org/wiki/Liu_Cixin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Liu_Cixin"
+    }
+  },
+  "extract": "Liu Cixin is a Chinese computer engineer and science fiction writer. In English translations of his works, his name is given as Cixin Liu. He is sometimes called \"Da Liu\" by his fellow science fiction writers in China.",
+  "extract_html": "<p><b>Liu Cixin</b> is a Chinese computer engineer and science fiction writer. In English translations of his works, his name is given as <b>Cixin Liu</b>. He is sometimes called \"<i>Da</i> Liu\" by his fellow science fiction writers in China.</p>"
+}

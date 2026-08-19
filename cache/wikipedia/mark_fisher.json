@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mark Fisher",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mark Fisher</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q20740852",
+  "titles": {
+    "canonical": "Mark_Fisher",
+    "normalized": "Mark Fisher",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mark Fisher</span></span>"
+  },
+  "pageid": 47372376,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mark_fisher.jpg/330px-Mark_fisher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 365
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mark_fisher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 386,
+    "height": 427
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367073046",
+  "tid": "fb9af4f7-8d1d-11f1-848d-8d327808a43a",
+  "timestamp": "2026-07-31T20:25:34Z",
+  "description": "English cultural theorist (1968\u20132017)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mark_Fisher",
+      "revisions": "https://en.wikipedia.org/wiki/Mark_Fisher?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mark_Fisher?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mark_Fisher"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Mark_Fisher",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Mark_Fisher",
+      "edit": "https://en.wikipedia.org/wiki/Mark_Fisher?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mark_Fisher"
+    }
+  },
+  "extract": "Mark Fisher, also known under his blogging alias k-punk, was an English writer, music critic, political and cultural theorist, philosopher, Marxist and teacher based in the Department of Visual Cultures at Goldsmiths, University of London. He initially achieved acclaim for his blogging as k-punk in the early 2000s, and was known for his writing on radical politics, music, and popular culture.",
+  "extract_html": "<p><b>Mark Fisher</b>, also known under his blogging alias <b>k-punk</b>, was an English writer, music critic, political and cultural theorist, philosopher, Marxist and teacher based in the Department of Visual Cultures at Goldsmiths, University of London. He initially achieved acclaim for his blogging as k-punk in the early 2000s, and was known for his writing on radical politics, music, and popular culture.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Carol Anderson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Carol Anderson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q28600074",
+  "titles": {
+    "canonical": "Carol_Anderson",
+    "normalized": "Carol Anderson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Carol Anderson</span></span>"
+  },
+  "pageid": 36204101,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carol_Anderson_TBF_05NOV2017.jpg/330px-Carol_Anderson_TBF_05NOV2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carol_Anderson_TBF_05NOV2017.jpg/3840px-Carol_Anderson_TBF_05NOV2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 4032,
+    "height": 3024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1348445007",
+  "tid": "41638161-369d-11f1-b0c0-b516a8c7edf0",
+  "timestamp": "2026-04-12T18:27:26Z",
+  "description": "American academic (born 1959)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Carol_Anderson",
+      "revisions": "https://en.wikipedia.org/wiki/Carol_Anderson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Carol_Anderson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carol_Anderson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Carol_Anderson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Carol_Anderson",
+      "edit": "https://en.wikipedia.org/wiki/Carol_Anderson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carol_Anderson"
+    }
+  },
+  "extract": "Carol Elaine Anderson is an American academic. She is the Charles Howard Candler professor of African American Studies at Emory University. Her research focuses on public policy with regard to race, justice, and equality. In 2023, she was elected to the American Philosophical Society.",
+  "extract_html": "<p><b>Carol Elaine Anderson</b> is an American academic. She is the Charles Howard Candler professor of African American Studies at Emory University. Her research focuses on public policy with regard to race, justice, and equality. In 2023, she was elected to the American Philosophical Society.</p>"
+}

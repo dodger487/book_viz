@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "John Steinbeck",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Steinbeck</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q39212",
+  "titles": {
+    "canonical": "John_Steinbeck",
+    "normalized": "John Steinbeck",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Steinbeck</span></span>"
+  },
+  "pageid": 15825,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/John_Steinbeck_1939_%28cropped%29.jpg/330px-John_Steinbeck_1939_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 396
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/John_Steinbeck_1939_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 850,
+    "height": 1020
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367294375",
+  "tid": "0d70ba60-8e38-11f1-85e9-845121723833",
+  "timestamp": "2026-08-02T06:04:42Z",
+  "description": "American writer and novelist (1902\u20131968)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/John_Steinbeck",
+      "revisions": "https://en.wikipedia.org/wiki/John_Steinbeck?action=history",
+      "edit": "https://en.wikipedia.org/wiki/John_Steinbeck?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Steinbeck"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/John_Steinbeck",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/John_Steinbeck",
+      "edit": "https://en.wikipedia.org/wiki/John_Steinbeck?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Steinbeck"
+    }
+  },
+  "extract": "John Ernst Steinbeck was an American writer and novelist. He won the 1962 Nobel Prize in Literature \"for his realistic and imaginative writings, combining as they do sympathetic humor and keen social perception\". He has been called \"a giant of American letters\". One of the most widely read authors of the 20th century, he was also an independent journalist and war correspondent during World War II and the Vietnam War.",
+  "extract_html": "<p><b>John Ernst Steinbeck</b> was an American writer and novelist. He won the 1962 Nobel Prize in Literature \"for his realistic and imaginative writings, combining as they do sympathetic humor and keen social perception\". He has been called \"a giant of American letters\". One of the most widely read authors of the 20th century, he was also an independent journalist and war correspondent during World War II and the Vietnam War.</p>"
+}

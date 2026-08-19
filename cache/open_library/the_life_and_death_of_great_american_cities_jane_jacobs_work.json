@@ -1,0 +1,95 @@
+{
+  "description": "The Death and Life of Great American Cities was described by The New York Times as \u201cperhaps the most influential single work in the history of town planning. . . . [It] can also be seen in a much larger context. It is first of all a work of literature; the descriptions of street life as a kind of ballet and the bitingly satiric account of traditional planning theory can still be read for pleasure even by those who long ago absorbed and appropriated the book\u2019s arguments.\u201d Jane Jacobs, an editor and writer on architecture in New York City in the early sixties, argued that urban diversity and vitality were being destroyed by powerful architects and city planners. Rigorous, sane, and delightfully epigrammatic, Jane Jacobs\u2019s tour de force is a blueprint for the humanistic management of cities. It remains sensible, knowledgeable, readable, and indispensable.",
+  "links": [
+    {
+      "title": "Amazon",
+      "url": "http://www.amazon.com/American-Cities-Anniversary-Modern-Library/dp/0679644334/ref=sr_1_1?ie=UTF8&qid=1320241670&sr=8-1",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Libro. Muerte y vida de las grandes ciudades (Ciudades a escala humana)",
+      "url": "http://www.ciudadesaescalahumana.org/2011/07/libro-muerte-y-vida-de-las-grandes.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "#LeerlaCiudad presenta: Q&A con Pedestre (Youtube)",
+      "url": "https://www.youtube.com/watch?v=BHKNUZ-zqtQ",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Muerte y vida de las grandes ciudades (rese\u00f1a) en Leer la Ciudad",
+      "url": "http://leerlaciudad.com/muerte-y-vida-de-las-grandes-ciudades/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Death and Life of Great American Cities",
+  "covers": [
+    5540237,
+    10062196,
+    991814,
+    6691583,
+    -1,
+    7416143,
+    10578967,
+    12309046
+  ],
+  "subject_places": [
+    "United States",
+    "\u00c9tats-Unis",
+    "United Stated"
+  ],
+  "subjects": [
+    "City planning",
+    "Urban renewal",
+    "Urban policy",
+    "Cities and towns",
+    "United States",
+    "Stedenbouw",
+    "Long Now Manual for Civilization",
+    "R\u00e9novation urbaine",
+    "Urbanisme",
+    "Urbanismo",
+    "Public Policy",
+    "Politique urbaine",
+    "City planning, united states",
+    "Cities and towns, united states",
+    "Villes",
+    "Sociologie urbaine",
+    "Croissance",
+    "History",
+    "Architecture",
+    "Amistad (Schooner)"
+  ],
+  "key": "/works/OL93641W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL29371A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 25,
+  "revision": 25,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T14:17:30.632241"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-16T13:43:18.092831"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "The Wright Brothers",
+  "covers": [
+    8969538
+  ],
+  "key": "/works/OL20309208W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2652669A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Aeronautics",
+    "Biography"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-10-20T05:20:48.676733"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-08-09T13:34:04.204801"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "numFound": 14,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 14,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL18979A"
+      ],
+      "author_name": [
+        "Michael Connelly"
+      ],
+      "cover_edition_key": "OL9334519M",
+      "cover_i": 184039,
+      "ebook_access": "printdisabled",
+      "edition_count": 13,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "blackecho000conn",
+        "blackecho00conn"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL111748W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Black Echo (Harry Bosch)"
+    },
+    {
+      "author_key": [
+        "OL18979A"
+      ],
+      "author_name": [
+        "Michael Connelly"
+      ],
+      "cover_edition_key": "OL1533174M",
+      "cover_i": 188409,
+      "ebook_access": "printdisabled",
+      "edition_count": 11,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "blackecho00conn_0"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL111744W",
+      "language": [
+        "eng",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "The black echo"
+    },
+    {
+      "author_key": [
+        "OL18979A"
+      ],
+      "author_name": [
+        "Michael Connelly"
+      ],
+      "cover_edition_key": "OL32081212M",
+      "cover_i": 10734344,
+      "ebook_access": "printdisabled",
+      "edition_count": 4,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "blackecho0000conn_a5s9",
+        "blackecho0000conn_f3n7",
+        "blackecho0000conn_g6i2"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL22308638W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The black echo"
+    }
+  ]
+}

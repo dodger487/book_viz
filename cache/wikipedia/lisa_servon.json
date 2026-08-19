@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Lisa Servon",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lisa Servon</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q56867936",
+  "titles": {
+    "canonical": "Lisa_Servon",
+    "normalized": "Lisa Servon",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lisa Servon</span></span>"
+  },
+  "pageid": 58634553,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1354958719",
+  "tid": "5d160fdc-533e-11f1-8fcf-138f4d5f22b6",
+  "timestamp": "2026-05-19T04:51:14Z",
+  "description": "American professor",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lisa_Servon",
+      "revisions": "https://en.wikipedia.org/wiki/Lisa_Servon?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lisa_Servon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lisa_Servon"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lisa_Servon",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lisa_Servon",
+      "edit": "https://en.wikipedia.org/wiki/Lisa_Servon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lisa_Servon"
+    }
+  },
+  "extract": "Lisa Servon is an American professor who holds the position of chair of the City and Regional Planning Department at the University of Pennsylvania. She specializes in studies of urban poverty, community development, economic development, and issues of gender. She is one of the primary faculty in the Community and Economic Development concentration. Her research has explored economic insecurity, consumer financial services, and financial justice.",
+  "extract_html": "<p><b>Lisa Servon</b> is an American professor who holds the position of chair of the City and Regional Planning Department at the University of Pennsylvania. She specializes in studies of urban poverty, community development, economic development, and issues of gender. She is one of the primary faculty in the Community and Economic Development concentration. Her research has explored economic insecurity, consumer financial services, and financial justice.</p>"
+}

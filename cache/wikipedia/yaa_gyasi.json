@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Yaa Gyasi",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yaa Gyasi</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q27757818",
+  "titles": {
+    "canonical": "Yaa_Gyasi",
+    "normalized": "Yaa Gyasi",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yaa Gyasi</span></span>"
+  },
+  "pageid": 52456641,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yaa_Gyasi%2C_9_27_%2836709389003%29_%28cropped%29.jpg/330px-Yaa_Gyasi%2C_9_27_%2836709389003%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 385
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yaa_Gyasi%2C_9_27_%2836709389003%29_%28cropped%29.jpg/500px-Yaa_Gyasi%2C_9_27_%2836709389003%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 909,
+    "height": 1060
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1356121075",
+  "tid": "4a8d5e33-5881-11f1-8ca0-2e35c2d8c47a",
+  "timestamp": "2026-05-25T21:32:55Z",
+  "description": "Ghanaian-American novelist (born 1989)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Yaa_Gyasi",
+      "revisions": "https://en.wikipedia.org/wiki/Yaa_Gyasi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Yaa_Gyasi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Yaa_Gyasi"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Yaa_Gyasi",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Yaa_Gyasi",
+      "edit": "https://en.wikipedia.org/wiki/Yaa_Gyasi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Yaa_Gyasi"
+    }
+  },
+  "extract": "Yaa Gyasi is a Ghanaian-American novelist. Her work, most notably her 2016 debut novel Homegoing and her 2020 novel Transcendent Kingdom, features themes of lineage, generational trauma, and Black and African identities. At the age of 26, Gyasi won the National Book Critics Circle's John Leonard Award for Best First Book, the PEN/Hemingway Award for Debut Novel, the National Book Foundation's 5 Under 35 honors for 2016 and the 2017 American Book Award. She was awarded a Vilcek Prize for Creative Promise in Literature in 2020. As of 2019, Gyasi lives in Brooklyn, New York.",
+  "extract_html": "<p><b>Yaa Gyasi</b> is a Ghanaian-American novelist. Her work, most notably her 2016 debut novel <span><i>Homegoing</i></span> and her 2020 novel <i>Transcendent Kingdom,</i> features themes of lineage, generational trauma, and Black and African identities. At the age of 26, Gyasi won the National Book Critics Circle's John Leonard Award for Best First Book, the PEN/Hemingway Award for Debut Novel, the National Book Foundation's 5 Under 35 honors for 2016 and the 2017 American Book Award. She was awarded a Vilcek Prize for Creative Promise in Literature in 2020. As of 2019, Gyasi lives in Brooklyn, New York.</p>"
+}

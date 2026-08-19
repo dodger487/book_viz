@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Brandon Sanderson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Brandon Sanderson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q457608",
+  "titles": {
+    "canonical": "Brandon_Sanderson",
+    "normalized": "Brandon Sanderson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Brandon Sanderson</span></span>"
+  },
+  "pageid": 1933747,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Brandon_Sanderson_at_MCM_Comic_Con_London_22_May_2026_02.jpg/330px-Brandon_Sanderson_at_MCM_Comic_Con_London_22_May_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Brandon_Sanderson_at_MCM_Comic_Con_London_22_May_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2961,
+    "height": 3948
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368134389",
+  "tid": "daf10339-9221-11f1-8495-80b106f03460",
+  "timestamp": "2026-08-07T05:35:53Z",
+  "description": "American fiction writer (born 1975)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+      "revisions": "https://en.wikipedia.org/wiki/Brandon_Sanderson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Brandon_Sanderson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Brandon_Sanderson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Brandon_Sanderson",
+      "edit": "https://en.wikipedia.org/wiki/Brandon_Sanderson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Brandon_Sanderson"
+    }
+  },
+  "extract": "Brandon Winn Sanderson is an American author of high fantasy, science fiction, and young adult books. His best known novels include the Mistborn series and The Stormlight Archive, which are set in the \"Cosmere\", a fictional universe. Outside of the Cosmere, he has written several young adult and juvenile series including The Reckoners, the Skyward series, and the Alcatraz series. He is also known for finishing author Robert Jordan's high fantasy series The Wheel of Time. Sanderson has created two graphic novels, White Sand and Dark One.",
+  "extract_html": "<p><b>Brandon Winn Sanderson</b> is an American author of high fantasy, science fiction, and young adult books. His best known novels include the <i>Mistborn</i> series and <i>The Stormlight Archive</i>, which are set in the \"Cosmere\", a fictional universe. Outside of the Cosmere, he has written several young adult and juvenile series including <i>The Reckoners</i>, the <i>Skyward</i> series, and the <span><i>Alcatraz</i></span> series. He is also known for finishing author Robert Jordan's high fantasy series <i>The Wheel of Time.</i> Sanderson has created two graphic novels, <span><i>White Sand</i></span> and <span><i>Dark One</i></span>.</p>"
+}

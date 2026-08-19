@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Camille Fournier",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Camille Fournier</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q27335726",
+  "titles": {
+    "canonical": "Camille_Fournier",
+    "normalized": "Camille Fournier",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Camille Fournier</span></span>"
+  },
+  "pageid": 51867033,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1341645267",
+  "tid": "943f42a4-1793-11f1-9693-b7d44576e60d",
+  "timestamp": "2026-03-04T06:30:04Z",
+  "description": "American businesswoman",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Camille_Fournier",
+      "revisions": "https://en.wikipedia.org/wiki/Camille_Fournier?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Camille_Fournier?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Camille_Fournier"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Camille_Fournier",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Camille_Fournier",
+      "edit": "https://en.wikipedia.org/wiki/Camille_Fournier?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Camille_Fournier"
+    }
+  },
+  "extract": "Camille Fournier is known for being the former chief technology officer of Rent The Runway, former vice president of technology at Goldman Sachs, a former managing director at JPMorgan Chase, and author of The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change. She is currently the VP Engineering of Common Services at CoreWeave.",
+  "extract_html": "<p><b>Camille Fournier</b> is known for being the former chief technology officer of Rent The Runway, former vice president of technology at Goldman Sachs, a former managing director at JPMorgan Chase, and author of <i>The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change</i>. She is currently the VP Engineering of Common Services at CoreWeave.</p>"
+}

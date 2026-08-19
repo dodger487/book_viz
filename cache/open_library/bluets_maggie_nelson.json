@@ -1,0 +1,58 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1424506A"
+      ],
+      "author_name": [
+        "Maggie Nelson"
+      ],
+      "cover_edition_key": "OL23081901M",
+      "cover_i": 8457107,
+      "ebook_access": "printdisabled",
+      "edition_count": 11,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "bluets0000nels"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL5814581W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Bluets"
+    },
+    {
+      "author_key": [
+        "OL10861509A"
+      ],
+      "author_name": [
+        "Maggie Nelson"
+      ],
+      "cover_edition_key": "OL59605531M",
+      "cover_i": 15104507,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL43724923W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Bluets"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dashiell Hammett",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dashiell Hammett</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q186335",
+  "titles": {
+    "canonical": "Dashiell_Hammett",
+    "normalized": "Dashiell Hammett",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dashiell Hammett</span></span>"
+  },
+  "pageid": 144853,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dashiell_Hammett_1951.jpg/330px-Dashiell_Hammett_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 660
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Dashiell_Hammett_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 500,
+    "height": 1000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367950560",
+  "tid": "b6c2f81b-914b-11f1-bfe5-7643cfe44ef3",
+  "timestamp": "2026-08-06T04:03:00Z",
+  "description": "American writer (1894\u20131961)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dashiell_Hammett",
+      "revisions": "https://en.wikipedia.org/wiki/Dashiell_Hammett?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dashiell_Hammett?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dashiell_Hammett"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Dashiell_Hammett",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Dashiell_Hammett",
+      "edit": "https://en.wikipedia.org/wiki/Dashiell_Hammett?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dashiell_Hammett"
+    }
+  },
+  "extract": "Samuel Dashiell Hammett was an American writer of hard-boiled detective novels and short stories. He was also a screenwriter and political activist. Among the characters he created are Sam Spade, Nick and Nora Charles, The Continental Op and the comic strip character Secret Agent X-9.",
+  "extract_html": "<p><b>Samuel Dashiell Hammett</b> was an American writer of hard-boiled detective novels and short stories. He was also a screenwriter and political activist. Among the characters he created are Sam Spade, Nick and Nora Charles, The Continental Op and the comic strip character Secret Agent X-9.</p>"
+}

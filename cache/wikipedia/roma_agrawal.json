@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Roma Agrawal",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roma Agrawal</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q41338105",
+  "titles": {
+    "canonical": "Roma_Agrawal",
+    "normalized": "Roma Agrawal",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roma Agrawal</span></span>"
+  },
+  "pageid": 55385155,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Roma_Agrawal_at_the_Nasa_Goddard_Centre_%28cropped%29.jpg/330px-Roma_Agrawal_at_the_Nasa_Goddard_Centre_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 507
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Roma_Agrawal_at_the_Nasa_Goddard_Centre_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1113,
+    "height": 1711
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367597584",
+  "tid": "abce5da5-8fa5-11f1-abe5-cac1de4a5515",
+  "timestamp": "2026-08-04T01:41:54Z",
+  "description": "British structural engineer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Roma_Agrawal",
+      "revisions": "https://en.wikipedia.org/wiki/Roma_Agrawal?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Roma_Agrawal?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roma_Agrawal"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Roma_Agrawal",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Roma_Agrawal",
+      "edit": "https://en.wikipedia.org/wiki/Roma_Agrawal?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roma_Agrawal"
+    }
+  },
+  "extract": "Roma Agrawal is an Indian-British chartered structural engineer based in London. She has worked on several major engineering projects, including the Shard. Agrawal is also an author and a diversity campaigner, championing women in engineering.",
+  "extract_html": "<p><b>Roma Agrawal</b> is an Indian-British chartered structural engineer based in London. She has worked on several major engineering projects, including the Shard. Agrawal is also an author and a diversity campaigner, championing women in engineering.</p>"
+}

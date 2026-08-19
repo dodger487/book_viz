@@ -1,0 +1,100 @@
+{
+  "numFound": 6,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 6,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1392897A"
+      ],
+      "author_name": [
+        "Curtis Sittenfeld"
+      ],
+      "cover_edition_key": "OL3304427M",
+      "cover_i": 746377,
+      "ebook_access": "printdisabled",
+      "edition_count": 10,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "prep0000sitt",
+        "prepnove00sitt",
+        "prepnovel0000sitt_i3y1",
+        "prepsitt00sitt"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL5728531W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Novel",
+      "title": "Prep"
+    },
+    {
+      "author_key": [
+        "OL1392897A"
+      ],
+      "author_name": [
+        "Curtis Sittenfeld"
+      ],
+      "cover_edition_key": "OL24767011M",
+      "cover_i": 6820860,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "prepnovelsitt00sitt"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15858107W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Prep"
+    },
+    {
+      "author_key": [
+        "OL1392897A"
+      ],
+      "author_name": [
+        "Curtis Sittenfeld"
+      ],
+      "cover_edition_key": "OL32358967M",
+      "cover_i": 10998455,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "prep0000sitt_n4h4"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24430615W",
+      "language": [
+        "dut"
+      ],
+      "public_scan_b": false,
+      "title": "Prep"
+    }
+  ]
+}

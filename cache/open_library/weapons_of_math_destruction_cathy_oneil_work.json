@@ -1,0 +1,91 @@
+{
+  "title": "Weapons of Math Destruction",
+  "key": "/works/OL17840708W",
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8136557,
+    12879121,
+    11984229,
+    12244749
+  ],
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7412371A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "description": "<strong>A former Wall Street quant sounds an alarm on the mathematical models that pervade modern life \u2014 and threaten to rip apart our social fabric</strong>\r\n\r\nWe live in the age of the algorithm. Increasingly, the decisions that affect our lives\u2014where we go to school, whether we get a car loan, how much we pay for health insurance\u2014are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated.\r\n\r\nBut as Cathy O\u2019Neil reveals in this urgent and necessary book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when they\u2019re wrong. Most troubling, they reinforce discrimination: If a poor student can\u2019t get a loan because a lending model deems him too risky (by virtue of his zip code), he\u2019s then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and punishing the downtrodden, creating a \u201ctoxic cocktail for democracy.\u201d Welcome to the dark side of Big Data.\r\n\r\nTracing the arc of a person\u2019s life, O\u2019Neil exposes the black box models that shape our future, both as individuals and as a society. These \u201cweapons of math destruction\u201d score teachers and students, sort r\u00e9sum\u00e9s, grant (or deny) loans, evaluate workers, target voters, set parole, and monitor our health.\r\n\r\nO\u2019Neil calls on modelers to take more responsibility for their algorithms and on policy makers to regulate their use. But in the end, it\u2019s up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change.\r\n\r\n\u2014 Longlist for National Book Award (Non-Fiction)\r\n\u2014 Goodreads, semi-finalist for the 2016 Goodreads Choice Awards (Science and Technology)\r\n\u2014 Kirkus, Best Books of 2016\r\n\u2014 New York Times, 100 Notable Books of 2016 (Non-Fiction)\r\n\u2014 The Guardian, Best Books of 2016\r\n\u2014 WBUR\u2019s \u201cOn Point,\u201d Best Books of 2016: Staff Picks\r\n\u2014 Boston Globe, Best Books of 2016, Non-Fiction",
+  "links": [
+    {
+      "title": "Book page on original publisher site",
+      "url": "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "P\u00e1gina en el sitio de la editorial (Spanish edition)",
+      "url": "http://capitanswing.com/libros/armas-de-destruccion-matematica/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Book official site",
+      "url": "https://weaponsofmathdestructionbook.com/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subjects": [
+    "math",
+    "big data",
+    "inequality",
+    "democracy",
+    "Social indicators",
+    "Moral and ethical aspects",
+    "Social conditions",
+    "Mathematical models",
+    "Data mining",
+    "Algorithms",
+    "Mathematics",
+    "award:euler_book_prize",
+    "nyt:education=2016-10-09",
+    "New York Times bestseller",
+    "Human behavior, mathematical models",
+    "Computer algorithms",
+    "Computers, social aspects",
+    "Donn\u00e9es volumineuses",
+    "Aspect social",
+    "Aspect politique",
+    "Indicateurs sociaux",
+    "Mod\u00e8les math\u00e9matiques",
+    "Aspect moral",
+    "Conditions sociales",
+    "COMPUTERS",
+    "Data Modeling & Design",
+    "Political aspects",
+    "Social aspects",
+    "Human behavior"
+  ],
+  "subject_times": [
+    "2017"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-02-14T09:44:37.364798"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-03-10T11:31:02.289847"
+  }
+}

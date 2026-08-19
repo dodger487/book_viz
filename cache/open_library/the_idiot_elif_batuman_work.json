@@ -1,0 +1,65 @@
+{
+  "description": "Embarking on her freshman year at Harvard in the early tech days of the 1990s, a young artist and daughter of Turkish immigrants begins a correspondence with an older mathematics student from Hungary while struggling with her changing sense of self, first love and a daunting career prospect.",
+  "covers": [
+    8054401,
+    8757652,
+    8814981,
+    11104344,
+    10125081,
+    8866120,
+    10183379,
+    10852824
+  ],
+  "key": "/works/OL17771503W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL3031163A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Idiot",
+  "subjects": [
+    "fiction",
+    "Identity (Psychology)",
+    "Turkish Americans",
+    "Women college students",
+    "Coming of age",
+    "Literary",
+    "Contemporary Women",
+    "Bildungsromans",
+    "New York Times reviewed",
+    "Fiction, coming of age",
+    "Fiction, psychological",
+    "Fiction, women",
+    "College students",
+    "FICTION / Literary",
+    "FICTION / Coming of Age",
+    "FICTION / Contemporary Women"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2017/03/27/books/review/the-idiot-elif-batuman.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-08-26T02:38:32.604707"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-25T17:58:51.779346"
+  }
+}

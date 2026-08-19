@@ -1,0 +1,49 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7325546A"
+      ],
+      "author_name": [
+        "Nathan Hill"
+      ],
+      "cover_edition_key": "OL26367795M",
+      "cover_i": 8054289,
+      "ebook_access": "no_ebook",
+      "edition_count": 10,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL17770858W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Nix"
+    },
+    {
+      "author_key": [
+        "OL7325546A"
+      ],
+      "author_name": [
+        "Nathan Hill"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL20052693W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The nix"
+    }
+  ]
+}

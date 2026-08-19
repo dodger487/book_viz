@@ -1,0 +1,253 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7nDPUjKVDHcC",
+      "etag": "aojNjLfKfFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7nDPUjKVDHcC",
+      "volumeInfo": {
+        "title": "Crazy Rich Asians",
+        "authors": [
+          "Kevin Kwan"
+        ],
+        "publisher": "Doubleday Canada",
+        "publishedDate": "2013-06-11",
+        "description": "Crazy Rich Asians is the outrageously funny debut novel about three super-rich, pedigreed Chinese families and the gossip, backbiting, and scheming that occurs when the heir to one of the most massive fortunes in Asia brings home his ABC (American-born Chinese) girlfriend to the wedding of the season. When Rachel Chu agrees to spend the summer in Singapore with her boyfriend, Nicholas Young, she envisions a humble family home, long drives to explore the island, and quality time with the man she might one day marry. What she doesn't know is that Nick's family home happens to look like a palace, that she'll ride in more private planes than cars, and that with one of Asia's most eligible bachelors on her arm, Rachel might as well have a target on her back. Initiated into a world of dynastic splendor beyond imagination, Rachel meets Astrid, the It Girl of Singapore society; Eddie, whose family practically lives in the pages of the Hong Kong socialite magazines; and Eleanor, Nick's formidable mother, a woman who has very strong feelings about who her son should--and should not--marry. Uproarious, addictive, and filled with jaw-dropping opulence, Crazy Rich Asians is an insider's look at the Asian JetSet; a perfect depiction of the clash between old money and new money; between Overseas Chinese and Mainland Chinese; and a fabulous novel about what it means to be young, in love, and gloriously, crazily rich.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385679060"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385679068"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 451,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7nDPUjKVDHcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7nDPUjKVDHcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7nDPUjKVDHcC&printsec=frontcover&dq=intitle:%22Crazy+Rich+Asians%22+inauthor:%22Kevin+Kwan%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7nDPUjKVDHcC&dq=intitle:%22Crazy+Rich+Asians%22+inauthor:%22Kevin+Kwan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crazy_Rich_Asians.html?hl=&id=7nDPUjKVDHcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Crazy_Rich_Asians-sample-epub.acsm?id=7nDPUjKVDHcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7nDPUjKVDHcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Crazy Rich Asians is the outrageously funny debut novel about three super-rich, pedigreed Chinese families and the gossip, backbiting, and scheming that occurs when the heir to one of the most massive fortunes in Asia brings home his ABC ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ga1oDwAAQBAJ",
+      "etag": "MMf5lF9DQD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ga1oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Crazy Rich Asians Trilogy Box Set",
+        "subtitle": "Crazy Rich Asians; China Rich Girlfriend; Rich People Problems",
+        "authors": [
+          "Kevin Kwan"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2018-08-21",
+        "description": "The New York Times bestselling international sensation that was the basis for Hollywood\u2019s highest grossing romantic comedy in over a decade. \u2022 \"A Pride and Prejudice-like send-up about an heir bringing his Chinese-American girlfriend home to meet his ancestor-obsessed family.\u201d \u2014People This box set includes the entire trilogy: Crazy Rich Asians, China Rich Girlfriend, and Rich People Problems. New Yorker Rachel Chu does not know that her loving boyfriend, Nicholas Young, also happens to be Singapore\u2019s most eligible bachelor and likely heir to a massive fortune. So when she agrees to spend the summer in Nick\u2019s home, her life unexpectedly becomes an obstacle course of old money, new money, nosy relatives, and scheming social climbers. And that\u2019s all before she discovers the true identity of her long-lost father...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525566670"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525566678"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1392,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.17.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ga1oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ga1oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ga1oDwAAQBAJ&printsec=frontcover&dq=intitle:%22Crazy+Rich+Asians%22+inauthor:%22Kevin+Kwan%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ga1oDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ga1oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ga1oDwAAQBAJ&rdid=book-Ga1oDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Crazy_Rich_Asians_Trilogy_Box_Set-sample-epub.acsm?id=Ga1oDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ga1oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The New York Times bestselling international sensation that was the basis for Hollywood\u2019s highest grossing romantic comedy in over a decade. \u2022 &quot;A Pride and Prejudice-like send-up about an heir bringing his Chinese-American girlfriend ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PuyNEAAAQBAJ",
+      "etag": "gnt+vXrg95M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PuyNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crazy Rich Asians (Movie Tie-In Edition)",
+        "authors": [
+          "Kevin Kwan"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2018-07-17",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 The international bestselling sensation that was the basis for the acclaimed major motion picture. \u2022 \"There's rich, there's filthy rich, and then there's crazy rich ... A Pride and Prejudice-like send-up about an heir bringing his Chinese-American girlfriend home to meet his ancestor-obsessed family.\u201d \u2014People When New Yorker Rachel Chu agrees to spend the summer in Singapore with her boyfriend, Nicholas Young, she envisions a humble family home and quality time with the man she hopes to marry. But Nick has failed to give his girlfriend a few key details. One, that his childhood home looks like a palace; two, that he grew up riding in more private planes than cars; and three, that he just happens to be the country\u2019s most eligible bachelor. On Nick\u2019s arm, Rachel may as well have a target on her back the second she steps off the plane, and soon, her relaxed vacation turns into an obstacle course of old money, new money, nosy relatives, and scheming social climbers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525563761"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525563768"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PuyNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PuyNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PuyNEAAAQBAJ&dq=intitle:%22Crazy+Rich+Asians%22+inauthor:%22Kevin+Kwan%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PuyNEAAAQBAJ&dq=intitle:%22Crazy+Rich+Asians%22+inauthor:%22Kevin+Kwan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crazy_Rich_Asians_Movie_Tie_In_Edition.html?hl=&id=PuyNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PuyNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "#1 NEW YORK TIMES BESTSELLER \u2022 The international bestselling sensation that was the basis for the acclaimed major motion picture. \u2022 &quot;There&#39;s rich, there&#39;s filthy rich, and then there&#39;s crazy rich ."
+      }
+    }
+  ]
+}

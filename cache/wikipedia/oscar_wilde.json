@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Oscar Wilde",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Oscar Wilde</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q30875",
+  "titles": {
+    "canonical": "Oscar_Wilde",
+    "normalized": "Oscar Wilde",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Oscar Wilde</span></span>"
+  },
+  "pageid": 22614,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg/330px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 489
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2502,
+    "height": 3706
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367878233",
+  "tid": "68d4ce28-9100-11f1-8589-79b2788dcb8f",
+  "timestamp": "2026-08-05T19:03:57Z",
+  "description": "Irish writer (1854\u20131900)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "revisions": "https://en.wikipedia.org/wiki/Oscar_Wilde?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Oscar_Wilde?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Oscar_Wilde"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Oscar_Wilde",
+      "edit": "https://en.wikipedia.org/wiki/Oscar_Wilde?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Oscar_Wilde"
+    }
+  },
+  "extract": "Oscar Fingal O'Fflahertie Wills Wilde was an Irish author, poet and playwright. After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s. He was a key figure in the emerging Aestheticism movement of the late 19th century and is widely regarded as the greatest playwright of the Victorian era. Wilde is best known for his Gothic novel The Picture of Dorian Gray (1890), his epigrams, plays and bedtime stories for children, as well as his criminal conviction in 1895 for gross indecency and for practicing homosexual acts.",
+  "extract_html": "<p><b>Oscar Fingal O'Fflahertie Wills Wilde</b> was an Irish author, poet and playwright. After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s. He was a key figure in the emerging Aestheticism movement of the late 19th century and is widely regarded as the greatest playwright of the Victorian era. Wilde is best known for his Gothic novel <i>The Picture of Dorian Gray</i> (1890), his epigrams, plays and bedtime stories for children, as well as his criminal conviction in 1895 for gross indecency and for practicing homosexual acts.</p>"
+}

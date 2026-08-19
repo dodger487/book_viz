@@ -1,0 +1,102 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7044246A"
+      ],
+      "author_name": [
+        "\u5218\u6148\u6b23"
+      ],
+      "cover_edition_key": "OL27897732M",
+      "cover_i": 10526598,
+      "ebook_access": "printdisabled",
+      "edition_count": 30,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "darkforest0000liuc",
+        "santiiiheisenlin008800",
+        "darkforest0000liuc_z6r7"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "toronto",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL16314245W",
+      "language": [
+        "chi",
+        "pol",
+        "fre",
+        "ita",
+        "eng",
+        "spa",
+        "ger",
+        "por",
+        "tur"
+      ],
+      "public_scan_b": false,
+      "title": "The Dark Forest (The Three-Body Problem Series Book 2)"
+    },
+    {
+      "author_key": [
+        "OL7044246A"
+      ],
+      "author_name": [
+        "\u5218\u6148\u6b23"
+      ],
+      "cover_edition_key": "OL26214600M",
+      "cover_i": 7893958,
+      "ebook_access": "printdisabled",
+      "edition_count": 27,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "santiiiisishenyo0003liuc",
+        "deathsend0000liuc",
+        "deathsend0000liuc_t3q1"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17610507W",
+      "language": [
+        "chi",
+        "ger",
+        "eng",
+        "spa",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Death's End (The Three-Body Problem Series Book 3)"
+    },
+    {
+      "author_key": [
+        "OL16029277A"
+      ],
+      "author_name": [
+        "Cixin Liu"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL44576333W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Cixin Liu Bestselling Collecting Books Series, Set of 4 Books. the Three-Body Problem, the Wandering Earth, the Dark Forest and Death's End"
+    }
+  ]
+}

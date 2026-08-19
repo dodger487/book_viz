@@ -1,0 +1,300 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "zO9cEQAAQBAJ",
+      "etag": "wvmaVjbnO8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zO9cEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "authors": [
+          "Sun Tzu"
+        ],
+        "publisher": "Otbebookpublishing",
+        "publishedDate": "2015-12-27",
+        "description": "\"The Art of War\" is an ancient Chinese military treatise attributed to Sun Tzu, a high-ranking military general, strategist and tactician. The text is composed of 13 chapters, each of which is devoted to one aspect of warfare. It is commonly known to be the definitive work on military strategy and tactics of its time. For the last two thousand years it remained the most important military treatise in Asia, where even the common people knew it by name. It has had an influence on Eastern and Western military thinking, business tactics, legal strategy and beyond. (Excerpt from Wikipedia)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783956761492"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3956761499"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zO9cEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zO9cEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zO9cEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Art+of+War%22+inauthor:%22Sun+Tzu%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zO9cEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zO9cEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zO9cEQAAQBAJ&rdid=book-zO9cEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zO9cEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The Art of War&quot; is an ancient Chinese military treatise attributed to Sun Tzu, a high-ranking military general, strategist and tactician. The text is composed of 13 chapters, each of which is devoted to one aspect of warfare."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XI-YzSkNlf0C",
+      "etag": "CinIIW5KfX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XI-YzSkNlf0C",
+      "volumeInfo": {
+        "title": "The Art of War",
+        "subtitle": "The Oldest Military Treatise in the World",
+        "authors": [
+          "Sun Tzu"
+        ],
+        "publisher": "The Floating Press",
+        "publishedDate": "2009-01-01",
+        "description": "Inspiring countless business, political and military leaders (Napoleon, Mao Zedong and General MacArthur among them), The Art of War is a Chinese military treatise by Sun Tzu from the 6th century BC. Its 13 chapters are each dedicated to an aspect of warfare. Praised as a definitive work on the art of strategy and tactic, The Art of War now finds its greatest application in the world of business and management.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781877527845"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "187752784X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 77,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XI-YzSkNlf0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XI-YzSkNlf0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XI-YzSkNlf0C&printsec=frontcover&dq=intitle:%22The+Art+of+War%22+inauthor:%22Sun+Tzu%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XI-YzSkNlf0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XI-YzSkNlf0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XI-YzSkNlf0C&rdid=book-XI-YzSkNlf0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4950000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_War-sample-epub.acsm?id=XI-YzSkNlf0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XI-YzSkNlf0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inspiring countless business, political and military leaders (Napoleon, Mao Zedong and General MacArthur among them), The Art of War is a Chinese military treatise by Sun Tzu from the 6th century BC. Its 13 chapters are each dedicated to an ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hd47EQAAQBAJ",
+      "etag": "FYAxl9jTVQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hd47EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of War by Sun Tzu (Illustrated)",
+        "authors": [
+          "Sun Tzu"
+        ],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2025-01-02",
+        "description": "A military strategist and general of the fifth or sixth century BC, Sun Tzu served the state of Wu near the end of the Spring and Autumn period. He is traditionally ascribed as the author of \u2018The Art of War\u2019, a systematic guide to strategy and tactics for rulers and commanders. The book discusses various manoeuvres and the effect of terrain on the outcome of battles. It stresses the importance of accurate information about the enemy\u2019s forces, dispositions and deployments and movements. The treatise\u2019s insistence on the close relationship between political considerations and military policy went to inform the thinking of politicians, generals and noted leaders across the world. Delphi\u2019s Eastern Treasures Series provides eReaders with rare and precious works of Middle-Eastern and Asian literature, featuring prominent works of history, fiction, religion and philosophy, complemented with the original texts. This eBook presents Sun Tzu\u2019s complete works, with illustrations, a concise introduction, multiple translations and the usual Delphi bonus material. (Version 1) * Beautifully illustrated with images relating to Sun Tzu and \u2018The Art of War\u2019 * Features the complete extant text, in both English translation and the Traditional Chinese text * Multiple English translations * Concise introduction to the work * Excellent formatting of the texts * Easily locate the sections you want to read with individual contents tables * Includes Giles\u2019 extensive annotations, with hyperlinked endnotes * Provides a special dual English and Traditional Chinese text, allowing readers to compare the sections paragraph by paragraph \u2014 ideal for students * Features a bonus \u2018Resources\u2019 section \u2014 discover Sun Tzu\u2019s ancient world CONTENTS: The Translations Brief Introduction to \u2018The Art of War\u2019 Ferguson Calthrop Translation, 1905 Lionel Giles Translation, 1910 Lionel Giles Translation (Simplified Text) The Original Text Contents of the Traditional Chinese Text The Dual Text Dual Traditional Chinese and English Text The Resources A History of Chinese Literature (1901) by Herbert Allen Giles Sun Wu and His Book (1910) by Lionel Giles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781801702300"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1801702306"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1073,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hd47EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hd47EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Hd47EQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Art+of+War%22+inauthor:%22Sun+Tzu%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Hd47EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Hd47EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Hd47EQAAQBAJ&rdid=book-Hd47EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_War_by_Sun_Tzu_Illustrated-sample-epub.acsm?id=Hd47EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_War_by_Sun_Tzu_Illustrated-sample-pdf.acsm?id=Hd47EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hd47EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This eBook presents Sun Tzu\u2019s complete works, with illustrations, a concise introduction, multiple translations and the usual Delphi bonus material. (Version 1) * Beautifully illustrated with images relating to Sun Tzu and \u2018The Art of ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL26736A"
+      ],
+      "author_name": [
+        "Annie Proulx"
+      ],
+      "cover_edition_key": "OL1726253M",
+      "cover_i": 10522593,
+      "ebook_access": "borrowable",
+      "edition_count": 57,
+      "first_publish_year": 1993,
+      "has_fulltext": true,
+      "ia": [
+        "chegadasepartida0000anni",
+        "scheepsberichten0000prou",
+        "scheepsberichten0000prou_y5j3",
+        "shippingnews0000unse",
+        "noeudsetdenoueme0000prou",
+        "schiffsmeldungen0000anni",
+        "shippingne00prou",
+        "shippingnews0000prou_m1g9",
+        "shippingnews0000prou",
+        "shippingnews00proux",
+        "shippingnews00prou_6",
+        "shippingnews00prou_3",
+        "shippingnews0000prou_d4z1",
+        "shippingnewsprou00prou",
+        "shippingnew00prou",
+        "counsellingsuper0000unse",
+        "shippingnews00prou_0",
+        "shippingnews00prou_2",
+        "shippingnews00prou",
+        "shippingnews00prou_4",
+        "shippingnews0000prou_u1z9"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "toronto"
+      ],
+      "key": "/works/OL456089W",
+      "language": [
+        "fre",
+        "por",
+        "dut",
+        "eng",
+        "chi",
+        "spa",
+        "ger",
+        "pol"
+      ],
+      "lending_edition_s": "OL47817770M",
+      "lending_identifier_s": "chegadasepartida0000anni",
+      "public_scan_b": false,
+      "title": "The Shipping News"
+    },
+    {
+      "author_key": [
+        "OL26736A"
+      ],
+      "author_name": [
+        "Annie Proulx"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1996,
+      "has_fulltext": false,
+      "key": "/works/OL11132618M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Shipping News Reading Group Guide"
+    }
+  ]
+}

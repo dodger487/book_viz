@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "\u00c9ric Vuillard",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">\u00c9ric Vuillard</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3591401",
+  "titles": {
+    "canonical": "\u00c9ric_Vuillard",
+    "normalized": "\u00c9ric Vuillard",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">\u00c9ric Vuillard</span></span>"
+  },
+  "pageid": 51113767,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/VUILLARD-J16-bertini-1002405.jpg/330px-VUILLARD-J16-bertini-1002405.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 413
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/VUILLARD-J16-bertini-1002405.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1772,
+    "height": 2215
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1352576934",
+  "tid": "03cbbefc-4821-11f1-8481-277438888304",
+  "timestamp": "2026-05-05T01:23:26Z",
+  "description": "French writer and film director",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/%C3%89ric_Vuillard",
+      "revisions": "https://en.wikipedia.org/wiki/%C3%89ric_Vuillard?action=history",
+      "edit": "https://en.wikipedia.org/wiki/%C3%89ric_Vuillard?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89ric_Vuillard"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/%C3%89ric_Vuillard",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/%C3%89ric_Vuillard",
+      "edit": "https://en.wikipedia.org/wiki/%C3%89ric_Vuillard?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89ric_Vuillard"
+    }
+  },
+  "extract": "\u00c9ric Vuillard is a French writer and film director. He has made two films, L'homme qui marche and Mateo Falcone, the latter based on the story Mateo Falcone by Prosper Merimee. He is the author of Conquistadors (2009) which won the Prix de l'inaper\u00e7u in 2010. He won the Prix Goncourt in 2017 for L'Ordre du jour.",
+  "extract_html": "<p><b>\u00c9ric Vuillard</b> is a French writer and film director. He has made two films, <i>L'homme qui marche</i> and <i>Mateo Falcone</i>, the latter based on the story <i>Mateo Falcone</i> by Prosper Merimee. He is the author of <i>Conquistadors</i> (2009) which won the Prix de l'inaper\u00e7u in 2010. He won the Prix Goncourt in 2017 for <i>L'Ordre du jour</i>.</p>"
+}

@@ -1,0 +1,248 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "8bSuDgAAQBAJ",
+      "etag": "qjxCuiPWO30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8bSuDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Why We Sleep",
+        "subtitle": "Unlocking the Power of Sleep and Dreams",
+        "authors": [
+          "Matthew Walker"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-10-03",
+        "description": "\u201cWhy We Sleep is an important and fascinating book\u2026Walker taught me a lot about this basic activity that every person on Earth needs. I suspect his book will do the same for you.\u201d \u2014Bill Gates A New York Times bestseller and international sensation, this \u201cstimulating and important book\u201d (Financial Times) is a fascinating dive into the purpose and power of slumber. With two appearances on CBS This Morning and Fresh Air's most popular interview of 2017, Matthew Walker has made abundantly clear that sleep is one of the most important but least understood aspects of our life. Until very recently, science had no answer to the question of why we sleep, or what good it served, or why we suffer such devastating health consequences when it is absent. Compared to the other basic drives in life\u2014eating, drinking, and reproducing\u2014the purpose of sleep remains more elusive. Within the brain, sleep enriches a diversity of functions, including our ability to learn, memorize, and make logical decisions. It recalibrates our emotions, restocks our immune system, fine-tunes our metabolism, and regulates our appetite. Dreaming creates a virtual reality space in which the brain melds past and present knowledge, inspiring creativity. In this \u201ccompelling and utterly convincing\u201d (The Sunday Times) book, preeminent neuroscientist and sleep expert Matthew Walker provides a revolutionary exploration of sleep, examining how it affects every aspect of our physical and mental well-being. Charting the most cutting-edge scientific breakthroughs, and marshalling his decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood and energy levels, regulate hormones, prevent cancer, Alzheimer\u2019s and diabetes, slow the effects of aging, and increase longevity. He also provides actionable steps towards getting a better night\u2019s sleep every night. Clear-eyed, fascinating, and accessible, Why We Sleep is a crucial and illuminating book. Written with the precision of Atul Gawande, Andrew Solomon, and Sherwin Nuland, it is \u201crecommended for night-table reading in the most pragmatic sense\u201d (The New York Times Book Review).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501144332"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501144332"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.28.27.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8bSuDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8bSuDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8bSuDgAAQBAJ&printsec=frontcover&dq=intitle:%22Why+We+Sleep%22+inauthor:%22Matthew+Walker%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8bSuDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8bSuDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8bSuDgAAQBAJ&rdid=book-8bSuDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Why_We_Sleep-sample-epub.acsm?id=8bSuDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8bSuDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Until very recently, science had no answer to the question of why we sleep, or what good it served, or why we suffer such devastating health consequences when it is absent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mIh4swEACAAJ",
+      "etag": "h8XYwllhevs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mIh4swEACAAJ",
+      "volumeInfo": {
+        "title": "Why We Sleep",
+        "subtitle": "The New Science of Sleep and Dreams",
+        "authors": [
+          "Matthew Walker"
+        ],
+        "publisher": "Allan Lane",
+        "publishedDate": "2018",
+        "description": "Sleep is one of the most important aspects of our life, health and longevity and yet it is increasingly neglected in twenty-first-century society, with devastating consequences- every major disease in the developed world - Alzheimer's, cancer, obesity, diabetes - has very strong links to deficient sleep. In this book, the first of its kind written by a scientific expert, Professor Matthew Walker explores twenty years of cutting-edge research to solve the mystery of why sleep matters. Looking at creatures from across the animal kingdom as well as major human studies, Why We Sleep delves in to everything from what really happens in our brains and bodies when we dream to how caffeine and alcohol affect sleep and why our sleep patterns change across a lifetime, transforming our appreciation of the extraordinary phenomenon that safeguards our existence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141983760"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141983769"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mIh4swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mIh4swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mIh4swEACAAJ&dq=intitle:%22Why+We+Sleep%22+inauthor:%22Matthew+Walker%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mIh4swEACAAJ&dq=intitle:%22Why+We+Sleep%22+inauthor:%22Matthew+Walker%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Sleep.html?hl=&id=mIh4swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mIh4swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, the first of its kind written by a scientific expert, Professor Matthew Walker explores twenty years of cutting-edge research to solve the mystery of why sleep matters."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gKHwzgEACAAJ",
+      "etag": "5XjNu1lk/BI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gKHwzgEACAAJ",
+      "volumeInfo": {
+        "title": "Why We Sleep",
+        "authors": [
+          "Matthew Walker"
+        ],
+        "publishedDate": "2019-11",
+        "description": "Vietnamese edition of neuroscientist and sleep expert Matthew Walker's Why We Sleep: Unlocking the Power of Sleep and Dreams, explaining the importance and the power of sleep for our helath. Vietnamese transaltion by Viet Ho and Le Na.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6043206250"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786043206258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gKHwzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gKHwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "vi",
+        "previewLink": "http://books.google.com/books?id=gKHwzgEACAAJ&dq=intitle:%22Why+We+Sleep%22+inauthor:%22Matthew+Walker%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gKHwzgEACAAJ&dq=intitle:%22Why+We+Sleep%22+inauthor:%22Matthew+Walker%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Sleep.html?hl=&id=gKHwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gKHwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Vietnamese edition of neuroscientist and sleep expert Matthew Walker&#39;s Why We Sleep: Unlocking the Power of Sleep and Dreams, explaining the importance and the power of sleep for our helath. Vietnamese transaltion by Viet Ho and Le Na."
+      }
+    }
+  ]
+}

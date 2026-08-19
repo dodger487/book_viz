@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Min Jin Lee",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Min Jin Lee</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q13563026",
+  "titles": {
+    "canonical": "Min_Jin_Lee",
+    "normalized": "Min Jin Lee",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Min Jin Lee</span></span>"
+  },
+  "pageid": 11383019,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Min_Jin_Lee_Headshot.jpg/330px-Min_Jin_Lee_Headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Min_Jin_Lee_Headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1800,
+    "height": 1800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1362441335",
+  "tid": "e12e282b-7737-11f1-9356-51787cf591a9",
+  "timestamp": "2026-07-03T23:35:31Z",
+  "description": "American writer and lawyer (born 1968)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Min_Jin_Lee",
+      "revisions": "https://en.wikipedia.org/wiki/Min_Jin_Lee?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Min_Jin_Lee?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Min_Jin_Lee"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Min_Jin_Lee",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Min_Jin_Lee",
+      "edit": "https://en.wikipedia.org/wiki/Min_Jin_Lee?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Min_Jin_Lee"
+    }
+  },
+  "extract": "Min Jin Lee is a Korean American author based in Harlem, New York City; her work frequently deals with the Korean diaspora. She is best known for writing Free Food for Millionaires (2007) and Pachinko (2017), a finalist for the National Book Award, and runner-up for the Dayton Literary Peace Prize. In 2019, Lee became a writer-in-residence at Amherst College in Massachusetts. Her upcoming third novel in her Korean quartet, titled American Hagwon, will be released on September 29, 2026.",
+  "extract_html": "<p><b>Min Jin Lee</b> is a Korean American author based in Harlem, New York City; her work frequently deals with the Korean diaspora. She is best known for writing <i>Free Food for Millionaires</i> (2007) and <i>Pachinko</i> (2017), a finalist for the National Book Award, and runner-up for the Dayton Literary Peace Prize. In 2019, Lee became a writer-in-residence at Amherst College in Massachusetts. Her upcoming third novel in her Korean quartet, titled <i>American Hagwon,</i> will be released on September 29, 2026.</p>"
+}

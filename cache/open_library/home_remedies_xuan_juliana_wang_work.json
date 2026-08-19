@@ -1,0 +1,40 @@
+{
+  "subjects": [
+    "Fiction, short stories (single author)",
+    "Chinese americans, fiction",
+    "Chinese Americans",
+    "Fiction",
+    "FICTION",
+    "Literary",
+    "Short Stories (single author)",
+    "Cultural Heritage"
+  ],
+  "key": "/works/OL20150401W",
+  "title": "Home Remedies",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7633014A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8794466
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-10-03T20:51:18.599730"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-18T17:41:32.636595"
+  }
+}

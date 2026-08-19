@@ -1,0 +1,217 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "oal9JDTSZscC",
+      "etag": "KSWQoWCIWOk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oal9JDTSZscC",
+      "volumeInfo": {
+        "title": "Shanghai Girls",
+        "authors": [
+          "Lisa See"
+        ],
+        "publisher": "Random House Digital, Inc.",
+        "publishedDate": "2010",
+        "description": "Two sisters leave Shanghai to find new lives in 1930s Los Angeles in this fresh, fascinating adventure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812981506"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812981502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 418,
+        "printType": "BOOK",
+        "categories": [
+          "Chinese"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oal9JDTSZscC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oal9JDTSZscC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oal9JDTSZscC&printsec=frontcover&dq=intitle:%22Shanghai+Girls%22+inauthor:%22Lisa+See%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oal9JDTSZscC&dq=intitle:%22Shanghai+Girls%22+inauthor:%22Lisa+See%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shanghai_Girls.html?hl=&id=oal9JDTSZscC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oal9JDTSZscC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two sisters leave Shanghai to find new lives in 1930s Los Angeles in this fresh, fascinating adventure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OwDXQAAACAAJ",
+      "etag": "n7RdiZjAT7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OwDXQAAACAAJ",
+      "volumeInfo": {
+        "title": "Shanghai Girls",
+        "authors": [
+          "Lisa See"
+        ],
+        "publishedDate": "2009",
+        "description": "Shanghai, 1937. Pearl and May are two sisters from a bourgeois family. Though their personalities are very different, they are inseparable. Both are living a carefree life...until their father tells them that he has gambled away the family's wealth, and that in order to repay his debts he must sell the girls as wives to two \"Gold Mountain\" men: Americans. As Japanese bombs fall on their city, the two sisters set out on the journey of a lifetime, one that will take them to a new, married life in Los Angeles's Chinatown. Here they begin a fresh chapter, despite the racial discrimination and anti-Communist paranoia, because now they have something to strive for: a young, American-born daughter, Joy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0753184761"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780753184769"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 485,
+        "printType": "BOOK",
+        "categories": [
+          "Chinese"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OwDXQAAACAAJ&dq=intitle:%22Shanghai+Girls%22+inauthor:%22Lisa+See%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OwDXQAAACAAJ&dq=intitle:%22Shanghai+Girls%22+inauthor:%22Lisa+See%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shanghai_Girls.html?hl=&id=OwDXQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OwDXQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shanghai, 1937."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wR4wAAAAQBAJ",
+      "etag": "bEiz5MESOcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wR4wAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Shanghai Girls and Dreams of Joy: Two Bestselling Novels",
+        "authors": [
+          "Lisa See"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2013-08-26",
+        "description": "Across two critically acclaimed linked novels, now together in this eBook bundle, Lisa See unfolds a captivating saga of the bonds between women\u2014mothers and daughters, sisters and friends\u2014while illuminating the events of China\u2019s tumultuous history. SHANGHAI GIRLS \u201cAs in Snow Flower and the Secret Fan and Peony in Love, [See] has . . . created ordinary women who, through willfulness and resiliency, accomplish extraordinary things.\u201d\u2014Miami Herald In 1937 Shanghai\u2014the Paris of Asia\u2014twenty-one-year-old Pearl Chin and her younger sister, May, are beautiful, modern, and carefree . . . until the day their father tells them that he has gambled away their wealth. To repay his debts, he must sell the girls as wives to suitors from Los Angeles. As Pearl and May set out from the Chinese countryside to the shores of America, they face impossible choices and confront a life-changing secret, but through it all the two sisters hold fast to who they are\u2014Shanghai girls. DREAMS OF JOY \u201cAstonishing . . . a story with characters who enter a reader\u2019s life, take up residence, and illuminate the myriad decisions and stories that make up human history.\u201d\u2014Los Angeles Times Reeling from newly uncovered family secrets, Pearl\u2019s nineteen-year-old daughter, Joy, runs away to Shanghai in early 1957 to find her birth father\u2014an artist with whom both May and Pearl were once in love. Dazzled by him, and blinded by idealism, Joy throws herself into the New Society of Red China, heedless of the dangers in the Communist regime. Terrified for Joy\u2019s safety, Pearl returns to Shanghai, determined to save her daughter. Yet even as Joy\u2019s and Pearl\u2019s journeys converge, one of the most tragic episodes in China\u2019s history threatens their very lives. Praise for Lisa See \u201cExplores the bonds of sisterhood while powerfully evoking the often nightmarish American immigrant experience.\u201d\u2014USA Today, on Shanghai Girls \u201cAs compulsively readable as it is an enlightening journey.\u201d\u2014The Denver Post, on Shanghai Girls \u201cSee is a gifted historical novelist. . . . The real love story, the one that\u2019s artfully shown, is between mother and daughter, and aunt and daughter.\u201d\u2014San Francisco Chronicle, on Dreams of Joy \u201cSee\u2019s research feels impeccable, and she has created an authentic, visually arresting world.\u201d\u2014The Washington Post, on Dreams of Joy",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812985474"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812985478"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 945,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wR4wAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wR4wAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wR4wAAAAQBAJ&printsec=frontcover&dq=intitle:%22Shanghai+Girls%22+inauthor:%22Lisa+See%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wR4wAAAAQBAJ&dq=intitle:%22Shanghai+Girls%22+inauthor:%22Lisa+See%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shanghai_Girls_and_Dreams_of_Joy_Two_Bes.html?hl=&id=wR4wAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Shanghai_Girls_and_Dreams_of_Joy_Two_Bes-sample-epub.acsm?id=wR4wAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wR4wAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". The real love story, the one that\u2019s artfully shown, is between mother and daughter, and aunt and daughter.\u201d\u2014San Francisco Chronicle, on Dreams of Joy \u201cSee\u2019s research feels impeccable, and she has created an authentic, visually ..."
+      }
+    }
+  ]
+}

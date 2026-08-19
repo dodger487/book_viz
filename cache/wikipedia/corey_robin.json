@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Corey Robin",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corey Robin</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q539127",
+  "titles": {
+    "canonical": "Corey_Robin",
+    "normalized": "Corey Robin",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corey Robin</span></span>"
+  },
+  "pageid": 9252408,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364387971",
+  "tid": "53f7b2a1-80df-11f1-a9c4-44d50b5bcc32",
+  "timestamp": "2026-07-16T06:26:50Z",
+  "description": "American academic",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Corey_Robin",
+      "revisions": "https://en.wikipedia.org/wiki/Corey_Robin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Corey_Robin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Corey_Robin"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Corey_Robin",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Corey_Robin",
+      "edit": "https://en.wikipedia.org/wiki/Corey_Robin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Corey_Robin"
+    }
+  },
+  "extract": "Corey Robin is an American political theorist, journalist and professor of political science at Brooklyn College and the Graduate Center of the City University of New York. He has written books on the role of fear in political life, tracing its presence from Aristotle through the war on terror, and on the nature of conservatism in the modern world, from Edmund Burke to Donald Trump. Most recently, he is the author of a study of Justice Clarence Thomas that argues that the mainspring of Thomas's jurisprudence is a combination of black nationalism and black conservatism.",
+  "extract_html": "<p><b>Corey Robin</b> is an American political theorist, journalist and professor of political science at Brooklyn College and the Graduate Center of the City University of New York. He has written books on the role of fear in political life, tracing its presence from Aristotle through the war on terror, and on the nature of conservatism in the modern world, from Edmund Burke to Donald Trump. Most recently, he is the author of a study of Justice Clarence Thomas that argues that the mainspring of Thomas's jurisprudence is a combination of black nationalism and black conservatism.</p>"
+}

@@ -1,0 +1,42 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "At an exclusive school somewhere outside of Arlington, Virginia, students aren\u2019t taught history, geography, or mathematics\u2014they are taught to persuade. Students learn to use language to manipulate minds, wielding words as weapons. The very best graduate as \u201cpoets,\u201d and enter a nameless organization of unknown purpose.\r\n \r\nWhip-smart runaway Emily Ruff is making a living from three-card Monte on the streets of San Francisco when she attracts the attention of the organization\u2019s recruiters. Drawn in to their strage world, which is populated by people named Bront\u00eb and Eliot, she learns their key rule: That every person can be classified by personality type, his mind segmented and ultimately unlocked by the skilful application of words. For this reason, she must never allow another person to truly know her, lest she herself be coerced. Adapting quickly, Emily becomes the school\u2019s most talented prodigy, until she makes a catastrophic mistake: She falls in love.\r\n \r\nMeanwhile, a seemingly innocent man named Wil Parke is brutally ambushed by two men in an airport bathroom. They claim he is the key to a secret war he knows nothing about, that he is an \u201coutlier,\u201d immune to segmentation. Attempting to stay one step ahead of the organization and its mind-bending poets, Wil and his captors seek salvation in the toxically decimated town of Broken Hill, Australia, which, if ancient stories are true, sits above an ancient glyph of frightening power.\r\n \r\nA brilliant thriller that traverses very modern questions of privacy, identity, and the rising obsession of data-collection, connecting them to centuries-old ideas about the power of language and coercion, Lexicon is Max Barry\u2019s most ambitious and spellbinding novel yet."
+  },
+  "covers": [
+    7261044
+  ],
+  "key": "/works/OL16806284W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2678246A"
+      }
+    }
+  ],
+  "title": "Lexicon",
+  "subjects": [
+    "Persuasion (Psychology)",
+    "Secret societies",
+    "Linguists",
+    "Romantic suspense novels",
+    "Fiction",
+    "Fiction, romance, suspense"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2013-08-25T07:27:33.227291"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T19:21:10.836917"
+  }
+}

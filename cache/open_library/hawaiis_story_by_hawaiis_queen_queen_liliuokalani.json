@@ -1,0 +1,49 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2510268A"
+      ],
+      "author_name": [
+        "Liliuokalani Queen of Hawaii"
+      ],
+      "cover_edition_key": "OL7930443M",
+      "cover_i": 578334,
+      "ebook_access": "public",
+      "edition_count": 31,
+      "first_publish_year": 1898,
+      "has_fulltext": true,
+      "ia": [
+        "hawaiisstorybyh00lili",
+        "hawaiisstorybyh00goog",
+        "hawaiisstorybyha00lili",
+        "hawaiisstory00lili",
+        "isbn_9781169972445"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "phillipsacademy-preview",
+        "printdisabled",
+        "smithsonian"
+      ],
+      "key": "/works/OL233382W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL6955232M",
+      "lending_identifier_s": "hawaiisstorybyh00lili",
+      "public_scan_b": true,
+      "title": "Hawaii's story by Hawaii's queen, Liliuokalani"
+    }
+  ]
+}

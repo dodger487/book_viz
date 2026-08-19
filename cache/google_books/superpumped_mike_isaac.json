@@ -1,0 +1,72 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "t4FDzwEACAAJ",
+      "etag": "/SSofFMtj0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t4FDzwEACAAJ",
+      "volumeInfo": {
+        "title": "Superpumped: la batalla por Uber",
+        "subtitle": "una ambici\u00f3n desenfrenada",
+        "authors": [
+          "Mike Isaac"
+        ],
+        "publishedDate": "2022",
+        "description": "Este libro es m\u00e1s que la historia de la empresa que destruy\u00f3 la industria del taxi en buena parte del mundo, es tambi\u00e9n la de una startup que comenz\u00f3 en 2010 con un capital de algo m\u00e1s de un mill\u00f3n de d\u00f3lares y lleg\u00f3 a estar valorada en casi setenta mil millones de d\u00f3lares tan solo siete a\u00f1os despu\u00e9s. Uber prometi\u00f3 una revoluci\u00f3n en la manera en que las personas y las mercanc\u00edas se desplazan. Parec\u00eda que le estaba reservado un lugar en el Olimpo de los grandes gigantes tecnol\u00f3gicos junto a Amazon, Google, Apple o Facebook, pero lo que con el tiempo emergi\u00f3, y este libro describe, es su obscena pr\u00e1ctica empresarial. Su fundador, Travis Kalanick, entendi\u00f3 que Uber no podr\u00eda tener \u00e9xito solo creciendo m\u00e1s r\u00e1pido que sus competidores, sino que deb\u00eda expulsarlos del mercado. Y no permiti\u00f3 que nada se interpusiera en su camino: ni las leyes o normativas de las ciudades en las que operaba ni la justa retribuci\u00f3n de sus conductores o el bienestar de sus empleados, ni siquiera las propias reglas de Apple, a quien tambi\u00e9n enga\u00f1\u00f3 sobre la privacidad de sus clientes. Uber espi\u00f3 a sus trabajadores, a sus rivales y a los legisladores que se opon\u00edan a sus pr\u00e1cticas; soborn\u00f3 a gobernantes, rastre\u00f3 los tel\u00e9fonos de los usuarios tras bajarse del coche para conocer sus movimientos; consinti\u00f3 una cultura empresarial machista y, en ocasiones, racista, y se erigi\u00f3, para muchos, en el s\u00edmbolo de lo peor de la cultura tech, de las plataformas de la econom\u00eda colaborativa y del Silicon Valley de su momento. Nada menos que un aut\u00e9ntico compendio de gesti\u00f3n empresarial inmoral que acab\u00f3 culminando con la ca\u00edda de su ambicioso e iluminado fundador e hizo perder miles de millones de d\u00f3lares de cotizaci\u00f3n burs\u00e1til a sus inversores. \"No es un an\u00e1lisis empresarial sin m\u00e1s, es un relato que tambi\u00e9n proporciona una explicaci\u00f3n de lo que se necesita para tener \u00e9xito en Silicon Valley. William Nottingham, Los Angeles Times Kalanick cambi\u00f3 toda una industria y gan\u00f3 miles de millones de d\u00f3lares. Lo consigui\u00f3 destruy\u00e9ndolo todo y a todos los que se cruzaban en su camino. Una lectura fascinante!. Nick Bilton, Vanity Fair \"Mike Isaac hace un trabajo magistral al transportar a los lectores a las despiadadas y t\u00f3xicas oficinas de la compa\u00f1\u00eda que acab\u00f3 con el negocio del taxi y cambi\u00f3 la forma en que viajamos, para bien o para mal\". Fortune, \"The 10 Best Business Books of 2019\" \"The 10 Best Business Books of 2019\" Travis Kalanick, el fundador de Uber, pas\u00f3 de h\u00e9roe a supervillano a velocidad r\u00e9cord. En este entretenido y bien documentado libro se traza la historia de Uber, desde lo m\u00e1s alto (Beyonc\u00e9 actuando en una fiesta para el personal) hasta lo m\u00e1s bajo (acusaciones de acoso sexual en la empresa). Este libro es sobre todo una advertencia corporativa: c\u00f3mo una empresa que vale miles de millones puede estallar debido a las malas decisiones, al mal comportamiento y a la avaricia\". The Times, \"Business Book of the Year 2019\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8413524024"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788413524023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=t4FDzwEACAAJ&dq=intitle:%22Superpumped%22+inauthor:%22Mike+Isaac%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=t4FDzwEACAAJ&dq=intitle:%22Superpumped%22+inauthor:%22Mike+Isaac%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Superpumped_la_batalla_por_Uber.html?hl=&id=t4FDzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t4FDzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este libro es sobre todo una advertencia corporativa: c\u00f3mo una empresa que vale miles de millones puede estallar debido a las malas decisiones, al mal comportamiento y a la avaricia&quot;. The Times, &quot;Business Book of the Year 2019&quot;"
+      }
+    }
+  ]
+}

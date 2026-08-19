@@ -1,0 +1,97 @@
+{
+  "description": "Keiko Furukura had always been considered a strange child, and her parents always worried how she would get on in the real world, so when she takes on a job in a convenience store while at university, they are delighted for her. For her part, in the convenience store she finds a predictable world mandated by the store manual, which dictates how the workers should act and what they should say, and she copies her coworkers' style of dress and speech patterns so that she can play the part of a normal person. However, eighteen years later, at age 36, she is still in the same job, has never had a boyfriend, and has only few friends. She feels comfortable in her life, but is aware that she is not living up to society's expectations and causing her family to worry about her. When a similarly alienated but cynical and bitter young man comes to work in the store, he will upset Keiko's contented stasis--but will it be for the better?",
+  "title": "Convenience store woman",
+  "covers": [
+    9315164,
+    9202388,
+    13926058,
+    10162322,
+    12242416
+  ],
+  "subject_places": [
+    "Japan"
+  ],
+  "subjects": [
+    "Man-woman relationships",
+    "Social life and customers",
+    "Clerks (Retail trade)",
+    "Fiction",
+    "Man-woman relationships, fiction",
+    "Japan, fiction",
+    "Fiction, general",
+    "Social life and customs",
+    "FICTION / Contemporary Women",
+    "Manners and customs",
+    "FICTION / Literary",
+    "Convenience stores",
+    "Conformity",
+    "Relations entre hommes et femmes",
+    "Romans, nouvelles",
+    "D\u00e9panneurs (Commerces)",
+    "Conformisme",
+    "M\u0153urs et coutumes",
+    "LANGUAGE ARTS & DISCIPLINES / Linguistics",
+    "Man-woman relationships--fiction",
+    "Conformity--fiction",
+    "Convenience stores--japan--fiction",
+    "Manners and customs--japan--fiction",
+    "Pl873.u73 c6613 2018",
+    "895.63/6"
+  ],
+  "key": "/works/OL19744024W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6573124A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2830015A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9110936A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9083073A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7969667A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-24T07:18:36.275801"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-20T04:54:19.956254"
+  }
+}

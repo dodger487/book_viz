@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Elizabeth Strout",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elizabeth Strout</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q262712",
+  "titles": {
+    "canonical": "Elizabeth_Strout",
+    "normalized": "Elizabeth Strout",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elizabeth Strout</span></span>"
+  },
+  "pageid": 6478279,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Elizabeth_Strout_2015.jpg/330px-Elizabeth_Strout_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Elizabeth_Strout_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 765,
+    "height": 1148
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366572484",
+  "tid": "74057875-8ac2-11f1-8e57-aad1d786b363",
+  "timestamp": "2026-07-28T20:25:20Z",
+  "description": "American writer (born 1956)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Elizabeth_Strout",
+      "revisions": "https://en.wikipedia.org/wiki/Elizabeth_Strout?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Elizabeth_Strout?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elizabeth_Strout"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Elizabeth_Strout",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Elizabeth_Strout",
+      "edit": "https://en.wikipedia.org/wiki/Elizabeth_Strout?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elizabeth_Strout"
+    }
+  },
+  "extract": "Elizabeth Strout is an American novelist and author. She is widely known for her works in literary fiction and her descriptive characterization. She was born and raised in Portland, Maine, and her experiences in her youth served as inspiration for her novels\u2014the fictional \"Shirley Falls, Maine\" is the setting of four of her ten novels.",
+  "extract_html": "<p><b>Elizabeth Strout</b> is an American novelist and author. She is widely known for her works in literary fiction and her descriptive characterization. She was born and raised in Portland, Maine, and her experiences in her youth served as inspiration for her novels\u2014the fictional \"Shirley Falls, Maine\" is the setting of four of her ten novels.</p>"
+}

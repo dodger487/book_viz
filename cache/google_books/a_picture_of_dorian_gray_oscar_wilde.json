@@ -1,0 +1,216 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "u-QdEAAAQBAJ",
+      "etag": "kk0wi5HhHwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u-QdEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "Modern Library",
+        "publishedDate": "1998-06-01",
+        "description": "Oscar Wilde\u2019s classic, alluring novel of a man so obsessed with his appearance that he sacrifices his soul for eternal youth\u2014with an introduction by Jeffrey Eugenides Now a critically acclaimed Broadway play starring Sarah Snook! Nominated as one of America\u2019s best-loved novels by PBS\u2019s The Great American Read Fascinated by his own beautiful portrait, Dorian Gray makes a Faustian pact to exchange his soul for perpetual youth and beauty. Guided by Lord Henry Wotton, he embarks on a life of corruption, satisfying his desires while still appearing as a respectable gentleman to society. Only Dorian's portrait shows the signs of his moral decline. An insightful depiction of a hidden life and a critique of the darker facets of late Victorian society, The Picture of Dorian Gray provides a chilling portrayal of a man confronting the reality of his soul. Shocking in its implications of forbidden transgressions, this novel was later used as evidence against Oscar Wilde during his 1895 trial for indecency.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780375751516"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0375751513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u-QdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u-QdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=u-QdEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Picture+of+Dorian+Gray%22+inauthor:%22Oscar+Wilde%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=u-QdEAAAQBAJ&dq=intitle:%22The+Picture+of+Dorian+Gray%22+inauthor:%22Oscar+Wilde%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Picture_of_Dorian_Gray.html?hl=&id=u-QdEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u-QdEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shocking in its implications of forbidden transgressions, this novel was later used as evidence against Oscar Wilde during his 1895 trial for indecency."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QnyNjgEACAAJ",
+      "etag": "d99+cR8ye9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QnyNjgEACAAJ",
+      "volumeInfo": {
+        "title": "The Picture of Dorian Gray (annotated)",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publishedDate": "2015-10-10",
+        "description": "The artist is the creator of beautiful things. To reveal art and conceal the artist is art's aim. The critic is he who can translate into another manner or a new material his impression of beautiful things.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "151776405X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781517764050"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QnyNjgEACAAJ&dq=intitle:%22The+Picture+of+Dorian+Gray%22+inauthor:%22Oscar+Wilde%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QnyNjgEACAAJ&dq=intitle:%22The+Picture+of+Dorian+Gray%22+inauthor:%22Oscar+Wilde%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Picture_of_Dorian_Gray_annotated.html?hl=&id=QnyNjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QnyNjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Picture of Dorian Gray is a philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott&#39;s Monthly Magazine.Fearing the story was indecent, the magazine&#39;s editor without Wilde&#39;s knowledge deleted ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Us0gTQUSAvsC",
+      "etag": "+UNQYPhe0YM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Us0gTQUSAvsC",
+      "volumeInfo": {
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2006-10-12",
+        "description": "When Dorian Gray has his portrait painted, he is captivated by his own beauty. Set in fin-de-siecle London, this novel traces a path from the studio of painter Basil Hallward to the opium dens of the East End. Combining elements of the supernatural, aestheticism, and the Gothic, this is a work of fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780192807298"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0192807293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Us0gTQUSAvsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Us0gTQUSAvsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Us0gTQUSAvsC&printsec=frontcover&dq=intitle:%22The+Picture+of+Dorian+Gray%22+inauthor:%22Oscar+Wilde%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Us0gTQUSAvsC&dq=intitle:%22The+Picture+of+Dorian+Gray%22+inauthor:%22Oscar+Wilde%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Picture_of_Dorian_Gray.html?hl=&id=Us0gTQUSAvsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Picture_of_Dorian_Gray-sample-pdf.acsm?id=Us0gTQUSAvsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Us0gTQUSAvsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in fin-de-siecle London, this novel traces a path from the studio of painter Basil Hallward to the opium dens of the East End. Combining elements of the supernatural, aestheticism, and the Gothic, this is a work of fiction."
+      }
+    }
+  ]
+}

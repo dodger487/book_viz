@@ -1,0 +1,88 @@
+{
+  "numFound": 5,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 5,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL543322A"
+      ],
+      "author_name": [
+        "Anthony Bourdain"
+      ],
+      "cover_edition_key": "OL3701358M",
+      "cover_i": 843879,
+      "ebook_access": "borrowable",
+      "edition_count": 28,
+      "first_publish_year": 2000,
+      "has_fulltext": true,
+      "ia": [
+        "confesionesdeunc0000bour",
+        "kitchenconfident0000bour",
+        "isbn_9789100579319",
+        "kitchenconfident0000bour_x8m1",
+        "kitchenconfident00bour_0",
+        "kitchenconfident0000bour_b0m1",
+        "kitchenconfident0000bour_u5e3",
+        "kitchenconfident00bour"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL3348011W",
+      "language": [
+        "eng",
+        "swe",
+        "spa",
+        "por"
+      ],
+      "lending_edition_s": "OL9133993M",
+      "lending_identifier_s": "confesionesdeunc0000bour",
+      "public_scan_b": false,
+      "subtitle": "adventures in the culinary underbelly",
+      "title": "Kitchen Confidential"
+    },
+    {
+      "author_key": [
+        "OL543322A"
+      ],
+      "author_name": [
+        "Anthony Bourdain"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL32004859W",
+      "public_scan_b": false,
+      "title": "Kitchen Confidential"
+    },
+    {
+      "author_key": [
+        "OL543322A"
+      ],
+      "author_name": [
+        "Anthony Bourdain"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL43878237W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "25th Anniversary Edition",
+      "title": "Kitchen Confidential"
+    }
+  ]
+}

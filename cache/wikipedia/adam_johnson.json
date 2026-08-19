@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Adam Johnson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Adam Johnson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q415721",
+  "titles": {
+    "canonical": "Adam_Johnson",
+    "normalized": "Adam Johnson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Adam Johnson</span></span>"
+  },
+  "pageid": 11699581,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1329286031",
+  "tid": "34417505-e12c-11f0-9177-cf017fdca565",
+  "timestamp": "2025-12-25T00:54:02Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Adam_Johnson",
+      "revisions": "https://en.wikipedia.org/wiki/Adam_Johnson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Adam_Johnson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Adam_Johnson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Adam_Johnson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Adam_Johnson",
+      "edit": "https://en.wikipedia.org/wiki/Adam_Johnson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Adam_Johnson"
+    }
+  },
+  "extract": "Adam Johnson may refer to:Adam Johnson (baseball), American baseball player\nAdam Johnson, British classical pianist and conductor\nAdam Johnson, Canadian classical conductor\nAdam Johnson (cricketer), English cricketer\nAdam Johnson (footballer), English footballer\nAdam Johnson (1994\u20132023), American ice hockey player\nAdam Johnson (musician), American musician, sound designer and visual artist\nAdam Johnson (volleyball) American volleyball player\nAdam Johnson (writer), American author\nAdam Christian Johnson, American Capitol rioter\nAdam R. Johnson, state congressman in the Arkansas House of Representatives\nStovepipe Johnson, brigadier general of the Confederate States of America",
+  "extract_html": "<p><b>Adam Johnson</b> may refer to:</p><ul><li>Adam Johnson (baseball), American baseball player</li>\n<li>Adam Johnson, British classical pianist and conductor</li>\n<li>Adam Johnson, Canadian classical conductor</li>\n<li>Adam Johnson (cricketer), English cricketer</li>\n<li>Adam Johnson (footballer), English footballer</li>\n<li>Adam Johnson (1994\u20132023), American ice hockey player</li>\n<li>Adam Johnson (musician), American musician, sound designer and visual artist</li>\n<li>Adam Johnson (volleyball) American volleyball player</li>\n<li>Adam Johnson (writer), American author</li>\n<li>Adam Christian Johnson, American Capitol rioter</li>\n<li>Adam R. Johnson, state congressman in the Arkansas House of Representatives</li>\n<li>Stovepipe Johnson, brigadier general of the Confederate States of America</li></ul>"
+}

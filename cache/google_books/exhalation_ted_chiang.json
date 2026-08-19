@@ -1,0 +1,153 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SGOPEAAAQBAJ",
+      "etag": "8aJ02KZWr9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SGOPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Exhalation",
+        "subtitle": "Stories",
+        "authors": [
+          "Ted Chiang"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-05-07",
+        "description": "NATIONAL BESTSELLER \u2022 ONE OF THE NEW YORK TIMES BEST BOOKS OF THE YEAR \u2022 Nine stunningly original, provocative, and poignant stories\u2014two published for the very first time\u2014all from the mind of the incomparable author of Stories of Your Life and Others Ted Chiang tackles some of humanity\u2019s oldest questions along with new quandaries only he could imagine. In \u201cThe Merchant and the Alchemist\u2019s Gate,\u201d a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and second chances. In \u201cExhalation,\u201d an alien scientist makes a shocking discovery with ramifications that are literally universal. In \u201cAnxiety Is the Dizziness of Freedom,\u201d the ability to glimpse into alternate universes necessitates a radically new examination of the concepts of choice and free will. Including stories being published for the first time as well as some of his rare and classic uncollected work, Exhalation is Ted Chiang at his best: profound, sympathetic\u2014revelatory.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101947883"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101947888"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SGOPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SGOPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SGOPEAAAQBAJ&dq=intitle:%22Exhalation%22+inauthor:%22Ted+Chiang%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SGOPEAAAQBAJ&dq=intitle:%22Exhalation%22+inauthor:%22Ted+Chiang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exhalation.html?hl=&id=SGOPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SGOPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Including stories being published for the first time as well as some of his rare and classic uncollected work, Exhalation is Ted Chiang at his best: profound, sympathetic\u2014revelatory."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3IqKxgEACAAJ",
+      "etag": "n2y/xO04EbQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3IqKxgEACAAJ",
+      "volumeInfo": {
+        "title": "Exhalation",
+        "authors": [
+          "Ted Chiang"
+        ],
+        "publisher": "Thorndike Press Large Print",
+        "publishedDate": "2019",
+        "description": "\"Thorndike Press large print basic\"--Verso.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1432871374"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781432871376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Doorways"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3IqKxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3IqKxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3IqKxgEACAAJ&dq=intitle:%22Exhalation%22+inauthor:%22Ted+Chiang%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3IqKxgEACAAJ&dq=intitle:%22Exhalation%22+inauthor:%22Ted+Chiang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exhalation.html?hl=&id=3IqKxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3IqKxgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Thorndike Press large print basic&quot;--Verso."
+      }
+    }
+  ]
+}

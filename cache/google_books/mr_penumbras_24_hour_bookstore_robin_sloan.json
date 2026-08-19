@@ -1,0 +1,155 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "zSzEUq5YuOIC",
+      "etag": "BdL64TyHHOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zSzEUq5YuOIC",
+      "volumeInfo": {
+        "title": "Mr. Penumbra's 24-Hour Bookstore",
+        "subtitle": "A Novel",
+        "authors": [
+          "Robin Sloan"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2012-10-02",
+        "description": "After a layoff during the Great Recession sidelines his tech career, Clay Jannon takes a job at the titular bookstore in San Francisco, and soon realizes that the establishment is a facade for a strange secret.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374214913"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0374214913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zSzEUq5YuOIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zSzEUq5YuOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zSzEUq5YuOIC&printsec=frontcover&dq=intitle:%22Mr.+Penumbra%27s+24+Hour+Bookstore%22+inauthor:%22Robin+Sloan%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zSzEUq5YuOIC&dq=intitle:%22Mr.+Penumbra%27s+24+Hour+Bookstore%22+inauthor:%22Robin+Sloan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Penumbra_s_24_Hour_Bookstore.html?hl=&id=zSzEUq5YuOIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zSzEUq5YuOIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After a layoff during the Great Recession sidelines his tech career, Clay Jannon takes a job at the titular bookstore in San Francisco, and soon realizes that the establishment is a facade for a strange secret."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7QuIvZcgoQEC",
+      "etag": "RcYclPWqw2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7QuIvZcgoQEC",
+      "volumeInfo": {
+        "title": "Mr. Penumbra's 24-Hour Bookstore",
+        "subtitle": "A Novel",
+        "authors": [
+          "Robin Sloan"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2012-10-02",
+        "description": "The Great Recession has shuffled Clay Jannon out of his life as a web-design drone, and serendipity, sheer curiosity and the ability to climb a ladder like a monkey have landed him a new gig working the night shift at Mr. Penumbra\u2019s 24-Hour Bookstore. But Clay begins to realize that this store is even more curious than its name suggests. There are only a few customers, but they come in repeatedly and never seem to actually buy anything. Instead they \u201ccheck out\u201d impossibly obscure volumes from strange corners of the store, all according to some elaborate, long-standing arrangement with the gnomic Mr. Penumbra. The store must be a front for something larger, Clay concludes, and soon he has embarked on a complex analysis of the customers\u2019 behaviour and roped his friends into helping him figure out just what\u2019s going on. But once they take their findings to Mr. Penumbra, they discover the secrets extend far beyond the walls of the bookstore. Evoking both the fairy-tale charm of Haruki Murakami and the enthusiastic novel-of-ideas wizardry of Neal Stephenson or Umberto Eco, Mr. Penumbra\u2019s 24-Hour Bookstore is exactly what it sounds like\u2014an establishment you have to enter and will never want to leave.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443415804"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443415804"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7QuIvZcgoQEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7QuIvZcgoQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7QuIvZcgoQEC&printsec=frontcover&dq=intitle:%22Mr.+Penumbra%27s+24+Hour+Bookstore%22+inauthor:%22Robin+Sloan%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7QuIvZcgoQEC&dq=intitle:%22Mr.+Penumbra%27s+24+Hour+Bookstore%22+inauthor:%22Robin+Sloan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mr_Penumbra_s_24_Hour_Bookstore.html?hl=&id=7QuIvZcgoQEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mr_Penumbra_s_24_Hour_Bookstore-sample-epub.acsm?id=7QuIvZcgoQEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7QuIvZcgoQEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Evoking both the fairy-tale charm of Haruki Murakami and the enthusiastic novel-of-ideas wizardry of Neal Stephenson or Umberto Eco, Mr. Penumbra\u2019s 24-Hour Bookstore is exactly what it sounds like\u2014an establishment you have to enter and ..."
+      }
+    }
+  ]
+}

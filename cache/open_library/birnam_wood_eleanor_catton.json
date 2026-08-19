@@ -1,0 +1,49 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6734108A"
+      ],
+      "author_name": [
+        "Eleanor Catton"
+      ],
+      "cover_edition_key": "OL38122713M",
+      "cover_i": 13328050,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL27893340W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Birnam Wood"
+    },
+    {
+      "author_key": [
+        "OL12629126A"
+      ],
+      "author_name": [
+        "Eleanor Catton"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL36175782W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Birnam Wood"
+    }
+  ]
+}

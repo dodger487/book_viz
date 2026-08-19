@@ -1,0 +1,66 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Winner of the Pulitzer Prize for his acclaimed novel about North Korea, The Orphan Master\u2019s Son, Adam Johnson is one of America\u2019s most provocative and powerful authors. Critics have compared him to Kurt Vonnegut, David Mitchell, and George Saunders, but Johnson\u2019s new book will only further his reputation as one of our most original writers. Subtly surreal, darkly comic, both hilarious and heartbreaking, Fortune Smiles is a major collection of stories that gives voice to the perspectives we don\u2019t often hear, while offering something rare in fiction: a new way of looking at the world.\r\n \r\nIn six masterly stories, Johnson delves deep into love and loss, natural disasters, the influence of technology, and how the political shapes the personal. \u201cNirvana,\u201d which won the prestigious Sunday Times short story prize, portrays a programmer whose wife has a rare disease finding solace in a digital simulacrum of the president of the United States. In \u201cHurricanes Anonymous\u201d\u2014first included in the Best American Short Stories anthology\u2014a young man searches for the mother of his son in a Louisiana devastated by Hurricanes Katrina and Rita. \u201cGeorge Orwell Was a Friend of Mine\u201d follows a former warden of a Stasi prison in East Germany who vehemently denies his past, even as pieces of it are delivered in packages to his door. And in the unforgettable title story, Johnson returns to his signature subject, North Korea, depicting two defectors from Pyongyang who are trying to adapt to their new lives in Seoul, while one cannot forget the woman he left behind.\r\n\r\nUnnerving, riveting, and written with a timeless quality, these stories confirm Johnson as one of America\u2019s greatest writers and an indispensable guide to our new century."
+  },
+  "covers": [
+    7387219,
+    8523126,
+    11080893,
+    11326742
+  ],
+  "key": "/works/OL17308309W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1479024A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Fortune Smiles",
+  "subjects": [
+    "Literary",
+    "American Short stories",
+    "Family Life",
+    "Short Stories (single author)",
+    "FICTION",
+    "20151031 NEW LIST",
+    "FICTION / Family Life",
+    "FICTION / Short Stories (single author)",
+    "FICTION / Literary",
+    "Fiction, short stories (single author)",
+    "Large type books",
+    "FICTION/Family Life/",
+    "FICTION/Literary/",
+    "FICTION/Short Stories (single author)/",
+    "LITERARY CRITICISM",
+    "American",
+    "General",
+    "New York Times reviewed"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2015/08/16/books/review/adam-johnson-fortune-smiles-review.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2015-12-17T17:41:43.723122"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-08-07T00:32:33.053458"
+  }
+}

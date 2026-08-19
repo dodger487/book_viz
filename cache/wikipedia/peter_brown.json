@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Peter Brown",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Peter Brown</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q400589",
+  "titles": {
+    "canonical": "Peter_Brown",
+    "normalized": "Peter Brown",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Peter Brown</span></span>"
+  },
+  "pageid": 443942,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1328804946",
+  "tid": "79af375d-dec3-11f0-b6f5-2e82e62e7a26",
+  "timestamp": "2025-12-21T23:19:19Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Brown",
+      "revisions": "https://en.wikipedia.org/wiki/Peter_Brown?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Brown?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Brown"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Brown",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Peter_Brown",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Brown?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Brown"
+    }
+  },
+  "extract": "Peter Brown may refer to:",
+  "extract_html": "<p><b>Peter Brown</b> may refer to:</p>"
+}

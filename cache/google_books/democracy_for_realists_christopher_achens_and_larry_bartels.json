@@ -1,0 +1,82 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "J26YDwAAQBAJ",
+      "etag": "xLMjajWt/oM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J26YDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Democracy for Realists",
+        "subtitle": "Why Elections Do Not Produce Responsive Government",
+        "authors": [
+          "Christopher H. Achen",
+          "Larry M. Bartels"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2016-04-19",
+        "description": "Why our belief in government by the people is unrealistic\u2014and what we can do about it Democracy for Realists assails the romantic folk-theory at the heart of contemporary thinking about democratic politics and government, and offers a provocative alternative view grounded in the actual human nature of democratic citizens. Christopher Achen and Larry Bartels deploy a wealth of social-scientific evidence, including ingenious original analyses of topics ranging from abortion politics and budget deficits to the Great Depression and shark attacks, to show that the familiar ideal of thoughtful citizens steering the ship of state from the voting booth is fundamentally misguided. They demonstrate that voters\u2014even those who are well informed and politically engaged\u2014mostly choose parties and candidates on the basis of social identities and partisan loyalties, not political issues. They also show that voters adjust their policy views and even their perceptions of basic matters of fact to match those loyalties. When parties are roughly evenly matched, elections often turn on irrelevant or misleading considerations such as economic spurts or downturns beyond the incumbents' control; the outcomes are essentially random. Thus, voters do not control the course of public policy, even indirectly. Achen and Bartels argue that democratic theory needs to be founded on identity groups and political parties, not on the preferences of individual voters. Democracy for Realists provides a powerful challenge to conventional thinking, pointing the way toward a fundamentally different understanding of the realities and potential of democratic government.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691169446"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691169446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J26YDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J26YDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=J26YDwAAQBAJ&printsec=frontcover&dq=intitle:%22Democracy+for+Realists%22+inauthor:%22Christopher+Achen%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=J26YDwAAQBAJ&dq=intitle:%22Democracy+for+Realists%22+inauthor:%22Christopher+Achen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Democracy_for_Realists.html?hl=&id=J26YDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Democracy_for_Realists-sample-pdf.acsm?id=J26YDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J26YDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Democracy for Realists provides a powerful challenge to conventional thinking, pointing the way toward a fundamentally different understanding of the realities and potential of democratic government."
+      }
+    }
+  ]
+}

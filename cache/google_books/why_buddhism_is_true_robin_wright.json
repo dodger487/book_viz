@@ -1,0 +1,149 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3QkvDwAAQBAJ",
+      "etag": "L4fM1PsGSPA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3QkvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Why Buddhism is True",
+        "subtitle": "The Science and Philosophy of Meditation and Enlightenment",
+        "authors": [
+          "Robert Wright"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-08-08",
+        "description": "Author Robert Wright shows how Buddhist meditative practice can loosen the grip of anxiety, regret, and hatred, and deepen your appreciation of beauty and other people.\" -- Adapted from book jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781439195451"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1439195455"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3QkvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3QkvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3QkvDwAAQBAJ&printsec=frontcover&dq=intitle:%22Why+Buddhism+Is+True%22+inauthor:%22Robert+Wright%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3QkvDwAAQBAJ&dq=intitle:%22Why+Buddhism+Is+True%22+inauthor:%22Robert+Wright%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_Buddhism_is_True.html?hl=&id=3QkvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3QkvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Author Robert Wright shows how Buddhist meditative practice can loosen the grip of anxiety, regret, and hatred, and deepen your appreciation of beauty and other people.&quot; -- Adapted from book jacket."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N9IQ0gEACAAJ",
+      "etag": "kuPolEUaNwY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N9IQ0gEACAAJ",
+      "volumeInfo": {
+        "title": "Why Buddhism Is True",
+        "authors": [
+          "Robert Wright"
+        ],
+        "publisher": "Simon & Schuster (UK)",
+        "publishedDate": "2026-09-10",
+        "description": "The New York Times Bestseller From one of America's greatest minds, a journey through psychology, philosophy and lots of meditation to show how Buddhism holds the key to moral clarity and enduring happiness. Robert Wright famously explained in The Moral Animal how evolution shaped the human brain. The mind is designed to often delude us, he argued, about ourselves and about the world. And it is designed to make happiness hard to sustain. But if we know our minds are rigged for anxiety, depression, anger and greed, what do we do? Wright locates the answer in Buddhism, which figured out thousands of years ago what scientists are only discovering now. Buddhism holds that human suffering is a result of not seeing the world clearly - and proposes that seeing the world more clearly, through meditation, will make us better, happier people. In Why Buddhism is True, Wright leads readers on a journey through psychology, philosophy and a great many silent retreats to show how and why meditation can serve as the foundation for a spiritual life in a secular age. At once excitingly ambitious and wittily accessible, this is the first book to combine evolutionary psychology with cutting-edge neuroscience to defend the radical claims at the heart of Buddhist philosophy. With bracing honesty and fierce wisdom, it will persuade you not just that Buddhism is true - which is to say, a way out of our delusion - but that it can ultimately save us from ourselves, as individuals and as a species.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1398568236"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781398568235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=N9IQ0gEACAAJ&dq=intitle:%22Why+Buddhism+Is+True%22+inauthor:%22Robert+Wright%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=N9IQ0gEACAAJ&dq=intitle:%22Why+Buddhism+Is+True%22+inauthor:%22Robert+Wright%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_Buddhism_Is_True.html?hl=&id=N9IQ0gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N9IQ0gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At once excitingly ambitious and wittily accessible, this is the first book to combine evolutionary psychology with cutting-edge neuroscience to defend the radical claims at the heart of Buddhist philosophy."
+      }
+    }
+  ]
+}

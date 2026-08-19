@@ -1,0 +1,253 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dR6MDAAAQBAJ",
+      "etag": "Ycu/5zPTqqE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dR6MDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Idiot",
+        "subtitle": "A Novel",
+        "authors": [
+          "Elif Batuman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2017-03-14",
+        "description": "Finalist for the Pulitzer Prize for Fiction \u2022 A New York Times Book Review Notable Book \u2022 Nominated for the Women's Prize for Fiction \u201cEasily the funniest book I\u2019ve read this year.\u201d \u2014GQ \u201cMasterly funny debut novel . . . Erudite but never pretentious, The Idiot will make you crave more books by Batuman.\u201d \u2014Sloane Crosley, Vanity Fair A portrait of the artist as a young woman. A novel about not just discovering but inventing oneself. The year is 1995, and email is new. Selin, the daughter of Turkish immigrants, arrives for her freshman year at Harvard. She signs up for classes in subjects she has never heard of, befriends her charismatic and worldly Serbian classmate, Svetlana, and, almost by accident, begins corresponding with Ivan, an older mathematics student from Hungary. Selin may have barely spoken to Ivan, but with each email they exchange, the act of writing seems to take on new and increasingly mysterious meanings. At the end of the school year, Ivan goes to Budapest for the summer, and Selin heads to the Hungarian countryside, to teach English in a program run by one of Ivan's friends. On the way, she spends two weeks visiting Paris with Svetlana. Selin's summer in Europe does not resonate with anything she has previously heard about the typical experiences of American college students, or indeed of any other kinds of people. For Selin, this is a journey further inside herself: a coming to grips with the ineffable and exhilarating confusion of first love, and with the growing consciousness that she is doomed to become a writer. With superlative emotional and intellectual sensitivity, mordant wit, and pitch-perfect style, Batuman dramatizes the uncertainty of life on the cusp of adulthood. Her prose is a rare and inimitable combination of tenderness and wisdom; its logic as natural and inscrutable as that of memory itself. The Idiot is a heroic yet self-effacing reckoning with the terror and joy of becoming a person in a world that is as intoxicating as it is disquieting. Batuman's fiction is unguarded against both life's affronts and its beauty--and has at its command the complete range of thinking and feeling which they entail. Named one the best books of the year by Refinery29 \u2022 Mashable One \u2022 Elle Magazine \u2022 The New York Times \u2022 Bookpage \u2022 Vogue \u2022 NPR \u2022 Buzzfeed \u2022The Millions",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101622513"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101622512"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.12.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dR6MDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dR6MDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dR6MDAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Idiot%22+inauthor:%22Elif+Batuman%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dR6MDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dR6MDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dR6MDAAAQBAJ&rdid=book-dR6MDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Idiot-sample-epub.acsm?id=dR6MDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dR6MDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For Selin, this is a journey further inside herself: a coming to grips with the ineffable and exhilarating confusion of first love, and with the growing consciousness that she is doomed to become a writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2im5wAEACAAJ",
+      "etag": "Ptru4FJmiAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2im5wAEACAAJ",
+      "volumeInfo": {
+        "title": "The Idiot",
+        "authors": [
+          "Elif Batuman"
+        ],
+        "publisher": "Vintage Books",
+        "publishedDate": "2018",
+        "description": "Selin, a tall, highly strung Turkish-American from New Jersey turns up at Harvard with no idea what to expect. What she doesn't expect is: - How much time she will spend thinking about language and its limitations; - An opinionated cosmopolitan Serb named Svetlana, who will become her confidante; - A mathematician from Hungary called Ivan, whom she will obsess over when she is supposed to be studying; - Feeling dangerously overwhelmed by the challenges and possibilities of adulthood. But most of all, Selin does not expect to embark on a study of precisely how baffling love can be when you are trying to forge a self...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0099583178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780099583172"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2im5wAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2im5wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2im5wAEACAAJ&dq=intitle:%22The+Idiot%22+inauthor:%22Elif+Batuman%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2im5wAEACAAJ&dq=intitle:%22The+Idiot%22+inauthor:%22Elif+Batuman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Idiot.html?hl=&id=2im5wAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2im5wAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Selin, a tall, highly strung Turkish-American from New Jersey turns up at Harvard with no idea what to expect."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_HA9EAAAQBAJ",
+      "etag": "N+j8pB0K6MY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_HA9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Either/Or",
+        "subtitle": "From the bestselling author of THE IDIOT",
+        "authors": [
+          "Elif Batuman"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2022-05-26",
+        "description": "The new novel from the bestselling author of The Idiot follows one young woman's quest for self-knowledge, as she travels abroad and tests the limits of her newfound adulthood. 'Elif Batuman is the queen of the campus novel... Enchanting' Sunday Times SELIN IS THE LUCKIEST PERSON IN HER FAMILY: The only one who was born in America and got to go to Harvard. Now it's her second year, and Selin knows she has to make it count. The first order of business: to figure out the meaning of everything that happened over the summer... On the plus side, her life feels like the plot of an exciting novel. On the other hand, why do so many novels have crazy, abandoned women in them? And how does one live a life as interesting as a novel - a life worthy of becoming a novel - without turning into a crazy, abandoned woman oneself? 'Stupendous... Hilarious... Batuman is a genius' Vogue 'This novel wins you over in a million micro-observations' New York Times 'Searingly smart' Evening Standard",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529191363"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "152919136X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_HA9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_HA9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_HA9EAAAQBAJ&dq=intitle:%22The+Idiot%22+inauthor:%22Elif+Batuman%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_HA9EAAAQBAJ&dq=intitle:%22The+Idiot%22+inauthor:%22Elif+Batuman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Either_Or.html?hl=&id=_HA9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_HA9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The new novel from the bestselling author of The Idiot follows one young woman&#39;s quest for self-knowledge, as she travels abroad and tests the limits of her newfound adulthood. &#39;Elif Batuman is the queen of the campus novel."
+      }
+    }
+  ]
+}

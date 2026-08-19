@@ -1,0 +1,217 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mHGKDQAAQBAJ",
+      "etag": "bydUFlySGN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mHGKDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Olive Kitteridge",
+        "subtitle": "Fiction",
+        "authors": [
+          "Elizabeth Strout"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2008-03-25",
+        "description": "WINNER OF THE PULITZER PRIZE \u2022 The beloved first novel featuring Olive Kitteridge, from the #1 New York Times bestselling author of My Name is Lucy Barton and the Oprah\u2019s Book Club pick Olive, Again \u201cFiction lovers, remember this name: Olive Kitteridge. . . . You\u2019ll never forget her.\u201d\u2014USA Today \u201cStrout animates the ordinary with astonishing force.\u201d\u2014The New Yorker One of the New York Times\u2019s 100 Best Books of the 21st Century A BEST BOOK OF THE YEAR: The Washington Post Book World, USA Today, San Francisco Chronicle, Chicago Tribune, Seattle Post-Intelligencer, People, Entertainment Weekly, The Christian Science Monitor, The Plain Dealer, The Atlantic, Rocky Mountain News, Library Journal At times stern, at other times patient, at times perceptive, at other times in sad denial, Olive Kitteridge, a retired schoolteacher, deplores the changes in her little town of Crosby, Maine, and in the world at large, but she doesn\u2019t always recognize the changes in those around her: a lounge musician haunted by a past romance; a former student who has lost the will to live; Olive\u2019s own adult child, who feels tyrannized by her irrational sensitivities; and her husband, Henry, who finds his loyalty to his marriage both a blessing and a curse. As the townspeople grapple with their problems, mild and dire, Olive is brought to a deeper understanding of herself and her life\u2014sometimes painfully, but always with ruthless honesty. Olive Kitteridge offers profound insights into the human condition\u2014its conflicts, its tragedies and joys, and the endurance it requires. The inspiration for the Emmy Award\u2013winning HBO miniseries starring Frances McDormand, Richard Jenkins, and Bill Murray",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400062089"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "140006208X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mHGKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mHGKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mHGKDQAAQBAJ&printsec=frontcover&dq=intitle:%22Olive+Kitteridge%22+inauthor:%22Elizabeth+Strout%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mHGKDQAAQBAJ&dq=intitle:%22Olive+Kitteridge%22+inauthor:%22Elizabeth+Strout%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Olive_Kitteridge.html?hl=&id=mHGKDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mHGKDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "WINNER OF THE PULITZER PRIZE \u2022 The beloved first novel featuring Olive Kitteridge, from the #1 New York Times bestselling author of My Name is Lucy Barton and the Oprah\u2019s Book Club pick Olive, Again \u201cFiction lovers, remember this name ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iufY2G3T-0kC",
+      "etag": "itVqmOU7ISU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iufY2G3T-0kC",
+      "volumeInfo": {
+        "title": "Olive Kitteridge",
+        "subtitle": "The Beloved Pulitzer Prize-Winning Novel",
+        "authors": [
+          "Elizabeth Strout"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2013-04-12",
+        "description": "The beloved first novel featuring Olive Kitteridge from the author of Olive, Again and Oh William! Olive Kitteridge: indomitable, compassionate, and often unpredictable. A retired schoolteacher in a small coastal town in Maine, as Olive grows older, she struggles to make sense of the changes in her life. She is a woman who sees into the hearts of those around her, their triumphs and tragedies. A penetrating, vibrant exploration of the human soul, the story of Olive Kitteridge will make you laugh, nod in recognition, wince in pain, and shed a tear or two. 'As perfect a novel as you will ever read' Evening Standard 'A superbly gifted storyteller and a craftswoman in a league of her own' Hilary Mantel",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781471128653"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1471128652"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iufY2G3T-0kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iufY2G3T-0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iufY2G3T-0kC&printsec=frontcover&dq=intitle:%22Olive+Kitteridge%22+inauthor:%22Elizabeth+Strout%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iufY2G3T-0kC&dq=intitle:%22Olive+Kitteridge%22+inauthor:%22Elizabeth+Strout%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Olive_Kitteridge.html?hl=&id=iufY2G3T-0kC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Olive_Kitteridge-sample-epub.acsm?id=iufY2G3T-0kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iufY2G3T-0kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The beloved first novel featuring Olive Kitteridge from the author of Olive, Again and Oh William! Olive Kitteridge: indomitable, compassionate, and often unpredictable."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WsbCzQEACAAJ",
+      "etag": "bhf5zn6/DNQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WsbCzQEACAAJ",
+      "volumeInfo": {
+        "title": "Olive Kitteridge",
+        "subtitle": "roman",
+        "authors": [
+          "Elizabeth Strout"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8702292297"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788702292299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com/books?id=WsbCzQEACAAJ&dq=intitle:%22Olive+Kitteridge%22+inauthor:%22Elizabeth+Strout%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WsbCzQEACAAJ&dq=intitle:%22Olive+Kitteridge%22+inauthor:%22Elizabeth+Strout%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Olive_Kitteridge.html?hl=&id=WsbCzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WsbCzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

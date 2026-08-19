@@ -1,0 +1,252 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7bROzwEACAAJ",
+      "etag": "uSn9NRKr3sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7bROzwEACAAJ",
+      "volumeInfo": {
+        "title": "Damascus Station",
+        "authors": [
+          "David McCloskey"
+        ],
+        "publishedDate": "2023",
+        "description": "A CIA officer and his recruit arrive in Damascus to hunt for a killer",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1800752695"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800752696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7bROzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7bROzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7bROzwEACAAJ&dq=intitle:%22Damascus+Station%22+inauthor:%22David+McCloskey%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7bROzwEACAAJ&dq=intitle:%22Damascus+Station%22+inauthor:%22David+McCloskey%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Damascus_Station.html?hl=&id=7bROzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7bROzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A CIA officer and his recruit arrive in Damascus to hunt for a killer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qTsfEAAAQBAJ",
+      "etag": "bM9tx1r1YGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qTsfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Damascus Station",
+        "subtitle": "A Novel",
+        "authors": [
+          "David McCloskey"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2021-10-05",
+        "description": "Finalist for the 2022 ITW Thriller Award for Best First Novel \"Damascus Station is simply marvelous storytelling.\u2026[A] stand-out thriller and essential reading for fans of the genre.\" \u2014Financial Times A CIA officer and his recruit arrive in war-ravaged Damascus to hunt for a killer in this page-turner that offers the \"most authentic depiction of modern-day tradecraft in print.\" (Navy SEAL sniper and New York Times bestselling author Jack Carr). CIA case officer Sam Joseph is dispatched to Paris to recruit Syrian Palace official Mariam Haddad. The two fall into a forbidden relationship, which supercharges Haddad\u2019s recruitment and creates unspeakable danger when they enter Damascus to find the man responsible for the disappearance of an American spy. But the cat and mouse chase for the killer soon leads to a trail of high-profile assassinations and the discovery of a dark secret at the heart of the Syrian regime, bringing the pair under the all-seeing eyes of Assad\u2019s spy catcher, Ali Hassan, and his brother Rustum, the head of the feared Republican Guard. Set against the backdrop of a Syria pulsing with fear and rebellion, Damascus Station is a gripping thriller that offers a textured portrayal of espionage, love, loyalty, and betrayal in one of the most difficult CIA assignments on the planet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393881059"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393881059"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 347,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qTsfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qTsfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qTsfEAAAQBAJ&printsec=frontcover&dq=intitle:%22Damascus+Station%22+inauthor:%22David+McCloskey%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qTsfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qTsfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.05,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qTsfEAAAQBAJ&rdid=book-qTsfEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17050000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Damascus_Station-sample-epub.acsm?id=qTsfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qTsfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Finalist for the 2022 ITW Thriller Award for Best First Novel &quot;Damascus Station is simply marvelous storytelling.\u2026[A] stand-out thriller and essential reading for fans of the genre.&quot; \u2014Financial Times A CIA officer and his recruit arrive ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XynNEAAAQBAJ",
+      "etag": "ahNUmyqLfk0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XynNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Seventh Floor",
+        "subtitle": "Sunday Times Bestseller From Author of DAMASCUS STATION and co-host of hit podcast THE REST IS CLASSIFIED",
+        "authors": [
+          "David McCloskey"
+        ],
+        "publisher": "Swift Press",
+        "publishedDate": "2024-10-01",
+        "description": "THE SUNDAY TIMES BESTSELLER THE TIMES BOOKS TO LOOK OUT FOR IN 2025\ufeff \ufeff \ufeff'A rare combination of experience and talent' Mick Herron 'His best yet ... Superb, addictively suspenseful, its politics and tradecraft coolly accurate, scary, intricate and complex ... The new maestro of espionage thrillers' Simon Sebag Montefiore ' The Seventh Floor is a truly creative, riveting page turner that will cement McCloskey's reputation as the best contemporary spy novelist' General David Petraeus, former Director of the CIA 'This enthralling read cements McCloskey's place in the first division of spy writers' Financial Times THE THIRD NOVEL FROM FORMER CIA OFFICER, THE REST IS CLASSIFIED PODCAST CO-HOST AND THE BESTSELLING AUTHOR OF *** THE TIMES THRILLER OF THE YEAR*** DAMASCUS STATION ('One of the best spy thrillers in years' THE TIMES) AND *** SUNDAY TIMES BOOK OF THE YEAR *** MOSCOW X FOURTH NOVEL THE PERSIAN AVAILABLE NOW TO PRE-ORDER ALL YOUR LIFE YOU'RE CIA. THEN YOU'RE NOT. A Russian arrives in Singapore with a secret to sell. When the Russian is killed and Sam Joseph, the CIA officer dispatched for the meet, goes missing, Artemis Procter is made a scapegoat and run out of the service. Traded back in a spy swap, Sam appears at Procter's central Florida doorstep months later with an explosive secret: there is a Russian mole hidden deep within the upper reaches of CIA. As Procter and Sam investigate, they arrive at a shortlist of suspects made up of both Procter's closest friends and fiercest enemies. The hunt soon requires Procter to dredge up her own checkered past in service of CIA, placing her and Sam into the sights of a savvy Russian spymaster who will protect Moscow's mole in Langley at all costs, even if it means wreaking bloody havoc across the United States. Bouncing between the corridors of Langley and the Kremlin, the thrilling new novel by David McCloskey explores the nature of friendship in a faithless business, and what it means to love a place that does not love you back.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800753990"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1800753993"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 457,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XynNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XynNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XynNEAAAQBAJ&printsec=frontcover&dq=intitle:%22Damascus+Station%22+inauthor:%22David+McCloskey%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XynNEAAAQBAJ&dq=intitle:%22Damascus+Station%22+inauthor:%22David+McCloskey%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Seventh_Floor.html?hl=&id=XynNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Seventh_Floor-sample-epub.acsm?id=XynNEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Seventh_Floor-sample-pdf.acsm?id=XynNEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XynNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE SUNDAY TIMES BESTSELLER THE TIMES BOOKS TO LOOK OUT FOR IN 2025\ufeff \ufeff \ufeff&#39;A rare combination of experience and talent&#39; Mick Herron &#39;His best yet ."
+      }
+    }
+  ]
+}

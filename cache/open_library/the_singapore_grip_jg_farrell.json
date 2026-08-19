@@ -1,0 +1,103 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2884893A"
+      ],
+      "author_name": [
+        "J.G. Farrell"
+      ],
+      "cover_edition_key": "OL3300983M",
+      "cover_i": 859161,
+      "ebook_access": "borrowable",
+      "edition_count": 10,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "singaporegrip0000farr_t3b9",
+        "singaporegrip0000farr_z8z1",
+        "singaporegrip00farr",
+        "singaporegrip0000farr"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "printdisabled",
+        "the-claremont-colleges-ol",
+        "udc-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL2694534W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL14876221M",
+      "lending_identifier_s": "singaporegrip0000farr_t3b9",
+      "public_scan_b": false,
+      "title": "The Singapore Grip (Empire Trilogy #3)"
+    },
+    {
+      "author_key": [
+        "OL2884893A"
+      ],
+      "author_name": [
+        "J.G. Farrell"
+      ],
+      "cover_edition_key": "OL8845278M",
+      "cover_i": 859160,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL8588590W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Singapore Grip (New York Review Books Classics)"
+    },
+    {
+      "author_key": [
+        "OL9228651A"
+      ],
+      "author_name": [
+        "J.G. Farrell"
+      ],
+      "cover_edition_key": "OL51005305M",
+      "cover_i": 14918915,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1979,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_W7-CVF-128"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL37801871W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Vtg J.G. Farrell / The Singapore Grip / First US Edition, 1979"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "description": "Toni Morrison--author of Song of Solomon and Tar Baby--is a writer of remarkable powers: her novels, brilliantly acclaimed for their passion, their dazzling language and their lyric and emotional force, combine the unassailable truths of experience and emotion with the vision of legend and imagination. It is the story--set in post-Civil War Ohio--of Sethe, an escaped slave who has risked death in order to wrench herself from a living death; who has lost a husband and buried a child; who has borne the unthinkable and not gone mad: a woman of \"iron eyes and backbone to match.\" Sethe lives in a small house on the edge of town with her daughter, Denver, her mother-in-law, Baby Suggs, and a disturbing, mesmerizing intruder who calls herself Beloved. Sethe works at \"beating back the past,\" but it is alive in all of them. It keeps Denver fearful of straying from the house. It fuels the sadness that has settled into Baby Suggs' \"desolated center where the self that was no self made its home.\" And to Sethe, the past makes itself heard and felt incessantly: in memories that both haunt and soothe her...in the arrival of Paul D (\"There was something blessed in his manner. Women saw him and wanted to weep\"), one of her fellow slaves on the farm where she had once been kept...in the vivid and painfully cathartic stories she and Paul D tell each other of their years in captivity, of their glimpses of freedom...and, most powerfully, in the apparition of Beloved, whose eyes are expressionless at their deepest point, whose doomed childhood belongs to the hideous logic of slavery and who, as daughter, sister and seductress, has now come from the \"place over there\" to claim retribution for what she lost and for what was taken from her. Sethe's struggle to keep Beloved from gaining full possession of her present--and to throw off the long, dark legacy of her past--is at the center of this profoundly affecting and startling novel. But its intensity and resonance of feeling, and the boldness of its narrative, lift it beyond its particulars so that it speaks to our experience as an entire nation with a past of both abominable and ennobling circumstance. In Beloved, Toni Morrison has given us a great American novel. Toni Morrison was awarded the 1988 Pulitzer Prize in Literature for Beloved.",
+  "subjects": [
+    "African American History",
+    "Ohio",
+    "History",
+    "19th century",
+    "Fiction",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "1000blackgirlbooks",
+    "African American women",
+    "Infanticide",
+    "African Americans",
+    "Slavery",
+    "Women slaves",
+    "Race Relations",
+    "African Continental Ancestry Group",
+    "Modern Literature",
+    "Sklaverei",
+    "Psychische Verarbeitung",
+    "Historical fiction",
+    "Social conditions",
+    "Schwarze",
+    "American fiction (fictional works by one author)",
+    "Ohio, fiction",
+    "African americans, fiction",
+    "Slaves, fiction",
+    "Fiction, historical",
+    "Large type books",
+    "National Black Family Month",
+    "nyt:combined-print-and-e-book-fiction=2019-08-25",
+    "New York Times bestseller",
+    "Fiction, historical, general",
+    "Crime, fiction",
+    "American literature",
+    "collectionID:EanesChallenge",
+    "Noires am\u00e9ricaines",
+    "Romans, nouvelles",
+    "Femmes esclaves",
+    "Literary",
+    "Enslaved Persons",
+    "Women",
+    "collectionID:bannedbooks",
+    "African american women--fiction",
+    "Women slaves--fiction",
+    "Infanticide--fiction",
+    "Ps3563.o8749 b4 2000",
+    "813/.54",
+    "Afro-americans",
+    "Literary collections",
+    "Trials, litigation",
+    "Fictional Works [Publication Type]"
+  ],
+  "key": "/works/OL50548W",
+  "title": "Beloved",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL31120A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    -1,
+    8261367,
+    744946,
+    10223480,
+    10659339,
+    12585716,
+    13582714,
+    10849625,
+    12360707,
+    13947146
+  ],
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beloved_(novel)",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "VIAF ID: 179309327",
+      "url": "https://viaf.org/viaf/179309327",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "inventaire.io",
+      "url": "https://inventaire.io/entity/wd:Q971767",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Open Library subject",
+      "url": "https://openlibrary.org/subjects/beloved_(morrison_toni)",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "Ohio",
+    "United States"
+  ],
+  "subject_times": [
+    "19th century",
+    "To 1964"
+  ],
+  "identifiers": {
+    "wikidata": [
+      "Q971767"
+    ],
+    "bookbrainz": [
+      "699f9612-6ef1-45cf-b4ec-99fe0cac06e6"
+    ],
+    "librarything": [
+      "2182"
+    ],
+    "goodreads": [
+      "736076"
+    ]
+  },
+  "latest_revision": 42,
+  "revision": 42,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T13:38:43.937250"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-06T17:20:00.708946"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "All Systems Red",
+  "key": "/works/OL17914663W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL221294A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    9157148,
+    10127729,
+    8478857
+  ],
+  "subjects": [
+    "franchise:The Murderbot Diaries",
+    "series:The Murderbot Diaries",
+    "form:novella",
+    "genre:science fiction",
+    "Human-computer interaction",
+    "Life on other planets",
+    "Artificial intelligence",
+    "Androids",
+    "Robots",
+    "Interplanetary voyages",
+    "Fiction"
+  ],
+  "description": "The series is about an artificial construct designed as a Security Unit, which manages to override its governor unit, thus enabling it to develop independence. It calls itself Murderbot, and likes to watch unrealistic soap operas. As it spends more time with some caring humans, it starts developing feelings that it does not care for.",
+  "identifiers": {
+    "isfdb": [
+      "2278585"
+    ],
+    "librarything": [
+      "18809896"
+    ],
+    "wikidata": [
+      "Q53828903"
+    ],
+    "bookbrainz": [
+      "75b8bb6d-2bd8-47df-a589-e4932a31786a"
+    ],
+    "musicbrainz": [
+      "94ecff37-1c4d-4bff-a148-03e673e264e7"
+    ],
+    "goodreads": [
+      "53349516"
+    ]
+  },
+  "subject_people": [
+    "Murderbot"
+  ],
+  "links": [
+    {
+      "title": "Official page on brazilian publisher's website",
+      "url": "https://aleph.com.br/collections/ficcao/products/alerta-vermelho",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-09-01T02:55:08.700314"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-07T20:01:55.641355"
+  }
+}

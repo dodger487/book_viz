@@ -1,0 +1,62 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Singapore, 1939: life on the eve of World War II just isn't what it used to be for Walter Blackett, head of British Singapore's oldest and most powerful firm. No matter how forcefully the police break one strike, the natives go on strike somewhere else. His daughter keeps entangling herself with the most unsuitable beaus, while her intended match, the son of Blackett's partner, is an idealistic sympathizer with the League of Nations and a vegetarian. Business may be booming\u2014what with the war in Europe, the Allies are desperate for rubber and helpless to resist Blackett's price-fixing and market manipulation\u2014but something is wrong. No one suspects that the world of the British Empire, of fixed boundaries between classes and nations, is about to come to a terrible end.\r\n\r\nA love story and a war story, a tragicomic tale of a city under siege and a dying way of life, The Singapore Grip completes the \u201cEmpire Trilogy\u201d that began with Troubles and the Booker prize-winning Siege of Krishnapur."
+  },
+  "title": "The Singapore Grip (Empire Trilogy #3)",
+  "covers": [
+    859161
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The city of Singapore was not built up gradually, the way most cities are, by a natural deposit of commerce on the banks of some river or at a traditional confluence of trade routes."
+  },
+  "subject_places": [
+    "Singapore"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "The city of Singapore was not built up gradually, the way most cities are, by a natural deposit of commerce on the banks of some river or at a traditional confluence of trade routes."
+    }
+  ],
+  "first_publish_date": "1978",
+  "key": "/works/OL2694534W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2884893A"
+      }
+    }
+  ],
+  "subject_times": [
+    "1939"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Strikes and lockouts",
+    "Fiction in English",
+    "British",
+    "Fiction",
+    "Sieges",
+    "Rubber industry and trade",
+    "History",
+    "Fiction, historical, general",
+    "Singapore, fiction",
+    "Fiction, general"
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T00:14:45.082499"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-08T08:48:11.294681"
+  }
+}

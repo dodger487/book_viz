@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "George Orwell",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Orwell</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3335",
+  "titles": {
+    "canonical": "George_Orwell",
+    "normalized": "George Orwell",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Orwell</span></span>"
+  },
+  "pageid": 11891,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/George_Orwell_press_photo.jpg/330px-George_Orwell_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 447
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/George_Orwell_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1176,
+    "height": 1594
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367577634",
+  "tid": "268c83f6-8f90-11f1-b34d-a82d10059016",
+  "timestamp": "2026-08-03T23:07:51Z",
+  "description": "English author and journalist (1903\u20131950)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/George_Orwell",
+      "revisions": "https://en.wikipedia.org/wiki/George_Orwell?action=history",
+      "edit": "https://en.wikipedia.org/wiki/George_Orwell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:George_Orwell"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/George_Orwell",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/George_Orwell",
+      "edit": "https://en.wikipedia.org/wiki/George_Orwell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:George_Orwell"
+    }
+  },
+  "extract": "Eric Arthur Blair was an English novelist, poet, essayist, journalist, and critic who wrote under the pen name of George Orwell. His work is characterised by lucid prose, social criticism, opposition to all totalitarianism, and support of democratic socialism.",
+  "extract_html": "<p><b>Eric Arthur Blair</b> was an English novelist, poet, essayist, journalist, and critic who wrote under the pen name of <b>George Orwell</b>. His work is characterised by lucid prose, social criticism, opposition to all totalitarianism, and support of democratic socialism.</p>"
+}

@@ -1,0 +1,41 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1394244A"
+      ],
+      "author_name": [
+        "Cory Doctorow"
+      ],
+      "cover_edition_key": "OL3570141M",
+      "cover_i": 524060,
+      "ebook_access": "printdisabled",
+      "edition_count": 53,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "downoutinmagicki00doct"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL5734712W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Down and out in the Magic Kingdom"
+    }
+  ]
+}

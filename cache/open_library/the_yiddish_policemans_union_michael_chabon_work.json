@@ -1,0 +1,202 @@
+{
+  "title": "The Yiddish Policemen's Union",
+  "key": "/works/OL119430W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL32884A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12745258,
+    13941443
+  ],
+  "links": [
+    {
+      "title": "The Yiddish Policemen's Union - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Yiddish_Policemen%27s_Union",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Chandler with chutzpah",
+      "url": "https://www.theguardian.com/books/2007/jun/10/fiction.features3",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Yiddish Policemen's Union - Michael Chabon - Books - Review ...",
+      "url": "https://www.nytimes.com/2007/05/13/books/review/Rafferty-t.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Yiddish Policemen's Union by Michael Chabon | Quarterly ...",
+      "url": "http://quarterlyconversation.com/the-yiddish-policemens-union-by-michael-chabon-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "publishersweekly.com/978-0-00-714982-7",
+      "url": "https://www.publishersweekly.com/978-0-00-714982-7",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "postmodernmystery.com/the_yiddish_policemens_union",
+      "url": "http://www.postmodernmystery.com/the_yiddish_policemens_union.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2007/05/01/books/01kaku.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "thegreatestbooks.org/items/4160",
+      "url": "https://thegreatestbooks.org/items/4160",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "bookmarks.reviews/reviews/the-yiddish-policemens-union/",
+      "url": "https://bookmarks.reviews/reviews/the-yiddish-policemens-union/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "Alaska",
+    "Sitka",
+    "Hotel Zamenhof",
+    "Israel",
+    "Palestine",
+    "Jerusalem",
+    "Germany",
+    "Soviet Union",
+    "Berlin",
+    "Third Russian Republic",
+    "Manchuria",
+    "Dome of the Rock"
+  ],
+  "subjects": [
+    "literary fiction",
+    "hard-boiled fiction",
+    "mystery & detective fiction",
+    "alternative history",
+    "Popular American Fiction",
+    "Fiction",
+    "Fiction - Historical",
+    "Historical - General",
+    "Fiction / General",
+    "Literary",
+    "General",
+    "Fiction - General",
+    "Unabridged Audio - Fiction/General",
+    "Audiobooks",
+    "Abridged Audio - Fiction/General",
+    "Jews -- Alaska -- Fiction.",
+    "Narcotic addicts -- Crimes against -- Fiction.",
+    "Murder -- Investigation -- Fiction.",
+    "Mystery fiction.",
+    "homocide",
+    "Arab-Israeli War",
+    "Holocaust",
+    "detective story",
+    "Hugo Award Winner",
+    "award:hugo_award=2008",
+    "award:hugo_award=novel",
+    "Murder",
+    "Investigation",
+    "Jews",
+    "Mystery fiction",
+    "Narcotic addicts",
+    "Crimes against",
+    "Detective and mystery stories",
+    "Roman",
+    "Alternative histories (Fiction)",
+    "mystery & detective",
+    "hard-boiled",
+    "literature",
+    "Jews, fiction",
+    "Alaska, fiction",
+    "Fiction, mystery & detective, general",
+    "Fiction, alternative history",
+    "Drug addicts",
+    "Aufkl\u00e4rung",
+    "Juden",
+    "Kriminalbeamter",
+    "Mord",
+    "New York Times reviewed",
+    "award:nebula_award=novel",
+    "Juifs",
+    "Romans, nouvelles",
+    "Meurtre",
+    "Enqu?tes",
+    "Uchronies",
+    "Roman policier",
+    "Homicide investigation",
+    "Large type books"
+  ],
+  "subject_people": [
+    "Meyer Landsman",
+    "Anthony Diamond",
+    "Tlingit",
+    "John F. Kennedy",
+    "Marilyn Monroe; Orson Welles",
+    "Berko Shemets",
+    "Mendel Shpilman",
+    "Naomi",
+    "Willie Dick",
+    "Hertz Shemets"
+  ],
+  "subject_times": [
+    "1948"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "Nine months Landsman's been flopping at the Hotel Zamenhof without any of his fellow residents managing to get themselves murdered.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "description": "The Yiddish Policemen's Union is a 2007 novel by American author Michael Chabon. The novel is a detective story set in an alternative history version of the present day, based on the premise that during World War II, a temporary settlement for Jewish refugees was established in Sitka, Alaska, in 1941, and that the fledgling State of Israel was destroyed in 1948. The novel is set in Sitka, which it depicts as a large, Yiddish-speaking metropolis.\r\n\r\nThe Yiddish Policemen's Union won a number of science fiction awards: the Nebula Award for Best Novel, the Locus Award for Best SF Novel, the Hugo Award for Best Novel, and the Sidewise Award for Alternate History for Best Novel. It was shortlisted for the British Science Fiction Association Award for Best Novel and the Edgar Allan Poe Award for Best Novel.",
+  "identifiers": {
+    "librarything": [
+      "83916"
+    ],
+    "wikidata": [
+      "Q603645"
+    ]
+  },
+  "latest_revision": 25,
+  "revision": 25,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-18T06:38:54.675245"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-12T16:51:29.414705"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "BWRvAAAAQBAJ",
+      "etag": "nII5qeV8bVw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BWRvAAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Opposite of Loneliness",
+        "subtitle": "Essays and Stories",
+        "authors": [
+          "Marina Keegan"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-04-08",
+        "description": "The instant New York Times bestseller and publishing phenomenon: Marina Keegan\u2019s posthumous collection of award-winning essays and stories \u201csparkles with talent, humanity, and youth\u201d (O, The Oprah Magazine). Marina Keegan\u2019s star was on the rise when she graduated magna cum laude from Yale in May 2012. She had a play that was to be produced at the New York Fringe Festival and a job waiting for her at The New Yorker. Tragically, five days after graduation, Marina died in a car crash. Marina left behind a rich, deeply expansive trove of writing that, like her title essay, captures the hope, uncertainty, and possibility of her generation. Her short story \u201cCold Pastoral\u201d was published on NewYorker.com. Her essay \u201cEven Artichokes Have Doubts\u201d was excerpted in the Financial Times, and her book was the focus of a Nicholas Kristof column in The New York Times. Millions of her contemporaries have responded to her work on social media. As Marina wrote: \u201cWe can still do anything. We can change our minds. We can start over\u2026We\u2019re so young. We can\u2019t, we MUST not lose this sense of possibility because in the end, it\u2019s all we have.\u201d The Opposite of Loneliness is an unforgettable collection of Marina\u2019s essays and stories that articulates the universal struggle all of us face as we figure out what we aspire to be and how we can harness our talents to impact the world. \u201cHow do you mourn the loss of a fiery talent that was barely a tendril before it was snuffed out? Answer: Read this book. A clear-eyed observer of human nature, Keegan could take a clever idea...and make it something beautiful\u201d (People).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476753621"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476753628"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.15.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BWRvAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BWRvAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BWRvAAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Opposite+of+Loneliness%22+inauthor:%22Marina+Keegan%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BWRvAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BWRvAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BWRvAAAAQBAJ&rdid=book-BWRvAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Opposite_of_Loneliness-sample-epub.acsm?id=BWRvAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BWRvAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Answer: Read this book. A clear-eyed observer of human nature, Keegan could take a clever idea...and make it something beautiful\u201d (People)."
+      }
+    }
+  ]
+}

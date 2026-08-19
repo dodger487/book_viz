@@ -1,0 +1,78 @@
+{
+  "numFound": 5,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 5,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL382524A"
+      ],
+      "author_name": [
+        "\u6751\u4e0a\u6625\u6a39"
+      ],
+      "cover_edition_key": "OL46530808M",
+      "cover_i": 13185830,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL31446613W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "What I Talk About When I Talk About Running"
+    },
+    {
+      "author_key": [
+        "OL382524A"
+      ],
+      "author_name": [
+        "\u6751\u4e0a\u6625\u6a39"
+      ],
+      "cover_edition_key": "OL32967147M",
+      "cover_i": 11579466,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "whatitalkaboutwh0000mura"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24809669W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "What I talk about when I talk about running"
+    },
+    {
+      "author_key": [
+        "OL223750A",
+        "OL382524A"
+      ],
+      "author_name": [
+        "Philip Gabriel",
+        "\u6751\u4e0a\u6625\u6a39"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL25125555W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "What I Talk about When I Talk about Running"
+    }
+  ]
+}

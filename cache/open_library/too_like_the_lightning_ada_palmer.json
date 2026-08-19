@@ -1,0 +1,60 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7475792A"
+      ],
+      "author_name": [
+        "Ada Palmer"
+      ],
+      "cover_edition_key": "OL27011577M",
+      "cover_i": 8600692,
+      "ebook_access": "printdisabled",
+      "edition_count": 13,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "toolikelightning0000palm_y7l4",
+        "toolikelightning0000palm_t2m7"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "tulsacc-ol"
+      ],
+      "key": "/works/OL19800093W",
+      "language": [
+        "tur",
+        "fre",
+        "eng",
+        "ger",
+        "pol"
+      ],
+      "public_scan_b": false,
+      "title": "Too Like the Lightning"
+    },
+    {
+      "author_key": [
+        "OL14993932A"
+      ],
+      "author_name": [
+        "Ada Palmer"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45600889W",
+      "public_scan_b": false,
+      "title": "Too Like the Lightning"
+    }
+  ]
+}

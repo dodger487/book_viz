@@ -1,0 +1,255 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Wkeu5PHQ_ygC",
+      "etag": "iuMJVjVH7/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wkeu5PHQ_ygC",
+      "volumeInfo": {
+        "title": "Green Metropolis",
+        "subtitle": "Why Living Smaller, Living Closer, and Driving Less Are the Keys to Sustainability",
+        "authors": [
+          "David Owen"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2009-09-17",
+        "description": "Look out for David Owen's next book, Where the Water Goes. A challenging, controversial, and highly readable look at our lives, our world, and our future. Most Americans think of crowded cities as ecological nightmares, as wastelands of concrete and garbage and diesel fumes and traffic jams. Yet residents of compact urban centers, Owen shows, individually consume less oil, electricity, and water than other Americans. They live in smaller spaces, discard less trash, and, most important of all, spend far less time in automobiles. Residents of Manhattan\u2014the most densely populated place in North America\u2014rank first in public-transit use and last in percapita greenhouse-gas production, and they consume gasoline at a rate that the country as a whole hasn\u2019t matched since the mid-1920s, when the most widely owned car in the United States was the Ford Model T. They are also among the only people in the United States for whom walking is still an important means of daily transportation. These achievements are not accidents. Spreading people thinly across the countryside may make them feel green, but it doesn\u2019t reduce the damage they do to the environment. In fact, it increases the damage, while also making the problems they cause harder to see and to address. Owen contends that the environmental problem we face, at the current stage of our assault on the world\u2019s nonrenewable resources, is not how to make teeming cities more like the pristine countryside. The problem is how to make other settled places more like Manhattan, whose residents presently come closer than any other Americans to meeting environmental goals that all of us, eventually, will have to come to terms with.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101140314"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101140313"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wkeu5PHQ_ygC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wkeu5PHQ_ygC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Wkeu5PHQ_ygC&printsec=frontcover&dq=intitle:%22Green+Metropolis%22+inauthor:%22David+Owen%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wkeu5PHQ_ygC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wkeu5PHQ_ygC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Wkeu5PHQ_ygC&rdid=book-Wkeu5PHQ_ygC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Green_Metropolis-sample-epub.acsm?id=Wkeu5PHQ_ygC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wkeu5PHQ_ygC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look out for David Owen&#39;s next book, Where the Water Goes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3t29DAEACAAJ",
+      "etag": "qsMMFbzFQZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3t29DAEACAAJ",
+      "volumeInfo": {
+        "title": "Green Metropolis",
+        "subtitle": "Why Living Smaller, Living Closer, and Driving Less are Keys to Sustainability",
+        "authors": [
+          "David Owen"
+        ],
+        "publisher": "Riverhead Books (Hardcover)",
+        "publishedDate": "2009",
+        "description": "Poses a challenging analysis of the environment and its future prospects, arguing that residents of urban areas consume and waste less than other Americans because of their smaller living spaces and use of public transportation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1594488827"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594488825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 357,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3t29DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3t29DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3t29DAEACAAJ&dq=intitle:%22Green+Metropolis%22+inauthor:%22David+Owen%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3t29DAEACAAJ&dq=intitle:%22Green+Metropolis%22+inauthor:%22David+Owen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Green_Metropolis.html?hl=&id=3t29DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3t29DAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Poses a challenging analysis of the environment and its future prospects, arguing that residents of urban areas consume and waste less than other Americans because of their smaller living spaces and use of public transportation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uhvcCgAAQBAJ",
+      "etag": "+sM7n6aYEDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uhvcCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Green metropolis",
+        "authors": [
+          "David Owen"
+        ],
+        "publisher": "EGEA spa",
+        "publishedDate": "2014-03-25T00:00:00+01:00",
+        "description": "L\u2019autore documenta perch\u00e9 e come la citt\u00e0 sia pi\u00f9 sostenibile di altri tipi di insediamenti umani. Lo fa con uno stile narrativo che collega concetti a casi e talvolta ad aneddoti, che riguardano diverse aree del mondo: un percorso di ecologia urbana che ha influenzato il dibattito in senso non ideologico.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788823876323"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "882387632X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Nature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uhvcCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uhvcCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com/books?id=uhvcCgAAQBAJ&printsec=frontcover&dq=intitle:%22Green+Metropolis%22+inauthor:%22David+Owen%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uhvcCgAAQBAJ&dq=intitle:%22Green+Metropolis%22+inauthor:%22David+Owen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Green_metropolis.html?hl=&id=uhvcCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Green_metropolis-sample-epub.acsm?id=uhvcCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Green_metropolis-sample-pdf.acsm?id=uhvcCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uhvcCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "L\u2019autore documenta perch\u00e9 e come la citt\u00e0 sia pi\u00f9 sostenibile di altri tipi di insediamenti umani."
+      }
+    }
+  ]
+}

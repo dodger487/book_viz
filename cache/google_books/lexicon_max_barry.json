@@ -1,0 +1,267 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "n6OIM-A2MbQC",
+      "etag": "1tr9gXOTBeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n6OIM-A2MbQC",
+      "volumeInfo": {
+        "title": "Lexicon",
+        "subtitle": "A Novel",
+        "authors": [
+          "Max Barry"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-06-18",
+        "description": "\"About as close you can get to the perfect cerebral thriller: searingly smart, ridiculously funny, and fast as hell. Lexicon reads like Elmore Leonard high out of his mind on Snow Crash.\" \u2014Lev Grossman, New York Times bestselling author of The Magicians and The Magician King \u201cBest thing I've read in a long time . . . a masterpiece.\u201d \u2014Hugh Howey, New York Times bestselling author of Wool Stick and stones break bones. Words kill. They recruited Emily Ruff from the streets. They said it was because she's good with words. They'll live to regret it. They said Wil Parke survived something he shouldn't have. But he doesn't remember. Now they're after him and he doesn't know why. There's a word, they say. A word that kills. And they want it back . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101604908"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101604905"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.15.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n6OIM-A2MbQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n6OIM-A2MbQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=n6OIM-A2MbQC&printsec=frontcover&dq=intitle:%22Lexicon%22+inauthor:%22Max+Barry%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=n6OIM-A2MbQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=n6OIM-A2MbQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=n6OIM-A2MbQC&rdid=book-n6OIM-A2MbQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Lexicon-sample-epub.acsm?id=n6OIM-A2MbQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n6OIM-A2MbQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;About as close you can get to the perfect cerebral thriller: searingly smart, ridiculously funny, and fast as hell."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NhibAwAAQBAJ",
+      "etag": "Fef6VjxMAto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NhibAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lexicon",
+        "subtitle": "Roman",
+        "authors": [
+          "Max Barry"
+        ],
+        "publisher": "Heyne Verlag",
+        "publishedDate": "2014-09-22",
+        "description": "Worte sind Waffen Wil Parke ist ein einfacher Zimmermann. Oder zumindest glaubt er das. Bis er auf einer Flughafentoilette in Portland von zwei M\u00e4nnern angegriffen wird. Sie behaupten, er sei der Schl\u00fcssel in einem geheimen Krieg, ein \u00bbAusrei\u00dfer\u00ab, immun gegen die Kraft der Worte. Sie zwingen ihn mitzukommen in die Geisterstadt Broken Hill, deren gesamte Bev\u00f6lkerung bei einem Chemieunfall vor zwei Jahren ausgel\u00f6scht wurde. Dort soll ein m\u00e4chtiges Artefakt verborgen liegen, das den Krieg ein f\u00fcr alle Mal beenden k\u00f6nnte. Doch der Feind ist ihnen bereits auf den Fersen ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783641122928"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3641122929"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NhibAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NhibAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=NhibAwAAQBAJ&printsec=frontcover&dq=intitle:%22Lexicon%22+inauthor:%22Max+Barry%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NhibAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NhibAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.79,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NhibAwAAQBAJ&rdid=book-NhibAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8790000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Lexicon-sample-epub.acsm?id=NhibAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Lexicon-sample-pdf.acsm?id=NhibAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NhibAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Worte sind Waffen Wil Parke ist ein einfacher Zimmermann."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PLVdugEACAAJ",
+      "etag": "S+xxih+5VLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PLVdugEACAAJ",
+      "volumeInfo": {
+        "title": "Lexicon",
+        "subtitle": "Bir S\u00f6zc\u00fck D\u00fcnyayi Istila Etmek \u00dczere",
+        "authors": [
+          "Max Barry"
+        ],
+        "publishedDate": "2014-11",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6050922934"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786050922936"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.com/books?id=PLVdugEACAAJ&dq=intitle:%22Lexicon%22+inauthor:%22Max+Barry%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PLVdugEACAAJ&dq=intitle:%22Lexicon%22+inauthor:%22Max+Barry%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lexicon.html?hl=&id=PLVdugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PLVdugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

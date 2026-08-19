@@ -1,0 +1,83 @@
+{
+  "description": "Examines the history of behavioral economics, discussing the theory of Israeli psychologists who wrote the original studies undoing assumptions about the decision-making process and the influence it has had on evidence-based regulation.",
+  "covers": [
+    9595637,
+    8574667,
+    14528810,
+    8003242,
+    11989897,
+    10148167
+  ],
+  "key": "/works/OL19669285W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL383719A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2750954A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7373397A"
+      }
+    }
+  ],
+  "title": "The undoing project",
+  "subjects": [
+    "Neurosciences",
+    "PSYCHOLOGY / Cognitive Psychology & Cognition",
+    "Statistical decision",
+    "Cognitive neuroscience",
+    "SCIENCE / Cognitive Science",
+    "BIOGRAPHY & AUTOBIOGRAPHY / Science & Technology",
+    "Decision Making",
+    "Economics, psychological aspects",
+    "nyt:combined-print-and-e-book-nonfiction=2016-12-25",
+    "New York Times bestseller",
+    "Psychologists",
+    "Nobel Prize winners",
+    "Economics",
+    "Psychological aspects",
+    "Biography",
+    "BUSINESS & ECONOMICS / Decision-Making & Problem Solving",
+    "Kahneman, Daniel, 1934-",
+    "Tversky, Amos",
+    "Economics -- Psychological aspects",
+    "Psychologists -- Biography",
+    "Nobel Prize winners -- Biography",
+    "nyt:e-book-nonfiction=2016-12-25",
+    "Soldiers",
+    "Decision making",
+    "nyt:paperback-nonfiction=2017-11-19"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_people": [
+    "Daniel Kahneman (1934-)",
+    "Amos Tversky"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-15T08:06:36.604155"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-06T23:21:29.011831"
+  }
+}

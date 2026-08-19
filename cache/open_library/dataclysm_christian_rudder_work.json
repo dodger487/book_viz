@@ -1,0 +1,56 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "An irreverent, provocative, and visually fascinating look at what our online lives reveal about who we really are--and how this deluge of data will transform the science of human behavior. Big Data is used to spy on us, hire and fire us, and sell us things we don't need. In Dataclysm, Christian Rudder puts this flood of information to an entirely different use: understanding human nature. Drawing on terabytes of data from Twitter, Facebook, Reddit, OkCupid, and many other sites, Rudder examines the terrain of human experience. He charts the rise and fall of America's most reviled word through Google Search, examines the new dynamics of collaborative rage on Twitter, and traces human migration over time, showing how groups of people move from certain small towns to the same big cities across the globe. And he grapples with the challenge of maintaining privacy in a world where these explorations are possible. Audacious, entertaining, and illuminating, Dataclysm is a portrait of our essential selves--and a first look at a revolution in the making. --"
+  },
+  "covers": [
+    8972721
+  ],
+  "key": "/works/OL19982617W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7539610A"
+      }
+    }
+  ],
+  "title": "Dataclysm",
+  "subjects": [
+    "Behavioral assessment",
+    "Human behavior",
+    "Big data",
+    "Social media",
+    "Recherche",
+    "Aspect social",
+    "Ressources Internet",
+    "Research",
+    "Information \u00e9lectronique",
+    "Internet",
+    "Computer network resources",
+    "Social sciences",
+    "SOCIAL SCIENCE / Statistics",
+    "PSYCHOLOGY / Social Psychology",
+    "COMPUTERS / Data Modeling & Design",
+    "nyt:hardcover-nonfiction=2014-09-28",
+    "New York Times bestseller",
+    "Internet, social aspects",
+    "Self-presentation",
+    "Social aspects"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-18T13:49:07.329415"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-08-13T11:24:59.097147"
+  }
+}

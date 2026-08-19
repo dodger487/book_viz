@@ -1,0 +1,82 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "L64OOJGaCKIC",
+      "etag": "7vnU7xjzN4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L64OOJGaCKIC",
+      "volumeInfo": {
+        "title": "Benjamin Franklin",
+        "subtitle": "An American Life",
+        "authors": [
+          "Walter Isaacson"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2004-05-04",
+        "description": "During his 84-year life Benjamin Franklin was America's best scientist, inventor, publisher, business strategist, diplomat, and writer. He was also one of its most practical political thinkers. America's first great publicist, he carefully crafted his own persona, portrayed it in public and polished it for posterity. In this riveting new biography Walter Isaacson provides readers with a full portrait of Franklin's public and private life - his loyal but neglected wife, his bastard son with whom he broke over going to war with England, his endless replacement families and his many amorous, but probably unconsummated, liaisons. But this is not just a biography of Benjamin Franklin but rather a fascinating look at American and European political history at that time. Isaacson examines the run up to the Revolutionary War, the intimate relations between Britain, France and the colonies and the decisive events that led to America's independence. Just as David McCullough brought life to the historic figure of John Adams, Isaacson portrays Franklin in the flesh, showing readers how this radical man helped define America's national character and personality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "074325807X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743258074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 628,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 23,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L64OOJGaCKIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L64OOJGaCKIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=L64OOJGaCKIC&printsec=frontcover&dq=intitle:%22Benjamin+Franklin:+An+American+Life%22+inauthor:%22Walter+Isaacson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=L64OOJGaCKIC&dq=intitle:%22Benjamin+Franklin:+An+American+Life%22+inauthor:%22Walter+Isaacson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Benjamin_Franklin.html?hl=&id=L64OOJGaCKIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L64OOJGaCKIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Benjamin Franklin is the founding father who winks at us, the one who seems made of flesh rather than marble."
+      }
+    }
+  ]
+}

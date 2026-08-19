@@ -1,0 +1,220 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "A9NkPwAACAAJ",
+      "etag": "qjF8kjH5tSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A9NkPwAACAAJ",
+      "volumeInfo": {
+        "title": "Smiley's People",
+        "authors": [
+          "John Le Carr\u00e9"
+        ],
+        "publishedDate": "2006",
+        "description": "Its an emergency, George. You remember Vladimir? George, are you awake? You remember the old General? The phone call that dragged George Smiley, acting Chief of the Circus, from his bed was a plea to return to active service. But only to bury the case, not to solve it. An old acquaintance shot dead on Hampstead Heath, an old woman in Paris promised the return of a daughter shell never see, a photograph taken in a Hamburg brothel - and George Smiley is called out of retirement ... SMILEYS PEOPLE has all the le Carr touches Sunday Telegraph",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0340937637"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780340937631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Secret service"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A9NkPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A9NkPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A9NkPwAACAAJ&dq=intitle:%22Smiley%27s+People%22+inauthor:%22John+Le+Carr%C3%A9%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=A9NkPwAACAAJ&dq=intitle:%22Smiley%27s+People%22+inauthor:%22John+Le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Smiley_s_People.html?hl=&id=A9NkPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A9NkPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "SMILEYS PEOPLE has all the le Carr touches Sunday Telegraph"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tamMEAAAQBAJ",
+      "etag": "B06trbnDw5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tamMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Smiley's People",
+        "subtitle": "A George Smiley Novel",
+        "authors": [
+          "John le Carr\u00e9"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2011-06-28",
+        "description": "From the New York Times bestselling author of Tinker, Tailor, Soldier, Spy; Our Kind of Traitor; and The Night Manager, now a television series starring Tom Hiddleston. Tell Max that it concerns the Sandman\u2026 A very junior agent answers Vladimir\u2019s call, but it could have been the Chief of the Circus himself. No one at the British Secret Service considers the old spy to be anything except a senile has-been who can\u2019t give up the game\u2014until he\u2019s shot in the face at point-blank range. Although George Smiley (code name: Max) is officially retired, he\u2019s summoned to identify the body now bearing Moscow Centre\u2019s bloody imprimatur. As he works to unearth his friend\u2019s fatal secrets, Smiley heads inexorably toward one final reckoning with Karla\u2014his dark \u201cgrail.\u201d In Smiley\u2019s People, master storyteller and New York Times bestselling author of The Spy Who Came in from the Cold and Our Kind of Traitor John le Carr\u00e9 brings his acclaimed Karla Trilogy, to its unforgettable, spellbinding conclusion. With an introduction by the author.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143119777"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "014311977X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tamMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tamMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tamMEAAAQBAJ&dq=intitle:%22Smiley%27s+People%22+inauthor:%22John+Le+Carr%C3%A9%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tamMEAAAQBAJ&dq=intitle:%22Smiley%27s+People%22+inauthor:%22John+Le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Smiley_s_People.html?hl=&id=tamMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tamMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As he works to unearth his friend\u2019s fatal secrets, Smiley heads inexorably toward one final reckoning with Karla\u2014his dark \u201cgrail.\u201d In Smiley\u2019s People, master storyteller and New York Times bestselling author of The Spy Who Came in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VQ5vPwAACAAJ",
+      "etag": "Es8wuL/yjJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VQ5vPwAACAAJ",
+      "volumeInfo": {
+        "title": "Smiley's People",
+        "authors": [
+          "John Le Carr\u00e9"
+        ],
+        "publishedDate": "2009-11-26",
+        "description": "Smiley's People is one of John le Carr\u00e9's classic Cold War novels and George Smiley one of his most acclaimed characters. Into a shadowy, violent and intricate world steeped in moral ambivalence steps George Smiley, sometime acting Chief of the Circus, as the Secret Service is known. His brief is to bury crime, not solve it, as he fights his own private battle from London to Paris and to Hamburg for his last duel with his Russian opposite number, codnamed Karla.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0340994398"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780340994399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "categories": [
+          "England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VQ5vPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VQ5vPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VQ5vPwAACAAJ&dq=intitle:%22Smiley%27s+People%22+inauthor:%22John+Le+Carr%C3%A9%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VQ5vPwAACAAJ&dq=intitle:%22Smiley%27s+People%22+inauthor:%22John+Le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Smiley_s_People.html?hl=&id=VQ5vPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VQ5vPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Smiley&#39;s People is one of John le Carre&#39;s classic Cold War novels and George Smiley one of his most acclaimed characters."
+      }
+    }
+  ]
+}

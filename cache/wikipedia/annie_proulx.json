@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Annie Proulx",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Annie Proulx</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q229840",
+  "titles": {
+    "canonical": "Annie_Proulx",
+    "normalized": "Annie Proulx",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Annie Proulx</span></span>"
+  },
+  "pageid": 568033,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2018-us-nationalbookfestival-annie-proulx.jpg/330px-2018-us-nationalbookfestival-annie-proulx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/2018-us-nationalbookfestival-annie-proulx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2127,
+    "height": 3190
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367581968",
+  "tid": "9ea97288-8f95-11f1-b871-1191e03035d9",
+  "timestamp": "2026-08-03T23:47:00Z",
+  "description": "American novelist, short story and non-fiction author (born 1935)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Annie_Proulx",
+      "revisions": "https://en.wikipedia.org/wiki/Annie_Proulx?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Annie_Proulx?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Annie_Proulx"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Annie_Proulx",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Annie_Proulx",
+      "edit": "https://en.wikipedia.org/wiki/Annie_Proulx?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Annie_Proulx"
+    }
+  },
+  "extract": "Edna Ann Proulx is an American novelist, short story writer, and journalist. She has written most frequently as Annie Proulx but has also used the names E. Annie Proulx and E. A. Proulx.",
+  "extract_html": "<p><b>Edna Ann Proulx</b> is an American novelist, short story writer, and journalist. She has written most frequently as <b>Annie Proulx</b> but has also used the names <b>E. Annie Proulx</b> and <b>E. A. Proulx</b>.</p>"
+}

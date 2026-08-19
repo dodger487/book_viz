@@ -1,0 +1,32 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7387940A"
+      ],
+      "author_name": [
+        "Becky Chambers"
+      ],
+      "cover_edition_key": "OL28176837M",
+      "cover_i": 10114139,
+      "ebook_access": "no_ebook",
+      "edition_count": 8,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL20642211W",
+      "language": [
+        "fre",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "To Be Taught, If Fortunate"
+    }
+  ]
+}

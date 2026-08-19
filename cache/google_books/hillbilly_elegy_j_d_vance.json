@@ -1,0 +1,251 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7Y9KDwAAQBAJ",
+      "etag": "7wudUclM0rY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Y9KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hillbilly Elegy",
+        "subtitle": "A Memoir of a Family and Culture in Crisis",
+        "authors": [
+          "J. D. Vance"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2018-05-01",
+        "description": "Hillbilly Elegy recounts Vice President J.D. Vance's powerful origin story... From a former marine and Yale Law School graduate now serving as the Vice President of the United States, an incisive account of growing up in a poor Rust Belt town that offers a broader, probing look at the struggles of America's white working class. THE #1 NEW YORK TIMES BESTSELLER \"You will not read a more important book about America this year.\"\u2014The Economist \"A riveting book.\"\u2014The Wall Street Journal \"Essential reading.\"\u2014David Brooks, New York Times This bestselling memoir, Hillbilly Elegy, is a passionate and personal analysis of a culture in crisis\u2014that of white working-class Americans in the Rust Belt. The disintegration of this group, a process that has been slowly occurring now for more than forty years, has been reported with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like, offering a searing inside look at poverty in America. The Vance family story, a powerful example of the struggle for social mobility, begins hopefully in postwar America. J. D.'s grandparents were \"dirt poor and in love,\" and moved north from Kentucky's Appalachia region to Ohio in the hopes of escaping the dreadful poverty around them. They raised a middle-class family, and eventually one of their grandchildren would graduate from Yale Law School, a conventional marker of success in achieving generational upward mobility. But as the family saga of Hillbilly Elegy plays out, we learn that J.D.'s grandparents, aunt, uncle, and, most of all, his mother struggled profoundly with the demands of their new middle-class life, never fully escaping the legacy of abuse, addiction, poverty, and family trauma so characteristic of their part of America. With piercing honesty, Vance shows how he himself still carries around the demons of his chaotic family history. A deeply moving story about Appalachian culture, with its share of humor and vividly colorful figures, Hillbilly Elegy is the story of how upward mobility really feels. And it is an urgent and troubling meditation on the loss of the American dream for a large segment of this country. What does it take to break a cycle of poverty and trauma that spans generations? A Raw Look at the White Working Class: Go beyond the headlines for a deeply personal account of a people in crisis, from the hollers of Kentucky to the factory towns of Ohio. The Legacy of Addiction and Trauma: Witness the devastating impact of alcoholism and abuse as one family grapples with the demons that followed them from Appalachia. An Unlikely Path to the Ivy League: Follow J.D. Vance's improbable journey from a former marine to a Yale Law School graduate, showing what upward mobility truly feels like. The Fraying American Dream: An urgent, searingly honest meditation on what happens when the promise of a better life seems to slip away for an entire segment of the country.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062872258"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062872257"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Y9KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Y9KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7Y9KDwAAQBAJ&printsec=frontcover&dq=intitle:%22Hillbilly+Elegy%22+inauthor:%22J.+D.+Vance%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7Y9KDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7Y9KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7Y9KDwAAQBAJ&rdid=book-7Y9KDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hillbilly_Elegy-sample-epub.acsm?id=7Y9KDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Y9KDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In HillbillyElegy, J.D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hanging around your neck. The Vance family story began with hope in postwar America."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YNkEzgEACAAJ",
+      "etag": "xalrlodS6WY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNkEzgEACAAJ",
+      "volumeInfo": {
+        "title": "Hillbilly Elegy [movie Tie-In]",
+        "subtitle": "A Memoir of a Family and Culture in Crisis",
+        "authors": [
+          "J. D. Vance"
+        ],
+        "publisher": "Harper Paperbacks",
+        "publishedDate": "2020-11-17",
+        "description": "From a former marine and Yale Law School graduate, a powerful account of growing up in a poor Rust Belt town that offers a broader, probing look at the struggles of America's white working class.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0063045982"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063045989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YNkEzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YNkEzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YNkEzgEACAAJ&dq=intitle:%22Hillbilly+Elegy%22+inauthor:%22J.+D.+Vance%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YNkEzgEACAAJ&dq=intitle:%22Hillbilly+Elegy%22+inauthor:%22J.+D.+Vance%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hillbilly_Elegy_movie_Tie_In.html?hl=&id=YNkEzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNkEzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From a former marine and Yale Law School graduate, a powerful account of growing up in a poor Rust Belt town that offers a broader, probing look at the struggles of America&#39;s white working class."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-Q2zgEACAAJ",
+      "etag": "8sXHX7R/A2A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-Q2zgEACAAJ",
+      "volumeInfo": {
+        "title": "Hillbilly Elegy",
+        "authors": [
+          "J D Vance",
+          "Perfection Learning Corporation"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "2019",
+        "description": "\"A hardcover edition of this book was published in 2016 by HarperCollins Publishers.\"--Title page verso.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1690382937"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781690382935"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-Q2zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-Q2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s-Q2zgEACAAJ&dq=intitle:%22Hillbilly+Elegy%22+inauthor:%22J.+D.+Vance%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s-Q2zgEACAAJ&dq=intitle:%22Hillbilly+Elegy%22+inauthor:%22J.+D.+Vance%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hillbilly_Elegy.html?hl=&id=s-Q2zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-Q2zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A hardcover edition of this book was published in 2016 by HarperCollins Publishers.&quot;--Title page verso."
+      }
+    }
+  ]
+}

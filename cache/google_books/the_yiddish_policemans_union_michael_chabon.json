@@ -1,0 +1,227 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "maWr9BNIdr8C",
+      "etag": "Dd4hMDRxYxg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/maWr9BNIdr8C",
+      "volumeInfo": {
+        "title": "The Yiddish Policemen's Union LP",
+        "authors": [
+          "Michael Chabon"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2007-05",
+        "description": "A murder mystery set in a fictional Jewish homeland in Alaska.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061376948"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061376949"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 631,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=maWr9BNIdr8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=maWr9BNIdr8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=maWr9BNIdr8C&printsec=frontcover&dq=intitle:%22The+Yiddish+Policemen%27s+Union%22+inauthor:%22Michael+Chabon%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=maWr9BNIdr8C&dq=intitle:%22The+Yiddish+Policemen%27s+Union%22+inauthor:%22Michael+Chabon%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Yiddish_Policemen_s_Union_LP.html?hl=&id=maWr9BNIdr8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=maWr9BNIdr8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a world in which Alaska, rather than Israel, has become the homeland for the Jews following World War II, Detective Meyer Landsman and his half-Tlingit partner Berko investigate the death of a heroin-addled chess prodigy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y637xwo25z4C",
+      "etag": "cgucqkTlCbY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y637xwo25z4C",
+      "volumeInfo": {
+        "title": "The Yiddish Policemen\u2019s Union",
+        "authors": [
+          "Michael Chabon"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2012-10-02",
+        "description": "Set in the Jewish homeland of ... Alaska, this is a brilliantly original novel from Michael Chabon, author of THE ADVENTURES OF KAVALIER & CLAY and WONDER BOYS.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007373055"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007373058"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y637xwo25z4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y637xwo25z4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Y637xwo25z4C&dq=intitle:%22The+Yiddish+Policemen%27s+Union%22+inauthor:%22Michael+Chabon%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Y637xwo25z4C&dq=intitle:%22The+Yiddish+Policemen%27s+Union%22+inauthor:%22Michael+Chabon%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Yiddish_Policemen_s_Union.html?hl=&id=Y637xwo25z4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y637xwo25z4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in the Jewish homeland of ... Alaska, this is a brilliantly original novel from Michael Chabon, author of THE ADVENTURES OF KAVALIER &amp; CLAY and WONDER BOYS."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8w6cRAAACAAJ",
+      "etag": "xNjp8W3FoW4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8w6cRAAACAAJ",
+      "volumeInfo": {
+        "title": "The Yiddish Policemen's Union, limited edition",
+        "authors": [
+          "Michael Chabon"
+        ],
+        "publisher": "Harper",
+        "publishedDate": "2007-05-22",
+        "description": "In The Yiddish Policemen's Union, his first major novel since the Pulitzer Prize-winning The Amazing Adventures of Kavalier and Clay, Michael Chabon delivers a gripping whodunit, a love story, and an exploration of the mysteries of exile and redemption. This special limited first edition is personally signed by the author and numbered. The jacketed hardcover is packaged in a handcrafted wooden slipcase which is shrinkwrapped. A must-have for collectors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0061438359"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061438356"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8w6cRAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8w6cRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8w6cRAAACAAJ&dq=intitle:%22The+Yiddish+Policemen%27s+Union%22+inauthor:%22Michael+Chabon%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8w6cRAAACAAJ&dq=intitle:%22The+Yiddish+Policemen%27s+Union%22+inauthor:%22Michael+Chabon%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Yiddish_Policemen_s_Union_limited_ed.html?hl=&id=8w6cRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8w6cRAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The Yiddish Policemen&#39;s Union, his first major novel since the Pulitzer Prize-winning The Amazing Adventures of Kavalier and Clay, Michael Chabon delivers a gripping whodunit, a love story, and an exploration of the mysteries of exile ..."
+      }
+    }
+  ]
+}

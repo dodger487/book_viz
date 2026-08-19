@@ -1,0 +1,76 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3272258A",
+        "OL7365446A"
+      ],
+      "author_name": [
+        "Adam Grant",
+        "Adam M. Grant"
+      ],
+      "cover_edition_key": "OL25886087M",
+      "cover_i": 7391212,
+      "ebook_access": "unclassified",
+      "edition_count": 6,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "ia": [
+        "givetakerevoluti0000gran"
+      ],
+      "ia_collection": [
+        "litigationworks"
+      ],
+      "key": "/works/OL17312332W",
+      "language": [
+        "por",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Why Helping Others Drives Our Success",
+      "title": "Give and Take"
+    },
+    {
+      "author_key": [
+        "OL3272258A"
+      ],
+      "author_name": [
+        "Adam Grant"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL35695558W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Give and Take"
+    },
+    {
+      "author_key": [
+        "OL3272258A"
+      ],
+      "author_name": [
+        "Adam Grant"
+      ],
+      "cover_edition_key": "OL40211230M",
+      "cover_i": 13184253,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL29234853W",
+      "public_scan_b": false,
+      "title": "Originals How Non-conformists Change the World & Give and Take Why Helping Others Drives Our Success By Adam Grant 2 Books Collection Set"
+    }
+  ]
+}

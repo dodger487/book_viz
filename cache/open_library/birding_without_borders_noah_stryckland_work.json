@@ -1,0 +1,34 @@
+{
+  "title": "Birding Without Borders",
+  "subjects": [
+    "Bird watching",
+    "Birds"
+  ],
+  "key": "/works/OL21348742W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7487247A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12441558
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-08-17T22:06:59.498155"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-04T06:57:30.097360"
+  }
+}

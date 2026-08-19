@@ -1,0 +1,223 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tHfWEAAAQBAJ",
+      "etag": "q5FiDB/5ngo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tHfWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Boys in the Boat (Movie Tie-In)",
+        "subtitle": "Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "authors": [
+          "Daniel James Brown"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2023-12-05",
+        "description": "Now a Major Motion Picture Directed by George Clooney The #1 New York Times bestselling true story about the American rowing triumph of the 1936 Olympics in Berlin\u2014from the author of Facing the Mountain For readers of Unbroken, out of the depths of the Depression comes an irresistible story about beating the odds and finding hope in the most desperate of times\u2014the improbable, intimate account of how nine working-class boys from the American West showed the world at the 1936 Olympics in Berlin what true grit really meant. It was an unlikely quest from the start. With a team composed of the sons of loggers, shipyard workers, and farmers, the University of Washington\u2019s eight-oar crew team was never expected to defeat the elite teams of the East Coast and Great Britain, yet they did, going on to shock the world by defeating the German team rowing for Adolf Hitler. The emotional heart of the tale lies with Joe Rantz, a teenager without family or prospects, who rows not only to regain his shattered self-regard but also to find a real place for himself in the world. Drawing on the boys\u2019 own journals and vivid memories of a once-in-a-lifetime shared dream, Brown has created an unforgettable portrait of an era, a celebration of a remarkable achievement, and a chronicle of one extraordinary young man\u2019s personal quest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593512302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593512308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tHfWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tHfWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tHfWEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Boys+in+the+Boat%22+inauthor:%22Daniel+James+Brown%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tHfWEAAAQBAJ&dq=intitle:%22The+Boys+in+the+Boat%22+inauthor:%22Daniel+James+Brown%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Boys_in_the_Boat_Movie_Tie_In.html?hl=&id=tHfWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tHfWEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The emotional heart of the tale lies with Joe Rantz, a teenager without family or prospects, who rows not only to regain his shattered self-regard but also to find a real place for himself in the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oITfwAEACAAJ",
+      "etag": "dGxiswI38r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oITfwAEACAAJ",
+      "volumeInfo": {
+        "title": "The Boys in the Boat",
+        "subtitle": "Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "authors": [
+          "Daniel James Brown"
+        ],
+        "publisher": "Penguin Books",
+        "publishedDate": "2016-07-26",
+        "description": "This book tells the story of the University of Washington's 1936 eight-oar crew and their epic quest for an Olympic gold medal, a team that transformed the sport and grabbed the attention of millions of Americans. It traces the story of the team that defeated elite rivals at Hitler's 1936 Berlin Olympics, sharing the experiences of their enigmatic coach, a visionary boat builder, and a homeless teen rower.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0143130838"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143130833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Olympic Games (11th : 1936 : Berlin, Germany)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oITfwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oITfwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oITfwAEACAAJ&dq=intitle:%22The+Boys+in+the+Boat%22+inauthor:%22Daniel+James+Brown%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oITfwAEACAAJ&dq=intitle:%22The+Boys+in+the+Boat%22+inauthor:%22Daniel+James+Brown%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Boys_in_the_Boat.html?hl=&id=oITfwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oITfwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book tells the story of the University of Washington&#39;s 1936 eight-oar crew and their epic quest for an Olympic gold medal, a team that transformed the sport and grabbed the attention of millions of Americans."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sWQingEACAAJ",
+      "etag": "qMLUkl9MvIc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sWQingEACAAJ",
+      "volumeInfo": {
+        "title": "The Boys in the Boat",
+        "subtitle": "An Epic True-life Journey to the Heart of Hitler;s Berlin",
+        "authors": [
+          "Daniel Brown"
+        ],
+        "publishedDate": "2013",
+        "description": "The Boys in the Boat is the story of Joe Rantz, a charismatic young man born dirt poor in the woods of Washington State, who dreams of escaping the challenges of the Great Depression, and a complicated family life full of painful memories. What follows is an extraordinary journey, as Joe and eight other young men exchange the sweat and graft and dust of ordinary life for the purer rigours of sport at its very highest level -- a journey at the end of which lies a gold medal rowing race at the Berlin Olympics of 1936, in front of Hitler himself. The Boys in the Boat is a story full of lyricism and unexpected beauty; a story that rises above sport, and even the grand sweep of history itself, in favour of something more personal",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1471238679"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781471238673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 611,
+        "printType": "BOOK",
+        "categories": [
+          "Large print books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sWQingEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sWQingEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sWQingEACAAJ&dq=intitle:%22The+Boys+in+the+Boat%22+inauthor:%22Daniel+James+Brown%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sWQingEACAAJ&dq=intitle:%22The+Boys+in+the+Boat%22+inauthor:%22Daniel+James+Brown%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Boys_in_the_Boat.html?hl=&id=sWQingEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sWQingEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Boys in the Boat is the story of Joe Rantz, a charismatic young man born dirt poor in the woods of Washington State, who dreams of escaping the challenges of the Great Depression, and a complicated family life full of painful memories."
+      }
+    }
+  ]
+}

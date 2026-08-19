@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Xuan Juliana Wang",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xuan Juliana Wang</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q119410391",
+  "titles": {
+    "canonical": "Xuan_Juliana_Wang",
+    "normalized": "Xuan Juliana Wang",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xuan Juliana Wang</span></span>"
+  },
+  "pageid": 74019624,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1322915467",
+  "tid": "c7d1b554-c497-11f0-81af-ec50cdd1922a",
+  "timestamp": "2025-11-18T16:01:02Z",
+  "description": "Chinese American author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Xuan_Juliana_Wang",
+      "revisions": "https://en.wikipedia.org/wiki/Xuan_Juliana_Wang?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Xuan_Juliana_Wang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Xuan_Juliana_Wang"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Xuan_Juliana_Wang",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Xuan_Juliana_Wang",
+      "edit": "https://en.wikipedia.org/wiki/Xuan_Juliana_Wang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Xuan_Juliana_Wang"
+    }
+  },
+  "extract": "Xuan Juliana Wang is a Chinese American writer. She teaches creative writing at the University of California, Los Angeles. Her 2019 short story collection, Home Remedies, won the John C. Zacharis First Book Award and was shortlisted for the Young Lions Fiction Award and the 2020 PEN/Robert W. Bingham Prize. She earned her MFA from Columbia University and received a Stegner Fellowship to study at Stanford University.",
+  "extract_html": "<p><b>Xuan Juliana Wang</b> is a Chinese American writer. She teaches creative writing at the University of California, Los Angeles. Her 2019 short story collection, <i>Home Remedies</i>, won the John C. Zacharis First Book Award and was shortlisted for the Young Lions Fiction Award and the 2020 PEN/Robert W. Bingham Prize. She earned her MFA from Columbia University and received a Stegner Fellowship to study at Stanford University.</p>"
+}

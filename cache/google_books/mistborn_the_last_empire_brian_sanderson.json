@@ -1,0 +1,230 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dlfOfxkm1PoC",
+      "etag": "v3NbC8q6Clw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dlfOfxkm1PoC",
+      "volumeInfo": {
+        "title": "Mistborn",
+        "subtitle": "The Final Empire",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2006-07-25",
+        "description": "\"What if the prophesied hero failed to defeat the Dark Lord?\"--Jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765311788"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "076531178X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 28,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dlfOfxkm1PoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dlfOfxkm1PoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dlfOfxkm1PoC&printsec=frontcover&dq=intitle:%22Mistborn:+The+Final+Empire%22+inauthor:%22Brandon+Sanderson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dlfOfxkm1PoC&dq=intitle:%22Mistborn:+The+Final+Empire%22+inauthor:%22Brandon+Sanderson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mistborn.html?hl=&id=dlfOfxkm1PoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dlfOfxkm1PoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;What if the prophesied hero failed to defeat the Dark Lord?&quot;--Jacket."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UBCYZwEACAAJ",
+      "etag": "nuN85WDKXUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UBCYZwEACAAJ",
+      "volumeInfo": {
+        "title": "Mistborn",
+        "subtitle": "The Final Empire - The Well of Ascension - The Hero of Ages",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "publisher": "Gollancz",
+        "publishedDate": "2011-11-24",
+        "description": "A boxed set of the landmark fantasy from Brandon Sanderson, the man credited with breathing fresh life into Robert Jordan's WHEEL OF TIME. An epic fantasy set in a world where the Dark Lord has gained dominion over the world. A world of ash and pain. A world subjugated. But a world where magic can be drawn from metals. A world waiting for a new heroine, a new hope. A word of mouth bestseller in the USA Brandon Sanderson's Mistborn trilogy have now become a massive hit in the UK, introducing readers to the work of one of the genre's great talents. A master of world building, sweeping plots, believable characters and engrossing magic systems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575118563"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575118560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UBCYZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UBCYZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UBCYZwEACAAJ&dq=intitle:%22Mistborn:+The+Final+Empire%22+inauthor:%22Brandon+Sanderson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UBCYZwEACAAJ&dq=intitle:%22Mistborn:+The+Final+Empire%22+inauthor:%22Brandon+Sanderson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mistborn.html?hl=&id=UBCYZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UBCYZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A world waiting for a new heroine, a new hope. A word of mouth bestseller in the USA Brandon Sanderson&#39;s Mistborn trilogy have now become a massive hit in the UK, introducing readers to the work of one of the genre&#39;s great talents."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Df6WDgAAQBAJ",
+      "etag": "1T7HalT0dm4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Df6WDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Brandon Sanderson's Fantasy Firsts",
+        "subtitle": "(The Way of Kings, Mistborn: The Final Empire, Rithmatist, Alcatraz vs. The Evil Librarians)",
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2017-06-13",
+        "description": "This discounted ebundle Fantasy Firsts includes: The Way of Kings, Mistborn: The Final Empire, Rithmatist, Alcatraz vs. The Evil Librarians From #1 New York Times bestselling author of The Stormlight Archive and the Mistborn Saga, this bundle offers four entry points into the worlds of Brandon Sanderson. Mistborn: The Final Empire begins the Mistborn Saga, The Way of Kings the Stormlight Archive, Rithmatist, the first book in the duology, and Alcatraz vs. The Evil Librarians a series by the same name. Prepare yourself to be whisked away to the fantastical worlds of Brandon Sanderson. The Way of Kings \u2014 In a war that makes no sense, where ten armies fight separately against a single foe, Kaladin struggles to save his men and to fathom the leaders who consider them expendable. Brightlord Dalinar Kholin commands one of those other armies. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity. Mistborn: The Final Empire \u2014 Kelsier, a brilliant thief has turned his talents to the ultimate caper, with the Lord Ruler as the mark. Kel's plan is the ultimate long shot, until luck brings a ragged girl named Vin into the fold. But she will have to learn to trust if she is to master powers of which she never dreamed. The Rithmatist \u2014 Assigned to help the professor who is investigating the kidnapping of student Rithmatists, Joel and his friend Melody find themselves on the trail of an unexpected discovery\u2014one that will change Rithmatics\u2014and their world\u2014forever. Alcatraz vs. The Evil Librarians \u2014 On his thirteenth birthday, foster child Alcatraz Smedry gets a bag of sand in the mail-his only inheritance from his father and mother. It is quickly stolen by the cult of Evil Librarians. Alcatraz must stop them, using the only weapon he has: an incredible talent for breaking things. Other Tor books by Brandon Sanderson The Cosmere The Stormlight Archive The Way of Kings Words of Radiance Edgedancer (Novella) Oathbringer The Mistborn trilogy Mistborn: The Final Empire The Well of Ascension The Hero of Ages Mistborn: The Wax and Wayne series Alloy of Law Shadows of Self Bands of Mourning Collection Arcanum Unbounded Other Cosmere novels Elantris Warbreaker The Alcatraz vs. the Evil Librarians series Alcatraz vs. the Evil Librarians The Scrivener's Bones The Knights of Crystallia The Shattered Lens The Dark Talent The Rithmatist series The Rithmatist Other books by Brandon Sanderson The Reckoners Steelheart Firefight Calamity At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765399557"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0765399555"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 2738,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Df6WDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Df6WDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Df6WDgAAQBAJ&printsec=frontcover&dq=intitle:%22Mistborn:+The+Final+Empire%22+inauthor:%22Brandon+Sanderson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Df6WDgAAQBAJ&dq=intitle:%22Mistborn:+The+Final+Empire%22+inauthor:%22Brandon+Sanderson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brandon_Sanderson_s_Fantasy_Firsts.html?hl=&id=Df6WDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Df6WDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Other Tor books by Brandon Sanderson The Cosmere The Stormlight Archive The Way of Kings Words of Radiance Edgedancer (Novella) Oathbringer The Mistborn trilogy Mistborn: The Final Empire The Well of Ascension The Hero of Ages Mistborn: The ..."
+      }
+    }
+  ]
+}

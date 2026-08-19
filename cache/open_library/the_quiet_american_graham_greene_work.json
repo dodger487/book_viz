@@ -1,0 +1,97 @@
+{
+  "description": "One of Graham Greene's best works. The story is set at the time of the French war against the Viet Cong and tells the story of liberal British journalist Thomas Fowler, his mistress Phuong, and their relationship with American idealist Pyle. The latter is an earnest young man indocrinated with geo-political theory and whose attempts to shape the world to American ideals ends in his own personal tragedy and drastically alters the lives of the other two participants. Written before the US involvement in Vietnam this is a strangely prophetic work and seriously encapsulates the British viewpoint towards that conflict. A beautifully written book and highly recommended.",
+  "title": "The Quiet American",
+  "covers": [
+    6783126,
+    4309077,
+    5265883,
+    8460478,
+    8772554,
+    12017616,
+    15047491,
+    15047487,
+    13855100,
+    15047484,
+    8936501,
+    10534912,
+    10605600,
+    12684310,
+    13558372,
+    15047494
+  ],
+  "subject_places": [
+    "Indochina",
+    "Vietnam",
+    "Saigon",
+    "Hanoi"
+  ],
+  "subjects": [
+    "Americans",
+    "British",
+    "Fiction",
+    "Fiction in English",
+    "German language books",
+    "Indochinese War, 1946-1954",
+    "Journalists",
+    "Politics and government",
+    "Triangles (Interpersonal relations)",
+    "War correspondents",
+    "Indochinese War, 1946-1954 -- Fiction",
+    "Indochinese War (1946-1954) fast (OCoLC)fst00970511",
+    "Political fiction",
+    "Journalists, fiction",
+    "Vietnam, fiction",
+    "Fiction, war & military",
+    "Fiction, political",
+    "Fiction, psychological",
+    "Man-woman relationships, fiction",
+    "British and irish fiction (fictional works by one author)",
+    "Large type books",
+    "Literature",
+    "War stories",
+    "Ficci\u00f3n",
+    "war",
+    "agent",
+    "politics",
+    "love"
+  ],
+  "key": "/works/OL106081W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL20243A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "1945-",
+    "1945-1954",
+    "1945-1975",
+    "1952"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "first_publish_date": "1955",
+  "subject_people": [
+    "Phuong",
+    "Alden Pyle",
+    "General Th\u00e9",
+    "Granger",
+    "Fowler",
+    "Chou"
+  ],
+  "latest_revision": 28,
+  "revision": 28,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T21:25:07.728178"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-09T19:14:54.551854"
+  }
+}

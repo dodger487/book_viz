@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robert Wright (journalist)",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Wright (journalist)</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3123126",
+  "titles": {
+    "canonical": "Robert_Wright_(journalist)",
+    "normalized": "Robert Wright (journalist)",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Wright (journalist)</span></span>"
+  },
+  "pageid": 661319,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_Wright_journalist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 224,
+    "height": 232
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Robert_Wright_journalist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 224,
+    "height": 232
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365346202",
+  "tid": "7c9c047c-8546-11f1-bad1-3fe4fdcc3e15",
+  "timestamp": "2026-07-21T20:55:21Z",
+  "description": "American journalist and author (born 1957)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robert_Wright_(journalist)",
+      "revisions": "https://en.wikipedia.org/wiki/Robert_Wright_(journalist)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robert_Wright_(journalist)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Wright_(journalist)"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Robert_Wright_(journalist)",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Robert_Wright_(journalist)",
+      "edit": "https://en.wikipedia.org/wiki/Robert_Wright_(journalist)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Wright_(journalist)"
+    }
+  },
+  "extract": "Robert Wright is an American author and journalist known for his wide-ranging interests in philosophy, society, science, history, politics, international relations, and religion. He has published five books: Three Scientists and Their Gods: Looking for Meaning in an Age of Information (1988), The Moral Animal (1994), Nonzero: The Logic of Human Destiny (1999), The Evolution of God (2009), and Why Buddhism is True (2017). Wright has taught at Princeton University and the University of Pennsylvania; more recently, in 2019 he was Visiting Professor of Science and Religion at Union Theological Seminary, New York.",
+  "extract_html": "<p><b>Robert Wright</b> is an American author and journalist known for his wide-ranging interests in philosophy, society, science, history, politics, international relations, and religion. He has published five books: <i>Three Scientists and Their Gods: Looking for Meaning in an Age of Information</i> (1988), <i>The Moral Animal</i> (1994), <i>Nonzero: The Logic of Human Destiny</i> (1999), <i>The Evolution of God</i> (2009), and <i>Why Buddhism is True</i> (2017). Wright has taught at Princeton University and the University of Pennsylvania; more recently, in 2019 he was Visiting Professor of Science and Religion at Union Theological Seminary, New York.</p>"
+}

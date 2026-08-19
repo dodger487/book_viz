@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rebecca Makkai",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rebecca Makkai</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16204629",
+  "titles": {
+    "canonical": "Rebecca_Makkai",
+    "normalized": "Rebecca Makkai",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rebecca Makkai</span></span>"
+  },
+  "pageid": 41993332,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rebecca_Makkai_2023_Texas_Book_Festival.jpg/330px-Rebecca_Makkai_2023_Texas_Book_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rebecca_Makkai_2023_Texas_Book_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1333,
+    "height": 2000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1355930063",
+  "tid": "966bd5f2-57a7-11f1-bfaf-c7834a459e3b",
+  "timestamp": "2026-05-24T19:34:32Z",
+  "description": "American writer (born 1978)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rebecca_Makkai",
+      "revisions": "https://en.wikipedia.org/wiki/Rebecca_Makkai?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rebecca_Makkai?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rebecca_Makkai"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Rebecca_Makkai",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Rebecca_Makkai",
+      "edit": "https://en.wikipedia.org/wiki/Rebecca_Makkai?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rebecca_Makkai"
+    }
+  },
+  "extract": "Rebecca Makkai is an American novelist and short story writer. She is best known for writing The Great Believers (2018) and I Have Some Questions for You (2023), which have been positively received by critics and won awards such as the Los Angeles Times Book Prize for Fiction, the Andrew Carnegie Medal for Excellence in Fiction, and the Libby Book Award.",
+  "extract_html": "<p><b>Rebecca Makkai</b> is an American novelist and short story writer. She is best known for writing <i>The Great Believers</i> (2018) and <i>I Have Some Questions for You</i> (2023), which have been positively received by critics and won awards such as the <span><i>Los Angeles Times</i> Book Prize for Fiction</span>, the Andrew Carnegie Medal for Excellence in Fiction, and the Libby Book Award.</p>"
+}

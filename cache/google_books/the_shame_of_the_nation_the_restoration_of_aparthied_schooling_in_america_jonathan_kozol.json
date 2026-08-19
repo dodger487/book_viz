@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VWH2u0PKwyAC",
+      "etag": "vHYc2Ey53o4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VWH2u0PKwyAC",
+      "volumeInfo": {
+        "title": "The Shame of the Nation",
+        "subtitle": "The Restoration of Apartheid Schooling in America",
+        "authors": [
+          "Jonathan Kozol"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2006-08-01",
+        "description": "Since the early 1980s, when the federal courts began dismantling the landmark ruling in Brown v. Board of Education, segregation of black children has reverted to its highest level since 1968. In many inner-city schools, a stick-and-carrot method of behavioral control traditionally used in prisons is now used with students. Meanwhile, as high-stakes testing takes on pathological and punitive dimensions, liberal education has been increasingly replaced by culturally barren and robotic methods of instruction that would be rejected out of hand by schools that serve the mainstream of society. Filled with the passionate voices of children, principals, and teachers, and some of the most revered leaders in the black community, The Shame of the Nation pays tribute to those undefeated educators who persist against the odds, but directly challenges the chilling practices now being forced upon our urban systems. In their place, Kozol offers a humane, dramatic challenge to our nation to fulfill at last the promise made some 50 years ago to all our youngest citizens.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400052455"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1400052459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VWH2u0PKwyAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VWH2u0PKwyAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VWH2u0PKwyAC&printsec=frontcover&dq=intitle:%22The+Shame+of+the+Nation:+The+Restoration+of+Apartheid+Schooling+in+America%22+inauthor:%22Jonathan+Kozol%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VWH2u0PKwyAC&dq=intitle:%22The+Shame+of+the+Nation:+The+Restoration+of+Apartheid+Schooling+in+America%22+inauthor:%22Jonathan+Kozol%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shame_of_the_Nation.html?hl=&id=VWH2u0PKwyAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VWH2u0PKwyAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Filled with the passionate voices of children, principals, and teachers, and some of the most revered leaders in the black community, The Shame of the Nation pays tribute to those undefeated educators who persist against the odds, but ..."
+      }
+    }
+  ]
+}

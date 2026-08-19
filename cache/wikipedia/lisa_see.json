@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lisa See",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lisa See</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q448776",
+  "titles": {
+    "canonical": "Lisa_See",
+    "normalized": "Lisa See",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lisa See</span></span>"
+  },
+  "pageid": 8945278,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lisa_See_in_Madrid_by_As%C3%ADs_G._Ayerbe.jpg/330px-Lisa_See_in_Madrid_by_As%C3%ADs_G._Ayerbe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 477
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lisa_See_in_Madrid_by_As%C3%ADs_G._Ayerbe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1000,
+    "height": 1446
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364484472",
+  "tid": "d2dd05b6-8158-11f1-b5e7-3a3fb8618d58",
+  "timestamp": "2026-07-16T20:56:32Z",
+  "description": "American writer (born 1955)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lisa_See",
+      "revisions": "https://en.wikipedia.org/wiki/Lisa_See?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lisa_See?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lisa_See"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lisa_See",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lisa_See",
+      "edit": "https://en.wikipedia.org/wiki/Lisa_See?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lisa_See"
+    }
+  },
+  "extract": "Lisa See is an American writer and novelist.",
+  "extract_html": "<p><b>Lisa See</b> is an American writer and novelist.</p>"
+}

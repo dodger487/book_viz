@@ -1,0 +1,106 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NgEwCwAAQBAJ",
+      "etag": "b1E/jvfrVNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NgEwCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Weapons of Math Destruction",
+        "subtitle": "How Big Data Increases Inequality and Threatens Democracy",
+        "authors": [
+          "Cathy O'Neil"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2016-09-06",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 A former Wall Street quant sounds the alarm on Big Data and the mathematical models that threaten to rip apart our social fabric\u2014with a new afterword \u201cA manual for the twenty-first-century citizen . . . relevant and urgent.\u201d\u2014Financial Times NATIONAL BOOK AWARD LONGLIST \u2022 NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review \u2022 The Boston Globe \u2022 Wired \u2022 Fortune \u2022 Kirkus Reviews \u2022 The Guardian \u2022 Nature \u2022 On Point We live in the age of the algorithm. Increasingly, the decisions that affect our lives\u2014where we go to school, whether we can get a job or a loan, how much we pay for health insurance\u2014are being made not by humans, but by machines. In theory, this should lead to greater fairness: Everyone is judged according to the same rules. But as mathematician and data scientist Cathy O\u2019Neil reveals, the mathematical models being used today are unregulated and uncontestable, even when they\u2019re wrong. Most troubling, they reinforce discrimination\u2014propping up the lucky, punishing the downtrodden, and undermining our democracy in the process. Welcome to the dark side of Big Data.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553418828"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553418823"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.23.20.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NgEwCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NgEwCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NgEwCwAAQBAJ&printsec=frontcover&dq=intitle:%22Weapons+of+Math+Destruction%22+inauthor:%22Cathy+O%27Neil%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NgEwCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NgEwCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NgEwCwAAQBAJ&rdid=book-NgEwCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Weapons_of_Math_Destruction-sample-epub.acsm?id=NgEwCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NgEwCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 A former Wall Street quant sounds the alarm on Big Data and the mathematical models that threaten to rip apart our social fabric\u2014with a new afterword \u201cA manual for the twenty-first-century citizen . . . ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xa_wbcnyKXMC",
+      "etag": "lgIQHOZXHC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xa_wbcnyKXMC",
+      "volumeInfo": {
+        "title": "Stories of Your Life and Others",
+        "authors": [
+          "Ted Chiang"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2002-07-05",
+        "description": "Ted Chiang's first published story, \"Tower of Babylon,\" won the Nebula Award in 1990. Subsequent stories have won the Asimov's SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF. Now, collected here for the first time are all seven of this extraordinary writer's stories so far-plus an eighth story written especially for this volume. What if men built a tower from Earth to Heaven-and broke through to Heaven's other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life . . . and others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "076530418X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765304186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xa_wbcnyKXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xa_wbcnyKXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xa_wbcnyKXMC&printsec=frontcover&dq=intitle:%22Stories+of+Your+Life+and+Others%22+inauthor:%22Ted+Chiang%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xa_wbcnyKXMC&dq=intitle:%22Stories+of+Your+Life+and+Others%22+inauthor:%22Ted+Chiang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stories_of_Your_Life_and_Others.html?hl=&id=xa_wbcnyKXMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xa_wbcnyKXMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life . . . and others."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fRii0QEACAAJ",
+      "etag": "yd7q1HHV/nI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fRii0QEACAAJ",
+      "volumeInfo": {
+        "title": "Stories of Your Life and Others",
+        "subtitle": "Study Guide",
+        "authors": [
+          "Ted Chiang"
+        ],
+        "publishedDate": "2025",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798585632587"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fRii0QEACAAJ&dq=intitle:%22Stories+of+Your+Life+and+Others%22+inauthor:%22Ted+Chiang%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fRii0QEACAAJ&dq=intitle:%22Stories+of+Your+Life+and+Others%22+inauthor:%22Ted+Chiang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stories_of_Your_Life_and_Others.html?hl=&id=fRii0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fRii0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

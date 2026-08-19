@@ -1,0 +1,28 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7784860A"
+      ],
+      "author_name": [
+        "Daniel Hunter"
+      ],
+      "cover_edition_key": "OL30524503M",
+      "cover_i": 10460223,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL22440104W",
+      "public_scan_b": false,
+      "title": "Building a Movement to End the New Jim Crow"
+    }
+  ]
+}

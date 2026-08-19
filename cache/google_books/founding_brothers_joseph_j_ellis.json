@@ -1,0 +1,198 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "0Rx3AAAAMAAJ",
+      "etag": "CFi2+hIkj90",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Rx3AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Founding Brothers",
+        "subtitle": "The Revolutionary Generation",
+        "authors": [
+          "Joseph J. Ellis"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2000-10-17",
+        "description": "\"Ellis focuses on six discrete moments that exemplify the most crucial issues facing the fragile new nation: Burr and Hamilton's deadly duel, and what may have really happened; Hamilton, Jefferson, and Madison's secret dinner, during which the seat of the permanent capital was determined in exchange for passage of Hamilton's financial plan; Franklin's petition to end the \"peculiar institution\" of slaves - his last public act - and Madison's efforts to quash it; Washington's precedent-setting Farewell Address, announcing his retirement from public office and offering his country some final advice; Adams's difficult term as Washington's successor and his alleged scheme to pass the presidency on to his son; and finally, Adams and Jefferson's renewed correspondence at the end of their lives, in which they compared their different views of the Revolution and its legacy.\"--BOOK JACKET.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015050301988"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Rx3AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Rx3AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0Rx3AAAAMAAJ&dq=intitle:%22Founding+Brothers%22+inauthor:%22Joseph+J+Ellis%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0Rx3AAAAMAAJ&dq=intitle:%22Founding+Brothers%22+inauthor:%22Joseph+J+Ellis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Founding_Brothers.html?hl=&id=0Rx3AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Rx3AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Revisiting the old-fashioned idea that character matters, Founding Brothers informs our understanding of American politics--then and now--and gives us a new perspective on the unpredictable forces that shape history."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0PXwzgEACAAJ",
+      "etag": "aQRsFeEo4Uc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0PXwzgEACAAJ",
+      "volumeInfo": {
+        "title": "Founding Brothers",
+        "authors": [
+          "Joseph J. Ellis"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1280897502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 457,
+        "printType": "BOOK",
+        "categories": [
+          "Large type books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0PXwzgEACAAJ&dq=intitle:%22Founding+Brothers%22+inauthor:%22Joseph+J+Ellis%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0PXwzgEACAAJ&dq=intitle:%22Founding+Brothers%22+inauthor:%22Joseph+J+Ellis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Founding_Brothers.html?hl=&id=0PXwzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0PXwzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vAeFnQAACAAJ",
+      "etag": "pRoW4II+VNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vAeFnQAACAAJ",
+      "volumeInfo": {
+        "title": "Book Discussion Kit, Founding Brothers",
+        "subtitle": "The Revolutionary Generation",
+        "authors": [
+          "Joseph J. Ellis"
+        ],
+        "publishedDate": "2002*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:61136332"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Book talks"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vAeFnQAACAAJ&dq=intitle:%22Founding+Brothers%22+inauthor:%22Joseph+J+Ellis%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vAeFnQAACAAJ&dq=intitle:%22Founding+Brothers%22+inauthor:%22Joseph+J+Ellis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Book_Discussion_Kit_Founding_Brothers.html?hl=&id=vAeFnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vAeFnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

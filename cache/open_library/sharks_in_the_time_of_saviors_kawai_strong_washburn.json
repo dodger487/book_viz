@@ -1,0 +1,31 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7904034A"
+      ],
+      "author_name": [
+        "Kawai Strong Washburn"
+      ],
+      "cover_edition_key": "OL28198809M",
+      "cover_i": 11273211,
+      "ebook_access": "no_ebook",
+      "edition_count": 13,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL20756378W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Sharks in the Time of Saviors"
+    }
+  ]
+}

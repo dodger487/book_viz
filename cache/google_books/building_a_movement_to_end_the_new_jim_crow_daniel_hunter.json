@@ -1,0 +1,146 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YjtyCQAAQBAJ",
+      "etag": "w7tO6MoQxGc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YjtyCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Building a Movement to End the New Jim Crow: an organizing guide",
+        "authors": [
+          "Daniel Hunter"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2015",
+        "description": "\"Seeks to focus people in the direction of dismantling our nation's huge and egregious prison industrial systems, the old but new Jim Crow. In it, Daniel Hunter describes key organizing principles and offers an array of examples that describe concrete ways that individuals, organizations, and coalitions are achieving significant successes, which cultivate the soil for more and more significant campaigns in this crucial struggle\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780988550810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0988550814"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YjtyCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YjtyCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YjtyCQAAQBAJ&printsec=frontcover&dq=intitle:%22Building+a+Movement+to+End+the+New+Jim+Crow%22+inauthor:%22Daniel+Hunter%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YjtyCQAAQBAJ&dq=intitle:%22Building+a+Movement+to+End+the+New+Jim+Crow%22+inauthor:%22Daniel+Hunter%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_a_Movement_to_End_the_New_Jim_C.html?hl=&id=YjtyCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Building_a_Movement_to_End_the_New_Jim_C-sample-pdf.acsm?id=YjtyCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YjtyCQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In it, Daniel Hunter describes key organizing principles and offers an array of examples that describe concrete ways that individuals, organizations, and coalitions are achieving significant successes, which cultivate the soil for more and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BBQEswEACAAJ",
+      "etag": "FD+R5XQeiBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BBQEswEACAAJ",
+      "volumeInfo": {
+        "title": "Building a Movement to End the New Jim Crow",
+        "subtitle": "An Organizing Guide",
+        "authors": [
+          "Daniel Hunter"
+        ],
+        "publishedDate": "2015-05-01",
+        "description": "Expanding on the call to action in Michelle Alexander's acclaimed best-seller, The New Jim Crow, this accessible organizing guide puts tools in your hands to help you and your group understand how to make meaningful, effective change. Learn about your role in movement-building and how to pick and build campaigns that contribute towards a bigger mass movement against the largest penal system in the world. This important new resource offers examples from this and other movements, time-tested organizing techniques, and vision to inspire, challenge, and motivate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0988550830"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780988550834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BBQEswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BBQEswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BBQEswEACAAJ&dq=intitle:%22Building+a+Movement+to+End+the+New+Jim+Crow%22+inauthor:%22Daniel+Hunter%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BBQEswEACAAJ&dq=intitle:%22Building+a+Movement+to+End+the+New+Jim+Crow%22+inauthor:%22Daniel+Hunter%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_a_Movement_to_End_the_New_Jim_C.html?hl=&id=BBQEswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BBQEswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Expanding on the call to action in Michelle Alexander&#39;s acclaimed best-seller, The New Jim Crow, this accessible organizing guide puts tools in your hands to help you and your group understand how to make meaningful, effective change."
+      }
+    }
+  ]
+}

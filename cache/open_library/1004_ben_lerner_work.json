@@ -1,0 +1,72 @@
+{
+  "description": "A beautiful and utterly original novel about making art, love, and children during the twilight of an empire. Ben Lerner's first novel, *Leaving the Atocha Station*, was hailed as \"one of the truest (and funniest) novels. of his generation\" (Lorin Stein, The New York Review of Books), \"a work so luminously original in style and form as to seem like a premonition, a comet from the future\" (Geoff Dyer, The Observer). \r\n\r\nNow, his second novel departs from *Leaving the Atocha Station*'s exquisite ironies in order to explore new territories of thought and feeling. In the last year, the narrator of *10:04* has enjoyed unexpected literary success, has been diagnosed with a potentially fatal heart condition, and has been asked by his best friend to help her conceive a child, despite his dating a rising star in the visual arts. In a New York of increasingly frequent super storms and political unrest, he must reckon with his biological mortality, the possibility of a literary afterlife, and the prospect of (unconventional) fatherhood in a city that might soon be under water. \r\n\r\nIn prose that Jonathan Franzen has called \"hilarious. cracklingly intelligent. and original in every sentence,\" Lerner captures what it's like to be alive now, when the difficulty of imagining a future has changed our relation to our present and our past. Exploring sex, friendship, medicine, memory, art, and politics, *10:04* is both a riveting work of fiction and a brilliant examination of the role fiction plays in our lives.",
+  "title": "10:04",
+  "covers": [
+    9159096,
+    9392858,
+    12685441,
+    10125277
+  ],
+  "subject_places": [
+    "New York"
+  ],
+  "subjects": [
+    "Authors",
+    "Man-woman relationships",
+    "Mortality",
+    "Fatherhood",
+    "Fiction",
+    "Writers",
+    "FICTION / Literary",
+    "New York Times reviewed",
+    "Literary",
+    "Amerikanisches Englisch",
+    "Heart",
+    "Diseases",
+    "Patients",
+    "Fiction, general",
+    "New york (n.y.), fiction",
+    "Man-woman relationships, fiction",
+    "Authors, fiction",
+    "Authors--fiction",
+    "Mortality--fiction",
+    "Fatherhood--fiction",
+    "Man-woman relationships--fiction",
+    "Ps3612.e68 a33 2014",
+    "813/.6",
+    "Fic019000"
+  ],
+  "key": "/works/OL17115245W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1388468A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2014/09/07/books/review/1004-by-ben-lerner.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2015-06-15T08:04:51.415738"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-21T22:59:44.438695"
+  }
+}

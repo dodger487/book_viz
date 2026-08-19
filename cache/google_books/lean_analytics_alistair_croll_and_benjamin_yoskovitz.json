@@ -1,0 +1,200 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VJS5qQWOKUIC",
+      "etag": "rTk9xboReDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VJS5qQWOKUIC",
+      "volumeInfo": {
+        "title": "Lean Analytics",
+        "subtitle": "Use Data to Build a Better Startup Faster",
+        "authors": [
+          "Alistair Croll",
+          "Benjamin Yoskovitz"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-04-15",
+        "description": "If you\u2019re involved with a startup, analytics help you find your way to the right product and market before the money runs out. But with a flood of information available, where do you start? This book shows you what to measure, how to analyze it, and how to report it, whether you\u2019re evaluating your business model, testing new features, enticing investors, or reporting progress to advisers. Written by Alistair Croll (founder of Coradiant) and Ben Yoskovitz (co-founder of Year One Labs), Lean Analytics lays out practical, proven steps to take your startup from initial idea to product/market fit and beyond. Examples and case studies show entrepreneurs and intrapreneneurs (entrepreneurs inside larger organizations) how to identify and measure a startup\u2019s single most important metric, and how to iterate until you get it right. While the authors primarily cover technology startups, their lessons can be applied far beyond the Web. Even traditional businesses are embracing a lean, learn-first approach, as demonstrated by owners of a San Francisco deli that used a temporary \"pop-up\" method to optimize their menu and operations before launching a permanent restaurant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449335670"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449335675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VJS5qQWOKUIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VJS5qQWOKUIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VJS5qQWOKUIC&printsec=frontcover&dq=intitle:%22Lean+Analytics%22+inauthor:%22Alistair+Croll%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VJS5qQWOKUIC&dq=intitle:%22Lean+Analytics%22+inauthor:%22Alistair+Croll%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lean_Analytics.html?hl=&id=VJS5qQWOKUIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VJS5qQWOKUIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book shows you what to measure, how to analyze it, and how to report it, whether you\u2019re evaluating your business model, testing new features, enticing investors, or reporting progress to advisers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RU8szgEACAAJ",
+      "etag": "xgJX+quU08E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RU8szgEACAAJ",
+      "volumeInfo": {
+        "title": "Lean Analytics",
+        "subtitle": "Use Data to Build a Better Startup Faster (Audio Book)",
+        "authors": [
+          "Alistair Croll"
+        ],
+        "publishedDate": "2019",
+        "description": "Marc Andreesen once said that \"markets that don't exist don't care how smart you are.\" Whether you're a startup founder trying to disrupt an industry, or an entrepreneur trying to provoke change from within, your biggest risk is building something nobody wants. Lean Analytics can help. By measuring and analyzing as you grow, you can validate whether a problem is real, find the right customers, and decide what to build, how to monetize it, and how to spread the word. Focusing on the One Metric That Matters to your business right now gives you the focus you need to move ahead--and the discipline to know when to change course. Written by Alistair Croll and Ben Yoskovitz, the book lays out practical, proven steps to take your startup from initial idea to product/market fit and beyond. Packed with over 30 case studies, and based on a year of interviews with over a hundred founders and investors, the book is an invaluable, practical guide for Lean Startup practitioners everywhere.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1137098597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44308,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RU8szgEACAAJ&dq=intitle:%22Lean+Analytics%22+inauthor:%22Alistair+Croll%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RU8szgEACAAJ&dq=intitle:%22Lean+Analytics%22+inauthor:%22Alistair+Croll%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lean_Analytics.html?hl=&id=RU8szgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RU8szgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written by Alistair Croll and Ben Yoskovitz, the book lays out practical, proven steps to take your startup from initial idea to product/market fit and beyond."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WiH10AEACAAJ",
+      "etag": "fc9h0Wg78cw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WiH10AEACAAJ",
+      "volumeInfo": {
+        "title": "Lean Analytics --\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7\u306e\u305f\u3081\u306e\u30c7\u30fc\u30bf\u89e3\u6790\u3068\u6d3b\u7528\u6cd5",
+        "authors": [
+          "Eric Ries Alistair Croll"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1459900464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.com/books?id=WiH10AEACAAJ&dq=intitle:%22Lean+Analytics%22+inauthor:%22Alistair+Croll%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WiH10AEACAAJ&dq=intitle:%22Lean+Analytics%22+inauthor:%22Alistair+Croll%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lean_Analytics_%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE.html?hl=&id=WiH10AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WiH10AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

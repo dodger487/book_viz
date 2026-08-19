@@ -1,0 +1,199 @@
+{
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL20646A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "covers": [
+    14314858,
+    15038055,
+    12518823,
+    12369584,
+    13269643,
+    12374942,
+    12390958,
+    13500153,
+    12508263,
+    12350866,
+    13803909,
+    12111032,
+    12351137,
+    13158130,
+    12218081,
+    12241242,
+    12089000,
+    12264501,
+    13762049,
+    12335377,
+    14187205,
+    12202781,
+    8983978,
+    10980291,
+    12273432,
+    12206076,
+    14917047,
+    12244074,
+    12316603,
+    12306343,
+    -1,
+    14121510,
+    13670429,
+    12335383,
+    13501313,
+    13667188
+  ],
+  "description": "**The Picture of Dorian Gray** is a philosophical novel by Irish writer Oscar Wilde. A shorter novella-length version was published in the July 1890 issue of the American periodical *Lippincott\u2019s Monthly Magazine*. The novel-length version was published in April 1891.\r\n\r\n(Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray))",
+  "key": "/works/OL8193416W",
+  "links": [
+    {
+      "title": "VIAF ID: 186701310",
+      "url": "https://viaf.org/viaf/186701310",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "inventaire.io",
+      "url": "https://inventaire.io/entity/wd:Q82464",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "A Review of Oscar Wilde\u2019s The Picture of Dorian Gray",
+      "url": "https://love-books-review.com/blog/the-picture-of-dorian-gray-by-oscar-wilde/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Picture of Dorian Gray-Ebookzy",
+      "url": "https://ebookzy.com/the-picture-of-dorian-gray/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th century",
+    "Victoria, 1837-1901",
+    "1800-1950",
+    "19th century"
+  ],
+  "subjects": [
+    "British and irish fiction (fictional works by one author)",
+    "Conduct of life, fiction",
+    "Fantasy fiction",
+    "Appearance (Philosophy)",
+    "Fiction",
+    "Conduct of life",
+    "Youthfulness",
+    "Portraits",
+    "Apparence (Philosophie)",
+    "Romans, nouvelles",
+    "Morale pratique",
+    "Juv\u00e9nilit\u00e9",
+    "General",
+    "Horror",
+    "Education",
+    "English literature",
+    "England, fiction",
+    "Fiction, general",
+    "Soul",
+    "Paranormal fiction",
+    "Fiction, psychological",
+    "Didactic fiction",
+    "Drama (dramatic works by one author)",
+    "Fiction, historical",
+    "Fiction, fantasy, paranormal",
+    "Great britain, fiction",
+    "Fiction, historical, general",
+    "Classics",
+    "European",
+    "English, Irish, Scottish, Welsh",
+    "Drama, history and criticism",
+    "Hedonism",
+    "Classic fiction",
+    "Men",
+    "Man-woman relationships",
+    "Influence (Psychology)",
+    "Novela did\u00e1ctica",
+    "Novela psicolog\u00eda",
+    "Fiction, horror",
+    "Painting, fiction",
+    "Large type books",
+    "Readers",
+    "Picture of Dorian Gray (Wilde, Oscar)",
+    "English literature, history and criticism, 19th century",
+    "Immortality",
+    "Aging",
+    "Gothic fiction",
+    "Irish Occult fiction",
+    "English fiction",
+    "Fiction, thrillers, suspense",
+    "Issues of Presses",
+    "Le livre.",
+    "Supernatural",
+    "History",
+    "Appearance (philosophy)--fiction",
+    "Conduct of life--fiction",
+    "Portraits--fiction",
+    "Pr5819 .a1 1998b",
+    "823/.8",
+    "Fiction, lgbtq+, gay",
+    "Literature, collections",
+    "Gothic fiction (Literary genre), English",
+    "Fiction, thrillers, general",
+    "Fiction, science fiction, general",
+    "Bibliography",
+    "LGBTQ fiction before Stonewall"
+  ],
+  "title": "The Picture of Dorian Gray",
+  "type": {
+    "key": "/type/work"
+  },
+  "works": [
+    {
+      "key": "/works/OL8193416W"
+    }
+  ],
+  "identifiers": {
+    "wikidata": [
+      "Q82464"
+    ],
+    "bookbrainz": [
+      "7820f760-7b9c-415e-a3d8-64335a073725"
+    ],
+    "musicbrainz": [
+      "5c398efb-7b80-491e-9e74-a3db28594068"
+    ],
+    "librarything": [
+      "1527"
+    ],
+    "goodreads": [
+      "1858012"
+    ]
+  },
+  "subject_places": [
+    "Great Britain",
+    "London (England)"
+  ],
+  "subject_people": [
+    "Oscar Wilde (1854-1900)"
+  ],
+  "latest_revision": 69,
+  "revision": 69,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:30:37.603993"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-10T07:54:44.432578"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Donna Tartt",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Donna Tartt</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q255339",
+  "titles": {
+    "canonical": "Donna_Tartt",
+    "normalized": "Donna Tartt",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Donna Tartt</span></span>"
+  },
+  "pageid": 982171,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Donna_Tartt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 167,
+    "height": 251
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Donna_Tartt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 167,
+    "height": 251
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366042063",
+  "tid": "e803112b-887d-11f1-aee2-0c20d57eabb8",
+  "timestamp": "2026-07-25T23:09:37Z",
+  "description": "American novelist and writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Donna_Tartt",
+      "revisions": "https://en.wikipedia.org/wiki/Donna_Tartt?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Donna_Tartt?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Donna_Tartt"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Donna_Tartt",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Donna_Tartt",
+      "edit": "https://en.wikipedia.org/wiki/Donna_Tartt?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Donna_Tartt"
+    }
+  },
+  "extract": "Donna Louise Tartt is an American novelist. She wrote the novels The Secret History (1992), The Little Friend (2002), and The Goldfinch (2013), which won the Pulitzer Prize for Fiction and was adapted into a 2019 film of the same name. She was included in Time magazine's 2014 \"100 Most Influential People\" list.",
+  "extract_html": "<p><b>Donna Louise Tartt</b> is an American novelist. She wrote the novels <i>The Secret History</i> (1992), <i>The Little Friend</i> (2002), and <span><i>The Goldfinch</i></span> (2013), which won the Pulitzer Prize for Fiction and was adapted into a 2019 film of the same name. She was included in <i>Time</i> magazine's 2014 \"100 Most Influential People\" list.</p>"
+}

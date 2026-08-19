@@ -1,0 +1,221 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Zn41EQAAQBAJ",
+      "etag": "0OkVVa9FM4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zn41EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wager",
+        "subtitle": "A Tale of Shipwreck, Mutiny and Murder",
+        "authors": [
+          "David Grann"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2025-02-25",
+        "description": "A \u201cTOUR DE FORCE OF NARRATIVE NONFICTION\u201d (WSJ) WITH OVER ONE YEAR ON THE NYT BEST SELLER LIST From the author of Killers of the Flower Moon, a page-turning story of shipwreck, survival, and savagery, culminating in a court martial that reveals a shocking truth. The powerful narrative reveals the deeper meaning of the events on The Wager, showing that it was not only the captain and crew who ended up on trial, but the very idea of empire. A Best Book of the Year: The New York Times, The Wall Street Journal, The New Yorker, TIME, Smithsonian, NPR, Vulture \u201cRiveting...Reads like a thriller, tackling a multilayered history\u2014and imperialism\u2014with gusto.\u201d \u2014Time On January 28, 1742, a ramshackle vessel of patched-together wood and cloth washed up on the coast of Brazil. Inside were thirty emaciated men, barely alive, and they had an extraordinary tale to tell. They were survivors of His Majesty\u2019s Ship the Wager, a British vessel that had left England in 1740 on a secret mission during an imperial war with Spain. While the Wager had been chasing a Spanish treasure-filled galleon known as \u201cthe prize of all the oceans,\u201d it had wrecked on a desolate island off the coast of Patagonia. The men, after being marooned for months and facing starvation, built the flimsy craft and sailed for more than a hundred days, traversing nearly 3,000 miles of storm-wracked seas. They were greeted as heroes. But then ... six months later, another, even more decrepit craft landed on the coast of Chile. This boat contained just three castaways, and they told a very different story. The thirty sailors who landed in Brazil were not heroes \u2013 they were mutineers. The first group responded with countercharges of their own, of a tyrannical and murderous senior officer and his henchmen. It became clear that while stranded on the island the crew had fallen into anarchy, with warring factions fighting for dominion over the barren wilderness. As accusations of treachery and murder flew, the Admiralty convened a court martial to determine who was telling the truth. The stakes were life-and-death\u2014for whomever the court found guilty could hang. The Wager is a grand tale of human behavior at the extremes told by one of our greatest nonfiction writers. Grann\u2019s recreation of the hidden world on a British warship rivals the work of Patrick O\u2019Brian, his portrayal of the castaways\u2019 desperate straits stands up to the classics of survival writing such as The Endurance, and his account of the court martial has the savvy of a Scott Turow thriller. As always with Grann\u2019s work, the incredible twists of the narrative hold the reader spellbound.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307742490"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307742490"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "True Crime"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zn41EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zn41EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zn41EQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wager%22+inauthor:%22David+Grann%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Zn41EQAAQBAJ&dq=intitle:%22The+Wager%22+inauthor:%22David+Grann%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wager.html?hl=&id=Zn41EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wager-sample-pdf.acsm?id=Zn41EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zn41EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Grann\u2019s recreation of the hidden world on a British warship rivals the work of Patrick O\u2019Brian, his portrayal of the castaways\u2019 desperate straits stands up to the classics of survival writing such as The Endurance, and his account of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WZ0s0AEACAAJ",
+      "etag": "JwuS3UCws7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WZ0s0AEACAAJ",
+      "volumeInfo": {
+        "title": "De schipbreuk van The Wager",
+        "authors": [
+          "David Grann"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9021480484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789021480480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com/books?id=WZ0s0AEACAAJ&dq=intitle:%22The+Wager%22+inauthor:%22David+Grann%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WZ0s0AEACAAJ&dq=intitle:%22The+Wager%22+inauthor:%22David+Grann%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_schipbreuk_van_The_Wager.html?hl=&id=WZ0s0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WZ0s0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reconstructie van de schipbreuk van het Britse schip HMS The Wager, dat in 1740 vertrok voor een geheime missie en in slecht weer verging."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CP_UEAAAQBAJ",
+      "etag": "zaTy34o6EKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CP_UEAAAQBAJ",
+      "volumeInfo": {
+        "title": "De schipbreuk van The Wager",
+        "subtitle": "Een bloedstollend verhaal over muiterij, waanzin en een strijd op leven en dood",
+        "authors": [
+          "David Grann"
+        ],
+        "publisher": "Singel Uitgeverijen",
+        "publishedDate": "2023-09-05",
+        "description": "Waargebeurd verhaal over muiterij, waanzin en een strijd op leven en dood Op 28 januari 1742 spoelde een bouwvallig schip aan op de kust van Brazili\u00eb. In het ruim bevonden zich dertig uitgemergelde mannen, overlevenden van de bemanning van HMS The Wager. Een Brits schip dat in 1740 uit Engeland was vertrokken voor een geheime missie. Tijdens de achtervolging van een Spaans galjoen verging het schip in slecht weer voor de kust van een verlaten eiland vlak bij Patagoni\u00eb. Na maanden van ontberingen slaagde de bemanning erin van wrakhout een boot te maken. Meer dan honderd dagen doorkruisten zij de woeste zee\u00ebn. Bij terugkomst in Engeland werden ze onthaald als helden. Zes maanden later landde een ander, nog bouwvalliger vaartuig op de kust van Chili. Aan boord bevonden zich drie schipbreukelingen van diezelfde HMS The Wager. Maar zij vertelden een heel ander verhaal van wat zich na het vergaan van hun schip had afgespeeld. De dertig matrozen die eerder in Brazili\u00eb aan land waren gekomen, waren volgens hen geen helden, maar muiters. Terwijl de beschuldigingen van verraad en moord over en weer gingen, riep de Admiraliteit een krijgsraad bijeen om te bepalen wie de waarheid sprak. Het werd een kwestie van leven of dood \u2013 wie door de rechtbank schuldig werd bevonden, zou worden opgehangen. 'Genre-overstijgende maritieme geschiedschrijving [...] leest als een literaire thriller.' \u2013 Vanity Fair 'Grann is niet alleen een nauwgezet onderzoeker, hij is ook een geweldige verteller.' \u2013 LitHub 'Grann reconstrueert de tocht in al zijn fascinerende gruwel.' \u2013 The New York Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789021480497"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9021480492"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CP_UEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CP_UEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com/books?id=CP_UEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wager%22+inauthor:%22David+Grann%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CP_UEAAAQBAJ&dq=intitle:%22The+Wager%22+inauthor:%22David+Grann%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_schipbreuk_van_The_Wager.html?hl=&id=CP_UEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/De_schipbreuk_van_The_Wager-sample-epub.acsm?id=CP_UEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/De_schipbreuk_van_The_Wager-sample-pdf.acsm?id=CP_UEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CP_UEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Genre-overstijgende maritieme geschiedschrijving [...] leest als een literaire thriller.&#39; \u2013 Vanity Fair &#39;Grann is niet alleen een nauwgezet onderzoeker, hij is ook een geweldige verteller.&#39; \u2013 LitHub &#39;Grann reconstrueert de tocht in al ..."
+      }
+    }
+  ]
+}

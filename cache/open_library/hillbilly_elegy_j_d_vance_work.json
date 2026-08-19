@@ -1,0 +1,110 @@
+{
+  "description": "From a former marine and Yale Law School graduate, this book is a probing look at the struggles of America's white working class through the author's own story of growing up in a poor Rust Belt town. Hillbilly Elegy is a passionate and personal analysis of a culture in crisis - that of poor, white Americans. The disintegration of this group, a process that has been slowly occurring now for over forty years, has been reported with growing frequency and alarm, but has never before been written about as searingly from the inside.",
+  "covers": [
+    14846900,
+    7435402,
+    12384309,
+    13856511,
+    8904739,
+    13893560,
+    13677944,
+    13864271,
+    10833726,
+    9146284
+  ],
+  "key": "/works/OL17357665W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7290426A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Hillbilly Elegy",
+  "subjects": [
+    "Mountain people",
+    "Family",
+    "Social mobility",
+    "Working class whites",
+    "Case studies",
+    "Economic conditions",
+    "Social conditions",
+    "Biography",
+    "Arbeitssoziologie",
+    "Sociology",
+    "Umschulungswerkst\u00e4tten f\u00fcr Siedler und Auswanderer",
+    "Ausgrenzung",
+    "Sozialer Wandel",
+    "Rural",
+    "Armut",
+    "Poverty & Homelessness",
+    "Kleinstadt",
+    "Families",
+    "SOCIAL SCIENCE",
+    "Familiensoziologie",
+    "Economic history",
+    "Working class",
+    "Arbeiterklasse",
+    "Working class white people",
+    "Biografie<U+fffd>en",
+    "Sociale mobiliteit",
+    "Armoede",
+    "Wei<U+fffd>e",
+    "Umschulungswerkst<U+fffd>atten f<U+fffd>ur Siedler und Auswanderer",
+    "General",
+    "Nonfiction",
+    "Umschulungswerkst atten f ur Siedler und Auswanderer",
+    "Working class, history",
+    "Working class, united states",
+    "Whites, history",
+    "Social mobility, united states",
+    "Kentucky, economic conditions",
+    "Kentucky, social conditions",
+    "Ohio, biography",
+    "Kentucky, biography",
+    "Ohio, economic conditions",
+    "nyt:hardcover-nonfiction=2016-08-14",
+    "New York Times bestseller",
+    "Large print books",
+    "nyt:paperback-nonfiction=2018-05-20",
+    "Vance, j. d",
+    "Familyvance, j. d",
+    "Working class whites--united states--biography",
+    "Working class whites--social conditions",
+    "Working class whites--united states--social conditions",
+    "Mountain people--social conditions",
+    "Mountain people--kentucky--social conditions",
+    "Social mobility--united states--case studies",
+    "Nf0916",
+    "Hd8073.v37 a3 2016",
+    "Non-fiction v222 2016",
+    "305.5/62089090092 b",
+    "White people",
+    "Travailleurs",
+    "Social condition"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_places": [
+    "United States",
+    "Appalachian Region",
+    "Kentucky"
+  ],
+  "subject_people": [
+    "J. D. Vance"
+  ],
+  "latest_revision": 19,
+  "revision": 19,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-07-25T14:08:04.352732"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-03-02T19:59:47.093234"
+  }
+}

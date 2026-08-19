@@ -1,0 +1,191 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "k8L0u82qt68C",
+      "etag": "9ZdTJi075S4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k8L0u82qt68C",
+      "volumeInfo": {
+        "title": "The Shipping News",
+        "authors": [
+          "Annie Proulx"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "1994-06",
+        "description": "Quoyle and his two emotionally disturbed daughters return to the family ancestral home in Newfoundland to start new lives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671510053"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0671510053"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k8L0u82qt68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k8L0u82qt68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=k8L0u82qt68C&printsec=frontcover&dq=intitle:%22The+Shipping+News%22+inauthor:%22Annie+Proulx%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=k8L0u82qt68C&dq=intitle:%22The+Shipping+News%22+inauthor:%22Annie+Proulx%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shipping_News.html?hl=&id=k8L0u82qt68C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k8L0u82qt68C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Quoyle and his two emotionally disturbed daughters return to the family ancestral home in Newfoundland to start new lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AuuCzgEACAAJ",
+      "etag": "WuEd3M4YnFQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AuuCzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Shipping News",
+        "subtitle": "Screenplay",
+        "authors": [
+          "Robert Nelson Jacobs"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1256490467"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "Families"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AuuCzgEACAAJ&dq=intitle:%22The+Shipping+News%22+inauthor:%22Annie+Proulx%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AuuCzgEACAAJ&dq=intitle:%22The+Shipping+News%22+inauthor:%22Annie+Proulx%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shipping_News.html?hl=&id=AuuCzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AuuCzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jo2OMwEACAAJ",
+      "etag": "X5lD371NTvU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jo2OMwEACAAJ",
+      "volumeInfo": {
+        "title": "The Shipping news: INN-Reach Training",
+        "authors": [
+          "Annie Proulx"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:792943232"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jo2OMwEACAAJ&dq=intitle:%22The+Shipping+News%22+inauthor:%22Annie+Proulx%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jo2OMwEACAAJ&dq=intitle:%22The+Shipping+News%22+inauthor:%22Annie+Proulx%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shipping_news_INN_Reach_Training.html?hl=&id=jo2OMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jo2OMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

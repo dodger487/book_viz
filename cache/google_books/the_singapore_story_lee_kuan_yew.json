@@ -1,0 +1,243 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9m5PBAAAQBAJ",
+      "etag": "fZBrgQvNrMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9m5PBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Singapore Story: Memoirs of Lee Kuan Yew",
+        "authors": [
+          "Lee Kuan Yew"
+        ],
+        "publisher": "Marshall Cavendish Education Pte Ltd",
+        "publishedDate": "2012-09-15",
+        "description": "The Singapore Story is the first volume of the memoirs of Lee Kuan Yew, the man who planted the island state of Singapore firmly on the map of the world. It was first published in 1999. In intimate detail, Lee recounts the battles against colonialists, communists and communalists that led to Singapore\u2019s independence. With consummate political skill, he countered adversaries, sometimes enlisting their help, at others opposing them, in the single-minded pursuit of Singapore\u2019s interests. We read how he led striking unionists against the colonial government, how over tea and golf he fostered ties with key players in Britain and Malaya, of secret midnight meetings in badly lit rooms, drinking warm Anchor beer with a communist underground leader, of his purposeful forging of an alliance with communists to gain the support of the Chinese-educated masses. Readers will find inspiration in his tenacity as he fought for the people\u2019s hearts and minds against first the communists and later the communalists \u2013 in parliament, on the streets and through the media. Drawing on unpublished Cabinet papers, archives in Singapore, Britain, Australia, New Zealand and the United States, as well as personal correspondence, he gives us a vivid picture of how others viewed him: determined (\u201cLee will bluff, bully and blackmail up to the eleventh hour\u201d), motivated (\u201cChoo knew I sweated blood to master Hokkien\u201d), ambitious (\u201cHe would think himself as legitimate as I was to be the leader of Malaya\u201d), dangerous (\u201cCrush Lee! Put him inside\u201d). It is a sometimes controversial yet strangely consistent portrait of this Asian statesman. These experiences and his dealings with the political leaders were to shape his views and policies, which have had a major impact on Singapore and the region.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789814561761"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9814561762"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 586,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9m5PBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9m5PBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9m5PBAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Singapore+Story%22+inauthor:%22Lee+Kuan+Yew%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9m5PBAAAQBAJ&dq=intitle:%22The+Singapore+Story%22+inauthor:%22Lee+Kuan+Yew%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Singapore_Story_Memoirs_of_Lee_Kuan.html?hl=&id=9m5PBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Singapore_Story_Memoirs_of_Lee_Kuan-sample-epub.acsm?id=9m5PBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9m5PBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Singapore Story is the first volume of the memoirs of Lee Kuan Yew, the man who planted the island state of Singapore firmly on the map of the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CfiOzwEACAAJ",
+      "etag": "4BKG5j9l98g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CfiOzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Singapore Story",
+        "subtitle": "Memoirs of Lee Kuan Yew",
+        "authors": [
+          "Kuan Yew Lee"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:98945683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Prime ministers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CfiOzwEACAAJ&dq=intitle:%22The+Singapore+Story%22+inauthor:%22Lee+Kuan+Yew%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CfiOzwEACAAJ&dq=intitle:%22The+Singapore+Story%22+inauthor:%22Lee+Kuan+Yew%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Singapore_Story.html?hl=&id=CfiOzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CfiOzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hHW2CgAAQBAJ",
+      "etag": "hdVtFZEdgm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hHW2CgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Singapore Story (Student Edition)",
+        "subtitle": "Memoirs of Lee Kuan Yew",
+        "authors": [
+          "Lee Kuan Yew"
+        ],
+        "publisher": "Marshall Cavendish International Asia Pte Ltd",
+        "publishedDate": "2015-07-15",
+        "description": "Specially tailored edition to complement the study of Singapore\u2019s history. This student edition of The Singapore Story is a shortened version of the original edition of The Singapore Story, the first volume of Lee Kuan Yew\u2019s memoirs published in 2008. It covers all the significant moments in the life of Singapore\u2019s first prime minister, in his own words, and dispenses with passages that do not directly concern Singapore",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789814721363"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9814721360"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 319,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hHW2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hHW2CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hHW2CgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Singapore+Story%22+inauthor:%22Lee+Kuan+Yew%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hHW2CgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hHW2CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.11,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hHW2CgAAQBAJ&rdid=book-hHW2CgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13110000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Singapore_Story_Student_Edition-sample-epub.acsm?id=hHW2CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hHW2CgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This student edition of The Singapore Story is a shortened version of the original edition of The Singapore Story, the first volume of Lee Kuan Yew\u2019s memoirs published in 2008."
+      }
+    }
+  ]
+}

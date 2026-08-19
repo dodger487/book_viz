@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Christopher Voss",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Christopher Voss</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5113367",
+  "titles": {
+    "canonical": "Christopher_Voss",
+    "normalized": "Christopher Voss",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Christopher Voss</span></span>"
+  },
+  "pageid": 19953074,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg/330px-Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 496
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Christopher_Voss_CEO_of_The_Black_Swan_Group.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2000,
+    "height": 3008
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353574756",
+  "tid": "e5156caf-4cdf-11f1-b6d9-33782ce3e8be",
+  "timestamp": "2026-05-11T02:19:53Z",
+  "description": "American businessman and author (born 1957)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Christopher_Voss",
+      "revisions": "https://en.wikipedia.org/wiki/Christopher_Voss?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Christopher_Voss?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Christopher_Voss"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Christopher_Voss",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Christopher_Voss",
+      "edit": "https://en.wikipedia.org/wiki/Christopher_Voss?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Christopher_Voss"
+    }
+  },
+  "extract": "Christopher Voss is an American businessman, author, and academic. Voss is a former FBI hostage negotiator, the CEO of The Black Swan Group Ltd, a company registered in Las Vegas, Nevada, and co-author of the book Never Split the Difference. He is an adjunct professor at Harvard Law School and Georgetown University's McDonough School of Business, and a lecturer at the Marshall School of Business at University of Southern California.",
+  "extract_html": "<p><b>Christopher Voss</b> is an American businessman, author, and academic. Voss is a former FBI hostage negotiator, the CEO of The Black Swan Group Ltd, a company registered in Las Vegas, Nevada, and co-author of the book <i>Never Split the Difference</i>. He is an adjunct professor at Harvard Law School and Georgetown University's McDonough School of Business, and a lecturer at the Marshall School of Business at University of Southern California.</p>"
+}

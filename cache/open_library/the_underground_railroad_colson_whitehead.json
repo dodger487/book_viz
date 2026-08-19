@@ -1,0 +1,66 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL218462A"
+      ],
+      "author_name": [
+        "Colson Whitehead"
+      ],
+      "cover_edition_key": "OL26224505M",
+      "cover_i": 7899016,
+      "ebook_access": "printdisabled",
+      "edition_count": 39,
+      "first_publish_year": 2000,
+      "has_fulltext": true,
+      "ia": [
+        "estradasubterrne0000cols",
+        "elferrocarrilsub0000whit",
+        "undergroundrailr0000whit_e5n6",
+        "undergroundrailr0000whit_d4x0",
+        "undergroundrailr0000whit"
+      ],
+      "ia_collection": [
+        "ambslibrary-ol",
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "marygrovecollege",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL17619932W",
+      "language": [
+        "kor",
+        "jpn",
+        "ger",
+        "eng",
+        "ita",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "The Underground Railroad"
+    }
+  ]
+}

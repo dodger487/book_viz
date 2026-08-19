@@ -1,0 +1,110 @@
+{
+  "kind": "books#volume",
+  "id": "k0_0EAAAQBAJ",
+  "etag": "HXWgG4a0Pvc",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/k0_0EAAAQBAJ",
+  "volumeInfo": {
+    "title": "Vanishing Treasures",
+    "subtitle": "A Bestiary of Extraordinary Endangered Creatures",
+    "authors": [
+      "Katherine Rundell"
+    ],
+    "publisher": "Knopf Doubleday Publishing Group",
+    "publishedDate": "2024-11-12",
+    "description": "<b>NATIONAL BESTSELLER <b>\u2022 </b>NAMED A BEST BOOK OF FALL: <i>WASHINGTON POST</i>, CBS, <i>BOSTON GLOBE, CHICAGO TRIBUNE </i>& MORE \u2022 From the #1 <i>New York Times</i> bestselling author Katherine Rundell comes a \u201crare and magical book\u201d (Bill Bryson) reckoning with the vanishing wonders of our natural world</b><br><b><br>\"Extraordinary...For anyone whose capacity for wonder could use a jumpstart, Rundell's essays are essential reading.\"\u2014Maureen Corrigan, <i>Fresh Air</i></b><br><br><b>\"In times like these, terror and rage will carry us only so far. We will also need unstinting, unceasing love. For the hard work that lies ahead, Ms. Rundell writes, 'Our competent and furious love will have to be what fuels us.' This is a book to help you fall in love.\" \u2014<b>Margaret Renkl,<i> The New York Times</i></b><br></b><br>The world is more astonishing, more miraculous, and more wonderful than our wildest imaginings. In this brilliant and passionately persuasive book, Katherine Rundell takes us on a globe-spanning tour of the world's most awe-inspiring animals currently facing extinction.<br><br>Consider the seahorse: couples mate for life and meet each morning for a dance, pirouetting and changing colors before going their separate ways, to dance again the next day. The American wood frog survives winter by allowing itself to freeze solid, its heartbeat slowing until it stops altogether. Come spring, the heart kick-starts itself spontaneously back to life. As for the lemur, it lives in matriarchal troops led by an alpha female (it\u2019s not unusual for female ring-tailed lemurs to slap males across the face when they become aggressive). Whenever they are cold or frightened, they group together in what\u2019s known as a lemur ball, paws and tails intertwined, to form a furry mass as big as a bicycle wheel.<br><br>But each of these extraordinary animals is endangered or holds a sub-species that is endangered. This urgent, inspiring book of essays dedicated to 23 unusual and underappreciated creatures is a clarion call insisting that we look at the world around us with new eyes\u2014to see the magic of the animals we live among, their unknown histories and capabilities, and above all how lucky we are to tread the same ground as such vanishing treasures.<br><br>Beautifully illustrated, and full of inimitable wit and intellect, <i>Vanishing Treasures </i>is a chance to be awestruck and lovestruck, to reckon with the beauty of the world, its fragility, and its strangeness.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0385550839"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780385550833"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 224,
+    "printedPageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+      "Nature / Animals / General",
+      "Social Science / Essays",
+      "Science / Environmental Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=k0_0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72pF5ojCna_4vEhuq9Tm33Ta1RsY4fX4iDZ9waGfe2-rW2aBEAf4y7HxV6ytv57-hu7S_TX5rOTM8xH6zV2jNDjeoJVQ6uVtEwXgVFZgyWpUwMi9tM80EnaQrEKUV8OjdnXHgDg&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=k0_0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71aOQQ8VMSRybpV-ytv6gltgbI6UIbfcj-N9fNWUi0dtCErttytmJs6vL7mfSbqKxu3nt8W1B1hYscrBHBt5JBbNlRqsF03ZpwOnvrGkea00TYsvSPXNElBtAgYO23BJ6wTd_z0&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=k0_0EAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70-hx2_Ikw8g7dnfw0HnF90XexjvoqS7O5chi5cjDtKXyDKPDfQBG_9jXgBKCNjqNtVdXmW1NZIRxrdDRmMDf-h_DSL94JbERu79sSg_mJcfcuM1xTVv4P_oNjZzIEmTCnQfuNk&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=k0_0EAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE736Kq5YemAndTJ4EPRSNOlMYk07tFY9LTImCMnve8l3O6JDT1nxB-TbKzsYaekBb37ThU6pK2x6nBl9ZJCEt6fwwarQh7bQSwPaQly1nTPG59Yxqknktu0Isrcf-Wm7McYPZhU3&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=k0_0EAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73NkZNcJt6aceBDN44T6V2m0yrORpn7sOI9Yyy0y3oZp_5G4IC7Ial_6Xzs70mGRlty7RS1c7SDl78hcYbyX6MhNWki5ge45yvJOOlDOy9iFM8qWD01NqtIYycSbaGUmxrEtfkY&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=k0_0EAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73jKNzeaQa1V4lHUch0gypbz72Jp0t-gQslSxwpeEmmc0UFTTNaQ_EwXdwdpmoWGKjMegmKqo8jvgyeoEXA87-9vEVgjJwTTVArvUVC_aF0wb_M4yd-hsuoMYOVRg1tu6wVK26m&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=k0_0EAAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=k0_0EAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=k0_0EAAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "2"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 13.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 13.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=k0_0EAAAQBAJ&rdid=book-k0_0EAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 13990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 13990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Vanishing_Treasures-sample-epub.acsm?id=k0_0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k0_0EAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

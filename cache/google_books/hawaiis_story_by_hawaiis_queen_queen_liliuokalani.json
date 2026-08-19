@@ -1,0 +1,247 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NdpjvgEACAAJ",
+      "etag": "aaiHg8usn5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NdpjvgEACAAJ",
+      "volumeInfo": {
+        "title": "Hawaii's Story by Hawaii's Queen",
+        "authors": [
+          "Liliuokalani"
+        ],
+        "publisher": "Wildside Press",
+        "publishedDate": "2009-12",
+        "description": "Written by Queen Liliuokalani, the last monarch of the Kingdom of Hawaii, this book was published in 1898, five years after the overthrow of the Kingdom. Liliuokalani gives her account of her upbringing, her ascension to the throne, and her overthrow.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1434408167"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781434408167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NdpjvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NdpjvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NdpjvgEACAAJ&dq=intitle:%22Hawaii%27s+Story+by+Hawaii%27s+Queen%22+inauthor:%22Queen+Liliuokalani%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NdpjvgEACAAJ&dq=intitle:%22Hawaii%27s+Story+by+Hawaii%27s+Queen%22+inauthor:%22Queen+Liliuokalani%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hawaii_s_Story_by_Hawaii_s_Queen.html?hl=&id=NdpjvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NdpjvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written by Queen Liliuokalani, the last monarch of the Kingdom of Hawaii, this book was published in 1898, five years after the overthrow of the Kingdom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QrTCvcy0sE4C",
+      "etag": "chiaE08p2ys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QrTCvcy0sE4C",
+      "volumeInfo": {
+        "title": "Hawaii's Story by Hawaii's Queen, Liliuokalani",
+        "authors": [
+          "Liliuokalani (Queen of Hawaii)"
+        ],
+        "publishedDate": "1898",
+        "description": "The autobiography of Queen Lili\u02bbuokalani that describes her life, the overthrow of the Hawaiian monarchy, and the illegal annexation of Hawai\u02bbi through her own eyes. This book deepens readers' understandings of Hawai\u02bbi's history and politics from a Hawaiian perspective, and shares Lili\u02bbuokalani's thoughts and feelings throughout the monumental changes she lived through.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044011719192"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 478,
+        "printType": "BOOK",
+        "categories": [
+          "Hawaii"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "17.18.20.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QrTCvcy0sE4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QrTCvcy0sE4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QrTCvcy0sE4C&printsec=frontcover&dq=intitle:%22Hawaii%27s+Story+by+Hawaii%27s+Queen%22+inauthor:%22Queen+Liliuokalani%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QrTCvcy0sE4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QrTCvcy0sE4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QrTCvcy0sE4C&rdid=book-QrTCvcy0sE4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Hawaii_s_Story_by_Hawaii_s_Queen_Liliuok.epub?id=QrTCvcy0sE4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Hawaii_s_Story_by_Hawaii_s_Queen_Liliuok.pdf?id=QrTCvcy0sE4C&hl=&output=pdf&sig=ACfU3U2uAlvGTFO-lIUpXWu2pg539wpX8Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QrTCvcy0sE4C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book deepens readers&#39; understandings of Hawai\u02bbi&#39;s history and politics from a Hawaiian perspective, and shares Lili\u02bbuokalani&#39;s thoughts and feelings throughout the monumental changes she lived through."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q523BgAAQBAJ",
+      "etag": "9CIZnAwUnJ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q523BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Hawaii's Story by Hawaii's Queen",
+        "authors": [
+          "Her Majesty Queen Liliuokalani"
+        ],
+        "publisher": "Library of Alexandria",
+        "publishedDate": "2020-09-28",
+        "description": "THE extinct crater or mountain which forms the background to the city of Honolulu is known as the Punch-Bowl; at its base is situated the Queen's Hospital, so named because of the great interest taken in its erection by Emma, the queen of Kamehameha IV. Funds for the cause were solicited by the reigning sovereigns in person, and the hospital building was completed in 1860. Very near to its site, on Sept. 2, 1838, I was born. My father's name was Kapaakea, and my mother was Keohokalole; the latter was one of the fifteen counsellors of the king, Kamehameha III., who in 1840 gave the first written constitution to the Hawaiian people. My great-grandfather, Keawe-a-Heulu, the founder of the dynasty of the Kamehamehas, the Keoua, father of Kamehameha I., were own cousins (he was also brother of Mrs. Bishop's ancestress, Hakau), and my great-grandaunt was the celebrated Queen Kapiolani, one of the first converts to Christianity. She plucked the sacred berries from the borders of the volcano, descended to the boiling lava, and there, while singing Christian hymns, threw them into the lake of fire. This was the act which broke forever the power of Pele, the fire-goddess, over the hearts of her people. Those interested in genealogies are referred to the tables at the close of this volume, which show the descent of our family from the highest chiefs of ancient days. It has often happened in the history of nations that the most eminent men have won the crown, and then, instead of ascending the throne, have placed the executive office in the hands of another. Kamehameha I. was, indeed, the founder of Hawaiian unity, and worthy of the surname of the Great; but it is truthfully recorded in the early histories of the Islands, \u00d0 those written by such men as Mr. Pogue, Mr. Dibble, and others, \u00d0 that he owed his selection for the monarchy to the chiefs from whom the latest reigning family, my own, is descended. This indebtedness was fully recognized during the life of that monarch.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465603180"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465603182"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q523BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q523BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q523BgAAQBAJ&printsec=frontcover&dq=intitle:%22Hawaii%27s+Story+by+Hawaii%27s+Queen%22+inauthor:%22Queen+Liliuokalani%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q523BgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q523BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q523BgAAQBAJ&rdid=book-q523BgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hawaii_s_Story_by_Hawaii_s_Queen-sample-epub.acsm?id=q523BgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q523BgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Those interested in genealogies are referred to the tables at the close of this volume, which show the descent of our family from the highest chiefs of ancient days."
+      }
+    }
+  ]
+}

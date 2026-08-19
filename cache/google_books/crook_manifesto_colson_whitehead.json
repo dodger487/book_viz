@@ -1,0 +1,223 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QriTEAAAQBAJ",
+      "etag": "uErZLdCOFZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QriTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crook Manifesto",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Bond Street Books",
+        "publishedDate": "2023-07-18",
+        "description": "Two-time Pulitzer Prize winning Colson Whitehead continues his Harlem saga in a powerful and hugely-entertaining novel that summons 1970s New York in all its seedy glory. It's 1971. Trash piles up on the streets, crime is at an all-time high, the city is careening towards bankruptcy, and a shooting war has broken out between the NYPD and the Black Liberation Army. Amid this collective nervous breakdown, furniture store owner and ex-fence Ray Carney tries to keep his head down and his business thriving. His days moving stolen goods around the city are over. It's strictly the straight and narrow for him--until he needs Jackson 5 tickets for his daughter, May, and he decides to hit up his old police contact Munson, fixer extraordinaire. But Munson has his own favors to ask of Carney and staying out of the game gets a lot more complicated--and deadly. 1973. The counterculture has created a new generation, the old ways are being overthrown, but there is one constant--Pepper, Carney's endearingly violent partner in crime. It's getting harder to put together a reliable crew for hijackings, heists, and assorted felonies, so Pepper takes on a side gig doing security on a Blaxploitation shoot in Harlem. He finds himself in a freaky world of Hollywood stars, up-and-coming comedians, and celebrity drug dealers, in addition to the usual cast of hustlers, mobsters, and hit men. These adversaries underestimate the seasoned crook--to their regret. 1976. Harlem is burning, block by block, while the whole country is gearing up for Bicentennial celebrations. Carney is trying to come up with a July Fourth ad he can live with. (\"Two Hundred Years of Getting Away with It!\"), while his wife, Elizabeth, is campaigning for her childhood friend, the former assistant D.A. and rising politician Alexander Oakes. When a fire severely injures one of Carney's tenants, he enlists Pepper to look into who may be behind it. Our crooked duo have to battle their way through a crumbling metropolis run by the shady, the violent and the utterly corrupted. Crook Manifesto is a darkly funny tale of a city under siege, but also a sneakily searching portrait of the meaning of family. Colson Whitehead's kaleidoscopic portrait of Harlem is sure to stand as one of the all-time great evocations of a place and a time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385694032"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385694032"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QriTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QriTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QriTEAAAQBAJ&printsec=frontcover&dq=intitle:%22Crook+Manifesto%22+inauthor:%22Colson+Whitehead%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QriTEAAAQBAJ&dq=intitle:%22Crook+Manifesto%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crook_Manifesto.html?hl=&id=QriTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Crook_Manifesto-sample-epub.acsm?id=QriTEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QriTEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Crook Manifesto is a darkly funny tale of a city under siege, but also a sneakily searching portrait of the meaning of family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yPOgEAAAQBAJ",
+      "etag": "ZoTqD28iW8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yPOgEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crook Manifesto",
+        "subtitle": "\u2018Fast, fun, ribald\u2019 Sunday Times",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2023-07-18",
+        "description": "A NEW YORK TIMES BESTSELLER: a powerful and hugely-entertaining novel that summons 1970s New York in all its seedy glory. 'Glorious' New York Times Book Review 'The compelling energy of a crime thriller and the sharp wit of social satire' Guardian 'Whitehead's crime series is one of the most enjoyable streaks in recent fiction' Telegraph 'This novel has it all' Mail on Sunday 1971, New York City. Trash piles up on the streets, crime is at an all-time high, the city is going bankrupt, and a shooting war has broken out between the NYPD and the Black Liberation Army. Furniture store owner and ex-fence Ray Carney is trying to keep his head down, his business up and his life straight. But then he needs Jackson 5 tickets for his daughter May and he decides to hit up an old police contact, who wants favours in return. For Ray, staying out of the game gets a lot more complicated - and deadly. 1973. The old ways are being overthrown by the thriving counterculture, but Pepper, Carney's enduringly violent partner in crime, is a constant. In these difficult times, Pepper takes on a side gig doing security on a Blaxploitation shoot in Harlem, finding himself in a world of Hollywood stars and celebrity drug dealers, in addition to the usual cast of hustlers, mobsters and hit men. These adversaries underestimate the seasoned crook - to their regret. 1976. Harlem is burning, while the country gears up for the Bicentennial. Carney is trying to come up with a celebratory July 4th advertisement he can actually live with, while his wife Elizabeth is campaigning for her childhood friend, rising politician Alexander Oakes. When a fire seriously injures one of Carney's tenants, he enlists Pepper to look into who may be behind it, navigating a crumbling metropolis run by the shady, the violent and the utterly corrupt. 'Fast, fun, ribald... with a touch of Quentin Tarantino' Sunday Times 'A delight' Financial Times 'Hugely enticing' Independent",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349727639"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0349727635"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yPOgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yPOgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yPOgEAAAQBAJ&dq=intitle:%22Crook+Manifesto%22+inauthor:%22Colson+Whitehead%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yPOgEAAAQBAJ&dq=intitle:%22Crook+Manifesto%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crook_Manifesto.html?hl=&id=yPOgEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yPOgEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Glorious&#39; New York Times Book Review &#39;The compelling energy of a crime thriller and the sharp wit of social satire&#39; Guardian &#39;Whitehead&#39;s crime series is one of the most enjoyable streaks in recent fiction&#39; Telegraph &#39;This novel has it all ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9U55zwEACAAJ",
+      "etag": "FI4+7DMexd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9U55zwEACAAJ",
+      "volumeInfo": {
+        "title": "Crook Manifesto",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publishedDate": "2023-07",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0385547730"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385547734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9U55zwEACAAJ&dq=intitle:%22Crook+Manifesto%22+inauthor:%22Colson+Whitehead%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9U55zwEACAAJ&dq=intitle:%22Crook+Manifesto%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crook_Manifesto.html?hl=&id=9U55zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9U55zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It&#39;s 1971."
+      }
+    }
+  ]
+}

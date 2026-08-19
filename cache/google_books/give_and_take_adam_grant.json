@@ -1,0 +1,224 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "L8OMDQAAQBAJ",
+      "etag": "nDpwDAg6Cao",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L8OMDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Give and Take",
+        "subtitle": "A Revolutionary Approach to Success",
+        "authors": [
+          "Adam Grant"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-04-09",
+        "description": "A groundbreaking look at why our interactions with others hold the key to success, from the New York Times bestselling author of Hidden Potential, Think Again, and Originals For generations, we have focused on the individual drivers of success: passion, hard work, talent, and luck. But in today\u2019s dramatically reconfigured world, success is increasingly dependent on how we interact with others. In Give and Take, Adam Grant, an award-winning researcher and Wharton\u2019s highest-rated professor, examines the surprising forces that shape why some people rise to the top of the success ladder while others sink to the bottom. Praised by social scientists, business theorists, and corporate leaders, Give and Take opens up an approach to work, interactions, and productivity that is nothing short of revolutionary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780670026555"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0670026557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L8OMDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L8OMDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=L8OMDQAAQBAJ&printsec=frontcover&dq=intitle:%22Give+and+Take%22+inauthor:%22Adam+Grant%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=L8OMDQAAQBAJ&dq=intitle:%22Give+and+Take%22+inauthor:%22Adam+Grant%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Give_and_Take.html?hl=&id=L8OMDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L8OMDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Give and Take, Adam Grant, an award-winning researcher and Wharton\u2019s highest-rated professor, examines the surprising forces that shape why some people rise to the top of the success ladder while others sink to the bottom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iQS3NAEACAAJ",
+      "etag": "QABaikOkqgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iQS3NAEACAAJ",
+      "volumeInfo": {
+        "title": "Give and Take",
+        "subtitle": "A Revolutionary Approach to Success",
+        "authors": [
+          "Adam M. Grant"
+        ],
+        "publisher": "George Weidenfeld & Nicholson",
+        "publishedDate": "2013",
+        "description": "Everybody knows that hard work, luck and talent each plays a role in our working lives. In his landmark book, Adam Grant illuminates the importance of a fourth, increasingly critical factor - our reciprocity, the way we interact with others when exchanging value. GIVE AND TAKE changes our fundamental understanding of why we succeed, offering a new model for our relationships with colleagues, clients and competitors. It demolishes the argument of the 'me first' worldview and shows that the best way to get to the top is to focus not on your solo journey but on bringing others with you. Engaging, intriguing and filled with surprising success stories from history to Hollywood, GIVE AND TAKE presents an approach to work, team building, productivity and profitability that is nothing short of revolutionary. We have been taught to think that people who give without expecting anything in return are at risk of being exploited, or burning out, but the truth is that they are often the most successful people in any given field. Using his own cutting-edge research as a professor at Wharton Business School, Adam Grant shows how helping others can lead to greater personal success. He demonstrates how smart givers avoid becoming doormats, and why this kind of success has the power to transform not just individuals and groups, but entire organisations and communities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0297868438"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780297868439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Altruism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iQS3NAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iQS3NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iQS3NAEACAAJ&dq=intitle:%22Give+and+Take%22+inauthor:%22Adam+Grant%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iQS3NAEACAAJ&dq=intitle:%22Give+and+Take%22+inauthor:%22Adam+Grant%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Give_and_Take.html?hl=&id=iQS3NAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iQS3NAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "GIVE AND TAKE changes our fundamental understanding of why we succeed, offering a new model for our relationships with colleagues, clients and competitors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ROim0QEACAAJ",
+      "etag": "Y9JsCck31fQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ROim0QEACAAJ",
+      "volumeInfo": {
+        "title": "Give and Take",
+        "subtitle": "From the Author of Million-Copy Bestseller THINK AGAIN",
+        "authors": [
+          "Adam Grant"
+        ],
+        "publisher": "Weidenfeld & Nicolson",
+        "publishedDate": "2026-05-28",
+        "description": "PRAISE FOR ADAM GRANT 'One of my favourite thinkers' MALCOLM GLADWELL 'One of the great social scientists of our time' SUSAN CAIN 'Has a deserved reputation as an original thinker' Financial Times 'We would all be better off if we took Adam Grant's wise counsel seriously' YO-YO MA The pioneering social scientist reveals the power of helping others as key to personal success and transforming organisations, in his debut book reissued with a brand new afterword Everybody knows that hard work, luck and talent each plays a role in our working lives. In his landmark debut, Adam Grant illuminates the importance of a fourth, increasingly critical factor - that the best way to get to the top is to bring others with you. Give and Take changes our fundamental understanding of why we succeed, offering a new model for our relationships with colleagues, clients and competitors. Using his own cutting-edge research as a professor at the Wharton School, as well as success stories from Hollywood to history, Grant shows that nice guys need not finish last. He demonstrates how smart givers avoid becoming doormats, and why this kind of success has the power to transform not just individuals and groups, but entire organisations and communities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1399641557"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781399641555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ROim0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ROim0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ROim0QEACAAJ&dq=intitle:%22Give+and+Take%22+inauthor:%22Adam+Grant%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ROim0QEACAAJ&dq=intitle:%22Give+and+Take%22+inauthor:%22Adam+Grant%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Give_and_Take.html?hl=&id=ROim0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ROim0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "PRAISE FOR ADAM GRANT &#39;One of my favourite thinkers&#39; MALCOLM GLADWELL &#39;One of the great social scientists of our time&#39; SUSAN CAIN &#39;Has a deserved reputation as an original thinker&#39; Financial Times &#39;We would all be better off if we took Adam ..."
+      }
+    }
+  ]
+}

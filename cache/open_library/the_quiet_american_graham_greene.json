@@ -1,0 +1,138 @@
+{
+  "numFound": 18,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 18,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL20243A"
+      ],
+      "author_name": [
+        "Graham Greene"
+      ],
+      "cover_edition_key": "OL17195098M",
+      "cover_i": 6783126,
+      "ebook_access": "borrowable",
+      "edition_count": 117,
+      "first_publish_year": 1940,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_S0-BIE-636",
+        "quietamerican0000grah_u9r1",
+        "bwb_KU-454-338",
+        "bwb_S0-BRE-013",
+        "bwb_KS-198-000",
+        "elamericanotranq0000gree",
+        "quietamerican0000grah_w6p9",
+        "quietamerican0000grah_x0n6",
+        "quietamerican0000gree_f0y8",
+        "quietamerican0000gree_e2s8",
+        "unamericainbient0000gree",
+        "quietamerican0000gree",
+        "quietamerican0000gree_d1c9",
+        "quietamerican00gree_2",
+        "quietamerican0000gree_s3v2",
+        "quietamerican00gree"
+      ],
+      "ia_collection": [
+        "americana",
+        "belmont-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "stmaryscountylibrary",
+        "trent_university",
+        "unb-ol",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL106081W",
+      "language": [
+        "eng",
+        "ger",
+        "spa",
+        "chi",
+        "slo",
+        "vie",
+        "hun",
+        "dut",
+        "rus",
+        "ita",
+        "heb",
+        "fre"
+      ],
+      "lending_edition_s": "OL58698473M",
+      "lending_identifier_s": "bwb_S0-BIE-636",
+      "public_scan_b": false,
+      "title": "The Quiet American"
+    },
+    {
+      "author_key": [
+        "OL20243A"
+      ],
+      "author_name": [
+        "Graham Greene"
+      ],
+      "cover_edition_key": "OL25208853M",
+      "cover_i": 7069787,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 1957,
+      "has_fulltext": true,
+      "ia": [
+        "quietamerican0000gree"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "trent_university"
+      ],
+      "key": "/works/OL16512682W",
+      "public_scan_b": false,
+      "title": "The Quiet American"
+    },
+    {
+      "author_key": [
+        "OL20243A"
+      ],
+      "author_name": [
+        "Graham Greene"
+      ],
+      "cover_edition_key": "OL47039023M",
+      "cover_i": 15047487,
+      "ebook_access": "borrowable",
+      "edition_count": 5,
+      "first_publish_year": 1956,
+      "has_fulltext": true,
+      "ia": [
+        "quietamerican0000grah_x0n6"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL34605153W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL47039023M",
+      "lending_identifier_s": "quietamerican0000grah_x0n6",
+      "public_scan_b": false,
+      "title": "The Quiet American"
+    }
+  ]
+}

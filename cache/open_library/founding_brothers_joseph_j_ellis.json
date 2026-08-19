@@ -1,0 +1,76 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL34354A"
+      ],
+      "author_name": [
+        "Joseph J. Ellis"
+      ],
+      "cover_edition_key": "OL6796998M",
+      "cover_i": 4853598,
+      "ebook_access": "printdisabled",
+      "edition_count": 8,
+      "first_publish_year": 2000,
+      "has_fulltext": true,
+      "ia": [
+        "foundingbrothers00elli",
+        "foundingbrothers0000elli_w6a4",
+        "foundingbrother000elli"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL53120W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Founding Brothers"
+    },
+    {
+      "author_key": [
+        "OL9262010A"
+      ],
+      "author_name": [
+        "University Joseph J Ellis"
+      ],
+      "cover_edition_key": "OL32593730M",
+      "cover_i": 11232575,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL24577779W",
+      "public_scan_b": false,
+      "title": "Founding Brothers"
+    },
+    {
+      "author_key": [
+        "OL7456013A",
+        "OL7925712A"
+      ],
+      "author_name": [
+        "Joseph J. Ellis",
+        "Runger Nelson"
+      ],
+      "cover_edition_key": "OL28133740M",
+      "cover_i": 10077371,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL20786096W",
+      "public_scan_b": false,
+      "title": "Founding Brothers"
+    }
+  ]
+}

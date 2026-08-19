@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gClL18CTQWIC",
+      "etag": "1S3gwmQQa5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gClL18CTQWIC",
+      "volumeInfo": {
+        "title": "The Black Echo",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2002-01-01",
+        "description": "An LAPD homicide detective must choose between justice and vengeance as he teams up with the FBI in this \"thrilling\" novel filled with mystery and adventure (New York Times Book Review). For maverick LAPD homicide detective Harry Bosch, the body in the drainpipe at Mulholland Dam is more than another anonymous statistic. This one is personal . . . because the murdered man was a fellow Vietnam \"tunnel rat\" who had fought side by side with him in a hellish underground war. Now Bosch is about to relive the horror of Nam. From a dangerous maze of blind alleys to a daring criminal heist beneath the city, his survival instincts will once again be tested to their limit. Pitted against enemies inside his own department and forced to make the agonizing choice between justice and vengeance, Bosch goes on the hunt for a killer whose true face will shock him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780759525771"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0759525773"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "7.43.40.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gClL18CTQWIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gClL18CTQWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gClL18CTQWIC&printsec=frontcover&dq=intitle:%22The+Black+Echo%22+inauthor:%22Michael+Connelly%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gClL18CTQWIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gClL18CTQWIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gClL18CTQWIC&rdid=book-gClL18CTQWIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Black_Echo-sample-epub.acsm?id=gClL18CTQWIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gClL18CTQWIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An LAPD homicide detective must choose between justice and vengeance as he teams up with the FBI in this &quot;thrilling&quot; novel filled with mystery and adventure (New York Times Book Review)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VMhtL7xiunUC",
+      "etag": "XCEF7KRaTsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VMhtL7xiunUC",
+      "volumeInfo": {
+        "title": "The Black Echo",
+        "subtitle": "20th Anniversary edition",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publisher": "Allen & Unwin",
+        "publishedDate": "2012-07-01",
+        "description": "Special anniversary edition of the first ever Harry Bosch novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781743430743"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1743430744"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.16.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VMhtL7xiunUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VMhtL7xiunUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VMhtL7xiunUC&dq=intitle:%22The+Black+Echo%22+inauthor:%22Michael+Connelly%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VMhtL7xiunUC&dq=intitle:%22The+Black+Echo%22+inauthor:%22Michael+Connelly%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Echo.html?hl=&id=VMhtL7xiunUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VMhtL7xiunUC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Special anniversary edition of the first ever Harry Bosch novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UjvkzAEACAAJ",
+      "etag": "M0ot/ySLfAo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UjvkzAEACAAJ",
+      "volumeInfo": {
+        "title": "The Black Echo",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2010-10-28",
+        "description": "An LAPD homicide detective must choose between justice and vengeance as he teams up with the FBI in the first novel of the \"thrilling\" Harry Bosch series (New York Times Book Review). For maverick LAPD homicide detective Harry Bosch, the body in the drainpipe at Mulholland Dam is more than another anonymous statistic. This one is personal . . . because the murdered man was a fellow Vietnam \"tunnel rat\" who had fought side by side with him in a hellish underground war. Now Bosch is about to relive the horror of Nam. From a dangerous maze of blind alleys to a daring criminal heist beneath the city, his survival instincts will once again be tested to their limit. Pitted against enemies inside his own department and forced to make the agonizing choice between justice and vengeance, Bosch goes on the hunt for a killer whose true face will shock him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316120391"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316120395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UjvkzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UjvkzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UjvkzAEACAAJ&dq=intitle:%22The+Black+Echo%22+inauthor:%22Michael+Connelly%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UjvkzAEACAAJ&dq=intitle:%22The+Black+Echo%22+inauthor:%22Michael+Connelly%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Echo.html?hl=&id=UjvkzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UjvkzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An LAPD homicide detective must choose between justice and vengeance as he teams up with the FBI in the first novel of the &quot;thrilling&quot; Harry Bosch series (New York Times Book Review)."
+      }
+    }
+  ]
+}

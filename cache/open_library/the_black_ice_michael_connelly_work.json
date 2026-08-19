@@ -1,0 +1,54 @@
+{
+  "covers": [
+    498317,
+    188413
+  ],
+  "key": "/works/OL111741W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL18979A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The black ice",
+  "subject_places": [
+    "Los Angeles (Calif.)",
+    "California",
+    "Los Angeles"
+  ],
+  "subjects": [
+    "Fiction",
+    "Police",
+    "Harry Bosch (Fictitious character)",
+    "Mortality",
+    "Detective and mystery stories",
+    "Thriller",
+    "Bosch, harry (fictitious character), fiction",
+    "Los angeles (calif.), fiction",
+    "Fiction, mystery & detective, police procedural",
+    "Large type books",
+    "nyt:e-book-fiction=2011-09-18",
+    "New York Times bestseller"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "LAPD detective Hieronymous \"Harry\" Bosch returns in a procedural thriller set in and around the drug-trafficking underworlds of inner-city Los Angeles and the wastelands of Mexico."
+  },
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T23:59:58.253545"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-25T16:04:25.427586"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL10714950A",
+        "OL3105889A",
+        "OL9506134A"
+      ],
+      "author_name": [
+        "Chiara Lagani",
+        "Elena Ferrante",
+        "Mara Cerri"
+      ],
+      "cover_edition_key": "OL47307526M",
+      "cover_i": 13772133,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL34947113W",
+      "public_scan_b": false,
+      "subtitle": "The Graphic Novel",
+      "title": "My Brilliant Friend"
+    },
+    {
+      "author_key": [
+        "OL3105889A",
+        "OL12551056A",
+        "OL3080512A"
+      ],
+      "author_name": [
+        "Elena Ferrante",
+        "Anastasia Hille",
+        "Monica Dolan"
+      ],
+      "cover_edition_key": "OL47128185M",
+      "cover_i": 13518415,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL34777467W",
+      "public_scan_b": false,
+      "title": "The Neapolitan Novels : My Brilliant Friend, The Story of a New Name, Those Who Leave and Those Who Stay, and The Story of the Lost Child"
+    },
+    {
+      "author_key": [
+        "OL13591879A",
+        "OL449432A"
+      ],
+      "author_name": [
+        "Elena Ferrante",
+        "Ann Goldstein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44563823W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "My Brilliant Friend : the Four Volumes"
+    }
+  ]
+}

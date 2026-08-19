@@ -1,0 +1,149 @@
+{
+  "numFound": 138,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 138,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL76437A"
+      ],
+      "author_name": [
+        "Hermann Hesse"
+      ],
+      "cover_edition_key": "OL21265353M",
+      "cover_i": 6562535,
+      "ebook_access": "public",
+      "edition_count": 206,
+      "first_publish_year": 1922,
+      "has_fulltext": true,
+      "ia": [
+        "bub_gb_x-7OAAAAMAAJ",
+        "siddharthaindian0000hess_r6n0",
+        "siddharthaekakla0000hess",
+        "siddharthaindian0000hess_m6j9",
+        "siddhartha00",
+        "siddhartha0000unse",
+        "siddhartha0000hess",
+        "isbn_9781567310078",
+        "siddhartha00hess",
+        "siddharthaeinein00hess",
+        "siddharthanewtra0000hess",
+        "siddharta00hess",
+        "siddharthaindian0000hess_j4u2",
+        "siddharthahess00hess",
+        "siddhartha00hessrich",
+        "siddharthaindian0000hess_j6x0",
+        "siddhartha0000hess_v2p9",
+        "siddhartha00hess_0",
+        "siddhartha00hess_3",
+        "siddharthaindian00hess_0",
+        "siddharthaindian00hess",
+        "siddharthaindian00hess",
+        "siddhartha00hess_078"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "denverpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "trent_university",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofoklahoma-ol",
+        "universityofthewest-ol",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol",
+        "wrlc-ol"
+      ],
+      "key": "/works/OL872932W",
+      "language": [
+        "rus",
+        "guj",
+        "chi",
+        "ger",
+        "eng",
+        "ita",
+        "spa",
+        "vie",
+        "fre",
+        "san"
+      ],
+      "lending_edition_s": "OL6666707M",
+      "lending_identifier_s": "bub_gb_x-7OAAAAMAAJ",
+      "public_scan_b": true,
+      "title": "Siddhartha"
+    },
+    {
+      "author_key": [
+        "OL76437A"
+      ],
+      "author_name": [
+        "Hermann Hesse"
+      ],
+      "cover_edition_key": "OL9178325M",
+      "cover_i": 4926898,
+      "ebook_access": "borrowable",
+      "edition_count": 5,
+      "first_publish_year": 1993,
+      "has_fulltext": true,
+      "ia": [
+        "demiansiddhartha0000hess"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL872737W",
+      "language": [
+        "spa"
+      ],
+      "lending_edition_s": "OL32347611M",
+      "lending_identifier_s": "demiansiddhartha0000hess",
+      "public_scan_b": false,
+      "title": "Demian / Siddhartha"
+    },
+    {
+      "author_key": [
+        "OL76437A"
+      ],
+      "author_name": [
+        "Hermann Hesse"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 27,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL29451916W",
+      "language": [
+        "spa",
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Siddhartha"
+    }
+  ]
+}

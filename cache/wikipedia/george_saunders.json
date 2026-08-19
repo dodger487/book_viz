@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "George Saunders",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Saunders</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1251926",
+  "titles": {
+    "canonical": "George_Saunders",
+    "normalized": "George Saunders",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Saunders</span></span>"
+  },
+  "pageid": 1529353,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/George_Saunders_at_2023_National_Book_Festival_%2853123054136%29_%28cropped%29.jpg/330px-George_Saunders_at_2023_National_Book_Festival_%2853123054136%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 431
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/George_Saunders_at_2023_National_Book_Festival_%2853123054136%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1111,
+    "height": 1451
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1351119862",
+  "tid": "a1cbd4d4-410f-11f1-ad37-51ae2bd4ec90",
+  "timestamp": "2026-04-26T01:31:22Z",
+  "description": "American writer (born 1958)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/George_Saunders",
+      "revisions": "https://en.wikipedia.org/wiki/George_Saunders?action=history",
+      "edit": "https://en.wikipedia.org/wiki/George_Saunders?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:George_Saunders"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/George_Saunders",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/George_Saunders",
+      "edit": "https://en.wikipedia.org/wiki/George_Saunders?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:George_Saunders"
+    }
+  },
+  "extract": "George Saunders is an American writer. He is best known for his short stories and his novel Lincoln in the Bardo (2017), which won the Booker Prize. Saunders's short stories have been published as several collections, including CivilWarLand in Bad Decline (1996) and Tenth of December: Stories (2013).",
+  "extract_html": "<p><b>George Saunders</b> is an American writer. He is best known for his short stories and his novel <i>Lincoln in the Bardo</i> (2017), which won the Booker Prize. Saunders's short stories have been published as several collections, including <i>CivilWarLand in Bad Decline</i> (1996) and <i>Tenth of December: Stories</i> (2013).</p>"
+}

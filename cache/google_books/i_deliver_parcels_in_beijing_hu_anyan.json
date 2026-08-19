@@ -1,0 +1,153 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ledMEQAAQBAJ",
+      "etag": "gIYlHAanp6c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ledMEQAAQBAJ",
+      "volumeInfo": {
+        "title": "I Deliver Parcels in Beijing",
+        "authors": [
+          "Hu Anyan"
+        ],
+        "publisher": "Astra Publishing House",
+        "publishedDate": "2025-10-28",
+        "description": "An Economist Best Book of 2025 A Financial Times Best Book of 2025 A Sunday Times Best Book of 2025 \"Hu Anyan\u2019s I Deliver Parcels in Beijing, translated by Jack Hargreaves, offers an unvarnished dispatch from the front lines of the gig economy...The Cinderella bit of it is that now he can add a new title: internationally best-selling author.\" \u2014Leah Greenblatt, The New York Times Book Review A runaway bestseller in China, sold in 20+ countries, this delightfully honest and humorous account gives a face and voice to the future of work\u2014as if Nomadland met Nickel and Dimed. In 2023, I Deliver Parcels in Beijing became the literary sensation of the year in China. Hu Anyan\u2019s story, about short-term jobs in various anonymous megacities, hit a nerve with a generation of young people who feel at odds with an ever-growing pressure to perform and succeed. Hu started posting essays about his experiences online during COVID lockdowns. His recollection of night shifts in a huge logistics center in the south of China went viral: his nights were so hot that he could drink three liters of water without taking a toilet break; his days were spent searching for affordable rooms with proper air-conditioning; and his few moments of leisure were consumed by calculations of the amount of alcohol needed to sleep but not feel drowsy a few hours later. Hu Anyan tells us about brutal work, where there is no real future in sight. But Hu is armed with deadpan humor and a strong idea of self. He moves on when he feels stuck\u2014from logistics in the south, to parcel delivery in Beijing, to other impossible jobs. Along the way, he turns to reading and writing for strength and companionship. I Deliver Parcels in Beijing is an honest and startling first-person portrait of Hu Anyan's struggle against the dehumanizing nature of our contemporary global work system\u2014and his discovery of the power of sharing a story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781662603044"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1662603045"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ledMEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ledMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ledMEQAAQBAJ&printsec=frontcover&dq=intitle:%22I+Deliver+Parcels+in+Beijing%22+inauthor:%22Hu+Anyan%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ledMEQAAQBAJ&dq=intitle:%22I+Deliver+Parcels+in+Beijing%22+inauthor:%22Hu+Anyan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Deliver_Parcels_in_Beijing.html?hl=&id=ledMEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/I_Deliver_Parcels_in_Beijing-sample-pdf.acsm?id=ledMEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ledMEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I Deliver Parcels in Beijing is an honest and startling first-person portrait of Hu Anyan&#39;s struggle against the dehumanizing nature of our contemporary global work system\u2014and his discovery of the power of sharing a story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ghbc0QEACAAJ",
+      "etag": "7qur4G9MJbY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ghbc0QEACAAJ",
+      "volumeInfo": {
+        "title": "El Repartidor de Pek\u00edn / I Deliver Parcels in Beijing",
+        "authors": [
+          "Hu AnYan"
+        ],
+        "publisher": "Alfaguara",
+        "publishedDate": "2026-07-21",
+        "description": "\u00bfEXISTE UNA MANERA DE GANARSE LA VIDA SIN DEJAR DE VIVIR? El repartidor de paquetes lector de Ch\u00e9jov y Carver que ha conquistado a mill\u00f3n y medio de lectores con su historia Fen\u00f3meno internacional en quince pa\u00edses y uno de los mejores libros del a\u00f1o seg\u00fan The Guardian , The Economist y The Sunday Times \u00abEl idioma puede ser el chino, pero el agotamiento es global\u00bb. The New Statesman El autor de este libro no es escritor. O no lo era hasta que el relato de su vida encadenando trabajos precarios en las megaciudades de China se convirti\u00f3 en un fen\u00f3meno editorial. Hu Anyan ha tenido diecinueve empleos distintos desde que se gradu\u00f3: repartidor de paquetes, guardia de seguridad, dependiente... Cada vez que uno de ellos se volv\u00eda insoportable, lo dejaba y cambiaba de ciudad, llevando siempre consigo obras de sus autores favoritos. Ch\u00e9jov, Carver o Foster Wallace eran las ventanas por las que entraba aire mientras intentaba sobrevivir en un sistema que nunca fue dise\u00f1ado para sostenernos. Con su voz sin adornos, su capacidad de observaci\u00f3n y un delicado sentido del humor, Hu ilumina las vidas invisibles tras los oficios que mantienen el mundo en marcha, pero tambi\u00e9n muestra c\u00f3mo, gracias a la literatura, encontr\u00f3 consuelo e incluso una forma de libertad. Esta obra se interroga sobre el sentido del trabajo mientras plantea una pregunta m\u00e1s acuciante a lo largo de toda la narraci\u00f3n: \u00bfacaso alguno de nosotros sabe de verdad c\u00f3mo vivir? La cr\u00edtica ha dicho... \u00abHipn\u00f3tica [...]. El repartidor de Pek\u00edn es silenciosamente revolucionaria simplemente porque trata las minucias del trabajo como algo importante. La pesadilla burocr\u00e1tica de conseguir que una empresa d\u00e9 de alta a un nuevo empleado; la tendencia de los motocarros el\u00e9ctricos de reparto a averiarse; la incomodidad de entregar paquetes en pleno fr\u00edo, pero teniendo que llevar guantes sin dedos para poderteclear en la pantalla del m\u00f3vil: que todo esto pueda ser el tema de un libro resulta casi revelador\u00bb. The Washington Post \u00abOfrece un testimonio sin adornos desde las trincheras de la econom\u00eda de plataformas, escrito por alguien que ha desempe\u00f1ado casi todos los trabajos mal pagados y poco gratificantes del mercado. El giro de cuento de hadas es que ahora puede a\u00f1adir un nuevo t\u00edtulo: autor superventas internacional\u00bb. The New York Times Book Review \u00abUno de los nuevos talentos literarios m\u00e1s notables de China\u00bb. Financial Times \u00abPoderoso. [...] El libro es una cr\u00edtica implacable de un sistema terrible, aunque Anyan encuentra humor y dignidad incluso en sus momentos m\u00e1s sombr\u00edos\u00bb. The Guardian \u00abHu Anyan es un observador fascinante\u00bb. The Economist \u00abHipn\u00f3tica [y] silenciosamente revolucionaria\u00bb. The Washington Post",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8420479349"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420479347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ghbc0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ghbc0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=ghbc0QEACAAJ&dq=intitle:%22I+Deliver+Parcels+in+Beijing%22+inauthor:%22Hu+Anyan%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ghbc0QEACAAJ&dq=intitle:%22I+Deliver+Parcels+in+Beijing%22+inauthor:%22Hu+Anyan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Repartidor_de_Pek%C3%ADn_I_Deliver_Parcel.html?hl=&id=ghbc0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ghbc0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; --Leah Greenblatt, The New York Times Book Review A runaway bestseller in China, sold in 20+ countries, this delightfully honest and humorous account gives a face and voice to the future of work--as if Nomadland met Nickel and Dimed."
+      }
+    }
+  ]
+}

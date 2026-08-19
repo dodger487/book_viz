@@ -1,0 +1,67 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Crook Manifesto",
+  "subjects": [
+    "American literature",
+    "nyt:combined-print-and-e-book-fiction=2023-08-06",
+    "New York Times bestseller",
+    "Fiction, historical, 20th century, post-world war ii",
+    "Fiction, african american & black, historical",
+    "Fiction, crime",
+    "New york (n.y.), fiction",
+    "American fiction (fictional works by one author)",
+    "arson",
+    "corruption",
+    "crime",
+    "fiction",
+    "policing",
+    "politics",
+    "racism"
+  ],
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL218462A"
+      }
+    }
+  ],
+  "key": "/works/OL28736458W",
+  "covers": [
+    14375061
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "It's 1971. Trash piles up on the streets, crime is at an all-time high, the city is careening towards bankruptcy, and a shooting war has broken out between the NYPD and the Black Liberation Army. Amidst this collective nervous breakdown furniture store owner and ex-fence Ray Carney tries to keep his head down and his business thriving. His days moving stolen goods around the city are over. It's strictly the straight-and-narrow for him -- until he needs Jackson 5 tickets for his daughter May and he decides to hit up his old police contact Munson, fixer extraordinaire. But Munson has his own favors to ask of Carney and staying out of the game gets a lot more complicated - and deadly.\r\n\r\n1973. The counter-culture has created a new generation, the old ways are being overthrown, but there is one constant, Pepper, Carney's endearingly violent partner in crime. It's getting harder to put together a reliable crew for hijackings, heists, and assorted felonies, so Pepper takes on a side gig doing security on a Blaxploitation shoot in Harlem. He finds himself in a freaky world of Hollywood stars, up-and-coming comedians, and celebrity drug dealers, in addition to the usual cast of hustlers, mobsters, and hit men. These adversaries underestimate the seasoned crook - to their regret.\r\n\r\n1976. Harlem is burning, block by block, while the whole country is gearing up for Bicentennial celebrations. Carney is trying to come up with a July 4th ad he can live with. (\"Two Hundred Years of Getting Away with It!\"), while his wife Elizabeth is campaigning for her childhood friend, the former assistant D.A and rising politician Alexander Oakes. When a fire severely injures one of Carney's tenants, he enlists Pepper to look into who may be behind it. Our crooked duo have to battle their way through a crumbling metropolis run by the shady, the violent, and the utterly corrupted."
+  },
+  "subject_places": [
+    "Harlem (New York",
+    "N.Y.)"
+  ],
+  "subject_times": [
+    "the 1970s"
+  ],
+  "links": [
+    {
+      "title": "Publisher's web site",
+      "url": "https://www.penguinrandomhouse.com/books/608670/crook-manifesto-by-colson-whitehead/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-08-19T00:55:36.438275"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-01-18T21:10:25.839648"
+  }
+}

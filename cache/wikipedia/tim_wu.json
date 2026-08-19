@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tim Wu",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tim Wu</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7804525",
+  "titles": {
+    "canonical": "Tim_Wu",
+    "normalized": "Tim Wu",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tim Wu</span></span>"
+  },
+  "pageid": 3114425,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tim_Wu_2014.jpg/330px-Tim_Wu_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tim_Wu_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1840,
+    "height": 2456
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368442993",
+  "tid": "4d82f402-9396-11f1-a96e-511bebc69c13",
+  "timestamp": "2026-08-09T02:01:58Z",
+  "description": "American legal scholar (born 1972)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tim_Wu",
+      "revisions": "https://en.wikipedia.org/wiki/Tim_Wu?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tim_Wu?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tim_Wu"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tim_Wu",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tim_Wu",
+      "edit": "https://en.wikipedia.org/wiki/Tim_Wu?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tim_Wu"
+    }
+  },
+  "extract": "Timothy Shiou-Ming Wu is an American legal scholar who served as Special Assistant to the President for Technology and Competition Policy at the United States from 2021 to 2023. He is also a professor of law at Columbia University and a contributing opinion writer for The New York Times. He is known legally and academically for significant contributions to antitrust and communications policy, coining the phrase \"network neutrality\" in his 2003 law journal article, Network Neutrality, Broadband Discrimination. In the late 2010s, Wu was a leading advocate for an antitrust lawsuit directed at the breakup of Facebook.",
+  "extract_html": "<p><b>Timothy</b> <b>Shiou-Ming Wu</b> is an American legal scholar who served as Special Assistant to the President for Technology and Competition Policy at the United States from 2021 to 2023. He is also a professor of law at Columbia University and a contributing opinion writer for <i>The New York Times</i>. He is known legally and academically for significant contributions to antitrust and communications policy, coining the phrase \"network neutrality\" in his 2003 law journal article, <i>Network Neutrality, Broadband Discrimination</i>. In the late 2010s, Wu was a leading advocate for an antitrust lawsuit directed at the breakup of Facebook.</p>"
+}

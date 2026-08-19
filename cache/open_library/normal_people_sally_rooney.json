@@ -1,0 +1,89 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7919580A"
+      ],
+      "author_name": [
+        "Sally Rooney"
+      ],
+      "cover_edition_key": "OL27330017M",
+      "cover_i": 8794265,
+      "ebook_access": "printdisabled",
+      "edition_count": 27,
+      "first_publish_year": 2018,
+      "has_fulltext": true,
+      "ia": [
+        "normalpeople0000roon_o9w7",
+        "normalpeople0000roon_a2y5",
+        "normalpeoplenove0000roon_v3a2",
+        "normalpeople0000roon_z6w7",
+        "normalpeoplenove0000roon_s1h2",
+        "normalpeoplenove0000roon"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20150260W",
+      "language": [
+        "pol",
+        "ger",
+        "eng",
+        "ita",
+        "baq",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Normal People"
+    },
+    {
+      "author_key": [
+        "OL7919580A",
+        "OL1477723A"
+      ],
+      "author_name": [
+        "Sally Rooney",
+        "Anna Burns"
+      ],
+      "cover_edition_key": "OL44961204M",
+      "cover_i": 13117560,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL33092090W",
+      "public_scan_b": false,
+      "title": "Normal People By Sally Rooney & Milkman By Anna Burns 2 Books Collection Set"
+    },
+    {
+      "author_key": [
+        "OL7919580A",
+        "OL8082412A",
+        "OL82134A"
+      ],
+      "author_name": [
+        "Sally Rooney",
+        "Alice Birch",
+        "Mark O'Rowe"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL25766072W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Normal People, the scripts"
+    }
+  ]
+}

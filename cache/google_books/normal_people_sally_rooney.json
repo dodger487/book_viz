@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fQBlDwAAQBAJ",
+      "etag": "pfbRPQcuk0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fQBlDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Normal People",
+        "subtitle": "A Novel",
+        "authors": [
+          "Sally Rooney"
+        ],
+        "publisher": "Knopf Canada",
+        "publishedDate": "2019-04-16",
+        "description": "LONGLISTED FOR THE MAN BOOKER PRIZE: A wondrously wise, genuinely unputdownable new novel from Sally Rooney, winner of the 2017 Sunday Times Young Writer of the Year Award (at 26, tied with Zadie Smith for the youngest-ever recipient)--the quintessential coming-of-age love story for our time. Connell Waldron is one of the most popular boys in his small-town high school--he is a star of the football team, an excellent student, and never wanting for attention from girls. The one thing he doesn't have is money. Marianne Sheridan, a classmate of Connell's, has the opposite problem. Marianne is plain-looking, odd, and stubborn, and while her family is well-off, she has no friends to speak of. There is, however, a deep and undeniable connection between the two teenagers, one that develops into a secret relationship. Everything changes when both Connell and Marianne are accepted to Trinity College. Suddenly Marianne is well-liked and elegant, holding court with her intellectual friends while Connell hangs at the sidelines, not quite as fluent in language of the elite. Throughout their years at university, Marianne and Connell circle each other, falling in and out of romance but never straying far from where they started. And as Marianne experiments with an increasingly dangerous string of boyfriends, Connell must decide how far he is willing to go to save his oldest friend. Sally Rooney brings her brilliant psychological acuity and perfectly spare prose to a novel that explores the subtleties of class, the electricity of first love, and the inescapable challenges of family and friendships. Normal People is a book that you will read in one sitting, and then immediately share with your friends.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780735276482"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "073527648X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fQBlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fQBlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fQBlDwAAQBAJ&printsec=frontcover&dq=intitle:%22Normal+People%22+inauthor:%22Sally+Rooney%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fQBlDwAAQBAJ&dq=intitle:%22Normal+People%22+inauthor:%22Sally+Rooney%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Normal_People.html?hl=&id=fQBlDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Normal_People-sample-epub.acsm?id=fQBlDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fQBlDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Normal People is a book that you will read in one sitting, and then immediately share with your friends."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x3tgDwAAQBAJ",
+      "etag": "Iv72QnYn4+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x3tgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Normal People",
+        "subtitle": "One million copies sold",
+        "authors": [
+          "Sally Rooney"
+        ],
+        "publisher": "Faber & Faber",
+        "publishedDate": "2018-08-28",
+        "description": "'The literary phenomenon of the decade.' Guardian 'The book that defined a generation.' Stylist ** Read the modern classic behind the BAFTA-winning series. ** Connell and Marianne grow up in the same small town in the west of Ireland, but the similarities end there. In school, Connell is popular and well-liked, while Marianne is a loner. But when the two strike up a conversation - awkward but electrifying - something life-changing begins. Normal People is a story of mutual fascination, friendship and love. It takes us from that first conversation to the years beyond, in the company of two people who try to stay apart but find they can't. 'Tender and devastating.' Guardian 'A book to cancel plans for.' Grazia 'A classic coming-of-age love story.' Vogue Sally Rooney's book 'Normal People' was a #1 Sunday Times bestseller w/c 2018-12-24",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780571334667"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0571334660"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 271,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.18.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x3tgDwAAQBAJ&dq=intitle:%22Normal+People%22+inauthor:%22Sally+Rooney%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x3tgDwAAQBAJ&dq=intitle:%22Normal+People%22+inauthor:%22Sally+Rooney%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Normal_People.html?hl=&id=x3tgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x3tgDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; Caitlin \u2b50\u2b50\u2b50\u2b50\u2b50 &#39; This is a book to cherish, to keep and be thankful for.&#39; Celestine \u2b50\u2b50\u2b50\u2b50\u2b50 &#39;A masterpiece, pure and simple.&#39; Jamie Sally Rooney&#39;s book &#39;Normal People&#39; was a #1 Sunday Times bestseller w/c 2018-12-24"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NBIVEAAAQBAJ",
+      "etag": "pGyMejpEhLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NBIVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Normal People",
+        "authors": [
+          "Sally Rooney"
+        ],
+        "publisher": "Bentang Pustaka",
+        "publishedDate": "2020",
+        "description": "Popularitas adalah belenggu. Setidaknya, itu yang dirasakan Connel, cowok populer di sekolah. Ia selalu mencemaskan pendapat orang lain. Dia bahkan tidak berani mengakui hubungannya dengan Marriane, cewek yang dianggap aneh oleh teman-temannya. Padahal hanya bersama Marriane, Connel bisa menjadi dirinya sendiri dan menikmati waktu. Saat di bangku kuliah, keadaan berbalik. Marriane mendadak menjelma menjadi gadis yang banyak diundang di pesta-pesta, sementara Connel justru terabaikan di lingkaran pergaulan dunia kampus. Hubungan mereka memasuki babak baru yang lebih rumit, karena di dalamnya trauma, kecemasan, dan penyangkalan diri selalu mengusik. Normal People meramu konflik psikologis secara apik bersama segala persoalan tentang kelas, cinta pertama, dan kompleksitas hubungan dalam keluarga dan pertemanan. Membaca novel yang dinobatkan sebagai karya klasik abad 21 ini, kita akan dibawa menikmati sensasi menjadi muda dan mabuk kepayang karena cinta. [Mizan, Mizan Publishing, Bentang Pustaka, Fiksi, Literaly, Indonesia]",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786022916512"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6022916518"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NBIVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NBIVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=NBIVEAAAQBAJ&printsec=frontcover&dq=intitle:%22Normal+People%22+inauthor:%22Sally+Rooney%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NBIVEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NBIVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.34,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.34,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NBIVEAAAQBAJ&rdid=book-NBIVEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3340000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3340000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Normal_People-sample-epub.acsm?id=NBIVEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NBIVEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Normal People meramu konflik psikologis secara apik bersama segala persoalan tentang kelas, cinta pertama, dan kompleksitas hubungan dalam keluarga dan pertemanan."
+      }
+    }
+  ]
+}

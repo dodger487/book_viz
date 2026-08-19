@@ -1,0 +1,176 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RuWUCgAAQBAJ",
+      "etag": "VXNUapBP83c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RuWUCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Too Like the Lightning",
+        "subtitle": "Book One of Terra Ignota",
+        "authors": [
+          "Ada Palmer"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2016-05-10",
+        "description": "From the winner of the 2017 John W. Campbell Award for Best New Writer, Ada Palmer's 2017 Compton Crook Award-winning political science fiction, Too Like the Lightning, ventures into a human future of extraordinary originality Mycroft Canner is a convict. For his crimes he is required, as is the custom of the 25th century, to wander the world being as useful as he can to all he meets. Carlyle Foster is a sensayer--a spiritual counselor in a world that has outlawed the public practice of religion, but which also knows that the inner lives of humans cannot be wished away. The world into which Mycroft and Carlyle have been born is as strange to our 21st-century eyes as ours would be to a native of the 1500s. It is a hard-won utopia built on technologically-generated abundance, and also on complex and mandatory systems of labelling all public writing and speech. What seem to us normal gender distinctions are now distinctly taboo in most social situations. And most of the world's population is affiliated with globe-girdling clans of the like-minded, whose endless economic and cultural competition is carefully managed by central planners of inestimable subtlety. To us it seems like a mad combination of heaven and hell. To them, it seems like normal life. And in this world, Mycroft and Carlyle have stumbled on the wild card that may destablize the system: the boy Bridger, who can effortlessly make his wishes come true. Who can, it would seem, bring inanimate objects to life... Terra Ignota 1. Too Like the Lightning 2. Seven Surrenders 3. The Will to Battle At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466858749"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466858745"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RuWUCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RuWUCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RuWUCgAAQBAJ&printsec=frontcover&dq=intitle:%22Too+Like+the+Lightning%22+inauthor:%22Ada+Palmer%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RuWUCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RuWUCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RuWUCgAAQBAJ&rdid=book-RuWUCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RuWUCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the winner of the 2017 John W. Campbell Award for Best New Writer, Ada Palmer&#39;s 2017 Compton Crook Award-winning political science fiction, Too Like the Lightning, ventures into a human future of extraordinary originality Mycroft ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r0ecswEACAAJ",
+      "etag": "OVPLKUDgYHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r0ecswEACAAJ",
+      "volumeInfo": {
+        "title": "Too Like the Lightning",
+        "authors": [
+          "Ada Palmer"
+        ],
+        "publisher": "Terra Ignota",
+        "publishedDate": "2017-07",
+        "description": "The year is 2454. Humanity has engineered a hard-won golden age, forged in the aftermath of a bitter conflict that wiped both religion and nation state from the planet. Now seven factions or 'hives' co-govern the world, their rule fuelled by benign censorship, oracular statistical analytics and technological abundance. But this is a fragile Utopia, and someone is intent on pushing it to breaking point. Convicted for his crimes, celebrated for his talents, Mycroft Canner is the indentured instrument, and confidant, of some of the world's most powerful figures. When he is asked to investigate a bizarre theft, he finds himself on the trail of a conspiracy that could shatter the tranquil world order the Hives have maintained for three centuries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1786699494"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786699497"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Prisoners"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r0ecswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r0ecswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r0ecswEACAAJ&dq=intitle:%22Too+Like+the+Lightning%22+inauthor:%22Ada+Palmer%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=r0ecswEACAAJ&dq=intitle:%22Too+Like+the+Lightning%22+inauthor:%22Ada+Palmer%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Too_Like_the_Lightning.html?hl=&id=r0ecswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r0ecswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now seven factions or &#39;hives&#39; co-govern the world, their rule fuelled by benign censorship, oracular statistical analytics and technological abundance. But this is a fragile Utopia - and someone is intent on pushing it to breaking point."
+      }
+    }
+  ]
+}

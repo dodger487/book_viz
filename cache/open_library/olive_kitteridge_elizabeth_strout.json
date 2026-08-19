@@ -1,0 +1,75 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL26232A",
+        "OL7319459A"
+      ],
+      "author_name": [
+        "Elizabeth Strout",
+        "Rosa Perez Perez"
+      ],
+      "cover_edition_key": "OL11586080M",
+      "cover_i": 2733808,
+      "ebook_access": "printdisabled",
+      "edition_count": 38,
+      "first_publish_year": 2007,
+      "has_fulltext": true,
+      "ia": [
+        "olivekitteridge0000stro_f6q6",
+        "olivekitteridge0000stro_b7v0",
+        "olivekitteridge0000stro_e9f1",
+        "olivekitteridge0000stro_k4k4",
+        "olivekitteridgen0000stro",
+        "olivekitteridge00stro",
+        "olivekitteridge00eliz",
+        "olivekitteridge00stro_0",
+        "olivekitteridge0000stro_h7s8"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "toronto",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL26963W",
+      "language": [
+        "fre",
+        "eng",
+        "pol",
+        "heb",
+        "rus"
+      ],
+      "public_scan_b": false,
+      "title": "Olive Kitteridge"
+    },
+    {
+      "author_key": [
+        "OL26232A"
+      ],
+      "author_name": [
+        "Elizabeth Strout"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL44580088W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Olive Series Collection Books, Set of 2 Boooks. Olive Kitteridge; Olive, Again"
+    }
+  ]
+}

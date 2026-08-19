@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Andrew Lawler",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Andrew Lawler</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q64697719",
+  "titles": {
+    "canonical": "Andrew_Lawler",
+    "normalized": "Andrew Lawler",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Andrew Lawler</span></span>"
+  },
+  "pageid": 68615060,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Andrewlawler.jpg/330px-Andrewlawler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 282
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Andrewlawler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 526,
+    "height": 450
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361764786",
+  "tid": "8502913c-7411-11f1-bb13-5c3e4e5822fd",
+  "timestamp": "2026-06-29T23:23:22Z",
+  "description": "American journalist and author (born 1961)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Andrew_Lawler",
+      "revisions": "https://en.wikipedia.org/wiki/Andrew_Lawler?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Andrew_Lawler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andrew_Lawler"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Andrew_Lawler",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Andrew_Lawler",
+      "edit": "https://en.wikipedia.org/wiki/Andrew_Lawler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andrew_Lawler"
+    }
+  },
+  "extract": "Andrew Francis Lawler is an American journalist and author.",
+  "extract_html": "<p><b>Andrew Francis Lawler</b> is an American journalist and author.</p>"
+}

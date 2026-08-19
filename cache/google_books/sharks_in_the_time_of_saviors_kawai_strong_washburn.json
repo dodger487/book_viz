@@ -1,0 +1,179 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QSCZDwAAQBAJ",
+      "etag": "rRZvDKtXgIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QSCZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sharks in the Time of Saviors",
+        "subtitle": "A Novel",
+        "authors": [
+          "Kawai Strong Washburn"
+        ],
+        "publisher": "MCD",
+        "publishedDate": "2020-03-03",
+        "description": "WINNER OF THE 2020 PEN/HEMINGWAY AWARD FOR DEBUT NOVEL. One of Barack Obama's Favorite Books of 2020. A finalist for the 2020 PEN/Jean Stein Book Award. Named one of the Best Books of 2020 by the New York Times (#30), the Guardian, the Boston Globe, Oprah Magazine, Kirkus Reviews, BBC Culture, Good Housekeeping, LitHub, Spectrum Culture, Third Place Books, and Powell's Books. Sharks in the Time of Saviors is a groundbreaking debut novel that folds the legends of Hawaiian gods into an engrossing family saga; a story of exile and the pursuit of salvation from Kawai Strong Washburn. \u201cOld myths clash with new realities, love is in a ride or die with grief, faith rubs hard against magic, and comic flips with tragic so much they meld into something new. All told with daredevil lyricism to burn. A ferocious debut.\u201d \u2014MARLON JAMES, author of Black Leopard, Red Wolf \u201cSo good it hurts and hurts to where it heals. It is revelatory and unputdownable. Washburn is an extraordinarily brilliant new talent.\u201d \u2014TOMMY ORANGE, author of There There Named one of the most anticipated novels for 2020 by the Guardian and Paste Magazine. One of Book Riot\u2019s Best Books to Give as Gifts in 2020. In 1995 Kailua-Kona, Hawaii, on a rare family vacation, seven-year-old Nainoa Flores falls overboard a cruise ship into the Pacific Ocean. When a shiver of sharks appears in the water, everyone fears for the worst. But instead, Noa is gingerly delivered to his mother in the jaws of a shark, marking his story as the stuff of legends. Nainoa\u2019s family, struggling amidst the collapse of the sugarcane industry, hails his rescue as a sign of favor from ancient Hawaiian gods\u2014a belief that appears validated after he exhibits puzzling new abilities. But as time passes, this supposed divine favor begins to drive the family apart: Nainoa, working now as a paramedic on the streets of Portland, struggles to fathom the full measure of his expanding abilities; further north in Washington, his older brother Dean hurtles into the world of elite college athletics, obsessed with wealth and fame; while in California, risk-obsessed younger sister Kaui navigates an unforgiving academic workload in an attempt to forge her independence from the family\u2019s legacy. When supernatural events revisit the Flores family in Hawai\u2019i\u2014with tragic consequences\u2014they are all forced to reckon with the bonds of family, the meaning of heritage, and the cost of survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374720773"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0374720770"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QSCZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QSCZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QSCZDwAAQBAJ&printsec=frontcover&dq=intitle:%22Sharks+in+the+Time+of+Saviors%22+inauthor:%22Kawai+Strong+Washburn%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QSCZDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QSCZDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QSCZDwAAQBAJ&rdid=book-QSCZDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sharks_in_the_Time_of_Saviors-sample-epub.acsm?id=QSCZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QSCZDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Named one of the Best Books of 2020 by the New York Times (#30), the Guardian, the Boston Globe, Oprah Magazine, Kirkus Reviews, BBC Culture, Good Housekeeping, LitHub, Spectrum Culture, Third Place Books, and Powell&#39;s Books."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oQCPEAAAQBAJ",
+      "etag": "6QevP/0FCqA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oQCPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sharks in the Time of Saviors",
+        "authors": [
+          "Kawai Strong Washburn"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2020-03-03",
+        "description": "Winner of the 2021 PEN/Hemingway Award for Best First Novel Finalist for the 2021 PEN/Jean Stein Book Award A New York Times Notable Book of 2020 \u201cOld myths clash with new realities, love is in a ride or die with grief, faith rubs hard against magic, and comic flips with tragic so much they meld into something new. All told with daredevil lyricism to burn. A ferocious debut.\u201d \u2015Marlon James, author of Black Leopard, Red Wolf \u201cSo good it hurts and hurts to where it heals. It is revelatory and unputdownable. Washburn is an extraordinarily brilliant new talent.\u201d \u2015Tommy Orange, author of There There Sharks in the Time of Saviors is a groundbreaking debut novel that folds the legends of Hawai'ian gods into an engrossing family saga; a story of exile and the pursuit of salvation from Kawai Strong Washburn. In 1995, Kailua-Kona, Hawai'i, on a rare family vacation, seven-year-old Nainoa Flores falls overboard a cruise ship into the Pacific Ocean. When a shiver of sharks appears in the water, everyone fears for the worst. But instead, Noa is gingerly delivered to his mother in the jaws of a shark, marking his story as the stuff of legends. Nainoa's family, struggling amidst of the collapse of the sugarcane industry, hails his rescue as a sign of favor from ancient Hawaiian gods--a belief that appears validated after he exhibits puzzling new abilities. But as time passes, this supposed divine favor begins to drive the family apart: Nainoa, working now as a paramedic on the streets of Portland, struggles to fathom the full measure of his expanding abilities; further north in Washington, his older brother Dean hurtles into the world of elite college athletics, obsessed with wealth and fame; while in California, risk-obsessed younger sister Kaui navigates an unforgiving academic workload in an attempt to forge her independence from the family's legacy. When supernatural events revist the Flores family in Hawai'i--with tragic consequences--they are all forced to reckon with the bonds of family, the meaning of heritage, and the cost of survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780771094453"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0771094450"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oQCPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oQCPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oQCPEAAAQBAJ&dq=intitle:%22Sharks+in+the+Time+of+Saviors%22+inauthor:%22Kawai+Strong+Washburn%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oQCPEAAAQBAJ&dq=intitle:%22Sharks+in+the+Time+of+Saviors%22+inauthor:%22Kawai+Strong+Washburn%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sharks_in_the_Time_of_Saviors.html?hl=&id=oQCPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oQCPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Washburn is an extraordinarily brilliant new talent.\u201d \u2015Tommy Orange, author of There There Sharks in the Time of Saviors is a groundbreaking debut novel that folds the legends of Hawai&#39;ian gods into an engrossing family saga; a story of ..."
+      }
+    }
+  ]
+}

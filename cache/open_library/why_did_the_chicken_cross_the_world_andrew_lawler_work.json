@@ -1,0 +1,49 @@
+{
+  "subjects": [
+    "Civilization",
+    "History",
+    "Animals and civilization",
+    "Chickens",
+    "Human-animal relationships",
+    "HISTORY / World",
+    "SOCIAL SCIENCE / Agriculture & Food",
+    "NATURE / Animals / Birds",
+    "Effect of human beings on",
+    "Huhn",
+    "Domestikation",
+    "Poultry",
+    "Civilization, history"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"From ancient empires to modern economics, veteran journalist Andrew Lawler delivers a sweeping history of the animal that has been most crucial to the spread of civilization across the globe--the chicken. Queen Victoria was obsessed with it. Socrates' last words were about it. Charles Darwin and Louis Pasteur made their scientific breakthroughs using it. Catholic popes, African shamans, Chinese philosophers, and Muslim mystics praised it. Throughout the history of civilization, humans have embraced it in every form imaginable--as a messenger of the gods, powerful sex symbol, gambling aid, emblem of resurrection, all-purpose medicine, handy research tool, inspiration for bravery, epitome of evil, and, of course, as the star of the world's most famous joke. In Why Did the Chicken Cross the World?, science writer Andrew Lawler takes us on an adventure from prehistory to the modern era with a fascinating account of the partnership between human and chicken (the most successful of all cross-species relationships). Beginning with the recent discovery in Montana that the chicken's unlikely ancestor is T. rex, this book builds on Lawler's popular Smithsonian cover article, How the Chicken Conquered the World to track the chicken from its original domestication in the jungles of Southeast Asia some 10,000 years ago to postwar America, where it became the most engineered of animals, to the uncertain future of what is now humanity's single most important source of protein. In a masterful combination of historical sleuthing and journalistic exploration on four continents, Lawler reframes the way we feel and think about our most important animal partner--and, by extension, all domesticated animals, and even nature itself. Lawler's narrative reveals the secrets behind the chicken's transformation from a shy jungle bird into an animal of astonishing versatility, capable of serving our species' changing needs. For no other siren has called humans to rise, shine, and prosper quite like the rooster's cry: Cock-a-doodle-doo!\"--"
+  },
+  "key": "/works/OL19999371W",
+  "title": "Why did the chicken cross the world?",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2952639A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    11169729
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-18T20:43:21.755954"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-03-17T04:50:34.892192"
+  }
+}

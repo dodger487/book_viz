@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Joseph Ellis",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joseph Ellis</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q669468",
+  "titles": {
+    "canonical": "Joseph_Ellis",
+    "normalized": "Joseph Ellis",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joseph Ellis</span></span>"
+  },
+  "pageid": 102283,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Joseph_J._Ellis_%2826639385683%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 270,
+    "height": 367
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Joseph_J._Ellis_%2826639385683%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 270,
+    "height": 367
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363179034",
+  "tid": "42f7e5f7-7ae0-11f1-ad37-cf0c8b511104",
+  "timestamp": "2026-07-08T15:18:24Z",
+  "description": "American historian (born 1943)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Joseph_Ellis",
+      "revisions": "https://en.wikipedia.org/wiki/Joseph_Ellis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Joseph_Ellis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Ellis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Joseph_Ellis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Joseph_Ellis",
+      "edit": "https://en.wikipedia.org/wiki/Joseph_Ellis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Ellis"
+    }
+  },
+  "extract": "Joseph John-Michael Ellis III is an American historian whose work focuses on the lives and times of the Founding Fathers of the United States. His book American Sphinx: The Character of Thomas Jefferson won a National Book Award in 1997 and Founding Brothers: The Revolutionary Generation won the 2001 Pulitzer Prize for History. Both books were bestsellers.",
+  "extract_html": "<p><b>Joseph John-Michael Ellis III</b> is an American historian whose work focuses on the lives and times of the Founding Fathers of the United States. His book <i>American Sphinx: The Character of Thomas Jefferson</i> won a National Book Award in 1997 and <i>Founding Brothers: The Revolutionary Generation</i> won the 2001 Pulitzer Prize for History. Both books were bestsellers.</p>"
+}

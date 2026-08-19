@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1yWlEAAAQBAJ",
+      "etag": "Mc/QaPIrvfI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1yWlEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lumumba Plot",
+        "subtitle": "The Secret History of the CIA and a Cold War Assassination",
+        "authors": [
+          "Stuart A. Reid"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2023-10-17",
+        "description": "The New York Times Book Review Editors' Choice \u2022 A spellbinding work of history that reads like a Cold War spy thriller\u2014about the U.S.-sanctioned plot to assassinate the democratically elected leader of the newly independent Congo A BEST BOOK OF THE YEAR: The New Yorker, The Economist, Financial Times \u201cThis is one of the best books I have read in years . . . gripping, full of colorful characters, and strange plot twists.\u201d \u2014Fareed Zakaria, CNN host It was supposed to be a moment of great optimism, a cause for jubilation. The Congo was at last being set free from Belgium\u2014one of seventeen countries to gain independence in 1960 from ruling European powers. At the helm as prime minister was charismatic nationalist Patrice Lumumba. Just days after the handover, however, the Congo\u2019s new army mutinied, Belgian forces intervened, and Lumumba turned to the United Nations for help in saving his newborn nation from what the press was already calling \u201cthe Congo crisis.\u201d Dag Hammarskj\u00f6ld, the tidy Swede serving as UN secretary-general, quickly arranged the organization\u2019s biggest peacekeeping mission in history. But chaos was still spreading. Frustrated with the fecklessness of the UN and spurned by the United States, Lumumba then approached the Soviets for help\u2014an appeal that set off alarm bells at the CIA. To forestall the spread of Communism in Africa, the CIA sent word to its station chief in the Congo, Larry Devlin: Lumumba had to go. Within a year, everything would unravel. The CIA plot to murder Lumumba would \ufb01zzle out, but he would be deposed in a CIA-backed coup, transferred to enemy territory in a CIA-approved operation, and shot dead by Congolese assassins. Hammarskj\u00f6ld, too, would die, in a mysterious plane crash en route to negotiate a cease-\ufb01re with the Congo\u2019s rebellious southeast. And a young, ambitious military officer named Joseph Mobutu, who had once sworn fealty to Lumumba, would seize power with U.S. help and misrule the country for more than three decades. For the Congolese people, the events of 1960\u201361 represented the opening chapter of a long horror story. For the U.S. government, however, they provided a playbook for future interventions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524748814"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524748811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 657,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1yWlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1yWlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1yWlEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Lumumba+Plot%22+inauthor:%22Stuart+A.+Reid%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1yWlEAAAQBAJ&dq=intitle:%22The+Lumumba+Plot%22+inauthor:%22Stuart+A.+Reid%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lumumba_Plot.html?hl=&id=1yWlEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1yWlEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The New York Times Book Review Editors&#39; Choice \u2022 A spellbinding work of history that reads like a Cold War spy thriller\u2014about the U.S.-sanctioned plot to assassinate the democratically elected leader of the newly independent Congo A ..."
+      }
+    }
+  ]
+}

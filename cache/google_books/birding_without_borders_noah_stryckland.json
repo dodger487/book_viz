@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sWM6DwAAQBAJ",
+      "etag": "e++vrVKHacw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sWM6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Birding Without Borders",
+        "subtitle": "An Obsession, a Quest, and the Biggest Year in the World",
+        "authors": [
+          "Noah K. Strycker"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2017",
+        "description": "The author tells the story of how he traveled across forty-one countries in an attempt to see half of the world's birds in one year, sharing the challenges that he faced, as well as the birds and bird-lovers he found on the way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544558144"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0544558146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sWM6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sWM6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sWM6DwAAQBAJ&printsec=frontcover&dq=intitle:%22Birding+Without+Borders%22+inauthor:%22Noah+Strycker%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sWM6DwAAQBAJ&dq=intitle:%22Birding+Without+Borders%22+inauthor:%22Noah+Strycker%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Birding_Without_Borders.html?hl=&id=sWM6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Birding_Without_Borders-sample-pdf.acsm?id=sWM6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sWM6DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The author tells the story of how he traveled across forty-one countries in an attempt to see half of the world&#39;s birds in one year, sharing the challenges that he faced, as well as the birds and bird-lovers he found on the way."
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XNRGDwAAQBAJ",
+      "etag": "1N8Y1khbAwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XNRGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Washington Black",
+        "subtitle": "A novel",
+        "authors": [
+          "Esi Edugyan"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2018-09-18",
+        "description": "COMING SOON AS A HULU ORIGINAL SERIES \u2022 MAN BOOKER PRIZE FINALIST \u2022 ONE OF THE NEW YORK TIMES BOOK REVIEW'S TEN BEST BOOKS OF THE YEAR \u2022 \u201cA gripping historical narrative exploring both the bounds of slavery and what it means to be truly free.\u201d \u2014Vanity Fair Eleven-year-old George Washington Black\u2014or Wash\u2014a field slave on a Barbados sugar plantation, is initially terrified when he is chosen as the manservant of his master\u2019s brother. To his surprise, however, the eccentric Christopher Wilde turns out to be a naturalist, explorer, inventor, and abolitionist. Soon Wash is initiated into a world where a flying machine can carry a man across the sky, where even a boy born in chains may embrace a life of dignity and meaning, and where two people, separated by an impossible divide, can begin to see each other as human. But when a man is killed and a bounty is placed on Wash\u2019s head, they must abandon everything and flee together. Over the course of their travels, what brings Wash and Christopher together will tear them apart, propelling Wash ever farther across the globe in search of his true self. Spanning the Caribbean to the frozen Far North, London to Morocco, Washington Black is a story of self-invention and betrayal, of love and redemption, and of a world destroyed and made whole again.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525521433"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525521437"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XNRGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XNRGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XNRGDwAAQBAJ&printsec=frontcover&dq=intitle:%22Washington+Black%22+inauthor:%22Esi+Edugyan%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XNRGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XNRGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XNRGDwAAQBAJ&rdid=book-XNRGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Washington_Black-sample-epub.acsm?id=XNRGDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XNRGDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NOW A HULU ORIGINAL SERIES \u2022 MAN BOOKER PRIZE FINALIST \u2022 ONE OF THE NEW YORK TIMES BOOK REVIEW&#39;S TEN BEST BOOKS OF THE YEAR \u2022 \u201cA gripping historical narrative exploring both the bounds of slavery and what it means to be truly free ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BOyNEAAAQBAJ",
+      "etag": "/2TWm+oovmc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BOyNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Washington Black",
+        "authors": [
+          "Esi Edugyan"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-04-09",
+        "description": "ONE OF THE NEW YORK TIMES BOOK REVIEW'S TEN BEST BOOKS OF THE YEAR \u2022 MAN BOOKER PRIZE FINALIST \u2022 \u201cA gripping historical narrative exploring both the bounds of slavery and what it means to be truly free.\u201d \u2014Vanity Fair Eleven-year-old George Washington Black\u2014or Wash\u2014a field slave on a Barbados sugar plantation, is initially terrified when he is chosen as the manservant of his master\u2019s brother. To his surprise, however, the eccentric Christopher Wilde turns out to be a naturalist, explorer, inventor, and abolitionist. Soon Wash is initiated into a world where a flying machine can carry a man across the sky, where even a boy born in chains may embrace a life of dignity and meaning, and where two people, separated by an impossible divide, can begin to see each other as human. But when a man is killed and a bounty is placed on Wash\u2019s head, they must abandon everything and flee together. Over the course of their travels, what brings Wash and Christopher together will tear them apart, propelling Wash ever farther across the globe in search of his true self. Spanning the Caribbean to the frozen Far North, London to Morocco, Washington Black is a story of self-invention and betrayal, of love and redemption, and of a world destroyed and made whole again.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525563242"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525563245"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BOyNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BOyNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BOyNEAAAQBAJ&dq=intitle:%22Washington+Black%22+inauthor:%22Esi+Edugyan%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BOyNEAAAQBAJ&dq=intitle:%22Washington+Black%22+inauthor:%22Esi+Edugyan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Washington_Black.html?hl=&id=BOyNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BOyNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Spanning the Caribbean to the frozen Far North, London to Morocco, Washington Black is a story of self-invention and betrayal, of love and redemption, and of a world destroyed and made whole again."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_y2gvgEACAAJ",
+      "etag": "pL22we/wdMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_y2gvgEACAAJ",
+      "volumeInfo": {
+        "title": "Washington Black",
+        "subtitle": "A Novel",
+        "authors": [
+          "Esi Edugyan"
+        ],
+        "publisher": "Harper Perennial",
+        "publishedDate": "2019-08-15",
+        "description": "Winner of the 2018 Scotiabank Giller Prize A dazzling, original novel of slavery and freedom, from the author of the international bestseller Half-Blood Blues When two English brothers arrive at a Barbados sugar plantation, they bring with them a darkness beyond what the slaves have already known. Washington Black \u2013 an eleven year-old field slave \u2013 is horrified to find himself chosen to live in the quarters of one of these men. But the man is not as Washington expects him to be. His new master is the eccentric Christopher Wilde \u2013 naturalist, explorer, inventor and abolitionist \u2013 whose obsession to perfect a winged flying machine disturbs all who know him. Washington is initiated into a world of wonder: a world where the night sea is set alight with fields of jellyfish, where a simple cloth canopy can propel a man across the sky, where even a boy born in chains may embrace a life of dignity and meaning \u2013 and where two people, separated by an impossible divide, can begin to see each other as human. But when a man is killed one fateful night, Washington is left to the mercy of his new masters. Christopher Wilde must choose between family ties and young Washington's life. What follows is a flight along the eastern coast of America, as the men attempt to elude the bounty that has been placed on Washington's head. Their journey opens them up to the extraordinary: to a dark encounter with a necropsicist, a scholar of the flesh; to a voyage aboard a vessel captained by a hunter of a different kind; to a glimpse through an unexpected portal into the Underground Railroad. This is a novel of fraught bonds and betrayal. What brings Wilde and Washington together ultimately tears them apart, leaving Washington to seek his true self in a world that denies his very existence. From the blistering cane fields of Barbados to the icy plains of the Canadian Arctic, from the mud-drowned streets of London to the eerie deserts of Morocco, Washington Black teems with all the strangeness of life. This inventive, electrifying novel asks, What is Freedom? And can a life salvaged from the ashes ever be made whole?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1443423394"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443423397"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_y2gvgEACAAJ&dq=intitle:%22Washington+Black%22+inauthor:%22Esi+Edugyan%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_y2gvgEACAAJ&dq=intitle:%22Washington+Black%22+inauthor:%22Esi+Edugyan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Washington_Black.html?hl=&id=_y2gvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_y2gvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a novel of fraught bonds and betrayal. What brings Wilde and Washington together ultimately tears them apart, leaving Washington to seek his true self in a world that denies his very existence."
+      }
+    }
+  ]
+}

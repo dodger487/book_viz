@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Lewis",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Lewis</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q311654",
+  "titles": {
+    "canonical": "Michael_Lewis",
+    "normalized": "Michael Lewis",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Lewis</span></span>"
+  },
+  "pageid": 3346980,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Michael_Lewis_2009.jpg/330px-Michael_Lewis_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 473
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Michael_Lewis_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 558,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363875090",
+  "tid": "2d274af4-7e57-11f1-8f2a-33a130d9500b",
+  "timestamp": "2026-07-13T01:07:11Z",
+  "description": "American writer and journalist (born 1960)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Lewis",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Lewis?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Lewis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Lewis"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Lewis",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Michael_Lewis",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Lewis?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Lewis"
+    }
+  },
+  "extract": "Michael Monroe Lewis is an American author and financial journalist. He has also been a contributing editor to Vanity Fair since 2009, writing mostly on business, finance, and economics. He is known for his nonfiction work, particularly his coverage of financial crises and behavioral finance.",
+  "extract_html": "<p><b>Michael Monroe Lewis</b> is an American author and financial journalist. He has also been a contributing editor to <i>Vanity Fair</i> since 2009, writing mostly on business, finance, and economics. He is known for his nonfiction work, particularly his coverage of financial crises and behavioral finance.</p>"
+}

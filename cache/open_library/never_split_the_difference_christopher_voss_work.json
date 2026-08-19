@@ -1,0 +1,76 @@
+{
+  "subjects": [
+    "Negotiation",
+    "Negotiation in business",
+    "Business communication",
+    "Business",
+    "Communication",
+    "Psychology",
+    "Persuasion",
+    "Influence",
+    "Emotional intelligence",
+    "Hostage negotiation",
+    "FBI",
+    "FBI negotiation tactics",
+    "Chris",
+    "Voss",
+    "Tahl Raz",
+    "Anecdotes",
+    "Officials and employees",
+    "Employees",
+    "Hostage negotiations",
+    "United States",
+    "Biography",
+    "United States. Federal Bureau of Investigation",
+    "United states, federal bureau of investigation",
+    "BUSINESS & ECONOMICS",
+    "Negotiating",
+    "General"
+  ],
+  "key": "/works/OL18819818W",
+  "title": "Never Split the Difference",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7459083A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2678224A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8365942,
+    9156194,
+    10355174,
+    10212979
+  ],
+  "subject_people": [
+    "Chris Voss"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"A negotiation guide from a former FBI Hostage Negotiator\"--\n\n\"Never Split The Difference is a riveting, indispensable handbook of negotiation principles culled and perfected from Chris Voss's remarkable career as a hostage negotiator and later as an award-winning teacher in the world's most prestigious business schools. From policing the rough streets of Kansas City, Missouri, to becoming the FBI's lead international kidnapping negotiator, to teaching negotiation at leading universities, Voss has tested these techniques across the full spectrum of human endeavor and proved their effectiveness. Those who have benefited from these techniques include business clients generating millions in additional profits, MBA students getting better jobs, and even parents dealing with their kids. Never Split The Difference provides a gripping, behind-the-scenes recounting of dramatic scenarios from the gang-infested streets of Haiti to a Brooklyn bank robbery gone horribly wrong, revealing the negotiation strategies that helped Voss and his colleagues succeed where it mattered most: saving lives. As a world-class negotiator, Voss shows you how to use these skills in the workplace and in every other realm of your life. Life is a series of negotiations: whether buying a car, getting a better raise, buying a home, renegotiating rent, or deliberating with your partner, Never Split The Difference gives you the competitive edge in any discussion.\"--Jacket."
+  },
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-02-15T01:49:21.938960"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-07T13:44:30.175218"
+  }
+}

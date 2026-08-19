@@ -1,0 +1,62 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7147517A",
+        "OL7015462A"
+      ],
+      "author_name": [
+        "Matthew P. Walker",
+        "Matthew Walker"
+      ],
+      "cover_edition_key": "OL27350689M",
+      "cover_i": 8814155,
+      "ebook_access": "printdisabled",
+      "edition_count": 11,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "whywesleepnewsci0000walk_g4r8"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20168133W",
+      "language": [
+        "por",
+        "tur",
+        "spa",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Why We Sleep"
+    },
+    {
+      "author_key": [
+        "OL2712344A",
+        "OL7147517A"
+      ],
+      "author_name": [
+        "Kimberley Wilson",
+        "Matthew Walker"
+      ],
+      "cover_edition_key": "OL30526308M",
+      "cover_i": 10460902,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL22443555W",
+      "public_scan_b": false,
+      "title": "How to Build a Healthy Brain By Kimberley Wilson & Why We Sleep The New Science of Sleep and Dreams By Matthew Walker 2 Books Collection Set"
+    }
+  ]
+}

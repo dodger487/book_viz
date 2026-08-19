@@ -1,0 +1,92 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL33881A",
+        "OL220399A",
+        "OL7868356A"
+      ],
+      "author_name": [
+        "Larry Niven",
+        "Jerry Pournelle",
+        "L.J. Ganser"
+      ],
+      "cover_edition_key": "OL7663926M",
+      "cover_i": 408133,
+      "ebook_access": "borrowable",
+      "edition_count": 31,
+      "first_publish_year": 1974,
+      "has_fulltext": true,
+      "ia": [
+        "moteingodseye00nive",
+        "moteingodseye1974nive",
+        "moteingodseye00niverich",
+        "moteingodseye00larr_0",
+        "moteingodseye00larr",
+        "moteingodsey00nive"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebookdrive",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15331302W",
+      "language": [
+        "eng",
+        "spa",
+        "fre"
+      ],
+      "lending_edition_s": "OL24240634M",
+      "lending_identifier_s": "moteingodseye00nive",
+      "public_scan_b": false,
+      "title": "The Mote in God's Eye"
+    },
+    {
+      "author_key": [
+        "OL33881A",
+        "OL220399A"
+      ],
+      "author_name": [
+        "Larry Niven",
+        "Jerry Pournelle"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1974,
+      "has_fulltext": false,
+      "key": "/works/OL44194927W",
+      "public_scan_b": false,
+      "title": "The mote in God's eye,"
+    },
+    {
+      "author_key": [
+        "OL33881A",
+        "OL220399A"
+      ],
+      "author_name": [
+        "Larry Niven",
+        "Jerry Pournelle"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL45516774W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The mote in God's eye"
+    }
+  ]
+}

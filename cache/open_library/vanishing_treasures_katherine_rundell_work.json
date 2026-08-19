@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Vanishing Treasures",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7297232A"
+      }
+    }
+  ],
+  "key": "/works/OL37941775W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-03-17T12:14:02.010986"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-03-17T12:14:02.010986"
+  }
+}

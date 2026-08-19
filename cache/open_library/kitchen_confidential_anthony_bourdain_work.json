@@ -1,0 +1,92 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "A celebrity chef shares anecdotes of his experience in the restaurant industry, and of his journey from dishwasher to a position of fame in the food industry."
+  },
+  "subtitle": "adventures in the culinary underbelly",
+  "title": "Kitchen Confidential",
+  "covers": [
+    843879,
+    -1,
+    4911761,
+    39600,
+    7453763,
+    8084466,
+    8814954,
+    10772943,
+    12370980
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "DON'T GET ME WRONG: I love the restaurant business."
+  },
+  "subject_places": [
+    "New York",
+    "New York (State)",
+    "Nueva York",
+    "Nueva York (Estado)",
+    "United States",
+    "Fo renta staterna"
+  ],
+  "first_publish_date": "2000",
+  "subject_people": [
+    "Anthony Bourdain"
+  ],
+  "key": "/works/OL3348011W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL543322A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "DON'T GET ME WRONG: I love the restaurant business."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Cooks",
+    "Cocineros",
+    "History",
+    "New York Times bestseller",
+    "Biograf\u00eda",
+    "nyt:e-book_nonfiction=2011-10-08",
+    "Biography",
+    "Restaurants",
+    "Restaurateurs",
+    "Anecdotes",
+    "Large type books",
+    "Cooks, biography",
+    "New york (n.y.), biography",
+    "Gastronomy",
+    "New York Times reviewed",
+    "Biografi",
+    "Kockar"
+  ],
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2001/05/20/books/new-noteworthy-paperbacks-272809.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 26,
+  "revision": 26,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:20:48.056616"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-01-20T10:20:55.743694"
+  }
+}

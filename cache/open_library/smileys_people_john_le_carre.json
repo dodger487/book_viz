@@ -1,0 +1,104 @@
+{
+  "numFound": 24,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 24,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL20504420M",
+      "cover_i": 7315617,
+      "ebook_access": "printdisabled",
+      "edition_count": 26,
+      "first_publish_year": 1979,
+      "has_fulltext": true,
+      "ia": [
+        "smileyspeople00lecarich",
+        "smileyspeople00john",
+        "smileyspeople0000leca_h2q5",
+        "smileyspeople00leca",
+        "smileyspeople0000leca_x5x0",
+        "smileyspeople0000leca_h4m8",
+        "smileyspeople0000leca_r4v4"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL15723133W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Smiley's People"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL32142570M",
+      "cover_i": 10807608,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "smileyspeople0000leca_z9x5",
+        "smileyspeople0000leca_w8u5"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24299090W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Smiley's people"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL26336754M",
+      "cover_i": 8016960,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 1982,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_0553231499"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17737375W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Smiley's people"
+    }
+  ]
+}

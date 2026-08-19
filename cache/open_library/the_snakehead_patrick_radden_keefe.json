@@ -1,0 +1,51 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6511583A"
+      ],
+      "author_name": [
+        "Patrick Radden Keefe"
+      ],
+      "cover_edition_key": "OL24091456M",
+      "cover_i": 6302340,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "snakeheadepictal0000keef",
+        "snakeheadepictal0000keef_d9t5"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "belmont-ol",
+        "dartmouthlibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL13655645W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The snakehead"
+    }
+  ]
+}

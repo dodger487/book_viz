@@ -1,0 +1,162 @@
+{
+  "description": "Between the World and Me is a 2015 nonfiction book written by American author Ta-Nehisi Coates and published by Spiegel & Grau. It is written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States. Coates recapitulates American history and explains to his son the \"racist violence that has been woven into American culture.\" Coates draws from an abridged, autobiographical account of his youth in Baltimore, detailing the ways in which institutions like the school, the police, and even \"the streets\" discipline, endanger, and threaten to disembody black men and women. The work takes structural and thematic inspiration from James Baldwin's 1963 epistolary book The Fire Next Time. Unlike Baldwin, Coates sees white supremacy as an indestructible force, one that Black Americans will never evade or erase, but will always struggle against.\r\n\r\nThe novelist Toni Morrison wrote that Coates filled an intellectual gap in succession to James Baldwin. Editors of The New York Times and The New Yorker described the book as exceptional. The book won the 2015 National Book Award for Nonfiction and was a finalist for the 2016 Pulitzer Prize for General Non-Fiction.",
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2015/08/17/books/review/ta-nehisi-coates-between-the-world-and-me.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Guardian review",
+      "url": "https://www.theguardian.com/books/2015/oct/08/between-the-world-and-me-sukhdev-sandhu-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://ta-nehisicoates.com/books/between-the-world-and-me/",
+      "title": "Author's book page",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Wikipedia entry",
+      "url": "https://en.wikipedia.org/wiki/Between_the_World_and_Me",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://www.nytimes.com/2015/08/17/books/review/ta-nehisi-coates-between-the-world-and-me.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://www.nytimes.com/2015/08/17/books/review/ta-nehisi-coatess-between-the-world-and-me.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Between the World and Me",
+  "covers": [
+    11328078
+  ],
+  "subject_places": [
+    "Howard University",
+    "Baltimore",
+    "Paris",
+    "United States"
+  ],
+  "subjects": [
+    "race discrimination",
+    "African Americans",
+    "African Americans--Social conditions",
+    "African Americans--Public opinion",
+    "Whites--United States--Attitudes",
+    "race relations",
+    "BIOGRAPHY & AUTOBIOGRAPHY / Personal Memoirs",
+    "Whites",
+    "Social conditions",
+    "Public opinion",
+    "Attitudes",
+    "SOCIAL SCIENCE / Discrimination & Race Relations",
+    "HISTORY / United States / General",
+    "Howard University",
+    "Students",
+    "Fathers and sons",
+    "Childhood and youth",
+    "Biography",
+    "African-Americans",
+    "Enfance et jeunesse",
+    "Racism",
+    "Racial discrimination",
+    "Discrimination raciale",
+    "Afroamerikanismus",
+    "Blancs",
+    "Opinion publique",
+    "SOCIAL SCIENCE",
+    "Conditions sociales",
+    "BIOGRAPHY & AUTOBIOGRAPHY",
+    "\u00c9tudiants",
+    "Noirs am\u00e9ricains",
+    "Father-Child Relations",
+    "Umschulungswerkst\u00e4tten f\u00fcr Siedler und Auswanderer",
+    "Biographies",
+    "15.85 history of America",
+    "Personal Memoirs",
+    "P\u00e8res et fils",
+    "HISTORY",
+    "Ethnische Beziehungen",
+    "Discrimination & Race Relations",
+    "Erlebnisbericht",
+    "General",
+    "Relations raciales",
+    "United states, race relations",
+    "African americans, social conditions",
+    "Whites, history",
+    "African americans, biography",
+    "African americans, history",
+    "Journalists, biography",
+    "Large type books",
+    "nyt:combined-print-and-e-book-nonfiction=2015-08-02",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Racial justice",
+    "White people",
+    "Father and child",
+    "Racisme",
+    "Justice raciale",
+    "P\u00e8re et enfant",
+    "African American",
+    "Civil rights",
+    "Personnes blanches",
+    "Droits",
+    "Histoire",
+    "English & college success -> english -> biography & autobiography",
+    "Social sciences -> history -> american history",
+    "Social sciences -> sociology -> race/class/gender"
+  ],
+  "subject_people": [
+    "Ta-Nehisi Coates"
+  ],
+  "key": "/works/OL17201654W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL3379613A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      },
+      "excerpt": "Son, \r\nLast Sunday the host of a popular news show asked me what it meant to lose my body."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 50,
+  "revision": 50,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2015-10-01T15:10:51.185148"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-17T14:49:42.748765"
+  }
+}

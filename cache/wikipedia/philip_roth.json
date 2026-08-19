@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Philip Roth",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Philip Roth</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q187019",
+  "titles": {
+    "canonical": "Philip_Roth",
+    "normalized": "Philip Roth",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Philip Roth</span></span>"
+  },
+  "pageid": 151398,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Philip_Roth%2C_Author_2020732799_3x4.jpg/330px-Philip_Roth%2C_Author_2020732799_3x4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Philip_Roth%2C_Author_2020732799_3x4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1400,
+    "height": 1868
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366863506",
+  "tid": "054c2d85-8c3c-11f1-b0fa-e2c11cea01b9",
+  "timestamp": "2026-07-30T17:28:04Z",
+  "description": "American novelist (1933\u20132018)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Philip_Roth",
+      "revisions": "https://en.wikipedia.org/wiki/Philip_Roth?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Philip_Roth?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Philip_Roth"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Philip_Roth",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Philip_Roth",
+      "edit": "https://en.wikipedia.org/wiki/Philip_Roth?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Philip_Roth"
+    }
+  },
+  "extract": "Philip Milton Roth was an American novelist and short-story writer. Roth's fiction\u2014often set in his birthplace of Newark, New Jersey\u2014is known for its intensely autobiographical character, for philosophically and formally blurring the distinction between reality and fiction, for its \"sensual, ingenious style\" and for its provocative explorations of Jewish and American identity. He first gained attention with the 1959 short story collection Goodbye, Columbus, which won the U.S. National Book Award for Fiction. Ten years later, he published the bestseller Portnoy's Complaint. Nathan Zuckerman, Roth's literary alter ego, narrates several of his books. A fictionalized Roth narrates some of his others, such as the alternate history The Plot Against America.",
+  "extract_html": "<p><b>Philip Milton Roth</b> was an American novelist and short-story writer. Roth's fiction\u2014often set in his birthplace of Newark, New Jersey\u2014is known for its intensely autobiographical character, for philosophically and formally blurring the distinction between reality and fiction, for its \"sensual, ingenious style\" and for its provocative explorations of Jewish and American identity. He first gained attention with the 1959 short story collection <i>Goodbye, Columbus</i>, which won the U.S. National Book Award for Fiction. Ten years later, he published the bestseller <i>Portnoy's Complaint</i>. Nathan Zuckerman, Roth's literary alter ego, narrates several of his books. A fictionalized Roth narrates some of his others, such as the alternate history <i>The Plot Against America</i>.</p>"
+}

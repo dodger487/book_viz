@@ -1,0 +1,102 @@
+{
+  "numFound": 11,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 11,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL18979A"
+      ],
+      "author_name": [
+        "Michael Connelly"
+      ],
+      "cover_edition_key": "OL7983865M",
+      "cover_i": 498317,
+      "ebook_access": "printdisabled",
+      "edition_count": 16,
+      "first_publish_year": 1993,
+      "has_fulltext": true,
+      "ia": [
+        "blackice0000conn_h2f8",
+        "blackice0000conn_k1f7",
+        "blackice0000conn_b1n3"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL111741W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The black ice"
+    },
+    {
+      "author_key": [
+        "OL18979A"
+      ],
+      "author_name": [
+        "Michael Connelly"
+      ],
+      "cover_edition_key": "OL9595990M",
+      "cover_i": 184094,
+      "ebook_access": "printdisabled",
+      "edition_count": 13,
+      "first_publish_year": 1994,
+      "has_fulltext": true,
+      "ia": [
+        "blackiceharrybos00mich",
+        "blackice00conn"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL111750W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Black Ice (Harry Bosch)"
+    },
+    {
+      "author_key": [
+        "OL18979A"
+      ],
+      "author_name": [
+        "Michael Connelly"
+      ],
+      "cover_edition_key": "OL30385437M",
+      "cover_i": 11596682,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 1996,
+      "has_fulltext": true,
+      "ia": [
+        "blackice0000conn_e9w4",
+        "blackice0000conn_d8e6"
+      ],
+      "ia_collection": [
+        "delawarecountydistrictlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL22308640W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The black ice"
+    }
+  ]
+}

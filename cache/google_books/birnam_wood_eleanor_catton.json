@@ -1,0 +1,253 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ootvEAAAQBAJ",
+      "etag": "X5139fqKXL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ootvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Birnam Wood",
+        "subtitle": "A Novel",
+        "authors": [
+          "Eleanor Catton"
+        ],
+        "publisher": "McClelland & Stewart",
+        "publishedDate": "2023-03-07",
+        "description": "INTERNATIONAL BESTSELLER Shortlisted for the Scotiabank Giller Prize, the Carol Shields Prize for Fiction, the Kirkus Prize, Orwell Prize, and the Ockham Book Award for Fiction Longlisted for the 2024 Dublin Literary Award CBC Books' #1 Canadian Novel of 2023 Named a Best Book of 2023 by the New York Times Book Review, The New Yorker, Time, Kirkus Reviews, The Guardian, the Globe and Mail, and many more One of Barack Obama's 2023 Summer Reading List titles From the Booker Prize\u2013winning author of The Luminaries comes an electrifying thriller about ambition, greed, environmental collapse, and how even our best intentions can lead to deadly consequences. Birnam Wood is on the move . . . A landslide has closed the Korowai Pass on New Zealand\u2019s South Island, cutting off the town of Thorndike and leaving a sizable farm abandoned. The disaster has created an opportunity for Birnam Wood, a guerrilla gardening collective that plants crops wherever no one will notice. For Mira, Birnam Wood\u2019s founder, occupying the farm at Thorndike would mean a shot at solvency at last. But Mira is not the only one interested in Thorndike. The enigmatic American billionaire Robert Lemoine has snatched it up to build his end-times bunker, or so he tells Mira when he catches her on the property. Intrigued by Mira and Birnam Wood, he makes them an offer that would set them up for the long term. But can they trust him? And, as their ideals and ideologies are tested, can they trust one another? Birnam Wood is Shakespearean in its drama, Austenian in its wit, and, like both influences, fascinated by what makes us who we are. It is an unflinching look at the surprising consequences of even our most well-intended actions, and an enthralling consideration of the human impulse to ensure our own survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780771024382"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "077102438X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ootvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ootvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ootvEAAAQBAJ&printsec=frontcover&dq=intitle:%22Birnam+Wood%22+inauthor:%22Eleanor+Catton%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ootvEAAAQBAJ&dq=intitle:%22Birnam+Wood%22+inauthor:%22Eleanor+Catton%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Birnam_Wood.html?hl=&id=ootvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Birnam_Wood-sample-epub.acsm?id=ootvEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ootvEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "INTERNATIONAL BESTSELLER Shortlisted for the Scotiabank Giller Prize, the Carol Shields Prize for Fiction, the Kirkus Prize, Orwell Prize, and the Ockham Book Award for Fiction Longlisted for the 2024 Dublin Literary Award CBC Books&#39; #1 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dxK3EQAAQBAJ",
+      "etag": "m6PvTxE4/Vg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dxK3EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Birnam Wood",
+        "authors": [
+          "Eleanor Catton"
+        ],
+        "publisher": "Victoria University Press",
+        "publishedDate": "2023-06-08",
+        "description": "Birnam Wood is on the move ... A landslide has closed the Korowai Pass in the South Island of New Zealand, cutting off the town of Thorndike, leaving a sizable farm abandoned. This land offers an opportunity to Birnam Wood, a guerrilla gardening collective that plants crops wherever no one will notice. But they hadn' t figured on the enigmatic American billionaire Robert Lemoine, who also has an interest in the place. Can they trust him? And, as their ideals and ideologies are tested, can they trust each other? A gripping thriller from the Booker Prize\u2013 winning author of The Luminaries, Birnam Wood is Shakespearean in its wit, drama and immersion in character. A brilliantly constructed tale of intentions, actions and consequences, it is an unflinching examination of the human impulse to ensure our own survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781776921607"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1776921607"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 437,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dxK3EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dxK3EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dxK3EQAAQBAJ&printsec=frontcover&dq=intitle:%22Birnam+Wood%22+inauthor:%22Eleanor+Catton%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dxK3EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dxK3EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dxK3EQAAQBAJ&rdid=book-dxK3EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Birnam_Wood-sample-epub.acsm?id=dxK3EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Birnam_Wood-sample-pdf.acsm?id=dxK3EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dxK3EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Birnam Wood is on the move ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "16ygEAAAQBAJ",
+      "etag": "YDNm7qpmuMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/16ygEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Birnam Wood",
+        "subtitle": "The Sunday Times Bestseller",
+        "authors": [
+          "Eleanor Catton"
+        ],
+        "publisher": "Granta Books",
+        "publishedDate": "2023-03-02",
+        "description": "NAMED AS ONE OF GRANTA MAGAZINE'S BEST OF YOUNG BRITISH NOVELISTS 2023 FINALIST FOR THE ORWELL PRIZE FOR POLITICAL FICTION 2023 FROM THE WINNER OF THE BOOKER PRIZE Birnam Wood is on the move... Five years ago, Mira Bunting founded a guerrilla gardening group: Birnam Wood. An undeclared, unregulated, sometimes-criminal, sometimes-philanthropic gathering of friends, this activist collective plants crops wherever no one will notice, on the sides of roads, in forgotten parks, and neglected backyards. For years, the group has struggled to break even. Then Mira stumbles on an answer, a way to finally set the group up for the long term: a landslide has closed the Korowai Pass, cutting off the town of Thorndike. Natural disaster has created an opportunity, a sizable farm seemingly abandoned. But Mira is not the only one interested in Thorndike. Robert Lemoine, the enigmatic American billionaire, has snatched it up to build his end-times bunker - or so he tells Mira when he catches her on the property. Intrigued by Mira, Birnam Wood, and their entrepreneurial spirit, he suggests they work this land. But can they trust him? And, as their ideals and ideologies are tested, can they trust each other? A gripping psychological thriller from the Booker Prize-winning author of The Luminaries, Birnam Wood is Shakespearean in its wit, drama and immersion in character. A brilliantly constructed consideration of intentions, actions, and consequences, it is an unflinching examination of the human impulse to ensure our own survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783784264"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1783784261"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=16ygEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=16ygEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=16ygEAAAQBAJ&dq=intitle:%22Birnam+Wood%22+inauthor:%22Eleanor+Catton%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=16ygEAAAQBAJ&dq=intitle:%22Birnam+Wood%22+inauthor:%22Eleanor+Catton%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Birnam_Wood.html?hl=&id=16ygEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=16ygEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Intrigued by Mira, Birnam Wood, and their entrepreneurial spirit, he suggests they work this land. But can they trust him? And, as their ideals and ideologies are tested, can they trust each other?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Elena Ferrante",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elena Ferrante</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q368127",
+  "titles": {
+    "canonical": "Elena_Ferrante",
+    "normalized": "Elena Ferrante",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elena Ferrante</span></span>"
+  },
+  "pageid": 31625302,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366719637",
+  "tid": "b2b0382f-8b85-11f1-8317-2fcb4610c7d5",
+  "timestamp": "2026-07-29T19:42:57Z",
+  "description": "Pseudonymous Italian writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Elena_Ferrante",
+      "revisions": "https://en.wikipedia.org/wiki/Elena_Ferrante?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Elena_Ferrante?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elena_Ferrante"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Elena_Ferrante",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Elena_Ferrante",
+      "edit": "https://en.wikipedia.org/wiki/Elena_Ferrante?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elena_Ferrante"
+    }
+  },
+  "extract": "Elena Ferrante is a pseudonymous Italian novelist. Ferrante's books, originally published in Italian, have been translated into many languages. Her four-book series of Neapolitan Novels are her most widely known works. Time magazine called Ferrante one of the 100 most influential people in 2016.",
+  "extract_html": "<p><b>Elena Ferrante</b> is a pseudonymous Italian novelist. Ferrante's books, originally published in Italian, have been translated into many languages. Her four-book series of <i>Neapolitan Novels</i> are her most widely known works. <i>Time</i> magazine called Ferrante one of the 100 most influential people in 2016.</p>"
+}

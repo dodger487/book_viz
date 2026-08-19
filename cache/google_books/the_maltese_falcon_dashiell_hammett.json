@@ -1,0 +1,246 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "iNFWEAAAQBAJ",
+      "etag": "znCW2ohFyLQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iNFWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Maltese Falcon",
+        "subtitle": "A Tale of Deceit, Murder, and Greed: An American Noir Classic",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2021-12-24",
+        "description": "Dashiell Hammett's \"The Maltese Falcon\" is a seminal work in the hard-boiled detective genre, deftly weaving a narrative of greed, betrayal, and moral ambiguity. Set against the backdrop of 1920s San Francisco, the novel introduces private detective Sam Spade, who is drawn into a treacherous quest for a priceless statuette that promises wealth but ensnares him in a web of deceit and murder. Hammett's crisp, economical prose, combined with his ability to craft layered, flawed characters, reflects the disillusionment of early 20th-century America, while his innovative use of dialogue captures the pulse of urban life, situating the work within the broader literary context of modernism and the American noir tradition. Dashiell Hammett, a former detective agency operative, infused his writing with the gritty realities of crime and investigation, providing firsthand insights into the darker aspects of human nature. His experiences not only influenced the construction of memorable characters and intricate plots but also mirrored the societal upheavals of his time. \"The Maltese Falcon\" was pivotal in establishing the conventions of detective fiction, transforming the genre through Hammett's unique stylistic approach and attention to the moral complexities of his characters. This novel is highly recommended for readers who crave a deep, engaging narrative that transcends mere mystery. With its intricate plot and richly developed characters, \"The Maltese Falcon\" offers not only a thrilling reading experience but also a profound exploration of the human condition, making it essential reading for fans of literary fiction and those interested in the evolution of crime literature.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4066338072177"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iNFWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iNFWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iNFWEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Maltese+Falcon%22+inauthor:%22Dashiell+Hammett%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iNFWEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iNFWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iNFWEAAAQBAJ&rdid=book-iNFWEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Maltese_Falcon-sample-epub.acsm?id=iNFWEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Maltese_Falcon-sample-pdf.acsm?id=iNFWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iNFWEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel is highly recommended for readers who crave a deep, engaging narrative that transcends mere mystery."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oLELAQAAIAAJ",
+      "etag": "r6IyGztb5EI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oLELAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Maltese Falcon",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "publishedDate": "1930",
+        "description": "A murder involves Sam Spade in a dangerous search for a valuable statue.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105002429749"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oLELAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oLELAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oLELAQAAIAAJ&dq=intitle:%22The+Maltese+Falcon%22+inauthor:%22Dashiell+Hammett%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oLELAQAAIAAJ&dq=intitle:%22The+Maltese+Falcon%22+inauthor:%22Dashiell+Hammett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Maltese_Falcon.html?hl=&id=oLELAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oLELAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A murder involves Sam Spade in a dangerous search for a valuable statue."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qSQfo82u-rsC",
+      "etag": "nYMgWglhgks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qSQfo82u-rsC",
+      "volumeInfo": {
+        "title": "The Maltese Falcon",
+        "subtitle": "Short Story",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2013-01-29",
+        "description": "Private Detective Sam Spade and his partner, Miles Archer, are hired by the beautiful Miss Wonderly to track down her sister\u2019s brutish boyfriend, Floyd Thursby. Spade is dubious, but the pair take the case, and when both Archer and Thursby wind up in body bags within twenty-four hours, Spade realizes that there is far more to this case than Wonderly had let on. Sam Spade has long been considered the definitive example of a hard-boiled detective, and author Daishell Hammett effectively established the hard-boiled crime genre through his stories about detectives like Sam Spade and the hard-nosed Continental Op. \"The Maltese Falcon\" has been adapted several times, most famously in the 1941 film starring Humphrey Bogart in the role of Sam Spade. HarperPerennial Classics brings great works of literature to life in digital format, upholding the highest standards in ebook production and celebrating reading in all its forms. Look for more titles in the HarperPerennial Classics collection to build your digital library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443423267"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443423262"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qSQfo82u-rsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qSQfo82u-rsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qSQfo82u-rsC&printsec=frontcover&dq=intitle:%22The+Maltese+Falcon%22+inauthor:%22Dashiell+Hammett%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qSQfo82u-rsC&dq=intitle:%22The+Maltese+Falcon%22+inauthor:%22Dashiell+Hammett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Maltese_Falcon.html?hl=&id=qSQfo82u-rsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Maltese_Falcon-sample-epub.acsm?id=qSQfo82u-rsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qSQfo82u-rsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look for more titles in the HarperPerennial Classics collection to build your digital library."
+      }
+    }
+  ]
+}

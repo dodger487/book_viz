@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "David Brooks",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Brooks</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1184693",
+  "titles": {
+    "canonical": "David_Brooks",
+    "normalized": "David Brooks",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Brooks</span></span>"
+  },
+  "pageid": 232651,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1356944204",
+  "tid": "75532acd-5c66-11f1-ad88-bde68747823e",
+  "timestamp": "2026-05-30T20:30:55Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_Brooks",
+      "revisions": "https://en.wikipedia.org/wiki/David_Brooks?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_Brooks?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Brooks"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_Brooks",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Brooks",
+      "edit": "https://en.wikipedia.org/wiki/David_Brooks?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Brooks"
+    }
+  },
+  "extract": "David Brooks may refer to:",
+  "extract_html": "<p><b>David Brooks</b> may refer to:</p>"
+}

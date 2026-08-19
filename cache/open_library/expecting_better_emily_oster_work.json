@@ -1,0 +1,45 @@
+{
+  "subjects": [
+    "Pregnancy",
+    "Health aspects",
+    "Health and hygiene",
+    "Prenatal care",
+    "Pregnant women",
+    "Childbirth",
+    "Women, health and hygiene",
+    "HEALTH & FITNESS / Pregnancy & Childbirth",
+    "Popular Works"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Pregnancy--unquestionably one of the most profound, meaningful experiences of adulthood--can reduce otherwise intelligent women to, well, babies. We're told to avoid cold cuts, sushi, alcohol, and coffee, but aren't told why. Rules for prenatal testing are hard and fast--and unexplained. Are all of these recommendations right for every mom-to-be? Here, the author shows that pregnancy rules are often misguided and sometimes flat-out wrong. Pregnant women face an endless stream of decisions, from the casual to the frightening. Expecting Better presents the hard facts and real-world advice you won't get at the doctor's office or in the existing literature."
+  },
+  "key": "/works/OL19969030W",
+  "title": "Expecting better",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL5123986A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8997395
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-18T03:58:01.338876"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-05T12:39:00.266181"
+  }
+}

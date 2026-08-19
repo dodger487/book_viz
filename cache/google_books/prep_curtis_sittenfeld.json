@@ -1,0 +1,224 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZAdo0BR__J0C",
+      "etag": "+meM4znfbVc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZAdo0BR__J0C",
+      "volumeInfo": {
+        "title": "Prep",
+        "subtitle": "A Novel",
+        "authors": [
+          "Curtis Sittenfeld"
+        ],
+        "publisher": "Random House Trade Paperbacks",
+        "publishedDate": "2005-11-22",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 A modern classic of adolescent angst and ambition set in the world of prep school, from the author of Romantic Comedy and Eligible\u2014\u201ca tart and complex tale of social class, race, and gender politics\u201d (The Boston Globe) One of The New York Times Book Review\u2019s Ten Best Books of the Year Lee Fiora is an intelligent, observant fourteen-year-old when her father drops her off in front of her dorm at the prestigious Ault School in Massachusetts. She leaves her animated, affectionate family in South Bend, Indiana, at least in part because of the boarding school\u2019s glossy brochure, in which boys in sweaters chat in front of old brick buildings, girls in kilts hold lacrosse sticks on pristinely mown athletic fields, and everyone sings hymns in chapel. As Lee soon learns, Ault is a cloistered world of jaded, attractive teenagers who spend summers on Nantucket and speak in their own clever shorthand. Both intimidated and fascinated by her classmates, Lee becomes a shrewd observer of\u2014and, ultimately, a participant in\u2014their rituals and mores. As a scholarship student, she constantly feels like an outsider and is both drawn to and repelled by other loners. By the time she\u2019s a senior, Lee has created a hard-won place for herself at Ault. But when her behavior takes a self-destructive and highly public turn, her carefully crafted identity within the community is shattered. Ultimately, Lee\u2019s experiences\u2014complicated relationships with teachers; intense friendships with other girls; an all-consuming preoccupation with a classmate who is less than a boyfriend and more than a crush; conflicts with her parents, from whom Lee feels increasingly distant\u2014coalesce into a singular portrait of the painful and thrilling adolescence universal to us all.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812972351"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "081297235X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZAdo0BR__J0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZAdo0BR__J0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZAdo0BR__J0C&printsec=frontcover&dq=intitle:%22Prep%22+inauthor:%22Curtis+Sittenfeld%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZAdo0BR__J0C&dq=intitle:%22Prep%22+inauthor:%22Curtis+Sittenfeld%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prep.html?hl=&id=ZAdo0BR__J0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZAdo0BR__J0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 A modern classic of adolescent angst and ambition set in the world of prep school, from the author of Romantic Comedy and Eligible\u2014\u201ca tart and complex tale of social class, race, and gender politics\u201d (The ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wcY0swEACAAJ",
+      "etag": "oNuWN4JtoY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wcY0swEACAAJ",
+      "volumeInfo": {
+        "title": "Prep",
+        "authors": [
+          "Curtis Sittenfeld"
+        ],
+        "publishedDate": "2005",
+        "description": "Curtis Sittenfeld's debut novel, Prep, is an insightful, achingly funny coming-of-age story as well as a brilliant dissection of class, race, and gender in a hothouse of adolescent angst and ambition. Lee Fiora is an intelligent, observant fourteen-year-old when her father drops her off in front of her dorm at the prestigious Ault School in Massachusetts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "032947054X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780329470548"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Indiana"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wcY0swEACAAJ&dq=intitle:%22Prep%22+inauthor:%22Curtis+Sittenfeld%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wcY0swEACAAJ&dq=intitle:%22Prep%22+inauthor:%22Curtis+Sittenfeld%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prep.html?hl=&id=wcY0swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wcY0swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Curtis Sittenfeld&#39;s debut novel, Prep, is an insightful, achingly funny coming-of-age story as well as a brilliant dissection of class, race, and gender in a hothouse of adolescent angst and ambition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P4kKVYEihBcC",
+      "etag": "ZFDmM0Idoek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P4kKVYEihBcC",
+      "volumeInfo": {
+        "title": "Prep and American Wife: Two Bestselling Novels",
+        "authors": [
+          "Curtis Sittenfeld"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2013-04-22",
+        "description": "One of the most exceptional voices in literary fiction today, Curtis Sittenfeld is renowned for her rich prose, irresistible storytelling, and fascinating characters who struggle with the rules of gender, race, and privilege. Now, in this convenient eBook bundle, here are her blockbuster bestselling and critically acclaimed novels, Prep and American Wife. PREP Named One of the Top Ten Books of the Year by The New York Times Lee Fiora is an intelligent, observant fourteen-year-old when she leaves her family behind in Indiana to attend the prestigious Ault School in Massachusetts. Over the next four years, her experiences at Ault\u2014complicated relationships with teachers, intense friendships with other girls, an all-consuming preoccupation with a classmate who is less than a boyfriend and more than a crush\u2014coalesce into a singular portrait of the universal pains and thrills of adolescence. AMERICAN WIFE Named One of the Top Ten Books of the Year by Time, People, and Entertainment Weekly A bookish only child born in the 1940s and raised in a small Wisconsin town, Alice Lindgren has no idea that she will one day end up in the White House, married to the president. So when the charismatic son of a powerful Republican family sweeps her off her feet, she is surprised to find herself admitted into a world of privilege. As he unexpectedly becomes governor and then president, she discovers that she is married to a man she fundamentally disagrees with yet deeply loves. And upon the advent of her husband\u2019s second term, Alice must finally face questions nearly impossible to answer. Praise for Curtis Sittenfeld \u201cOne of the most tender and accurate portraits of adolescence in recent memory.\u201d\u2014San Francisco Chronicle, on Prep \u201cA tart and complex tale of social class, race, and gender politics.\u201d\u2014The Boston Globe, on Prep \u201c[Sittenfeld\u2019s] dialogue captures teenage humor brilliantly, and her characters show remarkable depth.\u201d\u2014Chicago Tribune, on Prep \u201cAn intelligent, bighearted novel about a controversial political dynasty.\u201d\u2014Entertainment Weekly, on American Wife \u201cSmart and sophisticated . . . Sittenfeld has an astonishing gift for creating characters that take up residence in readers\u2019 heads.\u201d\u2014The Washington Post, on American Wife \u201cAn intimate and daring story . . . Alice is a woman of considerable intellect, compassion and character.\u201d \u2014USA Today, on American Wife",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812985450"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812985451"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1068,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P4kKVYEihBcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P4kKVYEihBcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=P4kKVYEihBcC&printsec=frontcover&dq=intitle:%22Prep%22+inauthor:%22Curtis+Sittenfeld%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=P4kKVYEihBcC&dq=intitle:%22Prep%22+inauthor:%22Curtis+Sittenfeld%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prep_and_American_Wife_Two_Bestselling_N.html?hl=&id=P4kKVYEihBcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Prep_and_American_Wife_Two_Bestselling_N-sample-epub.acsm?id=P4kKVYEihBcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P4kKVYEihBcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now, in this convenient eBook bundle, here are her blockbuster bestselling and critically acclaimed novels, Prep and American Wife."
+      }
+    }
+  ]
+}

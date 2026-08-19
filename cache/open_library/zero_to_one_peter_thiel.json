@@ -1,0 +1,53 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2976628A",
+        "OL7231336A"
+      ],
+      "author_name": [
+        "Peter A. Thiel",
+        "Blake Masters"
+      ],
+      "cover_edition_key": "OL27546580M",
+      "cover_i": 9002334,
+      "ebook_access": "borrowable",
+      "edition_count": 14,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "cong0dao1zerotoo0000thie",
+        "cong0dao1kaiqish0000thie",
+        "ZeroToOneByPeterThiel",
+        "zerotoonenoteson0000thie"
+      ],
+      "ia_collection": [
+        "community",
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17078706W",
+      "language": [
+        "jpn",
+        "swa",
+        "por",
+        "eng",
+        "chi"
+      ],
+      "lending_edition_s": "OL27231701M",
+      "lending_identifier_s": "cong0dao1zerotoo0000thie",
+      "public_scan_b": false,
+      "subtitle": "Notes on Startups, or How to Build the Future",
+      "title": "Zero to One"
+    }
+  ]
+}

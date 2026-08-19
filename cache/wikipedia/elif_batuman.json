@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Elif Batuman",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elif Batuman</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5360799",
+  "titles": {
+    "canonical": "Elif_Batuman",
+    "normalized": "Elif Batuman",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elif Batuman</span></span>"
+  },
+  "pageid": 26894103,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Elif_Batuman_Brooklyn_Museum_2018-02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 221,
+    "height": 281
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Elif_Batuman_Brooklyn_Museum_2018-02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 221,
+    "height": 281
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1322029047",
+  "tid": "8638b6fa-c0f1-11f0-9cad-1843e46099ab",
+  "timestamp": "2025-11-14T00:33:22Z",
+  "description": "American writer and academic (born 1977)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Elif_Batuman",
+      "revisions": "https://en.wikipedia.org/wiki/Elif_Batuman?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Elif_Batuman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elif_Batuman"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Elif_Batuman",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Elif_Batuman",
+      "edit": "https://en.wikipedia.org/wiki/Elif_Batuman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Elif_Batuman"
+    }
+  },
+  "extract": "Elif Batuman is an American author, academic, and journalist. She is the author of three books: a memoir, The Possessed (2010), the novel The Idiot (2017), which was a finalist for the 2018 Pulitzer Prize for Fiction, and Either/Or (2022). Batuman is a staff writer for The New Yorker.",
+  "extract_html": "<p><b>Elif Batuman</b> is an American author, academic, and journalist. She is the author of three books: a memoir, <i>The Possessed</i> (2010), the novel <i>The Idiot</i> (2017), which was a finalist for the 2018 Pulitzer Prize for Fiction, and <i>Either/Or</i> (2022). Batuman is a staff writer for <i>The New Yorker</i>.</p>"
+}

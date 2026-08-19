@@ -1,0 +1,75 @@
+{
+  "numFound": 6,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 6,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL28371A"
+      ],
+      "author_name": [
+        "Robert Charles Wilson"
+      ],
+      "cover_edition_key": "OL3309864M",
+      "cover_i": 6632328,
+      "ebook_access": "printdisabled",
+      "edition_count": 6,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "spinwils00wils"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL14951012W",
+      "language": [
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Spin"
+    },
+    {
+      "author_key": [
+        "OL28371A"
+      ],
+      "author_name": [
+        "Robert Charles Wilson"
+      ],
+      "cover_edition_key": "OL28190488M",
+      "cover_i": 10126646,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL20823380W",
+      "public_scan_b": false,
+      "title": "Spin"
+    },
+    {
+      "author_key": [
+        "OL28371A"
+      ],
+      "author_name": [
+        "Robert Charles Wilson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL35691347W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Spin"
+    }
+  ]
+}

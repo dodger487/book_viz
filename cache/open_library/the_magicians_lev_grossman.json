@@ -1,0 +1,91 @@
+{
+  "numFound": 9,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 9,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL391079A"
+      ],
+      "author_name": [
+        "Lev Grossman"
+      ],
+      "cover_edition_key": "OL23150292M",
+      "cover_i": 6294573,
+      "ebook_access": "printdisabled",
+      "edition_count": 16,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "magicians0000gros",
+        "magiciansnovel0000gros",
+        "magicians00levg"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL2679341W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Novel",
+      "title": "The Magicians"
+    },
+    {
+      "author_key": [
+        "OL391079A"
+      ],
+      "author_name": [
+        "Lev Grossman"
+      ],
+      "cover_edition_key": "OL26880093M",
+      "cover_i": 8572829,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL19660532W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Magician King"
+    },
+    {
+      "author_key": [
+        "OL391079A"
+      ],
+      "author_name": [
+        "Lev Grossman"
+      ],
+      "cover_edition_key": "OL27565382M",
+      "cover_i": 9020300,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "magiciansland0000gros",
+        "magicianslandnov0000gros"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20354087W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Magician'S Land"
+    }
+  ]
+}

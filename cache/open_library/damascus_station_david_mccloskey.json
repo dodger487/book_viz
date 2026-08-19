@@ -1,0 +1,51 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL9747012A"
+      ],
+      "author_name": [
+        "David Mccloskey"
+      ],
+      "cover_edition_key": "OL39269262M",
+      "cover_i": 13854242,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25774136W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Damascus Station"
+    },
+    {
+      "author_key": [
+        "OL10081087A"
+      ],
+      "author_name": [
+        "David McCloskey"
+      ],
+      "cover_edition_key": "OL36360196M",
+      "cover_i": 14623155,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL26815362W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Damascus Station"
+    }
+  ]
+}

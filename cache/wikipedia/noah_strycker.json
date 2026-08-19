@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Noah Strycker",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Noah Strycker</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q22338534",
+  "titles": {
+    "canonical": "Noah_Strycker",
+    "normalized": "Noah Strycker",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Noah Strycker</span></span>"
+  },
+  "pageid": 49230100,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Noah_Strycker%2C_2014_%28cropped%29.jpg/330px-Noah_Strycker%2C_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 467
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Noah_Strycker%2C_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 678,
+    "height": 960
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1339741791",
+  "tid": "18c2e013-0f9a-11f1-82dd-da2660477052",
+  "timestamp": "2026-02-22T02:56:34Z",
+  "description": "American birdwatcher (born 1986)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Noah_Strycker",
+      "revisions": "https://en.wikipedia.org/wiki/Noah_Strycker?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Noah_Strycker?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Noah_Strycker"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Noah_Strycker",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Noah_Strycker",
+      "edit": "https://en.wikipedia.org/wiki/Noah_Strycker?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Noah_Strycker"
+    }
+  },
+  "extract": "Noah Keefer Strycker is an American birdwatcher. In 2015, he set a record for a worldwide big year of birding, seeing 6,042 of the world's estimated 10,365 bird species at the time (58.3%), becoming the first person to record half of the world's birds in one year. His journey spanned 41 countries and all seven continents from January 1 to December 31, 2015.",
+  "extract_html": "<p><b>Noah Keefer Strycker</b> is an American birdwatcher. In 2015, he set a record for a worldwide big year of birding, seeing 6,042 of the world's estimated 10,365 bird species at the time (58.3%), becoming the first person to record half of the world's birds in one year. His journey spanned 41 countries and all seven continents from January 1 to December 31, 2015.</p>"
+}

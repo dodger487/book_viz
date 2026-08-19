@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Matthew Walker",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Matthew Walker</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1909617",
+  "titles": {
+    "canonical": "Matthew_Walker",
+    "normalized": "Matthew Walker",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Matthew Walker</span></span>"
+  },
+  "pageid": 3229357,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1203979504",
+  "tid": "b3c6e9ff-c4a1-11ee-ac17-d7ce25d632c7",
+  "timestamp": "2024-02-06T03:42:08Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Matthew_Walker",
+      "revisions": "https://en.wikipedia.org/wiki/Matthew_Walker?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Matthew_Walker?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Matthew_Walker"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Matthew_Walker",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Matthew_Walker",
+      "edit": "https://en.wikipedia.org/wiki/Matthew_Walker?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Matthew_Walker"
+    }
+  },
+  "extract": "Matthew Walker may refer to:",
+  "extract_html": "<p><b>Matthew Walker</b> may refer to:</p>"
+}

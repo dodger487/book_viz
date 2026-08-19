@@ -1,0 +1,184 @@
+{
+  "description": "Americanah is a 2013 novel by the Nigerian author Chimamanda Ngozi Adichie, for which Adichie won the 2013 U.S. National Book Critics Circle Award for fiction. Americanah tells the story of a young Nigerian woman, Ifemelu, who immigrates to the United States to attend university. The novel traces Ifemelu's life in both countries, threaded by her love story with high school classmate Obinze.",
+  "links": [
+    {
+      "url": "https://www.chimamanda.com/book/americanah/",
+      "title": "Americanah | Chimamanda Ngozi Adichie (chimamanda.com)",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Americanah - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Americanah",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Americanah by Chimamanda Ngozi Adichie \u2013 review",
+      "url": "https://www.theguardian.com/books/2013/apr/15/americanah-chimamanda-ngozi-adichie-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://www.nytimes.com/2013/06/09/books/review/americanah-by-chimamanda-ngozi-adichie.html",
+      "title": "Realities of Race (nytimes.com)",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://www.washingtonpost.com/entertainment/books/book-review-americanah-by-chimamanda-ngozi-adichie/2013/06/10/a9e5a522-d1de-11e2-9f1a-1a7cdee20287_story.html?noredirect=on&utm_term=.15d02740e2ca",
+      "title": "Book review: \u2018Americanah\u2019 by Chimamanda Ngozi Adichie (washingtonpost.com)",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://medium.com/@dsfish/book-review-americanah-by-chimamanda-ngozi-adichie-a84ddb3d2250",
+      "title": "Book Review: Americanah by Chimamanda Ngozi Adichie (medium.com)",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://www.nytimes.com/2013/05/20/books/americanha-by-chimamanda-ngozi-adichie.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "thegreatestbooks.org/items/3340",
+      "url": "https://thegreatestbooks.org/items/3340",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "bookmarks.reviews/reviews/americanah/",
+      "url": "https://bookmarks.reviews/reviews/americanah/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Americanah",
+  "covers": [
+    8474037,
+    -1,
+    14156924,
+    13940106
+  ],
+  "subject_places": [
+    "United States",
+    "Nigeria",
+    "England",
+    "New York",
+    "Philadelphia",
+    "Lagos",
+    "London"
+  ],
+  "subjects": [
+    "Nigerians",
+    "Immigrants",
+    "Refugees",
+    "African-Americans",
+    "literary fiction",
+    "African-American fiction",
+    "cultural heritage",
+    "Fiction",
+    "blogging",
+    "romance",
+    "corruption",
+    "award:national_book_critics_circle_award=fiction",
+    "National Book Critics Circle Award Winner",
+    "Reading Level-Grade 7",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 8",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "1000blackgirlbooks",
+    "Fiction, historical",
+    "Nigeria, fiction",
+    "Large type books",
+    "FICTION / Literary",
+    "FICTION / African American / General",
+    "FICTION / Cultural Heritage",
+    "nyt:trade-fiction-paperback=2014-03-23",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction, historical, general",
+    "Literary",
+    "African American",
+    "General",
+    "English literature",
+    "Inmigrantes",
+    "Ficci\u00f3n",
+    "Regugiados",
+    "Nigeriano",
+    "Ficcion",
+    "History",
+    "Romans, nouvelles",
+    "Racisme",
+    "Relations raciales",
+    "R\u00e9fugi\u00e9s",
+    "Nig\u00e9rians",
+    "Livres en gros caract\u00e8res",
+    "Large print books",
+    "Immigrants--fiction",
+    "Refugees--fiction",
+    "Nigerians--united states--fiction",
+    "Nigerians--england--fiction",
+    "Fiction--literary",
+    "Fiction--african american--general",
+    "Pr9387.9.a34354 a44 2013",
+    "823/.92",
+    "Fic019000 fic049000 fic051000",
+    "Emigration and immigration"
+  ],
+  "subject_people": [
+    "Ifemelu",
+    "Obinze"
+  ],
+  "key": "/works/OL16805415W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1393502A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "2000s",
+    "2010s"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "excerpts": [
+    {
+      "author": {
+        "key": "/people/seabelis"
+      },
+      "comment": "first sentence",
+      "excerpt": "Princeton, in the summer, smelled of nothing, and although Ifemelu liked the tranquil greenness of the many trees, the clean streets and stately homes, the delicately overpriced shops, and the quiet, abiding air of earned grace, it was this, the lack of a smell, that most appealed to her, perhaps because the other American cities she knew well had all smelled distinctly."
+    }
+  ],
+  "latest_revision": 68,
+  "revision": 68,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2013-07-19T19:21:56.837962"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-29T19:24:08.162775"
+  }
+}

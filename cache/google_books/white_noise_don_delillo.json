@@ -1,0 +1,228 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hcBQ0N5kR8gC",
+      "etag": "aGEYrFmH8hA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hcBQ0N5kR8gC",
+      "volumeInfo": {
+        "title": "White Noise",
+        "authors": [
+          "Don DeLillo"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1999",
+        "description": "Jack Gladney, a professor of Nazi history at a Middle American liberal arts school, and his family try to handle normal family life as a black cloud of lethal gaseous fumes threatens their town. Reprint.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140283307"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140283303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hcBQ0N5kR8gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hcBQ0N5kR8gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hcBQ0N5kR8gC&printsec=frontcover&dq=intitle:%22White+Noise%22+inauthor:%22Don+Delillo%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hcBQ0N5kR8gC&dq=intitle:%22White+Noise%22+inauthor:%22Don+Delillo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Noise.html?hl=&id=hcBQ0N5kR8gC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hcBQ0N5kR8gC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jack Gladney, a professor of Nazi history at a Middle American liberal arts school, and his family try to handle normal family life as a black cloud of lethal gaseous fumes threatens their town. Reprint."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xa-acQAACAAJ",
+      "etag": "eurzIc3Hb+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xa-acQAACAAJ",
+      "volumeInfo": {
+        "title": "White Noise",
+        "authors": [
+          "Don DeLillo"
+        ],
+        "publisher": "Picador",
+        "publishedDate": "2011",
+        "description": "Jack Gladney is the creator and chairman of Hitler studies at the College-on-the-Hill. This is the story of his absurd life; a life that is going well enough, until a chemical spill from a rail car releases an 'Airborne Toxic Event' and Jack is forced to confront his biggest fear - his own mortality. White Noise is an effortless combination of social satire and metaphysical dilemma in which DeLillo exposes our rampant consumerism, media saturation and novelty intellectualism. It captures the particular strangeness of life lived when the fear of death cannot be denied, repressed or obscured and ponders the role of the family in a time when the very meaning of our existence is under threat.Celebrating 40 years of outstanding international writing, this is one of the essential Picador novels reissued in a beautiful new series style.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0330524844"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780330524841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xa-acQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xa-acQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xa-acQAACAAJ&dq=intitle:%22White+Noise%22+inauthor:%22Don+Delillo%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xa-acQAACAAJ&dq=intitle:%22White+Noise%22+inauthor:%22Don+Delillo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Noise.html?hl=&id=xa-acQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xa-acQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the story of his absurd life; a life that is going well enough, until a chemical spill from a rail car releases an &#39;Airborne Toxic Event&#39; and Jack is forced to confront his biggest fear - his own mortality."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zpFPEAAAQBAJ",
+      "etag": "ZDlKchB+x/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zpFPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "White Noise",
+        "subtitle": "(Penguin Classics Deluxe Edition)",
+        "authors": [
+          "Don DeLillo"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2009-12-29",
+        "description": "The National Book Award\u2013winning classic by the author of Underworld and Libra, featuring an introduction by Richard Powers, the Pulitzer Prize\u2013winning author of The Overstory and Playground Now a major motion picture starring Adam Driver and Greta Gerwig White Noise tells the story of Jack Gladney, his fourth wife, Babette, and four ultra\u00admodern offspring as they navigate the rocky passages of family life to the background babble of brand-name consumerism. When an industrial accident unleashes an \"airborne toxic event,\" a lethal black chemical cloud floats over their lives. The menacing cloud is a more urgent and visible version of the \"white noise\" engulfing the Gladneys\u2014radio transmissions, sirens, microwaves, ultrasonic appliances, and TV murmurings\u2014pulsing with life, yet suggesting something ominous. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,500 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143105985"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143105981"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zpFPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zpFPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zpFPEAAAQBAJ&printsec=frontcover&dq=intitle:%22White+Noise%22+inauthor:%22Don+Delillo%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zpFPEAAAQBAJ&dq=intitle:%22White+Noise%22+inauthor:%22Don+Delillo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Noise.html?hl=&id=zpFPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zpFPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The National Book Award\u2013winning classic by the author of Underworld and Libra, featuring an introduction by Richard Powers, the Pulitzer Prize\u2013winning author of The Overstory and Playground Now a major motion picture starring Adam ..."
+      }
+    }
+  ]
+}

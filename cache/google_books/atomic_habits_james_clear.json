@@ -1,0 +1,264 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WmqyDwAAQBAJ",
+      "etag": "WW8ahF6MQ84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WmqyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Atomic Habits (Tamil)",
+        "authors": [
+          "James Clear"
+        ],
+        "publisher": "Manjul Publishing",
+        "publishedDate": "2023-07-14",
+        "description": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0bae\u0bcd\u0bae\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd. \u0b86\u0ba9\u0bbe\u0bb2\u0bcd, \u0baa\u0bb4\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0b95 \u0b86\u0baf\u0bcd\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb2\u0b95\u0baa\u0bcd \u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bbf\u0b95\u0bb4\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1 \u0b9c\u0bc7\u0bae\u0bcd\u0bb8\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0baf\u0bb0\u0bcd \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0bb1\u0bca\u0bb0\u0bc1 \u0bb5\u0bb4\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. \u0ba4\u0bbf\u0ba9\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba4\u0bbe\u0b95\u0bb5\u0bc7 \u0b8e\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd, \u0b92\u0bb0\u0bc1 \u0baa\u0ba4\u0bbf\u0ba9\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc6\u0ba4\u0bc1\u0bb5\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd, \u0b95\u0bc2\u0b9f\u0bc1\u0ba4\u0bb2\u0bbe\u0b95 \u0b92\u0bb0\u0bc1 \u0baa\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0ba8\u0bc2\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd.<br>\u0b87\u0ba8\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bb5\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0ba4\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0b89\u0bb0\u0bc1\u0bb5\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8 \u0b9c\u0bc7\u0bae\u0bcd\u0bb8\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb3\u0bbf\u0bb5\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb1\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb0\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. \u0b92\u0bb2\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0ba4\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd, \u0baa\u0bc1\u0b95\u0bb4\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bb1\u0bbf\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bcb\u0bb0\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b89\u0ba4\u0bcd\u0bb5\u0bc7\u0b95\u0bae\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0ba4\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bc1\u0b9f\u0bc8\u0baf \u0b95\u0bcb\u0b9f\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bae\u0bcd \u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0b9a\u0bbf\u0baf\u0bae\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.<br>\u0b87\u0b9a\u0bcd\u0b9a\u0bbf\u0bb1\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc0\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd\u0bae\u0bc0\u0ba4\u0bc1\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bbe\u0bb4\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd\u0bae\u0bc0\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0bb3\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0baf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8\u0baa\u0bcd \u0baa\u0bb0\u0bbf\u0baa\u0bc2\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789388241908"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9388241908"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WmqyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WmqyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ta",
+        "previewLink": "http://books.google.com/books?id=WmqyDwAAQBAJ&printsec=frontcover&dq=intitle:%22Atomic+Habits%22+inauthor:%22James+Clear%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WmqyDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WmqyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.16,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.16,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WmqyDwAAQBAJ&rdid=book-WmqyDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8160000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8160000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Atomic_Habits_Tamil-sample-epub.acsm?id=WmqyDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Atomic_Habits_Tamil-sample-pdf.acsm?id=WmqyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WmqyDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0bae\u0bcd\u0bae\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-a5puQEACAAJ",
+      "etag": "mLTwLQZt3Sw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-a5puQEACAAJ",
+      "volumeInfo": {
+        "title": "Atomic Habits",
+        "subtitle": "An Easy and Proven Way to Build Good Habits and Break Bad Ones",
+        "authors": [
+          "James Clear"
+        ],
+        "publisher": "Random House Business Books",
+        "publishedDate": "2019-04-04",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1847941842"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781847941848"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-a5puQEACAAJ&dq=intitle:%22Atomic+Habits%22+inauthor:%22James+Clear%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-a5puQEACAAJ&dq=intitle:%22Atomic+Habits%22+inauthor:%22James+Clear%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atomic_Habits.html?hl=&id=-a5puQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-a5puQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A supremely practical and useful book. James Clear distils the most fundamental information about habit formation, so you can accomplish more by focusing on less."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FJ5hEQAAQBAJ",
+      "etag": "AjEtXRQp2fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FJ5hEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Atomic Habits Workbook",
+        "subtitle": "Official Companion to the #1 Worldwide Bestseller",
+        "authors": [
+          "James Clear"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2025-12-09",
+        "description": "Simple Exercises for Building the Life You Want An interactive guide to building good habits and breaking bad ones, based on the 25-million copy #1 New York Times bestseller Atomic Habits. The official companion to the #1 worldwide bestseller is the next step in your habits toolkit. Guided journal prompts will help you engage with your habits and the forces that impact them. Thought-provoking exercises allow you to implement the Atomic Habits theories and see your life transform. This workbook takes the reader from understanding habits to living them. James Clear\u2019s system helps good habits emerge naturally while unwanted habits fade away. What\u2019s included: \u00b7 Guided templates for easy habit tracking and habit stacking \u00b7 Journaling prompts to help you assess your physical and social environments, identify forces at play, and strategize for greatest habit success \u00b7 Strategies for overcoming the habit plateau and sticking with your habits, even when the going gets rough \u00b7 Plans for adapting your habits to fit your ever-changing life \u00b7 New ideas from Clear on the role of fun in habit formation Packed with tips, tricks, and activities, The Atomic Habits Workbook is your step-by-step guide to making small changes that will transform your habits and deliver remarkable results.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798217180516"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FJ5hEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FJ5hEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FJ5hEQAAQBAJ&printsec=frontcover&dq=intitle:%22Atomic+Habits%22+inauthor:%22James+Clear%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FJ5hEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FJ5hEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FJ5hEQAAQBAJ&rdid=book-FJ5hEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Atomic_Habits_Workbook-sample-epub.acsm?id=FJ5hEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FJ5hEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This workbook takes the reader from understanding habits to living them. James Clear\u2019s system helps good habits emerge naturally while unwanted habits fade away."
+      }
+    }
+  ]
+}

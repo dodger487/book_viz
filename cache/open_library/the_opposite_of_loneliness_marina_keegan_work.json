@@ -1,0 +1,41 @@
+{
+  "subjects": [
+    "BIOGRAPHY & AUTOBIOGRAPHY / Personal Memoirs",
+    "FICTION / Literary",
+    "LITERARY COLLECTIONS / Essays",
+    "nyt:combined-print-and-e-book-nonfiction=2014-04-27",
+    "New York Times bestseller",
+    "Essays (single author)",
+    "Fiction, short stories (single author)",
+    "American Short stories",
+    "American essays"
+  ],
+  "key": "/works/OL17061742W",
+  "title": "The Opposite of Loneliness",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7755962A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    7305680
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2014-10-17T12:55:56.262498"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-21T19:07:10.251059"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jonathan Hickman",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jonathan Hickman</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3809926",
+  "titles": {
+    "canonical": "Jonathan_Hickman",
+    "normalized": "Jonathan Hickman",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jonathan Hickman</span></span>"
+  },
+  "pageid": 13294313,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JonathanHickman.jpg/330px-JonathanHickman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 443
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/JonathanHickman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1271,
+    "height": 1708
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364129792",
+  "tid": "252ded88-7fae-11f1-94b7-9b13db80dcf8",
+  "timestamp": "2026-07-14T18:02:15Z",
+  "description": "American comic book writer and artist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jonathan_Hickman",
+      "revisions": "https://en.wikipedia.org/wiki/Jonathan_Hickman?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jonathan_Hickman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonathan_Hickman"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jonathan_Hickman",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jonathan_Hickman",
+      "edit": "https://en.wikipedia.org/wiki/Jonathan_Hickman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonathan_Hickman"
+    }
+  },
+  "extract": "Jonathan Hickman is an American comic book writer and artist, best known for his creator-owned series The Nightly News, The Manhattan Projects and East of West, as well as his lengthy stints as a writer on Marvel's Fantastic Four, The Avengers and New Avengers. Hickman's other notable work at Marvel includes the S.H.I.E.L.D. limited series, the creation of the Fantastic Four spin-off title FF, as well as two crossover limited series, Infinity and Secret Wars, both of which acted as centerpieces for the eponymous company-wide crossover storylines.",
+  "extract_html": "<p><b>Jonathan Hickman</b> is an American comic book writer and artist, best known for his creator-owned series <i>The Nightly News</i>, <i>The Manhattan Projects</i> and <i>East of West</i>, as well as his lengthy stints as a writer on Marvel's <i>Fantastic Four</i>, <i>The Avengers</i> and <i>New Avengers</i>. Hickman's other notable work at Marvel includes the <i>S.H.I.E.L.D.</i> limited series, the creation of the <i>Fantastic Four</i> spin-off title <i>FF</i>, as well as two crossover limited series, <i>Infinity</i> and <i>Secret Wars</i>, both of which acted as centerpieces for the eponymous company-wide crossover storylines.</p>"
+}

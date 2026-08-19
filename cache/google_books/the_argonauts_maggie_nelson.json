@@ -1,0 +1,147 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2IhhDwAAQBAJ",
+      "etag": "rcuIgcCFt6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2IhhDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Argonauts",
+        "subtitle": "A Memoir",
+        "authors": [
+          "Maggie Nelson"
+        ],
+        "publishedDate": "2015-05-05",
+        "description": "A genre-bending memoir about desire, identity, and the limitations and possibilities of love and language. At its center is a romance: the story of the author's relationship with the artist Harry Dodge, including the author's account of falling in love with Dodge, who is fluidly gendered, as well as her journey to and through a pregnancy",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781555977078"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1555977073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2IhhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2IhhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2IhhDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Argonauts%22+inauthor:%22Maggie+Nelson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2IhhDwAAQBAJ&dq=intitle:%22The+Argonauts%22+inauthor:%22Maggie+Nelson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Argonauts.html?hl=&id=2IhhDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2IhhDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At its center is a romance: the story of the author&#39;s relationship with the artist Harry Dodge, including the author&#39;s account of falling in love with Dodge, who is fluidly gendered, as well as her journey to and through a pregnancy"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xvc5zgEACAAJ",
+      "etag": "QucuuWgPZck",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xvc5zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Argonauts",
+        "authors": [
+          "Perfection Learning Corporation"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1663612943"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781663612946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xvc5zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xvc5zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Xvc5zgEACAAJ&dq=intitle:%22The+Argonauts%22+inauthor:%22Maggie+Nelson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Xvc5zgEACAAJ&dq=intitle:%22The+Argonauts%22+inauthor:%22Maggie+Nelson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Argonauts.html?hl=&id=Xvc5zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xvc5zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This story, which includes Nelson&#39;s account of falling in love with Dodge, who is fluidly gendered, as well as her journey to and through a pregnancy, offers a firsthand account of the complexities and joys of (queer) family-making&quot;--Dust ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "description": "At school Connell and Marianne pretend not to know each other. He\u2019s popular and well-adjusted, star of the school soccer team while she is lonely, proud, and intensely private. But when Connell comes to pick his mother up from her housekeeping job at Marianne\u2019s house, a strange and indelible connection grows between the two teenagers - one they are determined to conceal.\r\n\r\nA year later, they\u2019re both studying at Trinity College in Dublin. Marianne has found her feet in a new social world while Connell hangs at the sidelines, shy and uncertain. Throughout their years in college, Marianne and Connell circle one another, straying toward other people and possibilities but always magnetically, irresistibly drawn back together. Then, as she veers into self-destruction and he begins to search for meaning elsewhere, each must confront how far they are willing to go to save the other.\r\n\r\nSally Rooney brings her brilliant psychological acuity and perfectly spare prose to a story that explores the subtleties of class, the electricity of first love, and the complex entanglements of family and friendship.",
+  "title": "Normal People",
+  "covers": [
+    8794265,
+    9854488,
+    10849167,
+    10168510,
+    12773851,
+    13274408,
+    14202984,
+    14202985,
+    15213474
+  ],
+  "subject_places": [
+    "Sligo (Ireland)",
+    "Dublin (Ireland)",
+    "Trieste (Italy)",
+    "Lund (Sweden)"
+  ],
+  "subjects": [
+    "sex",
+    "romance",
+    "contemporary",
+    "Dublin (ireland)",
+    "fiction",
+    "Man-woman relationships",
+    "literary fiction",
+    "nyt:combined-print-and-e-book-fiction=2019-05-05",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction, romance, contemporary",
+    "Dublin (ireland), fiction",
+    "Man-woman relationships, fiction",
+    "English literature",
+    "First loves",
+    "Social classes",
+    "College students",
+    "New Fiction",
+    "FICTION / Coming of Age",
+    "FICTION / Literary",
+    "FICTION / Psychological",
+    "Coming of Age",
+    "Literary",
+    "Psychological",
+    "Man-woman relationship",
+    "Best friends",
+    "18.05 English literature",
+    "Romance fiction",
+    "Love stories",
+    "Best friends - Fiction",
+    "\u00c9tudiants",
+    "Romans, nouvelles",
+    "Large type books",
+    "Premier amour",
+    "Classes sociales",
+    "Relations entre hommes et femmes",
+    "Livres en gros caract\u00e8res",
+    "Adult",
+    "Novels"
+  ],
+  "key": "/works/OL20150260W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7919580A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "2010s Ireland"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2019/04/08/books/review-normal-people-sally-rooney.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2019/04/15/books/review/normal-people-sally-rooney.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_people": [
+    "Marianne Sheridan (fictional character)",
+    "Connell Waldron (fictional character)",
+    "Lorraine Waldron (fictional character)",
+    "Denise Sheridan (fictional character)",
+    "Alan Sheridan (fictional character)"
+  ],
+  "identifiers": {
+    "librarything": [
+      "21711313"
+    ]
+  },
+  "latest_revision": 27,
+  "revision": 27,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-10-03T20:33:59.641933"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-31T16:12:53.330282"
+  }
+}

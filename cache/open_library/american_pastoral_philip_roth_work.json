@@ -1,0 +1,119 @@
+{
+  "description": "American Pastoral is a Philip Roth novel published in 1997 concerning Seymour \"Swede\" Levov, a successful Jewish American businessman and former high school star athlete from Newark, New Jersey. Levov's happy and conventional upper middle class life is ruined by the domestic social and political turmoil of the 1960s during the presidency of Lyndon B. Johnson, which in the novel is described as a manifestation of the \"indigenous American berserk\".\r\n\r\nAmerican Pastoral won the **Pulitzer Prize** in 1998. Seven years later, the novel was included in **Time's List of the 100 Best Novels**, a list covering the period between 1923 and 2005. In 2006, it was one of the runners-up to Toni Morrison's Beloved, in the \"**What is the Best Work of American Fiction of the Last 25 Years**?\" contest held by the New York Times Book Review.\r\n\r\n\r\n----------\r\nAlso contained in:\r\n[American Trilogy 1997-2000](https://openlibrary.org/works/OL17489174W)",
+  "title": "American Pastoral",
+  "covers": [
+    9322643,
+    -1
+  ],
+  "subject_places": [
+    "United States",
+    "Newark",
+    "New Jersey",
+    "Weequahic",
+    "Elizabeth",
+    "Old Rimrock",
+    "Princeton University"
+  ],
+  "subjects": [
+    "facelift surgery",
+    "Vietnam War",
+    "Marines",
+    "Jewish Americans",
+    "History",
+    "Pastoral fiction",
+    "Anglo-American literature",
+    "Historical fiction",
+    "Literary Fiction",
+    "Suspense & Thriller",
+    "fiction",
+    "domestic fiction",
+    "social conditions",
+    "social life and customs",
+    "family relations",
+    "open_syllabus_project",
+    "American fiction (fictional works by one author)",
+    "Fiction, general",
+    "Jewish businesspeople",
+    "Fathers and daughters",
+    "Bombings"
+  ],
+  "key": "/works/OL74666W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2444787A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "1961-1969",
+    "1960-1980",
+    "1927",
+    "1968",
+    "February"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "American Pastoral - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Pastoral",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Michiko Kakutani on Philip Roth\u2019s 'American Pastoral'",
+      "url": "https://www.pulitzer.org/article/michiko-kakutani-philip-roths-american-pastoral",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "American Pastoral by Philip Roth - The New Canon",
+      "url": "http://www.thenewcanon.com/american_pastoral.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "American Pastoral - Philip Roth (1998) - BoekMeter.nl",
+      "url": "https://www.boekmeter.nl/book/4027",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Howard Jacobson: Is American Pastoral Philip Roth at his best?",
+      "url": "https://www.theguardian.com/books/2016/nov/11/philip-roth-american-pastoral-sabbaths-theater",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_people": [
+    "Seymour Irving Levov",
+    "Lyndon B. Johnson",
+    "Meredith Levov",
+    "Lou Levov",
+    "Sylvia Levov",
+    "Nathan Zuckerman",
+    "Jerry Levov",
+    "Dawn Dwyer",
+    "William Orcutt III"
+  ],
+  "latest_revision": 36,
+  "revision": 36,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T09:25:55.733651"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-14T03:20:58.315815"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jenny Odell",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jenny Odell</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q68924784",
+  "titles": {
+    "canonical": "Jenny_Odell",
+    "normalized": "Jenny Odell",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jenny Odell</span></span>"
+  },
+  "pageid": 61897999,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jenny_Odell_at_Republica_2024_01.jpg/330px-Jenny_Odell_at_Republica_2024_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 220
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jenny_Odell_at_Republica_2024_01.jpg/3840px-Jenny_Odell_at_Republica_2024_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 5472,
+    "height": 3648
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1334547594",
+  "tid": "6806e7eb-f8e4-11f0-a2df-944dbef3f33c",
+  "timestamp": "2026-01-24T05:20:33Z",
+  "description": "American artist, writer and educator",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jenny_Odell",
+      "revisions": "https://en.wikipedia.org/wiki/Jenny_Odell?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jenny_Odell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jenny_Odell"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jenny_Odell",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jenny_Odell",
+      "edit": "https://en.wikipedia.org/wiki/Jenny_Odell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jenny_Odell"
+    }
+  },
+  "extract": "Jenny Odell is an American multidisciplinary artist, writer, and educator based in Oakland, California. She taught Internet art and digital/physical design at Stanford University from 2013 to 2021. She wrote The New York Times best-selling book How to Do Nothing: Resisting the Attention Economy (2019).",
+  "extract_html": "<p><b>Jenny Odell</b> is an American multidisciplinary artist, writer, and educator based in Oakland, California. She taught Internet art and digital/physical design at Stanford University from 2013 to 2021. She wrote <span><i>The</i> <i>New York Times</i></span> best-selling book <i>How to Do Nothing: Resisting the Attention Economy</i> (2019).</p>"
+}

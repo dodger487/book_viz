@@ -1,0 +1,55 @@
+{
+  "subjects": [
+    "Financial institutions",
+    "Banks and banking",
+    "Middle class, united states",
+    "Check cashing services",
+    "Money services businesses",
+    "SOCIAL SCIENCE",
+    "Social Classes",
+    "Sociology",
+    "Alternative Wirtschaft",
+    "Bankgesch\u00e4ft",
+    "Kreditgesch\u00e4ft",
+    "Einkommensdisparit\u00e4t",
+    "Mittelstand",
+    "Niedriglohn",
+    "Gegenkultur",
+    "Alternative",
+    "Kreditgeber",
+    "Banks and banking -- United States",
+    "Financial institutions -- United States"
+  ],
+  "key": "/works/OL19659407W",
+  "title": "The Unbanking of America: How the New Middle Class Survives",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7511170A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8572184
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "xix, 250 pages ; 24 cm"
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-10T11:33:09.150032"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-25T00:47:54.605334"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Patricia Highsmith",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patricia Highsmith</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q270635",
+  "titles": {
+    "canonical": "Patricia_Highsmith",
+    "normalized": "Patricia Highsmith",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patricia Highsmith</span></span>"
+  },
+  "pageid": 63689,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Patricia-Highsmith-1962.jpg/330px-Patricia-Highsmith-1962.jpg",
+    "width": 330,
+    "height": 419
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Patricia-Highsmith-1962.jpg",
+    "width": 339,
+    "height": 430
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366330858",
+  "tid": "c1dd8d7c-89af-11f1-ae6e-7d48ac471223",
+  "timestamp": "2026-07-27T11:38:59Z",
+  "description": "American novelist (1921\u20131995)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Patricia_Highsmith",
+      "revisions": "https://en.wikipedia.org/wiki/Patricia_Highsmith?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Patricia_Highsmith?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Patricia_Highsmith"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Patricia_Highsmith",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Patricia_Highsmith",
+      "edit": "https://en.wikipedia.org/wiki/Patricia_Highsmith?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Patricia_Highsmith"
+    }
+  },
+  "extract": "Patricia Highsmith was an American novelist and short story writer widely known for her psychological thrillers, including her series of five novels featuring the character Tom Ripley. She wrote 22 novels and numerous short stories in a career spanning nearly five decades, and her work has led to more than two dozen film adaptations. Her writing was influenced by existentialist literature and questioned notions of identity and popular morality. She was dubbed \"the poet of apprehension\" by novelist Graham Greene.",
+  "extract_html": "<p><b>Patricia Highsmith</b> was an American novelist and short story writer widely known for her psychological thrillers, including her series of five novels featuring the character Tom Ripley. She wrote 22 novels and numerous short stories in a career spanning nearly five decades, and her work has led to more than two dozen film adaptations. Her writing was influenced by existentialist literature and questioned notions of identity and popular morality. She was dubbed \"the poet of apprehension\" by novelist Graham Greene.</p>"
+}

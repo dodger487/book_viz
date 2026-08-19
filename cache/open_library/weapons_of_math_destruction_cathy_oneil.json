@@ -1,0 +1,45 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7412371A"
+      ],
+      "author_name": [
+        "Cathy O'Neil"
+      ],
+      "cover_edition_key": "OL26427189M",
+      "cover_i": 8136557,
+      "ebook_access": "printdisabled",
+      "edition_count": 16,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "weaponsofmathdes0000onei",
+        "weaponsofmathdes0000onei_u8q4"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17840708W",
+      "language": [
+        "pol",
+        "tur",
+        "ger",
+        "eng",
+        "spa",
+        "fre",
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "Weapons of Math Destruction"
+    }
+  ]
+}

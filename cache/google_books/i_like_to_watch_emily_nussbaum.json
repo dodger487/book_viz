@@ -1,0 +1,104 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mCh2DwAAQBAJ",
+      "etag": "KrkVG0D0IBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mCh2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "I Like to Watch",
+        "subtitle": "Arguing My Way Through the TV Revolution",
+        "authors": [
+          "Emily Nussbaum"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2019-06-25",
+        "description": "From The New Yorker\u2019s fiercely original, Pulitzer Prize-winning culture critic, a provocative collection of new and previously published essays arguing that we are what we watch. \u201cEmily Nussbaum is the perfect critic\u2014smart, engaging, funny, generous, and insightful.\u201d\u2014David Grann, author of Killers of the Flower Moon NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR \u2022 Chicago Tribune \u2022 Esquire \u2022 Library Journal \u2022 Kirkus Reviews From her creation of the \u201cApproval Matrix\u201d in New York magazine in 2004 to her Pulitzer Prize\u2013winning columns for The New Yorker, Emily Nussbaum has argued for a new way of looking at TV. In this collection, including two never-before-published essays, Nussbaum writes about her passion for television, beginning with Buffy the Vampire Slayer, the show that set her on a fresh intellectual path. She explores the rise of the female screw-up, how fans warp the shows they love, the messy power of sexual violence on TV, and the year that jokes helped elect a reality-television president. There are three big profiles of television showrunners\u2014Kenya Barris, Jenji Kohan, and Ryan Murphy\u2014as well as examinations of the legacies of Norman Lear and Joan Rivers. The book also includes a major new essay written during the year of MeToo, wrestling with the question of what to do when the artist you love is a monster. More than a collection of reviews, the book makes a case for toppling the status anxiety that has long haunted the \u201cidiot box,\u201d even as it transformed. Through it all, Nussbaum recounts her fervent search, over fifteen years, for a new kind of criticism, one that resists the false hierarchy that elevates one kind of culture (violent, dramatic, gritty) over another (joyful, funny, stylized). I Like to Watch traces her own struggle to punch through stifling notions of \u201cprestige television,\u201d searching for a more expansive, more embracing vision of artistic ambition\u2014one that acknowledges many types of beauty and complexity and opens to more varied voices. It\u2019s a book that celebrates television as television, even as each year warps the definition of just what that might mean. FINALIST FOR THE PEN/DIAMONSTEIN-SPIELVOGEL AWARD FOR THE ART OF THE ESSAY \u201cThis collection, including some powerful new work, proves once and for all that there\u2019s no better American critic of anything than Emily Nussbaum. But I Like to Watch turns out to be even greater than the sum of its brilliant parts\u2014it\u2019s the most incisive, intimate, entertaining, authoritative guide to the shows of this golden television age.\u201d\u2014Kurt Andersen, author of Fantasyland \u201cReading Emily Nussbaum makes us smarter not just about what we watch, but about how we live, what we love, and who we are. I Like to Watch is a joy.\u201d\u2014Rebecca Traister",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525508977"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "052550897X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mCh2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mCh2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mCh2DwAAQBAJ&printsec=frontcover&dq=intitle:%22I+Like+to+Watch%22+inauthor:%22Emily+Nussbaum%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mCh2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mCh2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mCh2DwAAQBAJ&rdid=book-mCh2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/I_Like_to_Watch-sample-epub.acsm?id=mCh2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mCh2DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From The New Yorker\u2019s fiercely original, Pulitzer Prize-winning culture critic, a provocative collection of new and previously published essays arguing that we are what we watch. \u201cEmily Nussbaum is the perfect critic\u2014smart, engaging, ..."
+      }
+    }
+  ]
+}

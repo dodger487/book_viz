@@ -1,0 +1,67 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7539610A"
+      ],
+      "author_name": [
+        "Christian Rudder"
+      ],
+      "cover_edition_key": "OL27516313M",
+      "cover_i": 8972721,
+      "ebook_access": "printdisabled",
+      "edition_count": 8,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "dataclysmwhowear0000rudd_v5k5",
+        "dataclysmlovesex0000rudd",
+        "dataclysmwhowear0000rudd_s2d3"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19982617W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Dataclysm"
+    },
+    {
+      "author_key": [
+        "OL7539610A"
+      ],
+      "author_name": [
+        "Christian Rudder"
+      ],
+      "cover_edition_key": "OL26964133M",
+      "cover_i": 12984994,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "dataclysmlovesex0000rudd_s0f3"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19751087W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Dataclysm"
+    }
+  ]
+}

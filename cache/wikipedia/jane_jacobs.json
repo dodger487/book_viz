@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jane Jacobs",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jane Jacobs</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q234335",
+  "titles": {
+    "canonical": "Jane_Jacobs",
+    "normalized": "Jane Jacobs",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jane Jacobs</span></span>"
+  },
+  "pageid": 71394,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Jane_Jacobs.jpg/330px-Jane_Jacobs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 284
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Jane_Jacobs.jpg/3840px-Jane_Jacobs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 4071,
+    "height": 3509
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361163062",
+  "tid": "7c0a7f88-7106-11f1-9d04-617593331285",
+  "timestamp": "2026-06-26T02:26:49Z",
+  "description": "American\u2013Canadian journalist, author, and activist (1916\u20132006)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jane_Jacobs",
+      "revisions": "https://en.wikipedia.org/wiki/Jane_Jacobs?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jane_Jacobs?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jane_Jacobs"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jane_Jacobs",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jane_Jacobs",
+      "edit": "https://en.wikipedia.org/wiki/Jane_Jacobs?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jane_Jacobs"
+    }
+  },
+  "extract": "Jane Isabel Jacobs was an American-Canadian journalist, author, theorist, and activist who influenced urban studies, sociology, and economics. Her book The Death and Life of Great American Cities (1961) argued that \"urban renewal\" and \"slum clearance\" did not respect the needs of city-dwellers.",
+  "extract_html": "<p><b>Jane Isabel Jacobs</b> was an American-Canadian journalist, author, theorist, and activist who influenced urban studies, sociology, and economics. Her book <i>The Death and Life of Great American Cities</i> (1961) argued that \"urban renewal\" and \"slum clearance\" did not respect the needs of city-dwellers.</p>"
+}

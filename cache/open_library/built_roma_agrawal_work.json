@@ -1,0 +1,46 @@
+{
+  "subjects": [
+    "Building",
+    "Popular works",
+    "Structural engineering",
+    "TECHNOLOGY & ENGINEERING / Structural",
+    "ARCHITECTURE / Buildings / Public, Commercial & Industrial",
+    "TECHNOLOGY & ENGINEERING / Construction / General",
+    "Structural engineering--popular works",
+    "Building--popular works",
+    "Technology & engineering / structural",
+    "Architecture / buildings / public, commercial & industrial",
+    "Technology & engineering / construction / general",
+    "Ta633 .a36 2018",
+    "624.1"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Looks at the history of structural engineering, discusses the science behind the field, describes how engineers keep modern buildings from falling down and how a bridge can span distances, and compares modern solutions with those from ancient cultures. --Publisher."
+  },
+  "key": "/works/OL19734851W",
+  "title": "Built",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7532486A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-24T04:32:04.186095"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-12-20T03:15:48.254381"
+  }
+}

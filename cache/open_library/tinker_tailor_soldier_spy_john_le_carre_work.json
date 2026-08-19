@@ -1,0 +1,51 @@
+{
+  "covers": [
+    7021556
+  ],
+  "key": "/works/OL15723131W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2101074A"
+      }
+    }
+  ],
+  "title": "Tinker Tailor Soldier Spy",
+  "subject_places": [
+    "Great Britain"
+  ],
+  "subjects": [
+    "Fiction",
+    "Intelligence service",
+    "George Smiley (Fictitious character)",
+    "Smiley, George (Fictitious character)",
+    "Large type books",
+    "Undercover operations",
+    "Fiction, thrillers, espionage",
+    "Smiley, george (fictitious character), fiction",
+    "Great britain, fiction",
+    "Cold War",
+    "Secret service",
+    "Fiction in English"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "George Smiley is assigned to uncover the identity of the double agent operating in the highest levels of British Intelligence."
+  },
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-05-04T04:56:00.958366"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-01-10T12:30:54.876939"
+  }
+}

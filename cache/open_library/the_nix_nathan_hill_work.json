@@ -1,0 +1,72 @@
+{
+  "subjects": [
+    "Fiction",
+    "Family secrets",
+    "Mothers and sons",
+    "Self realization",
+    "Literary",
+    "Family Life",
+    "Humorous",
+    "FICTION / Humorous",
+    "Desertion and non-support",
+    "FICTION / Family Life",
+    "Self-realization",
+    "Americans",
+    "Riots",
+    "Runaway wives",
+    "FICTION / Literary",
+    "nyt:hardcover-fiction=2016-09-18",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction, family life",
+    "Mothers and sons, fiction",
+    "Fiction, humorous, general",
+    "Fiction, political",
+    "General",
+    "Humor (Fiction)",
+    "Literature",
+    "Fiction, humorous"
+  ],
+  "key": "/works/OL17770858W",
+  "title": "The Nix",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7325546A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8054289,
+    8469291
+  ],
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2016/09/04/books/review/the-nix-nathan-hill.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"An epic novel about a son, the mother who left him as a child, and how his search to uncover the secrets of her life leads him to reclaim his own\"--"
+  },
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-08-25T09:48:30.400221"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-06T22:47:18.074043"
+  }
+}

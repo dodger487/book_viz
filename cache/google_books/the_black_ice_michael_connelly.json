@@ -1,0 +1,244 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DWgxBgrYU-MC",
+      "etag": "ydJJFyedurQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DWgxBgrYU-MC",
+      "volumeInfo": {
+        "title": "The Black Ice",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2002-01-01",
+        "description": "When an LAPD narcotics officer is found with a fatal bullet wound and a suicide note, Detective Harry Bosch follows a bloody trail of drug murders across the Mexico border. \u200bWorking the case, LAPD detective Harry Bosch is reminded of the primal police rule he learned long ago: Don't look for the facts, but the glue that holds them together. Soon Harry's making some very dangerous connections, starting with a dead cop and leading to a bloody string of murders that wind from Hollywood Boulevard to the back alleys south of the border. Now this battle-scarred veteran will find himself in the center of a complex and deadly game\u2014one in which he may be the next and likeliest victim.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780759525788"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0759525781"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 341,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.29.29.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DWgxBgrYU-MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DWgxBgrYU-MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DWgxBgrYU-MC&printsec=frontcover&dq=intitle:%22The+Black+Ice%22+inauthor:%22Michael+Connelly%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DWgxBgrYU-MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DWgxBgrYU-MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DWgxBgrYU-MC&rdid=book-DWgxBgrYU-MC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Black_Ice-sample-epub.acsm?id=DWgxBgrYU-MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DWgxBgrYU-MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When an LAPD narcotics officer is found with a fatal bullet wound and a suicide note, Detective Harry Bosch follows a bloody trail of drug murders across the Mexico border. \u200bWorking the case, LAPD detective Harry Bosch is reminded of the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dqCOAAAACAAJ",
+      "etag": "wd4fva/DMEg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dqCOAAAACAAJ",
+      "volumeInfo": {
+        "title": "The Black Ice",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publishedDate": "2002",
+        "description": "Narcotics officer Cal Moore's orders were to look into the city's latest drug killing. Instead, he ends up in a motel room with his head in several pieces and a suicide note stuffed in his back pocket. Years ago, Harry Bosch learned the first rule of the good cop: don't look for the facts, but the glue that holds them together. Now, Harry's making some very dangerous connections, starting with one dead cop and leading to a bloody string of murders that winds from Hollywood Boulevard's drug bazaar to the dusty back alleys south of the border and into the center of a complex and lethal game one in which Harry is the next and likeliest victim. \"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0754017923"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780754017929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dqCOAAAACAAJ&dq=intitle:%22The+Black+Ice%22+inauthor:%22Michael+Connelly%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dqCOAAAACAAJ&dq=intitle:%22The+Black+Ice%22+inauthor:%22Michael+Connelly%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Ice.html?hl=&id=dqCOAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dqCOAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Harry investigates the case of a missing narcotics officer rumored to have been peddling a new drug called Black Ice. Martin&#39;s."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rtN5C7o5Tx8C",
+      "etag": "UQdaVx992Xc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rtN5C7o5Tx8C",
+      "volumeInfo": {
+        "title": "The Harry Bosch Novels",
+        "subtitle": "The Black Echo, The Black Ice, The Concrete Blonde",
+        "authors": [
+          "Michael Connelly"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2001-10-22",
+        "description": "For the first time in one volume, the three novels that introduced Michael Connelly's great LAPD homicide detective, maverick Hieronymous (Harry) Bosch. The Black Echo (Winner of the Edgar Award for Best First Novel) For Harry Bosch-hero, loner, nighthawk-the body stuffed in a drainpipe off Mulholland Drive isn't just another statistic. This one is personal. Billy Meadows was a fellow Vietnam \"tunnel rat,\" fighting the VC and the fear they used to call the Black Echo. Harry let Meadows down once. He won't do it again. The Black Ice The corpse in the hotel room seems to be that of a missing LAPD narcotics officer. Rumors abound that the cop had crossed over-selling a new drug called Black Ice. Now Harry's making some dangerous connections, leading from the cop to a string of bloody murders, and from Hollywood Boulevard's drug bazaar to Mexico's dusty back alleys. In this lethal game, Harry is likely to be the next victim. The Concrete Blonde When Harry Bosch shot and killed Norman Church, the police were convinced it marked the end of the hunt for the Dollmaker-L.A.'s most bizarre serial killer. But now Church's widow is accusing Harry of killing the wrong man-a charge that rings terrifyingly true when a new victim is discovered with the Dollmaker's macabre signature. For the second time, Harry must hunt the murderer down, before he strikes again. Together, these three novels are the perfect way to discover, or rediscover, the sleuth the New York Times Book Review called a \"wonderful, old-fashioned hero who isn't afraid to walk through the flames.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780759526280"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0759526281"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 836,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rtN5C7o5Tx8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rtN5C7o5Tx8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rtN5C7o5Tx8C&printsec=frontcover&dq=intitle:%22The+Black+Ice%22+inauthor:%22Michael+Connelly%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rtN5C7o5Tx8C&dq=intitle:%22The+Black+Ice%22+inauthor:%22Michael+Connelly%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Harry_Bosch_Novels.html?hl=&id=rtN5C7o5Tx8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Harry_Bosch_Novels-sample-epub.acsm?id=rtN5C7o5Tx8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rtN5C7o5Tx8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Together, these three novels are the perfect way to discover, or rediscover, the sleuth the New York Times Book Review called a &quot;wonderful, old-fashioned hero who isn&#39;t afraid to walk through the flames.&quot;"
+      }
+    }
+  ]
+}

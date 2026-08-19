@@ -1,0 +1,35 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL537475A",
+        "OL4181476A"
+      ],
+      "author_name": [
+        "George Saunders",
+        "Amir Tsukerman"
+      ],
+      "cover_edition_key": "OL26241326M",
+      "cover_i": 7909378,
+      "ebook_access": "no_ebook",
+      "edition_count": 21,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL17635834W",
+      "language": [
+        "heb",
+        "eng",
+        "rus"
+      ],
+      "public_scan_b": false,
+      "title": "Lincoln in the Bardo"
+    }
+  ]
+}

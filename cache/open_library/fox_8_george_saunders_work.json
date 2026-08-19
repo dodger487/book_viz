@@ -1,0 +1,68 @@
+{
+  "title": "Fox 8",
+  "covers": [
+    8568843,
+    12270516,
+    14043203,
+    14043202
+  ],
+  "key": "/works/OL19654176W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL537475A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10373097A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3206965A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Children's fiction",
+    "Human-animal relationships, fiction",
+    "Foxes, fiction",
+    "Language and languages",
+    "Human-animal relationships",
+    "Foxes",
+    "Animal welfare",
+    "Fiction",
+    "Animals",
+    "Treatment",
+    "FICTION / Literary",
+    "FICTION / Satire",
+    "FICTION / Fairy Tales, Folk Tales, Legends & Mythology"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Idealistic Fox 8's ability to communicate in \"Yuman\" cannot save his pack when their den and food supply are destroyed to build a mall, so he writes a letter asking for an explanation of human's cruelty."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-03T02:14:06.933729"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-30T18:55:16.562513"
+  }
+}

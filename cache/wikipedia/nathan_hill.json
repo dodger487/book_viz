@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Nathan Hill",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nathan Hill</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q19321694",
+  "titles": {
+    "canonical": "Nathan_Hill",
+    "normalized": "Nathan Hill",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nathan Hill</span></span>"
+  },
+  "pageid": 45353527,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1270676834",
+  "tid": "1a005ba3-d75b-11ef-8874-b9ebf91fdc94",
+  "timestamp": "2025-01-20T18:19:35Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nathan_Hill",
+      "revisions": "https://en.wikipedia.org/wiki/Nathan_Hill?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nathan_Hill?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nathan_Hill"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Nathan_Hill",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Nathan_Hill",
+      "edit": "https://en.wikipedia.org/wiki/Nathan_Hill?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nathan_Hill"
+    }
+  },
+  "extract": "Nathan or Nate Hill may refer to:Nate Hill (1966\u20132012), American football player\nNate Hill (artist), American performance artist\nNathan Hill (writer), author of 2017 novel The Nix\nNathan W. Hill, American historical linguist and Tibetologist",
+  "extract_html": "<p><b>Nathan</b> or <b>Nate Hill</b> may refer to:</p><ul><li>Nate Hill (1966\u20132012), American football player</li>\n<li>Nate Hill (artist), American performance artist</li>\n<li>Nathan Hill (writer), author of 2017 novel <i>The Nix</i></li>\n<li>Nathan W. Hill, American historical linguist and Tibetologist</li></ul>"
+}

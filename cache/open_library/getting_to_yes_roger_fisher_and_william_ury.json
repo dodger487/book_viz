@@ -1,0 +1,114 @@
+{
+  "numFound": 14,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 14,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL220090A",
+        "OL2658259A",
+        "OL25374A"
+      ],
+      "author_name": [
+        "Roger Drummer Fisher",
+        "Bruce Patton",
+        "William Ury"
+      ],
+      "cover_edition_key": "OL1552521M",
+      "cover_i": 96165,
+      "ebook_access": "printdisabled",
+      "edition_count": 20,
+      "first_publish_year": 1981,
+      "has_fulltext": true,
+      "ia": [
+        "gettingtoyesnego0000fish",
+        "gettingtoyesnego0000fish_f3t4",
+        "gettingtoyesnego0000fish_c2e3",
+        "getting_fis_1991_00_0543",
+        "gettingtoyesnego00fish",
+        "gettingtoyesnego00fish_225"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "georgetown-university-law-library",
+        "georgetown-university-law-library-rr",
+        "globallibraries",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL1837566W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "negotiating agreement without giving in",
+      "title": "Getting to yes"
+    },
+    {
+      "author_key": [
+        "OL220090A",
+        "OL25374A",
+        "OL2658259A"
+      ],
+      "author_name": [
+        "Roger Drummer Fisher",
+        "William Ury",
+        "Bruce Patton"
+      ],
+      "cover_edition_key": "OL22254871M",
+      "cover_i": 4275413,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 1991,
+      "has_fulltext": false,
+      "key": "/works/OL13562793W",
+      "public_scan_b": false,
+      "subtitle": "Negotiating Agreement Without Giving In",
+      "title": "Getting to Yes"
+    },
+    {
+      "author_key": [
+        "OL220090A"
+      ],
+      "author_name": [
+        "Roger Drummer Fisher"
+      ],
+      "cover_i": 6966199,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "gettingtoyesnego0000fish_z1w8"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "belmont-ol",
+        "dartmouthlibrary-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "marymount-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "swarthmore-ol",
+        "the-claremont-colleges-ol",
+        "universityofarizona-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL15901913W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Getting to yes"
+    }
+  ]
+}

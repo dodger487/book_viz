@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Joby Warrick",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joby Warrick</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6206897",
+  "titles": {
+    "canonical": "Joby_Warrick",
+    "normalized": "Joby Warrick",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joby Warrick</span></span>"
+  },
+  "pageid": 36648623,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1317248874",
+  "tid": "873aee9c-ab13-11f0-89fb-f5c97b7312e6",
+  "timestamp": "2025-10-17T04:41:21Z",
+  "description": "American journalist (born 1960)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Joby_Warrick",
+      "revisions": "https://en.wikipedia.org/wiki/Joby_Warrick?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Joby_Warrick?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Joby_Warrick"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Joby_Warrick",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Joby_Warrick",
+      "edit": "https://en.wikipedia.org/wiki/Joby_Warrick?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Joby_Warrick"
+    }
+  },
+  "extract": "Joby Warrick is an American journalist who has worked for The Washington Post since 1996, mostly writing about the Middle East, diplomacy, and national security. He has also written about the intelligence community, the proliferation of weapons of mass destruction and the environment, and has also served as a member of the Post's investigation branch. His work has been recognized with two Pulitzer Prizes.",
+  "extract_html": "<p><b>Joby Warrick</b> is an American journalist who has worked for <i>The Washington Post</i> since 1996, mostly writing about the Middle East, diplomacy, and national security. He has also written about the intelligence community, the proliferation of weapons of mass destruction and the environment, and has also served as a member of the <i>Post</i><span class=\"nowrap\">'</span>s investigation branch. His work has been recognized with two Pulitzer Prizes.</p>"
+}

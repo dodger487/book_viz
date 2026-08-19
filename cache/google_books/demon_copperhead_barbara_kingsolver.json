@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bMxZEAAAQBAJ",
+      "etag": "LUEtdjiuOjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bMxZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Demon Copperhead",
+        "subtitle": "A Novel",
+        "authors": [
+          "Barbara Kingsolver"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2022-10-18",
+        "description": "WINNER OF THE PULITZER PRIZE \u2022 WINNER OF THE WOMEN'S PRIZE FOR FICTION New York Times Readers\u2019 Pick: Top 100 Books of the 21st Century \u2022 An Oprah\u2019s Book Club Selection \u2022 An Instant New York Times Bestseller \u2022 An Instant Wall Street Journal Bestseller \u2022 A #1 Washington Post Bestseller \u2022 A New York Times \"Ten Best Books of the Year\" \"Demon is a voice for the ages\u2014akin to Huck Finn or Holden Caulfield\u2014only even more resilient.\u201d \u2014Beth Macy, author of Dopesick \"May be the best novel of [the year]. . . . Equal parts hilarious and heartbreaking, this is the story of an irrepressible boy nobody wants, but readers will love.\u201d \u2014Ron Charles, Washington Post From the acclaimed author of The Poisonwood Bible and The Bean Trees and the recipient of the National Book Foundation's Medal for Distinguished Contribution to American Letters, a brilliant novel that enthralls, compels, and captures the heart as it evokes a young hero\u2019s unforgettable journey to maturity Set in the mountains of southern Appalachia, Demon Copperhead is the story of a boy born to a teenaged single mother in a single-wide trailer, with no assets beyond his dead father\u2019s good looks and copper-colored hair, a caustic wit, and a fierce talent for survival. Relayed in his own unsparing voice, Demon braves the modern perils of foster care, child labor, derelict schools, athletic success, addiction, disastrous loves, and crushing losses. Through all of it, he reckons with his own invisibility in a popular culture where even the superheroes have abandoned rural people in favor of cities. Many generations ago, Charles Dickens wrote David Copperfield from his experience as a survivor of institutional poverty and its damages to children in his society. Those problems have yet to be solved in ours. Dickens is not a prerequisite for readers of this novel, but he provided its inspiration. In transposing a Victorian epic novel to the contemporary American South, Barbara Kingsolver enlists Dickens\u2019 anger and compassion, and above all, his faith in the transformative powers of a good story. Demon Copperhead speaks for a new generation of lost boys, and all those born into beautiful, cursed places they can\u2019t imagine leaving behind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063251991"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "006325199X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 651,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bMxZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bMxZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bMxZEAAAQBAJ&printsec=frontcover&dq=intitle:%22Demon+Copperhead%22+inauthor:%22Barbara+Kingsolver%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bMxZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bMxZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bMxZEAAAQBAJ&rdid=book-bMxZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Demon_Copperhead-sample-epub.acsm?id=bMxZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bMxZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". Equal parts hilarious and heartbreaking, this is the story of an irrepressible boy nobody wants, but readers will love.\u201d \u2014Ron Charles, Washington Post From the acclaimed author of The Poisonwood Bible and The Bean Trees and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TFeczwEACAAJ",
+      "etag": "SWezKNvML0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TFeczwEACAAJ",
+      "volumeInfo": {
+        "title": "Demon Copperhead",
+        "subtitle": "A Pulitzer Prize Winner",
+        "authors": [
+          "Barbara Kingsolver"
+        ],
+        "publisher": "Harper Perennial",
+        "publishedDate": "2024-04-16",
+        "description": "WINNER OF THE 2023 PULITZER PRIZE * WINNER OF THE WOMEN'S PRIZE FOR FICTION A New York Times \"Ten Best Books of 2022\" * An Oprah's Book Club Selection * An Instant New York Times Bestseller * An Instant Wall Street Journal Bestseller * A #1 Washington Post Bestseller \"Demon is a voice for the ages--akin to Huck Finn or Holden Caulfield--only even more resilient.\" --Beth Macy, author of Dopesick \"May be the best novel of 2022. . . . Equal parts hilarious and heartbreaking, this is the story of an irrepressible boy nobody wants, but readers will love.\" (Ron Charles, Washington Post) From the acclaimed author of The Poisonwood Bible and The Bean Trees, a brilliant novel that enthralls, compels, and captures the heart as it evokes a young hero's unforgettable journey to maturity Set in the mountains of southern Appalachia, Demon Copperhead is the story of a boy born to a teenaged single mother in a single-wide trailer, with no assets beyond his dead father's good looks and copper-colored hair, a caustic wit, and a fierce talent for survival. Relayed in his own unsparing voice, Demon braves the modern perils of foster care, child labor, derelict schools, athletic success, addiction, disastrous loves, and crushing losses. Through all of it, he reckons with his own invisibility in a popular culture where even the superheroes have abandoned rural people in favor of cities. Many generations ago, Charles Dickens wrote David Copperfield from his experience as a survivor of institutional poverty and its damages to children in his society. Those problems have yet to be solved in ours. Dickens is not a prerequisite for readers of this novel, but he provided its inspiration. In transposing a Victorian epic novel to the contemporary American South, Barbara Kingsolver enlists Dickens' anger and compassion, and above all, his faith in the transformative powers of a good story. Demon Copperhead speaks for a new generation of lost boys, and all those born into beautiful, cursed places they can't imagine leaving behind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0063251981"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063251984"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TFeczwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TFeczwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TFeczwEACAAJ&dq=intitle:%22Demon+Copperhead%22+inauthor:%22Barbara+Kingsolver%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TFeczwEACAAJ&dq=intitle:%22Demon+Copperhead%22+inauthor:%22Barbara+Kingsolver%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Demon_Copperhead.html?hl=&id=TFeczwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TFeczwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The teenage son of an Appalachian single mother who dies when he&#39;s eleven uses his good looks, wit, and instincts to survive foster care, child labor, addiction, disastrous loves, and crushing losses."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Q5jEAAAQBAJ",
+      "etag": "N1d4eUsmYe4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Q5jEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Demon Copperhead",
+        "subtitle": "Winner of the Women's Prize for Fiction",
+        "authors": [
+          "Barbara Kingsolver"
+        ],
+        "publisher": "Faber & Faber",
+        "publishedDate": "2022-10-18",
+        "description": "#1 NEW YORK TIMES READERS BEST BOOK OF THE 21ST CENTURY PARTITA - THE HEARTRENDING NEW NOVEL FROM BARBARA KINGSOLVER - COMING OCTOBER 2026 A SUNDAY TIMES BESTSELLER WINNER OF THE PULITZER PRIZE FOR FICTION TWICE WINNER OF THE WOMEN'S PRIZE SHORTLISTED FOR THE ORWELL PRIZE FOR POLITICAL FICTION SHORTLISTED FOR THE JAMES TAIT BLACK PRIZE FOR FICTION THE MULTI-MILLION COPY SELLING AUTHOR BOOK AT BEDTIME ON BBC RADIO 4 AN OPRAH'S BOOK CLUB PICK 'Without a doubt the best book I'll read this year.' KATE ATKINSON 'It's EPIC. Righteously angry, DEEPLY moving and exquisitely written.' MARIAN KEYES 'Daring, entertaining and highly readable.' The Times 'Electrifying.' Daily Mail 'A blaze of a book.' RACHEL JOYCE 'A masterclass.' RICHARD POWERS 'Masterful.' Pulitzer Prize 'Powerful.' Guardian 'A work of genius.' KATE MOSSE ____________ Demon Copperhead is a once-in-a-generation novel that breaks and mends your heart in the way only the best fiction can. Demon's story begins with his traumatic birth to a single mother in a single-wide trailer, looking 'like a little blue prizefighter.' For the life ahead of him he would need all of that fighting spirit, along with buckets of charm, a quick wit, and some unexpected talents, legal and otherwise. In the southern Appalachian Mountains of Virginia, poverty isn't an idea, it's as natural as the grass grows. For a generation growing up in this world, at the heart of the modern opioid crisis, addiction isn't an abstraction, it's neighbours, parents, and friends. 'Family' could mean love, or reluctant foster care. For Demon, born on the wrong side of luck, the affection and safety he craves is as remote as the ocean he dreams of seeing one day. The wonder is in how far he's willing to travel to try and get there. Suffused with truth, anger and compassion, Demon Copperhead is an epic tale of love, loss and everything in between. ____________ Readers love Demon Copperhead: \u2b50\u2b50\u2b50\u2b50\u2b50 'Outstanding . . . I don't know how someone can write a book like this: inhabit a totally different character and create it with such empathy, respect and fullness.' \u2b50\u2b50\u2b50\u2b50\u2b50 'Powerful and brilliant. To immerse yourself in a Kingsolver novel is to put yourself in the hands of a master.' \u2b50\u2b50\u2b50\u2b50\u2b50 'This was one of the greatest books I have read . . . Kingsolver is a magician with words, and her rage quietly seeps from each page.' \u2b50\u2b50\u2b50\u2b50\u2b50 'Raw, angry, starkly beautiful . . . Genuinely one of the best books I've ever read.' \u2b50\u2b50\u2b50\u2b50\u2b50 'An incredibly raw and moving read, with a big-hearted hero who will stay with me for a long time.' \u2b50\u2b50\u2b50\u2b50\u2b50 'I cannot overstate how absorbing this book is. It is wonderful and has restored my faith in fiction and novels.'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780571376490"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0571376495"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 658,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.15.14.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Q5jEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Q5jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7Q5jEAAAQBAJ&dq=intitle:%22Demon+Copperhead%22+inauthor:%22Barbara+Kingsolver%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7Q5jEAAAQBAJ&dq=intitle:%22Demon+Copperhead%22+inauthor:%22Barbara+Kingsolver%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Demon_Copperhead.html?hl=&id=7Q5jEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Q5jEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . Genuinely one of the best books I&#39;ve ever read.&#39; \u2b50\u2b50\u2b50\u2b50\u2b50 &#39;An incredibly raw and moving read, with a big-hearted hero who will stay with me for a long time.&#39; \u2b50\u2b50\u2b50\u2b50\u2b50 &#39;I cannot overstate how absorbing this book is."
+      }
+    }
+  ]
+}

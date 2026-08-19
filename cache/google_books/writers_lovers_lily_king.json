@@ -1,0 +1,239 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Ol6lDwAAQBAJ",
+      "etag": "0I57UraiQJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ol6lDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Writers & Lovers",
+        "subtitle": "A Novel",
+        "authors": [
+          "Lily King"
+        ],
+        "publisher": "Grove Press",
+        "publishedDate": "2020-03-03",
+        "description": "#ReadWithJenna Book Club Pick as Featured on Today Emma Roberts Belletrist Book Club Pick A New York Times Book Review\u2019s Group Text Selection \"I loved this book not just from the first chapter or the first page but from the first paragraph... The voice is just so honest and riveting and insightful about creativity and life.\" \u2014Curtis Sittenfeld An extraordinary new novel of art, love, and ambition from Lily King, the New York Times bestselling author of Euphoria Following the breakout success of her critically acclaimed and award-winning novel Euphoria, Lily King returns with another instant New York Times bestseller: an unforgettable portrait of an artist as a young woman. Blindsided by her mother\u2019s sudden death, and wrecked by a recent love affair, Casey Peabody has arrived in Massachusetts in the summer of 1997 without a plan. Her mail consists of wedding invitations and final notices from debt collectors. A former child golf prodigy, she now waits tables in Harvard Square and rents a tiny, moldy room at the side of a garage where she works on the novel she\u2019s been writing for six years. At thirty-one, Casey is still clutching onto something nearly all her old friends have let go of: the determination to live a creative life. When she falls for two very different men at the same time, her world fractures even more. Casey\u2019s fight to fulfill her creative ambitions and balance the conflicting demands of art and life is challenged in ways that push her to the brink. Writers & Lovers follows Casey\u2014a smart and achingly vulnerable protagonist\u2014in the last days of a long youth, a time when every element of her life comes to a crisis. Written with King\u2019s trademark humor, heart, and intelligence, Writers & Lovers is a transfixing novel that explores the terrifying and exhilarating leap between the end of one phase of life and the beginning of another.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802148551"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0802148557"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.9.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ol6lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ol6lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ol6lDwAAQBAJ&printsec=frontcover&dq=intitle:%22Writers+%26+Lovers%22+inauthor:%22Lily+King%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ol6lDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ol6lDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 18,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ol6lDwAAQBAJ&rdid=book-Ol6lDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 18000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9000000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Writers_Lovers-sample-epub.acsm?id=Ol6lDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Writers_Lovers-sample-pdf.acsm?id=Ol6lDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ol6lDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "#ReadWithJenna Book Club Pick as Featured on Today Emma Roberts Belletrist Book Club Pick A New York Times Book Review\u2019s Group Text Selection &quot;I loved this book not just from the first chapter or the first page but from the first ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EDrkDwAAQBAJ",
+      "etag": "50RyYDHKs/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EDrkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Writers & Lovers",
+        "subtitle": "Roman",
+        "authors": [
+          "Lily King"
+        ],
+        "publisher": "C.H.Beck",
+        "publishedDate": "2020-07-16",
+        "description": "Nach dem gefeierten Bestseller \"Euphoria\" erz\u00e4hlt Lily King in \"Writers & Lovers\" treffsicher, intelligent und mit ureigenem Humor die Geschichte einer ebenso starken wie zerbrechlichen jungen Frau - und von der Zerrissenheit zwischen den Zw\u00e4ngen der Gesellschaft und den eigenen Tr\u00e4umen von einem anderen Leben. Als ihre Mutter pl\u00f6tzlich stirbt und Luke sie aus heiterem Himmel verl\u00e4sst, verliert Casey den Boden unter den F\u00fc\u00dfen. Ohne wirklichen Plan landet sie mit einem Schuldenberg aus dem Studium in Massachusetts, wo sie beginnt, als Kellnerin zu arbeiten. Bei ihren Versuchen, sich aus einem Netz von Abh\u00e4ngigkeiten zu befreien, ger\u00e4t sie immer wieder in Situationen mit M\u00e4nnern, die ihre Macht gegen sie ausspielen. Die einzige Konstante in ihrem Leben bleibt das Schreiben: Der Roman, an dem sie seit sechs Jahren arbeitet, wird ihr Fluchtort, ihr Schutzraum. Aber ist sie mit 31 Jahren nicht zu alt, um sich an den losen Traum eines Lebens als Schriftstellerin zu klammern? Ihre Entscheidung f\u00fcr das richtige Leben ist auch eine Entscheidung zwischen zwei M\u00e4nnern.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783406756993"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3406756999"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 375,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EDrkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EDrkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=EDrkDwAAQBAJ&dq=intitle:%22Writers+%26+Lovers%22+inauthor:%22Lily+King%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EDrkDwAAQBAJ&dq=intitle:%22Writers+%26+Lovers%22+inauthor:%22Lily+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Writers_Lovers.html?hl=&id=EDrkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EDrkDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nach dem gefeierten Bestseller &quot;Euphoria&quot; erz\u00e4hlt Lily King in &quot;Writers &amp; Lovers&quot; treffsicher, intelligent und mit ureigenem Humor die Geschichte einer ebenso starken wie zerbrechlichen jungen Frau - und von der Zerrissenheit zwischen den ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OcxGzgEACAAJ",
+      "etag": "nZDWsHpTBZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OcxGzgEACAAJ",
+      "volumeInfo": {
+        "title": "Writers & Lovers",
+        "authors": [
+          "Lily King"
+        ],
+        "publishedDate": "2020",
+        "description": "Casey has ended up back in Massachusetts after a devastating love affair. Her mother has just died and she is knocked sideways by grief and loneliness, moving between the restaurant where she waitresses for the Harvard elite and the rented shed she calls home.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1181748119"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OcxGzgEACAAJ&dq=intitle:%22Writers+%26+Lovers%22+inauthor:%22Lily+King%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OcxGzgEACAAJ&dq=intitle:%22Writers+%26+Lovers%22+inauthor:%22Lily+King%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Writers_Lovers.html?hl=&id=OcxGzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OcxGzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Casey has ended up back in Massachusetts after a devastating love affair."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Making Numbers Count",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2812382A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7540960A"
+      }
+    }
+  ],
+  "key": "/works/OL25282488W",
+  "covers": [
+    12420461
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-09-22T03:34:35.348429"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-11-14T20:14:32.674831"
+  }
+}

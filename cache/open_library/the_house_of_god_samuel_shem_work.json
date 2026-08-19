@@ -1,0 +1,63 @@
+{
+  "title": "The House of God",
+  "covers": [
+    7036971,
+    240101,
+    367443,
+    281868
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "We expect the world of doctors."
+  },
+  "first_publish_date": "1978",
+  "key": "/works/OL1884679W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL225606A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Fiction in English",
+    "Hospitals",
+    "Interns (Medicine)",
+    "Internship and Residency",
+    "Medical education",
+    "Medical students",
+    "Physicians",
+    "Popular works",
+    "Teaching hospitals",
+    "Fiction (fictional works by one author)",
+    "Literature",
+    "Residents (Medicine)",
+    "Nurses",
+    "Medical fiction",
+    "Fictional Works Publication Type",
+    "Church history",
+    "History",
+    "Medicine"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "As in all hospitals, the medical hierarchy of The House of God was a pyramid - a lot at the bottom and one at the top. Put another way, it was like an ice-cream cone...you had to lick your way up!Roy Basch, the 'red-hot' Rhodes Scholar, thought differently - but then he hadn't met Hyper Hooper, out to win the most post-mortems of the year award, nor Molly, the nurse with the crash helmet. He hadn't even met any of the Gomers ('Get Out of My Emergency Room!'), the no-hopers who wanted to die but who were worth more alive...The House of God is a wild and raunchily irreverent novel that teaches you the not-so-gentle arts of healing, and tells you what your doctor never wanted you to know. It is the best medicine since M*A*S*H, and does for the doctor's art what Catch-22 did for the art of war."
+  },
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:30:57.943294"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-09-18T17:47:06.789702"
+  }
+}

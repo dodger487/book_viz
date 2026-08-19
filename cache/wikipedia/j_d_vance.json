@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "JD Vance",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">JD Vance</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q28935729",
+  "titles": {
+    "canonical": "JD_Vance",
+    "normalized": "JD Vance",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">JD Vance</span></span>"
+  },
+  "pageid": 53396477,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28head-and-shoulders_cropped%29.jpg/330px-March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28head-and-shoulders_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_%28head-and-shoulders_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1837,
+    "height": 2448
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367447513",
+  "tid": "5df720c0-8eef-11f1-9a55-c3fb95c2bcfc",
+  "timestamp": "2026-08-03T03:56:55Z",
+  "description": "Vice President of the United States since 2025",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/JD_Vance",
+      "revisions": "https://en.wikipedia.org/wiki/JD_Vance?action=history",
+      "edit": "https://en.wikipedia.org/wiki/JD_Vance?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:JD_Vance"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/JD_Vance",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/JD_Vance",
+      "edit": "https://en.wikipedia.org/wiki/JD_Vance?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:JD_Vance"
+    }
+  },
+  "extract": "James David Vance is an American politician, author, and venture capitalist serving as the 50th vice president of the United States. A member of the Republican Party, he represented the state of Ohio in the United States Senate from 2023 to 2025.",
+  "extract_html": "<p><b>James David Vance</b> is an American politician, author, and venture capitalist serving as the 50th vice president of the United States. A member of the Republican Party, he represented the state of Ohio in the United States Senate from 2023 to 2025.</p>"
+}

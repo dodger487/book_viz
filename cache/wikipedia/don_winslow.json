@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Don Winslow",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Don Winslow</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q908571",
+  "titles": {
+    "canonical": "Don_Winslow",
+    "normalized": "Don Winslow",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Don Winslow</span></span>"
+  },
+  "pageid": 3219284,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/El_escritor_Don_Winslow.jpg/330px-El_escritor_Don_Winslow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 485
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/El_escritor_Don_Winslow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1141,
+    "height": 1677
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1351132007",
+  "tid": "7ea71fa6-411b-11f1-a09e-9d196ae1fb1d",
+  "timestamp": "2026-04-26T02:56:17Z",
+  "description": "American author (born 1953)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Don_Winslow",
+      "revisions": "https://en.wikipedia.org/wiki/Don_Winslow?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Don_Winslow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_Winslow"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Don_Winslow",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Don_Winslow",
+      "edit": "https://en.wikipedia.org/wiki/Don_Winslow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_Winslow"
+    }
+  },
+  "extract": "Don Winslow is an American author best known for his crime novels including Savages, The Force and the Cartel Trilogy.",
+  "extract_html": "<p><b>Don Winslow</b> is an American author best known for his crime novels including <i>Savages</i>, <i>The Force</i> and the Cartel Trilogy.</p>"
+}

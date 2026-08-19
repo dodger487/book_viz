@@ -1,0 +1,151 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NJRlvgAACAAJ",
+      "etag": "mhpaXMERGgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NJRlvgAACAAJ",
+      "volumeInfo": {
+        "title": "The Attention Merchants",
+        "subtitle": "The Epic Scramble to Get Inside Our Heads",
+        "authors": [
+          "Tim Wu"
+        ],
+        "publishedDate": "2017",
+        "description": "A revelatory look at the rise of the 'attention merchants', the advertising marketeers who influence and control our consumption in ways previously unimagined",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1782394834"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782394839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Advertising"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NJRlvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NJRlvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NJRlvgAACAAJ&dq=intitle:%22The+Attention+Merchants%22+inauthor:%22Tim+Wu%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NJRlvgAACAAJ&dq=intitle:%22The+Attention+Merchants%22+inauthor:%22Tim+Wu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Attention_Merchants.html?hl=&id=NJRlvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NJRlvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A revelatory look at the rise of the &#39;attention merchants&#39;, the advertising marketeers who influence and control our consumption in ways previously unimagined"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hHcNzwEACAAJ",
+      "etag": "xtxoOrBlh7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hHcNzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Attention Merchants",
+        "subtitle": "The Epic Scramble to Get Inside Our Heads",
+        "authors": [
+          "Tim Wu"
+        ],
+        "publishedDate": "2016",
+        "description": "From Tim Wu, author of the award-winning The Master Switch and who coined the phrase \"net neutrality\"--A revelatory look at the rise of \"attention harvesting,\" and its transformative effect on our society and our selves. Attention merchant: an industrial-scale harvester of human attention. A firm whose business model is the mass capture of attention for resale to advertisers. In nearly every moment of our waking lives, we face a barrage of advertising enticements, branding efforts, sponsored social media, commercials and other efforts to harvest our attention. Over the last century, few times or spaces have remained uncultivated by the \"attention merchants,\" contributing to the distracted, unfocused tenor of our times. Tim Wu argues that this is not simply the byproduct of recent inventions but the end result of more than a century's growth and expansion in the industries that feed on human attention. From the pre-Madison Avenue birth of advertising to TV's golden age to our present age of radically individualized choices, the business model of \"attention merchants\" has always been the same. He describes the revolts that have risen against these relentless attempts to influence our consumption, from the remote control to FDA regulations to Apple's ad-blocking OS. But he makes clear that attention merchants grow ever-new heads, and their means of harvesting our attention have given rise to the defining industries of our time, changing our nature-cognitive, social, and otherwise-in ways unimaginable even a generation ago. From the Hardcover edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1524709271"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524709273"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "BUSINESS & ECONOMICS"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hHcNzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hHcNzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hHcNzwEACAAJ&dq=intitle:%22The+Attention+Merchants%22+inauthor:%22Tim+Wu%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hHcNzwEACAAJ&dq=intitle:%22The+Attention+Merchants%22+inauthor:%22Tim+Wu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Attention_Merchants.html?hl=&id=hHcNzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hHcNzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tim Wu argues that this is not simply the byproduct of recent inventions but the end result of more than a century&#39;s growth and expansion in the industries that feed on human attention."
+      }
+    }
+  ]
+}

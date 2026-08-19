@@ -1,0 +1,38 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7564045A"
+      ],
+      "author_name": [
+        "Camille Fournier"
+      ],
+      "cover_i": 8667291,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "managerspathguid0000four"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19860807W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Guide for Tech Leaders Navigating Growth and Change",
+      "title": "The Manager's Path"
+    }
+  ]
+}

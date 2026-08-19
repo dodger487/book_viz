@@ -1,0 +1,52 @@
+{
+  "description": "2047: and for sixty years America has been quarantined after a devastating nuclear attack.\r\n\r\nSeventeen-year-old Henry wants to help make America great again. Like it was before all the bombs went off. But for the people of Onofre Valley, on the coast of California, just surviving is challenge enough. Living simply on what the sea and land can provide, they strive to preserve what knowledge and skills they can in a society without mass communications. Then one day the world comes to Henry, in the shape of two men who say they represent the new American resistance. And Henry and his friends are drawn into an adventure that will make the end of their childhood...\r\n \r\nThe Wild Shore is the first novel in Kim Stanley Robinson's Three Californias Trilogy.",
+  "title": "The Wild Shore",
+  "covers": [
+    183637,
+    4629629,
+    13168314,
+    13168309
+  ],
+  "subject_places": [
+    "California",
+    "San Diego",
+    "Orange County",
+    "San Onofre",
+    "Los Angeles"
+  ],
+  "subjects": [
+    "science fiction",
+    "California",
+    "post-apocalyptic",
+    "Fiction, science fiction, general",
+    "California, fiction",
+    "Fiction"
+  ],
+  "key": "/works/OL81666W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19986A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "2047"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T04:57:55.334864"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-08-01T19:34:31.183117"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "8-0KDAAAQBAJ",
+      "etag": "xukT2j84Xaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8-0KDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Magicians",
+        "subtitle": "A Novel",
+        "authors": [
+          "Lev Grossman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2010-05-25",
+        "description": "Lev Grossman\u2019s new novel THE BRIGHT SWORD is out now! The New York Times bestselling novel about a young man practicing magic in the real world, now an original series on SYFY \u201cThe Magicians is to Harry Potter as a shot of Irish whiskey is to a glass of weak tea. . . . Hogwarts was never like this.\u201d \u2014George R.R. Martin \u201cSad, hilarious, beautiful, and essential to anyone who cares about modern fantasy.\u201d \u2014Joe Hill \u201cA very knowing and wonderful take on the wizard school genre.\u201d \u2014John Green \u201cThe Magicians may just be the most subversive, gripping and enchanting fantasy novel I\u2019ve read this century.\u201d \u2014Cory Doctorow \u201cThis gripping novel draws on the conventions of contemporary and classic fantasy novels in order to upend them . . . an unexpectedly moving coming-of-age story.\u201d \u2014The New Yorker \u201cThe best urban fantasy in years.\u201d \u2014A.V. Club Quentin Coldwater is brilliant but miserable. A high school math genius, he\u2019s secretly fascinated with a series of children\u2019s fantasy novels set in a magical land called Fillory, and real life is disappointing by comparison. When Quentin is unexpectedly admitted to an elite, secret college of magic, it looks like his wildest dreams have come true. But his newfound powers lead him down a rabbit hole of hedonism and disillusionment, and ultimately to the dark secret behind the story of Fillory. The land of his childhood fantasies turns out to be much darker and more dangerous than he ever could have imagined. . . . The prequel to the New York Times bestselling book The Magician King and the #1 bestseller The Magician's Land, The Magicians is one of the most daring and inventive works of literary fantasy in years. No one who has escaped into the worlds of Narnia and Harry Potter should miss this breathtaking return to the landscape of the imagination.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780452296299"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0452296293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8-0KDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8-0KDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8-0KDAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Magicians%22+inauthor:%22Lev+Grossman%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8-0KDAAAQBAJ&dq=intitle:%22The+Magicians%22+inauthor:%22Lev+Grossman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magicians.html?hl=&id=8-0KDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8-0KDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But his newfound powers lead him down a rabbit hole of hedonism and disillusionment, and ultimately to the dark secret behind the story of Fillory."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7qrgBwAAQBAJ",
+      "etag": "5pfXoUXQnA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7qrgBwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Magicians Trilogy Books 1-3",
+        "subtitle": "The Magicians; The Magician King; The Magicians Land",
+        "authors": [
+          "Lev Grossman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2015-06-09",
+        "description": "The entire #1 New York Times bestselling Magicians trilogy, including The Magicians, The Magician King, and The Magician's Land, now available in one ebook bundle The Magicians Quentin Coldwater is brilliant but miserable. A high school math genius, he\u2019s secretly fascinated with a series of children\u2019s fantasy novels set in a magical land called Fillory, and real life is disappointing by comparison. When Quentin is unexpectedly admitted to an elite, secret college of magic, it looks like his wildest dreams may have come true. But his newfound powers lead him down a rabbit hole of hedonism and disillusionment, and ultimately to the dark secret behind the story of Fillory. The land of his childhood fantasies turns out to be much darker and more dangerous than he ever could have imagined . . . The Magicians is one of the most daring and inventive works of literary fantasy in years. No one who has escaped into the worlds of Narnia and Harry Potter should miss this breathtaking return to the landscape of the imagination. The Magician King Quentin Coldwater should be happy. He escaped a miserable Brooklyn childhood, matriculated at a secret college for magic, and graduated to discover that Fillory\u2014a fictional utopia\u2014was actually real. But even as a Fillorian king, Quentin finds little peace. His old restlessness returns, and he longs for the thrills a heroic quest can bring. Accompanied by his oldest friend, Julia, Quentin sets off\u2014only to somehow wind up back in the real-world and not in Fillory, as they\u2019d hoped. As the pair struggle to find their way back to their lost kingdom, Quentin is forced to rely on Julia\u2019s illicitly learned sorcery as they face a sinister threat in a world very far from the beloved fantasy novels of their youth. The Magician's Land Quentin Coldwater has lost everything. He has been cast out of Fillory, the secret magical world of his childhood dreams that he once ruled. With nothing left to lose he returns to where his story began, the Brakebills Preparatory College of Magic. But he can\u2019t hide from his past, and it\u2019s not long before it comes looking for him. Meanwhile, the magical barriers that keep Fillory safe are failing, and barbarians from the north have invaded. Eliot and Janet, the rulers of Fillory, embark on a final quest to save their beloved world, only to discover a situation far more complex\u2014and far more dire\u2014than anyone had envisioned. Along with Plum, a brilliant young magician with a dark secret of her own, Quentin sets out on a crooked path through a magical demimonde of gray magic and desperate characters. His new life takes him back to old haunts, like Antarctica and the Neitherlands, and old friends he thought were lost forever. The Magician\u2019s Land is an intricate and fantastical thriller, and an epic of love and redemption that brings the Magicians trilogy to a magnificent conclusion, confirming it as one of the great achievements in modern fantasy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101664902"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101664908"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1415,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7qrgBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7qrgBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7qrgBwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Magicians%22+inauthor:%22Lev+Grossman%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7qrgBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7qrgBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 34.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7qrgBwAAQBAJ&rdid=book-7qrgBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 34990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Magicians_Trilogy_Books_1_3-sample-epub.acsm?id=7qrgBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7qrgBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But his newfound powers lead him down a rabbit hole of hedonism and disillusionment, and ultimately to the dark secret behind the story of Fillory."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RV-7zgEACAAJ",
+      "etag": "oBOP1fV1V2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RV-7zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Magicians",
+        "subtitle": "A Novel",
+        "authors": [
+          "Lev Grossman"
+        ],
+        "publishedDate": "2015",
+        "description": "\"Quentin Coldwater's life is changed forever by an apparently chance encounter: when he turns up for his entrance interview to Princeton he finds his interviewer dead - but a strange envelope bearing Quentin's name leads him down a very different path to any he'd ever imagined. The envelope, and the mysterious manuscript it contains, leads to a secret world of obsession and privilege, a world of freedom and power and, for a while, it's a world that seems to answer all Quentin's desires. But the idyll cannot last - and when it's finally shattered, Quentin is drawn into something darker and far more dangerous than anything he could ever have expected.\"--Publisher description.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1225863706"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "College graduates"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RV-7zgEACAAJ&dq=intitle:%22The+Magicians%22+inauthor:%22Lev+Grossman%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RV-7zgEACAAJ&dq=intitle:%22The+Magicians%22+inauthor:%22Lev+Grossman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Magicians.html?hl=&id=RV-7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RV-7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Quentin Coldwater&#39;s life is changed forever by an apparently chance encounter: when he turns up for his entrance interview to Princeton he finds his interviewer dead - but a strange envelope bearing Quentin&#39;s name leads him down a very ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Brandon Sanderson's Fantasy Firsts : (the Way of Kings, Mistborn: the Final Empire, Rithmatist, Alcatraz vs. the Evil Librarians)",
+  "subjects": [
+    "Children's fiction",
+    "Fantasy fiction"
+  ],
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1394865A"
+      }
+    }
+  ],
+  "key": "/works/OL25870671W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-09T03:31:45.269844"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-11-25T08:54:42.994236"
+  }
+}

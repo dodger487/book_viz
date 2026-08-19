@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "John le Carr\u00e9",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John le Carr\u00e9</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q209641",
+  "titles": {
+    "canonical": "John_le_Carr\u00e9",
+    "normalized": "John le Carr\u00e9",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John le Carr\u00e9</span></span>"
+  },
+  "pageid": 180618,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/John_le_Carre.jpg/330px-John_le_Carre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 493
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/John_le_Carre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2592,
+    "height": 3872
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367973503",
+  "tid": "72dfeb60-916b-11f1-8276-50b9fb99c351",
+  "timestamp": "2026-08-06T07:50:10Z",
+  "description": "Irish-British novelist and former spy (1931\u20132020)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9",
+      "revisions": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9?action=history",
+      "edit": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_le_Carr%C3%A9"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/John_le_Carr%C3%A9",
+      "edit": "https://en.wikipedia.org/wiki/John_le_Carr%C3%A9?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_le_Carr%C3%A9"
+    }
+  },
+  "extract": "David John Moore Cornwell, known by his pen name John le Carr\u00e9, was an English author. \nMany of his espionage novels have been adapted for film or television. He has been described as a \"sophisticated, morally ambiguous writer\", and is considered one of the greatest novelists of the postwar era. During the 1950s and 1960s, he worked for both the Security Service (MI5) and the Secret Intelligence Service (MI6). Near the end of his life, le Carr\u00e9 became an Irish citizen.",
+  "extract_html": "<p><b>David John Moore Cornwell</b>, known by his pen name <b>John le Carr\u00e9</b>, was an English author. \nMany of his espionage novels have been adapted for film or television. He has been described as a \"sophisticated, morally ambiguous writer\", and is considered one of the greatest novelists of the postwar era. During the 1950s and 1960s, he worked for both the Security Service (MI5) and the Secret Intelligence Service (MI6). Near the end of his life, le Carr\u00e9 became an Irish citizen.</p>"
+}

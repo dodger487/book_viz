@@ -1,0 +1,247 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PLkUDAEACAAJ",
+      "etag": "OhkloCL0Fdg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PLkUDAEACAAJ",
+      "volumeInfo": {
+        "title": "Pachinko (National Book Award Finalist)",
+        "authors": [
+          "Min Jin Lee"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2017-02-07",
+        "description": "A New York Times Top Ten Book of the Year and National Book Award finalist, Pachinko is an \"extraordinary epic\" of four generations of a poor Korean immigrant family as they fight to control their destiny in 20th-century Japan (San Francisco Chronicle). NEW YORK TIMES NOTABLE BOOK OF 2017 * A USA TODAY TOP TEN OF 2017 * JULY PICK FOR THE PBS NEWSHOUR-NEW YORK TIMES BOOK CLUB NOW READ THIS * FINALIST FOR THE 2018 DAYTON LITERARY PEACE PRIZE* WINNER OF THE MEDICI BOOK CLUB PRIZE Roxane Gay's Favorite Book of 2017, Washington Post NEW YORK TIMES BESTSELLER * #1 BOSTON GLOBE BESTSELLER * USA TODAY BESTSELLER * WALL STREET JOURNAL BESTSELLER * WASHINGTON POST BESTSELLER \"There could only be a few winners, and a lot of losers. And yet we played on, because we had hope that we might be the lucky ones.\" In the early 1900s, teenaged Sunja, the adored daughter of a crippled fisherman, falls for a wealthy stranger at the seashore near her home in Korea. He promises her the world, but when she discovers she is pregnant--and that her lover is married--she refuses to be bought. Instead, she accepts an offer of marriage from a gentle, sickly minister passing through on his way to Japan. But her decision to abandon her home, and to reject her son's powerful father, sets off a dramatic saga that will echo down through the generations. Richly told and profoundly moving, Pachinko is a story of love, sacrifice, ambition, and loyalty. From bustling street markets to the halls of Japan's finest universities to the pachinko parlors of the criminal underworld, Lee's complex and passionate characters--strong, stubborn women, devoted sisters and sons, fathers shaken by moral crisis--survive and thrive against the indifferent arc of history. *Includes reading group guide*",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1455569496"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781455569496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PLkUDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PLkUDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PLkUDAEACAAJ&dq=intitle:%22Pachinko%22+inauthor:%22Min+Jin+Lee%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PLkUDAEACAAJ&dq=intitle:%22Pachinko%22+inauthor:%22Min+Jin+Lee%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pachinko_National_Book_Award_Finalist.html?hl=&id=PLkUDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PLkUDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES NOTABLE BOOK OF 2017 * A USA TODAY TOP TEN OF 2017 * JULY PICK FOR THE PBS NEWSHOUR-NEW YORK TIMES BOOK CLUB NOW READ THIS * FINALIST FOR THE 2018 DAYTON LITERARY PEACE PRIZE* WINNER OF THE MEDICI BOOK CLUB PRIZE Roxane Gay&#39;s ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JsFMvgAACAAJ",
+      "etag": "LgD1NE1j2ak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JsFMvgAACAAJ",
+      "volumeInfo": {
+        "title": "Pachinko",
+        "authors": [
+          "Min Jin Lee"
+        ],
+        "publishedDate": "2017-02-01",
+        "description": "A Victorian epic transplanted to Japan, following a Korean family of immigrants through eight decades and four generations. Busan, Korea 1911: A club-footed, cleft-lipped man marries a fteen-year-old beauty. The couple have one child, their beloved daughter Sunja. When Sunja falls pregnant by a married yakuza, the family face ruin. But then Isak, a Christian minister, offers her a chance of salvation: a new life in Japan as his wife. Following a man she barely knows to a hostile country in which she has no friends, no home, and whose language she cannot speak, Sunja's salvation is just the beginning of her story. Through eight decades and four generations, Pachinko is an epic tale of family, identity, love, death and survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1786691361"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786691361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JsFMvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JsFMvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JsFMvgAACAAJ&dq=intitle:%22Pachinko%22+inauthor:%22Min+Jin+Lee%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JsFMvgAACAAJ&dq=intitle:%22Pachinko%22+inauthor:%22Min+Jin+Lee%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pachinko.html?hl=&id=JsFMvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JsFMvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through eight decades and four generations, Pachinko is an epic tale of family, identity, love, death and survival."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "odirEAAAQBAJ",
+      "etag": "K8Rl4MT1q7s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/odirEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Pachinko",
+        "authors": [
+          "Min Jin Lee",
+          "Laura Bourgeois"
+        ],
+        "publisher": "\u00c9ditions Charleston",
+        "publishedDate": "2022-01-06",
+        "description": "L\u2019histoire nous a failli, mais qu\u2019importe. D\u00e9but des ann\u00e9es 1930. Dans un petit village cor\u00e9en, la jeune Sunja se laisse s\u00e9duire par les belles paroles et tendres attentions d\u2019un riche \u00e9tranger. Lorsqu\u2019elle d\u00e9couvre qu\u2019elle est enceinte et que son amant est d\u00e9j\u00e0 mari\u00e9, elle est confront\u00e9e \u00e0 un choix : devenir, comme tant d\u2019autres jeunes femmes dans sa situation, une seconde \u00e9pouse, une \u00ab \u00e9pouse cor\u00e9enne \u00bb ou couvrir sa famille de d\u00e9shonneur. Elle choisira une troisi\u00e8me voie : le mariage avec Isak, un pasteur chr\u00e9tien qu\u2019elle conna\u00eet \u00e0 peine et qui lui offre une nouvelle existence au Japon. Cette d\u00e9cision est le point de d\u00e9part d\u2019un douloureux exil qui s\u2019\u00e9tendra sur huit d\u00e9cennies et quatre g\u00e9n\u00e9rations. Avec une justesse historique remarquable et une \u00e9criture pr\u00e9cise et d\u00e9pouill\u00e9e, Min Jin Lee nous offre, \u00e0 travers un si\u00e8cle de relations nipp-ocor\u00e9ennes, un hymne intime et poignant \u00e0 tous les sacrifices que font les immigr\u00e9s pour trouver leur place en pays \u00e9trangers. \u00ab UN V\u00c9RITABLE HOMMAGE AUX GENS QUE L\u2019HISTOIRE SEMBLE D\u00c9TERMIN\u00c9E \u00c0 EFFACER. \u00bb - The Guardian N\u00e9e \u00e0 S\u00e9oul, Min Jin Lee a immigr\u00e9 aux \u00c9tats-Unis avec sa famille \u00e0 l\u2019\u00e2ge de sept ans. Elle a \u00e9galement v\u00e9cu \u00e0 Tokyo, o\u00f9 elle a \u00e9crit Pachinko, son deuxi\u00e8me roman. Elle vit aujourd\u2019hui \u00e0 New York. Finaliste du National Book Award en 2017, Pachinko s\u2019est imm\u00e9diatement hiss\u00e9 au rang de bestseller international et est rest\u00e9 plus d\u2019un an en t\u00eate des ventes du New York Times. Il a \u00e9t\u00e9 traduit dans 30 langues et est en cours d\u2019adaptation cin\u00e9matographique.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782368125809"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2368125809"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 513,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=odirEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=odirEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=odirEAAAQBAJ&printsec=frontcover&dq=intitle:%22Pachinko%22+inauthor:%22Min+Jin+Lee%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=odirEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=odirEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=odirEAAAQBAJ&rdid=book-odirEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pachinko-sample-epub.acsm?id=odirEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pachinko-sample-pdf.acsm?id=odirEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=odirEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Elle a \u00e9galement v\u00e9cu \u00e0 Tokyo, o\u00f9 elle a \u00e9crit Pachinko, son deuxi\u00e8me roman. Elle vit aujourd\u2019hui \u00e0 New York."
+      }
+    }
+  ]
+}

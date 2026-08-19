@@ -1,0 +1,53 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL582439A"
+      ],
+      "author_name": [
+        "Christopher H. Achen"
+      ],
+      "cover_edition_key": "OL27209930M",
+      "cover_i": 12514398,
+      "ebook_access": "printdisabled",
+      "edition_count": 4,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "democracyforreal0000ache"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "printdisabled",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL20029883W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Democracy for realists"
+    }
+  ]
+}

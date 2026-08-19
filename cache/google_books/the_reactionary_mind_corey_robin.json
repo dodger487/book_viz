@@ -1,0 +1,173 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fpc4DwAAQBAJ",
+      "etag": "mDadRRzDFhM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fpc4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Reactionary Mind",
+        "subtitle": "Conservatism from Edmund Burke to Donald Trump",
+        "authors": [
+          "Corey Robin"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2017-10-12",
+        "description": "Late in life, William F. Buckley made a confession to Corey Robin. Capitalism is \"boring,\" said the founding father of the American right. \"Devoting your life to it,\" as conservatives do, \"is horrifying if only because it's so repetitious. It's like sex.\" With this unlikely conversation began Robin's decade-long foray into the conservative mind. What is conservatism, and what's truly at stake for its proponents? If capitalism bores them, what excites them? In The Reactionary Mind, Robin traces conservatism back to its roots in the reaction against the French Revolution. He argues that the right was inspired, and is still united, by its hostility to emancipating the lower orders. Some conservatives endorse the free market; others oppose it. Some criticize the state; others celebrate it. Underlying these differences is the impulse to defend power and privilege against movements demanding freedom and equality -- while simultaneously making populist appeals to the masses. Despite their opposition to these movements, conservatives favor a dynamic conception of politics and society -- one that involves self-transformation, violence, and war. They are also highly adaptive to new challenges and circumstances. This partiality to violence and capacity for reinvention have been critical to their success. Written by a highly-regarded, keen observer of the contemporary political scene, The Reactionary Mind ranges widely, from Edmund Burke to Antonin Scalia and Donald Trump, and from John C. Calhoun to Ayn Rand. It advances the notion that all right-wing ideologies, from the eighteenth century through today, are improvisations on a theme: the felt experience of having power, seeing it threatened, and trying to win it back. When its first edition appeared in 2011, The Reactionary Mind set off a fierce debate. It has since been acclaimed as \"the book that predicted Trump\" (New Yorker) and \"one of the more influential political works of the last decade\" (Washington Monthly). Now updated to include Trump's election and his first one hundred days in office, The Reactionary Mind is more relevant than ever.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780190692018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0190692014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fpc4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fpc4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fpc4DwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Reactionary+Mind%22+inauthor:%22Corey+Robin%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fpc4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fpc4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fpc4DwAAQBAJ&rdid=book-fpc4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Reactionary_Mind-sample-pdf.acsm?id=fpc4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fpc4DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It has since been acclaimed as &quot;the book that predicted Trump&quot; (New Yorker) and &quot;one of the more influential political works of the last decade&quot; (Washington Monthly)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8m7xuQEACAAJ",
+      "etag": "gh2aVQm8fu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8m7xuQEACAAJ",
+      "volumeInfo": {
+        "title": "The Reactionary Mind",
+        "subtitle": "Conservatism from Edmund Burke to Sarah Palin",
+        "authors": [
+          "Corey Robin"
+        ],
+        "publishedDate": "2011",
+        "description": "In this book, political scientist Corey Robin makes a strikingly bold claim about the right's political and intellectual foundations. He contends that from the 18th century through today, the right has been united by a defense of inequality and privilege and by a deep hostility to all forms of progressive politics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0190252553"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780190252557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Conservatism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8m7xuQEACAAJ&dq=intitle:%22The+Reactionary+Mind%22+inauthor:%22Corey+Robin%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8m7xuQEACAAJ&dq=intitle:%22The+Reactionary+Mind%22+inauthor:%22Corey+Robin%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Reactionary_Mind.html?hl=&id=8m7xuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8m7xuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, political scientist Corey Robin makes a strikingly bold claim about the right&#39;s political and intellectual foundations."
+      }
+    }
+  ]
+}

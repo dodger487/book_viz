@@ -1,0 +1,114 @@
+{
+  "numFound": 7,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 7,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL24657A"
+      ],
+      "author_name": [
+        "Lisa See"
+      ],
+      "cover_edition_key": "OL23627119M",
+      "cover_i": 6287533,
+      "ebook_access": "printdisabled",
+      "edition_count": 8,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "shanghaigirlsnov00seel",
+        "shanghaigirlsnov0000seel_e8a0",
+        "shanghaigirlsno00seel",
+        "shanghaigirlsnov00seel_0"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL14927216W",
+      "language": [
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "subtitle": "a novel",
+      "title": "Shanghai girls"
+    },
+    {
+      "author_key": [
+        "OL24657A"
+      ],
+      "author_name": [
+        "Lisa See"
+      ],
+      "cover_edition_key": "OL28284970M",
+      "cover_i": 10210237,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "dreamsofjoy0000seel",
+        "dreamsofjoynovel0000seel"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19671459W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Dreams of Joy (Shanghai Girls #2)"
+    },
+    {
+      "author_key": [
+        "OL24657A"
+      ],
+      "author_name": [
+        "Lisa See"
+      ],
+      "cover_edition_key": "OL31912303M",
+      "cover_i": 10593358,
+      "ebook_access": "printdisabled",
+      "edition_count": 4,
+      "first_publish_year": 2009,
+      "has_fulltext": true,
+      "ia": [
+        "shanghaigirls0000seel_h4q6"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL24174370W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Shanghai girls"
+    }
+  ]
+}

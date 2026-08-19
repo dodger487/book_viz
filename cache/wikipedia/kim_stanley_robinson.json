@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Kim Stanley Robinson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kim Stanley Robinson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q130779",
+  "titles": {
+    "canonical": "Kim_Stanley_Robinson",
+    "normalized": "Kim Stanley Robinson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kim Stanley Robinson</span></span>"
+  },
+  "pageid": 16807,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kim_Stanley_Robinson_by_Christopher_Michel_3-19-25429980.jpg/330px-Kim_Stanley_Robinson_by_Christopher_Michel_3-19-25429980.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 462
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kim_Stanley_Robinson_by_Christopher_Michel_3-19-25429980.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3152,
+    "height": 4413
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366621159",
+  "tid": "df6a4092-8af8-11f1-b33f-42667c4ff295",
+  "timestamp": "2026-07-29T02:54:53Z",
+  "description": "American science fiction writer (born 1952)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson",
+      "revisions": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kim_Stanley_Robinson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Kim_Stanley_Robinson",
+      "edit": "https://en.wikipedia.org/wiki/Kim_Stanley_Robinson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kim_Stanley_Robinson"
+    }
+  },
+  "extract": "Kim Stanley Robinson is an American science fiction writer best known for his Mars trilogy of novels. Many of his novels and stories have ecological, cultural, and political themes, featuring scientists as heroes. Robinson has won numerous awards, including the Hugo Award for Best Novel, the Nebula Award for Best Novel, and the World Fantasy Award. The Atlantic magazine has called Robinson's work \"the gold standard of realistic, and highly literary, science-fiction writing.\" According to The New Yorker magazine, Robinson is \"generally acknowledged as one of the greatest living science-fiction writers.\"",
+  "extract_html": "<p><b>Kim Stanley Robinson</b> is an American science fiction writer best known for his <span><i>Mars</i> trilogy</span> of novels. Many of his novels and stories have ecological, cultural, and political themes, featuring scientists as heroes. Robinson has won numerous awards, including the Hugo Award for Best Novel, the Nebula Award for Best Novel, and the World Fantasy Award. <i>The Atlantic</i> magazine has called Robinson's work \"the gold standard of realistic, and highly literary, science-fiction writing.\" According to <i>The New Yorker</i> magazine, Robinson is \"generally acknowledged as one of the greatest living science-fiction writers.\"</p>"
+}

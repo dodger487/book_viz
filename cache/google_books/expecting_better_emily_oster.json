@@ -1,0 +1,258 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "d2ZDPEpsiWMC",
+      "etag": "5ohns6vIzss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d2ZDPEpsiWMC",
+      "volumeInfo": {
+        "title": "Expecting Better",
+        "subtitle": "Why the Conventional Pregnancy Wisdom Is Wrong--and What You Really Need to Know",
+        "authors": [
+          "Emily Oster"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-08-20",
+        "description": "Fully revised and updated for 2025, from the bestselling author of Cribsheet, The Family Firm, and The Unexpected \u201cA revelation for curious mothers-to-be whose doctors fail to lay out the pros and cons of that morning latte, let alone discuss real science.\u201d \u2014The New York Times \u201cEmily Oster is the non-judgmental girlfriend holding our hand and guiding us through pregnancy and motherhood. She has done the work to get us the hard facts in a soft, understandable way.\u201d \u2014Amy Schumer The award-winning economist named one of TIME Magazine\u2019s 100 most influential people disproves standard recommendations about pregnancy to empower women while they're expecting. Pregnancy\u2014unquestionably one of the most pro\u00adfound, meaningful experiences of adulthood\u2014can reduce otherwise intelligent women to, well, babies. Pregnant women are told to avoid cold cuts, sushi, alcohol, and coffee without ever being told why these are forbidden. Rules for prenatal testing are similarly unexplained. Parents-to-be desperately want a resource that empowers them to make their own right choices. When award-winning economist Emily Oster was a mom-to-be herself, she evaluated the data behind the accepted rules of pregnancy, and discovered that most are often misguided and some are just flat-out wrong. Debunking myths and explaining everything from the real effects of caffeine to the surprising dangers of gardening, Expecting Better is the book for every pregnant woman who wants to enjoy a healthy and relaxed pregnancy\u2014and the occasional glass of wine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101617939"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101617934"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.27.24.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d2ZDPEpsiWMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d2ZDPEpsiWMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d2ZDPEpsiWMC&printsec=frontcover&dq=intitle:%22Expecting+Better%22+inauthor:%22Emily+Oster%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=d2ZDPEpsiWMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d2ZDPEpsiWMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=d2ZDPEpsiWMC&rdid=book-d2ZDPEpsiWMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Expecting_Better-sample-epub.acsm?id=d2ZDPEpsiWMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d2ZDPEpsiWMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pregnant women are told to avoid cold cuts, sushi, alcohol, and coffee without ever being told why these are forbidden. Rules for prenatal testing are similarly unexplained."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7UbSEQAAQBAJ",
+      "etag": "vKDkSnN/T9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7UbSEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Expecting Better",
+        "authors": [
+          " Emily Oster"
+        ],
+        "publisher": "Fastchapters",
+        "publishedDate": "2026-04-20",
+        "description": "Imagine a world where pregnancy and parenting aren't dictated by rigid rules and cultural dogma. A world where you, as a parent, are empowered to make informed, confident decisions tailored to your unique situation. This world exists, and it starts with 'Expecting Better.' In a culture overwhelmed by conflicting advice and relentless pressure to conform, this book cuts through the noise to deliver evidence-based guidance that prioritizes your well-being and your child's health. You'll discover the myths and misconceptions surrounding pregnancy, from the 'perfect pregnancy' illusion to the hidden costs of prenatal perfectionism. Through real-life stories and tactical experiments, you'll learn to navigate the complexities of medical advice, embrace situational flexibility, and trust your instincts. This isn't just another parenting manual; it's a revolution in how we approach pregnancy and parenthood. It's time to challenge the status quo, reduce unnecessary stress, and rediscover the joy and confidence of parenthood. Because you deserve better. Your child deserves better. And together, we can expect better. Dive into the science, debunk the myths, and reclaim your journey with clarity and confidence. Your unique situation, your values, your fears, and your hopes are at the heart of this transformative experience. Join the movement and expect better.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7UbSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7UbSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7UbSEQAAQBAJ&printsec=frontcover&dq=intitle:%22Expecting+Better%22+inauthor:%22Emily+Oster%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7UbSEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7UbSEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7UbSEQAAQBAJ&rdid=book-7UbSEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Expecting_Better-sample-epub.acsm?id=7UbSEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Expecting_Better-sample-pdf.acsm?id=7UbSEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7UbSEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; In a culture overwhelmed by conflicting advice and relentless pressure to conform, this book cuts through the noise to deliver evidence-based guidance that prioritizes your well-being and your child&#39;s health."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W_Hn0QEACAAJ",
+      "etag": "iAL1nW8ce7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W_Hn0QEACAAJ",
+      "volumeInfo": {
+        "title": "Expecting Better: Why the Conventional Pregnancy Wisdom Is Wrong--And What You Really Need to Know (the Parentdata) (Spiral-bound)",
+        "authors": [
+          "Emily Oster"
+        ],
+        "publishedDate": "2014-06-24",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "196741422X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781967414222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W_Hn0QEACAAJ&dq=intitle:%22Expecting+Better%22+inauthor:%22Emily+Oster%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=W_Hn0QEACAAJ&dq=intitle:%22Expecting+Better%22+inauthor:%22Emily+Oster%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Expecting_Better_Why_the_Conventional_Pr.html?hl=&id=W_Hn0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W_Hn0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

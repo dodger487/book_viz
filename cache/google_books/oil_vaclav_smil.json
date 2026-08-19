@@ -1,0 +1,246 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wB69DwAAQBAJ",
+      "etag": "NR9KhmEZ1qg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wB69DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Oil",
+        "subtitle": "A Beginner's Guide",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-11-02",
+        "description": "World acclaimed scientist Vaclav Smil reveals everything there is to know about nature's most sought-after resource Oil is the lifeblood of the modern world. Without it, there would be no planes, no plastic, no exotic produce, and a global political landscape few would recognise. Humanity\u2019s dependence upon oil looks set to continue for decades to come, but what is it? Fully updated and packed with fascinating facts to fuel dinner party debate, Professor Vaclav Smil's Oil: A Beginner's Guide explains all matters related to the \u2018black stuff\u2019, from its discovery in the earth right through to the controversy that surrounds it today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786072870"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786072874"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wB69DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wB69DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wB69DwAAQBAJ&printsec=frontcover&dq=intitle:%22Oil%22+inauthor:%22Vaclav+Smil%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wB69DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wB69DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wB69DwAAQBAJ&rdid=book-wB69DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oil-sample-epub.acsm?id=wB69DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wB69DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fully updated and packed with fascinating facts to fuel dinner party debate, Professor Vaclav Smil&#39;s Oil: A Beginner&#39;s Guide explains all matters related to the \u2018black stuff\u2019, from its discovery in the earth right through to the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iRyZoAEACAAJ",
+      "etag": "Nv67k58DKOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iRyZoAEACAAJ",
+      "volumeInfo": {
+        "title": "Oil: Resources Production Uses Impacts",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publisher": "Garrett County Press",
+        "publishedDate": "2010-06-23",
+        "description": "Energy expert Vaclav Smil presents a sharp-witted and approachable guide to oil's origins, exploration, extraction and use. This book is the perfect starting point for readers who wish to understand the science and culture behind our oil-driven world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1891053140"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781891053146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iRyZoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iRyZoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iRyZoAEACAAJ&dq=intitle:%22Oil%22+inauthor:%22Vaclav+Smil%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iRyZoAEACAAJ&dq=intitle:%22Oil%22+inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oil_Resources_Production_Uses_Impacts.html?hl=&id=iRyZoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iRyZoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is the perfect starting point for readers who wish to understand the science and culture behind our oil-driven world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I5wS0gEACAAJ",
+      "etag": "C0Liq9pH2MA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I5wS0gEACAAJ",
+      "volumeInfo": {
+        "title": "Oil",
+        "subtitle": "A Short History",
+        "authors": [
+          "Vaclav Smil"
+        ],
+        "publishedDate": "2027-03-04",
+        "description": "Vaclav Smil reveals everything there is to know about nature's most sought-after resource 'There is no author whose books I look forward to more than Vaclav Smil.' Bill Gates Oil. Without it there are no planes, no plastics, no petrol. It has started and ended wars. It is the lifeblood of the modern world - and the leading cause of climate change. As humanity faces a reckoning with its dependence upon oil, Vaclav Smil explores the contentious history - and future - of the 'black stuff', from ancient origins to the political and economic shockwaves it has triggered. Informative and thought-provoking, this is an essential guide to one of Earth's most valuable and consequential commodities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1836434065"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781836434061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I5wS0gEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I5wS0gEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=I5wS0gEACAAJ&dq=intitle:%22Oil%22+inauthor:%22Vaclav+Smil%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=I5wS0gEACAAJ&dq=intitle:%22Oil%22+inauthor:%22Vaclav+Smil%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oil.html?hl=&id=I5wS0gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I5wS0gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Informative and thought-provoking, this is an essential guide to one of Earth&#39;s most valuable and consequential commodities."
+      }
+    }
+  ]
+}

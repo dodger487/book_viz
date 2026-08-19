@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Daniel James Brown",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel James Brown</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q17182698",
+  "titles": {
+    "canonical": "Daniel_James_Brown",
+    "normalized": "Daniel James Brown",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel James Brown</span></span>"
+  },
+  "pageid": 42560279,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daniel_James_Brown.JPG/330px-Daniel_James_Brown.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 301
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Daniel_James_Brown.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1744,
+    "height": 1592
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364861824",
+  "tid": "ae71588c-8303-11f1-a95a-adb559dd39a7",
+  "timestamp": "2026-07-18T23:52:06Z",
+  "description": "American author (born 1951)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_James_Brown",
+      "revisions": "https://en.wikipedia.org/wiki/Daniel_James_Brown?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_James_Brown?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_James_Brown"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_James_Brown",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Daniel_James_Brown",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_James_Brown?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_James_Brown"
+    }
+  },
+  "extract": "Daniel James Brown is an American author of narrative nonfiction books.",
+  "extract_html": "<p><b>Daniel James Brown</b> is an American author of narrative nonfiction books.</p>"
+}

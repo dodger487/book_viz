@@ -1,0 +1,42 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Without oil, there would be no globalization, no plastic, little transport, and a worldwide political landscape that few would recognize. It is the lifeblood of the modern world, and humanity's dependence upon it looks set to continue for decades to come. In this topical book, the author of the acclaimed Energy: A Beginner's Guide, Vaclav Smil, explains all matters related to the \"black stuff,\" from its discovery in the earth right through to the political maelstrom that surrounds it today. Packed with fascinating facts and insight, Oil: A Beginner's Guide is unique in bringing together so many different aspects of the oil story. From geology and economics to alternative energy sources once oil has run out, Smil's comprehensive introduction will fuel dinner party debate and provide readers with the science and politics behind the world's most controversial resource. - Back cover."
+  },
+  "title": "Oil",
+  "covers": [
+    3001060,
+    10244439
+  ],
+  "first_publish_date": "March 25, 2008",
+  "key": "/works/OL1855326W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL222057A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "TECHNOLOGY & ENGINEERING",
+    "Petroleum",
+    "Geology",
+    "Energy consumption"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:28:07.628343"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-16T07:23:41.684768"
+  }
+}

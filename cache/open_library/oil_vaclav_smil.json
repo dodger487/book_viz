@@ -1,0 +1,49 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL222057A"
+      ],
+      "author_name": [
+        "Vaclav Smil"
+      ],
+      "cover_edition_key": "OL11951059M",
+      "cover_i": 3001060,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2008,
+      "has_fulltext": false,
+      "key": "/works/OL1855326W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Oil"
+    },
+    {
+      "author_key": [
+        "OL13524524A"
+      ],
+      "author_name": [
+        "Vaclav Smil"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL37597390W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Oil"
+    }
+  ]
+}

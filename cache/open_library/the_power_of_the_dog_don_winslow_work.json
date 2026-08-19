@@ -1,0 +1,41 @@
+{
+  "subjects": [
+    "Drug traffic",
+    "Fiction",
+    "Fiction, crime",
+    "Fiction, thrillers, general",
+    "Mexico, fiction"
+  ],
+  "key": "/works/OL16984030W",
+  "title": "The power of the dog",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL240995A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8574607
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Overview:  From the New York Times bestselling author of The Cartel comes an explosive novel of the drug trade that takes you deep inside a world riddled with corruption, betrayal, and bloody revenge.  The prequel to The Cartel, and set about 10 years earlier, The Power of the Dog introduces a brilliant cast of characters.  Art Keller is an obsessive DEA agent.  The Barrera brothers are heirs to a drug empire. Nora Hayden is a jaded teenager who becomes a high-class hooker.  Father Parada is a powerful and incorruptible Catholic priest.  Callan is an Irish kid from Hell's kitchen who grows up to be a merciless hit man.  And they are all trapped in the world of the Mexican drug Federacion.  From the streets of New York City to Mexico City and Tijuana to the jungles of Central America, this is the war on drugs like you've never seen it."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2014-07-30T02:35:30.457288"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-05T00:39:19.634196"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cDpDDwAAQBAJ",
+      "etag": "yQyz8NeaqbU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cDpDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Convenience Store Woman",
+        "subtitle": "A Novel",
+        "authors": [
+          "Sayaka Murata"
+        ],
+        "publisher": "Grove Press",
+        "publishedDate": "2018-06-12",
+        "description": "Shortlisted for the Best Translated Book Award Longlisted for the Believer Book Award Longlisted for the Warwick Prize for Women in Translation A Los Angeles Times Bestseller The English-language debut of an exciting young voice in international fiction, selling 660,000 copies in Japan alone, Convenience Store Woman is a bewitching portrayal of contemporary Japan through the eyes of a single woman who fits into the rigidity of its work culture only too well. The English-language debut of one of Japan\u2019s most talented contemporary writers, selling over 650,000 copies there, Convenience Store Woman is the heartwarming and surprising story of thirty-six-year-old Tokyo resident Keiko Furukura. Keiko has never fit in, neither in her family, nor in school, but when at the age of eighteen she begins working at the Hiiromachi branch of \u201cSmile Mart,\u201d she finds peace and purpose in her life. In the store, unlike anywhere else, she understands the rules of social interaction\u2014many are laid out line by line in the store\u2019s manual\u2014and she does her best to copy the dress, mannerisms, and speech of her colleagues, playing the part of a \u201cnormal\u201d person excellently, more or less. Managers come and go, but Keiko stays at the store for eighteen years. It\u2019s almost hard to tell where the store ends and she begins. Keiko is very happy, but the people close to her, from her family to her coworkers, increasingly pressure her to find a husband, and to start a proper career, prompting her to take desperate action\u2026 A brilliant depiction of an unusual psyche and a world hidden from view, Convenience Store Woman is an ironic and sharp-eyed look at contemporary work culture and the pressures to conform, as well as a charming and completely fresh portrait of an unforgettable heroine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802165800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "080216580X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cDpDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cDpDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cDpDDwAAQBAJ&printsec=frontcover&dq=intitle:%22Convenience+Store+Woman%22+inauthor:%22Sayaka+Murata%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cDpDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cDpDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.67,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cDpDDwAAQBAJ&rdid=book-cDpDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8670000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Convenience_Store_Woman-sample-epub.acsm?id=cDpDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Convenience_Store_Woman-sample-pdf.acsm?id=cDpDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cDpDDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shortlisted for the Best Translated Book Award Longlisted for the Believer Book Award Longlisted for the Warwick Prize for Women in Translation A Los Angeles Times Bestseller The English-language debut of an exciting young voice in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jsj0DwAAQBAJ",
+      "etag": "Hc1IEvrvELA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jsj0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gadis Minimarket (Convenience Store Woman)",
+        "authors": [
+          "Murata Sayaka"
+        ],
+        "publisher": "Gramedia Pustaka Utama",
+        "publishedDate": "2020-08-03",
+        "description": "Pete Bennett selalu menjadi pria petualang. Dan terbang selalu menjadi hal favoritnya, meski menyimpan begitu banyak trauma. Ia tak pernah jatuh cinta. Tidak sampai bertemu wanita seperti Dewi Yunani dengan ambisi meluap-luap. Serena Comino bukan wanita keturunan Yunani biasa. Begitu banyak mimpi ingin diwujudkannya, dan keluarga Yunani yang protektif menjadi salah satu sandungan kebebasannya memilih. Termasuk memilih pria idamannya. Pete dan Serena mempunyai banyak cita-cita yang ingin mereka kejar. Jatuh cinta tidak ada dalam daftar tersebut. Namun, setelah satu bulan dalam hubungan kasual, masing-masing harus memikirkan ulang masa depan mana yang ingin mereka jalani. Ambisi atau cinta sejati? #HarlequinKoleksiWanita #Harlequin #Koleksi #Wanita #Pilihan #Kepulauan #KellyHunter #NovelIndonesia #BukuFiksi #NovelPopuler #CeritaSeru #RekomendasiNovel #NovelRemaja #BukuBestseller #RekomendasiBuku #BukuBagus #BukuBaru #KoleksiBuku #TokoBukuOnline #BacaanBermanfaat #LiterasiIndonesia #BukuOriginal",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786020644400"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6020644405"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jsj0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jsj0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=jsj0DwAAQBAJ&printsec=frontcover&dq=intitle:%22Convenience+Store+Woman%22+inauthor:%22Sayaka+Murata%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jsj0DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jsj0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.28,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jsj0DwAAQBAJ&rdid=book-jsj0DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2280000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Gadis_Minimarket_Convenience_Store_Woman-sample-epub.acsm?id=jsj0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Gadis_Minimarket_Convenience_Store_Woman-sample-pdf.acsm?id=jsj0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jsj0DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pete Bennett selalu menjadi pria petualang."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lQAU0gEACAAJ",
+      "etag": "1CnKYjIbTN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lQAU0gEACAAJ",
+      "volumeInfo": {
+        "title": "Ca tui\u02bachui\u1e45\u02bb \u02bca lup\u02bb sa ma",
+        "subtitle": "Convenience store woman",
+        "authors": [
+          "Sayaka Murata"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1592098108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Japan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "my",
+        "previewLink": "http://books.google.com/books?id=lQAU0gEACAAJ&dq=intitle:%22Convenience+Store+Woman%22+inauthor:%22Sayaka+Murata%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lQAU0gEACAAJ&dq=intitle:%22Convenience+Store+Woman%22+inauthor:%22Sayaka+Murata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ca_tui%CA%BAchui%E1%B9%85%CA%BB_%CA%BCa_lup%CA%BB_sa_ma.html?hl=&id=lQAU0gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lQAU0gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

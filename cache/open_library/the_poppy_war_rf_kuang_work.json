@@ -1,0 +1,59 @@
+{
+  "description": "A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China\u2019s twentieth century and filled with treachery and magic, in the tradition of Ken Liu\u2019s Grace of Kings and N.K. Jemisin\u2019s Inheritance Trilogy.\r\n\r\nWhen Rin aced the Keju\u2014the Empire-wide test to find the most talented youth to learn at the Academies\u2014it was a shock to everyone: to the test officials, who couldn\u2019t believe a war orphan from Rooster Province could pass without cheating; to Rin\u2019s guardians, who believed they\u2019d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard\u2014the most elite military school in Nikan\u2014was even more surprising.\r\n\r\nBut surprises aren\u2019t always good.\r\n\r\nBecause being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power\u2014an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive\u2014and that mastering control over those powers could mean more than just surviving school.\r\n\r\nFor while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away . . .\r\n\r\nRin\u2019s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity . . . and that it may already be too late.",
+  "links": [
+    {
+      "title": "Tor Review",
+      "url": "https://www.tor.com/2018/05/02/book-reviews-the-poppy-war-by-r-f-kuang/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Poppy War",
+  "covers": [
+    8463552,
+    8797732,
+    9222240,
+    12392058
+  ],
+  "subjects": [
+    "Fiction",
+    "Fantasy",
+    "Historical",
+    "Epic",
+    "Cultural Heritage",
+    "Goddesses",
+    "Imaginary wars and battles",
+    "Magic",
+    "Military education",
+    "Shamans",
+    "Fiction, fantasy, epic",
+    "Fiction, fantasy, paranormal",
+    "FICTION / Fantasy / Epic",
+    "FICTION / Fantasy / Paranormal"
+  ],
+  "key": "/works/OL19351054W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7486601A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-26T03:49:10.433630"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-29T00:33:28.229205"
+  }
+}

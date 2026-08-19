@@ -1,0 +1,93 @@
+{
+  "title": "How to Do Nothing",
+  "covers": [
+    8750439,
+    10081711,
+    10722581
+  ],
+  "key": "/works/OL20078135W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7618251A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Information technology",
+    "Social aspects",
+    "Reflection (Philosophy)",
+    "Attention",
+    "Philosophy",
+    "Work",
+    "Arts",
+    "TECHNOLOGY & ENGINEERING / Social Aspects",
+    "NATURE / Environmental Conservation & Protection",
+    "ART / Digital",
+    "Attention Economy",
+    "Internet Art",
+    "Digital Art",
+    "Resistance",
+    "Revolution",
+    "Technology",
+    "Art and society",
+    "Technology, social aspects",
+    "nyt:hardcover-nonfiction=2020-01-19",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Political participation",
+    "Politics and government",
+    "Information technology--social aspects",
+    "Attention--philosophy",
+    "Work--philosophy",
+    "Arts--philosophy",
+    "Nonfiction",
+    "Self Help",
+    "Psychology",
+    "Essays",
+    "Personal Development",
+    "Politics",
+    "Art"
+  ],
+  "description": "Nothing is harder to do these days than nothing. But in a world where our value is determined by our 24/7 data productivity . . . doing nothing may be our most important form of resistance.\r\n\r\nSo argues artist and critic Jenny Odell in this field guide to doing nothing (at least as capitalism defines it). Odell sees our attention as the most precious\u2014and overdrawn\u2014resource we have. Once we can start paying a new kind of attention, she writes, we can undertake bolder forms of political action, reimagine humankind\u2019s role in the environment, and arrive at more meaningful understandings of happiness and progress.\r\n\r\nFar from the simple anti-technology screed, or the back-to-nature meditation we read so often, How to do Nothing is an action plan for thinking outside of capitalist narratives of efficiency and techno-determinism. Provocative, timely, and utterly persuasive, this book is a four-course meal in the age of Soylent.",
+  "subject_places": [
+    "San Francisco",
+    "Oakland",
+    "San Jose",
+    "Bay Area"
+  ],
+  "subject_times": [
+    "1990-2020"
+  ],
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2019/04/30/books/review/jenny-odell-how-to-do-nothing.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subtitle": "Resisting the Attention Economy",
+  "identifiers": {
+    "librarything": [
+      "22804892"
+    ]
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-08-05T21:50:15.487675"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-29T11:13:29.587016"
+  }
+}

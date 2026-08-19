@@ -1,0 +1,60 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Achen and Bartels argue that democratic theory needs to be founded on identity groups and political parties, not on the preferences of individual voters. Democracy for Realists provides a powerful challenge to conventional thinking, pointing the way toward a fundamentally different understanding of the realities and potential of democratic government. --Publisher."
+  },
+  "key": "/works/OL20029883W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL582439A"
+      }
+    }
+  ],
+  "title": "Democracy for realists",
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Politics and government",
+    "Representative government and representation",
+    "Democracy",
+    "Voting",
+    "Elections",
+    "Political participation",
+    "Vote",
+    "Participation politique",
+    "Gouvernement repr\u00e9sentatif",
+    "Politique et gouvernement",
+    "POLITICAL SCIENCE",
+    "General",
+    "PHILOSOPHY",
+    "Political",
+    "Democracy--united states",
+    "Elections--united states",
+    "Voting--united states",
+    "Political participation--united states",
+    "Representative government and representation--united states",
+    "Jc421 .a34 2016",
+    "321.8"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12514398
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-19T13:12:36.995760"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-12-19T23:22:59.811499"
+  }
+}

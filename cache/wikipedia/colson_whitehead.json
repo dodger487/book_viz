@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Colson Whitehead",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colson Whitehead</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q509662",
+  "titles": {
+    "canonical": "Colson_Whitehead",
+    "normalized": "Colson Whitehead",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colson Whitehead</span></span>"
+  },
+  "pageid": 744717,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Colson_whitehead_2014.jpg/330px-Colson_whitehead_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Colson_whitehead_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 413,
+    "height": 620
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368376718",
+  "tid": "e09c365b-9356-11f1-8ff1-d25b45e20d65",
+  "timestamp": "2026-08-08T18:27:57Z",
+  "description": "American novelist (born 1969)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Colson_Whitehead",
+      "revisions": "https://en.wikipedia.org/wiki/Colson_Whitehead?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Colson_Whitehead?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Colson_Whitehead"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Colson_Whitehead",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Colson_Whitehead",
+      "edit": "https://en.wikipedia.org/wiki/Colson_Whitehead?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Colson_Whitehead"
+    }
+  },
+  "extract": "Arch Colson Chipp Whitehead is an American novelist. He is the author of ten novels, including his 1999 debut The Intuitionist; The Underground Railroad (2016), for which he won the 2016 National Book Award for Fiction and the 2017 Pulitzer Prize for Fiction; and The Nickel Boys, for which he won the Pulitzer Prize for Fiction again in 2020, making him one of only four writers ever to win the prize twice. He has also published two books of nonfiction. In 2002, he received a MacArthur Fellowship.",
+  "extract_html": "<p><b>Arch Colson Chipp Whitehead</b> is an American novelist. He is the author of ten novels, including his 1999 debut <i>The Intuitionist</i>; <i>The Underground Railroad</i> (2016), for which he won the 2016 National Book Award for Fiction and the 2017 Pulitzer Prize for Fiction; and <i>The Nickel Boys</i>, for which he won the Pulitzer Prize for Fiction again in 2020, making him one of only four writers ever to win the prize twice. He has also published two books of nonfiction. In 2002, he received a MacArthur Fellowship.</p>"
+}

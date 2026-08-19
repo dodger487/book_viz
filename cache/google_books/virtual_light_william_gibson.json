@@ -1,0 +1,202 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MG8ohto0bTgC",
+      "etag": "tYBTD43r5Vw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MG8ohto0bTgC",
+      "volumeInfo": {
+        "title": "Virtual Light",
+        "authors": [
+          "William Gibson"
+        ],
+        "publisher": "Spectra",
+        "publishedDate": "1994-07-01",
+        "description": "NEW YORK TIMES bestseller \u2022 2005: Welcome to NoCal and SoCal, the uneasy sister-states of what used to be California. The millennium has come and gone, leaving in its wake only stunned survivors. In Los Angeles, Berry Rydell is a former armed-response rentacop now working for a bounty hunter. Chevette Washington is a bicycle messenger turned pickpocket who impulsively snatches a pair of innocent-looking sunglasses. But these are no ordinary shades. What you can see through these high-tech specs can make you rich\u2014or get you killed. Now Berry and Chevette are on the run, zeroing in on the digitalized heart of DatAmerica, where pure information is the greatest high. And a mind can be a terrible thing to crash. . . . Praise for Virtual Light \u201cBoth exhilarating and terrifying . . . Although considered the master of 'cyberpunk' science fiction, William Gibson is also one fine suspense writer.\u201d\u2014People \u201cA stunner . . . A terrifically stylish burst of kick-butt imagination.\u201d\u2014Entertainment Weekly \u201cConvincing . . . frightening . . . Virtual Light is written with a sense of craft, a sense of humor and a sense of the ultimate seriousness of the problems it explores.\u201d\u2014Chicago Tribune \u201cIn the emerging pop culture of the information age, Gibson is the brightest star.\u201d\u2014The San Diego Union-Tribune",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553566062"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553566067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MG8ohto0bTgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MG8ohto0bTgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MG8ohto0bTgC&printsec=frontcover&dq=intitle:%22Virtual+Light%22+inauthor:%22William+Gibson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MG8ohto0bTgC&dq=intitle:%22Virtual+Light%22+inauthor:%22William+Gibson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Virtual_Light.html?hl=&id=MG8ohto0bTgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MG8ohto0bTgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chevette Washington is a bicycle messenger turned pickpocket who impulsively snatches a pair of innocent-looking sunglasses. But these are no ordinary shades."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sr28tgAACAAJ",
+      "etag": "2yiar3jCryM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sr28tgAACAAJ",
+      "volumeInfo": {
+        "title": "Virtual light",
+        "authors": [
+          "William Gibson"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9119515014"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789119515018"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "California"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sr28tgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sr28tgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "sv",
+        "previewLink": "http://books.google.com/books?id=sr28tgAACAAJ&dq=intitle:%22Virtual+Light%22+inauthor:%22William+Gibson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sr28tgAACAAJ&dq=intitle:%22Virtual+Light%22+inauthor:%22William+Gibson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Virtual_light.html?hl=&id=sr28tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sr28tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JHmhQwAACAAJ",
+      "etag": "dp1ccDiXDRQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JHmhQwAACAAJ",
+      "volumeInfo": {
+        "title": "Virtual light",
+        "subtitle": "roman",
+        "authors": [
+          "William Gibson"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8790136659"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788790136659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "da",
+        "previewLink": "http://books.google.com/books?id=JHmhQwAACAAJ&dq=intitle:%22Virtual+Light%22+inauthor:%22William+Gibson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JHmhQwAACAAJ&dq=intitle:%22Virtual+Light%22+inauthor:%22William+Gibson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Virtual_light.html?hl=&id=JHmhQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JHmhQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

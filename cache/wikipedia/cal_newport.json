@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Cal Newport",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cal Newport</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16733303",
+  "titles": {
+    "canonical": "Cal_Newport",
+    "normalized": "Cal Newport",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cal Newport</span></span>"
+  },
+  "pageid": 41719422,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1345742494",
+  "tid": "bb53ff3c-2a2b-11f1-8a39-40a2882d2721",
+  "timestamp": "2026-03-27T22:24:34Z",
+  "description": "American computer scientist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cal_Newport",
+      "revisions": "https://en.wikipedia.org/wiki/Cal_Newport?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cal_Newport?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cal_Newport"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Cal_Newport",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Cal_Newport",
+      "edit": "https://en.wikipedia.org/wiki/Cal_Newport?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cal_Newport"
+    }
+  },
+  "extract": "Calvin C. Newport is an American nonfiction author and full time professor of computer science at Georgetown University. He is known for his writings about attention management in the digital age.",
+  "extract_html": "<p><b>Calvin C. Newport</b> is an American nonfiction author and full time professor of computer science at Georgetown University. He is known for his writings about attention management in the digital age.</p>"
+}

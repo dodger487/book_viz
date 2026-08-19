@@ -1,0 +1,235 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sQ8kEQAAQBAJ",
+      "etag": "AMGU0pRgY/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sQ8kEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Spy Who Came in from the Cold",
+        "authors": [
+          "John le Carr\u00e9"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2024-09-06",
+        "description": "All cats are alike in the dark. At the height of the Cold War, disillusioned British spy Alec Leamas is persuaded to stay out 'in the cold' for one last risky operation against the powerful leader of the East German Secret Service. But Leamas has committed a cardinal error: he's fallen in love. After a lifetime of deception and betrayal, can there be room for humanity in the ruthlessly manipulative world of international espionage? The first ever John le Carr\u00e9 novel to be adapted for the stage, this award-winning 1963 thriller has been hailed as a modern masterpiece. Leading playwright David Eldridge creates this gripping theatrical version. This edition was published to coincide with the world premiere at Chichester Festival Theatre in August 2024.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781350512221"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1350512222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sQ8kEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sQ8kEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sQ8kEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Spy+who+Came+In+From+The+Cold%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sQ8kEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sQ8kEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.35,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.35,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sQ8kEQAAQBAJ&rdid=book-sQ8kEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14350000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14350000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sQ8kEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Leading playwright David Eldridge creates this gripping theatrical version. This edition was published to coincide with the world premiere at Chichester Festival Theatre in August 2024."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aJdPEAAAQBAJ",
+      "etag": "6xLB3hH1Mdw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aJdPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Spy Who Came in from the Cold",
+        "subtitle": "A George Smiley Novel",
+        "authors": [
+          "John le Carr\u00e9"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-09-03",
+        "description": "From the New York Times bestselling author of Tinker, Tailor, Soldier, Spy; Our Kind of Traitor; and The Night Manager, now a television series starring Tom Hiddleston. The 50th-anniversary edition of the bestselling novel that launched John le Carr\u00e9\u2019s career worldwide In the shadow of the newly erected Berlin Wall, Alec Leamas watches as his last agent is shot dead by East German sentries. For Leamas, the head of Berlin Station, the Cold War is over. As he faces the prospect of retirement or worse\u2014a desk job\u2014Control offers him a unique opportunity for revenge. Assuming the guise of an embittered and dissolute ex-agent, Leamas is set up to trap Mundt, the deputy director of the East German Intelligence Service\u2014with himself as the bait. In the background is George Smiley, ready to make the game play out just as Control wants. Setting a standard that has never been surpassed, The Spy Who Came in from the Cold is a devastating tale of duplicity and espionage.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143124757"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143124757"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aJdPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aJdPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aJdPEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Spy+who+Came+In+From+The+Cold%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aJdPEAAAQBAJ&dq=intitle:%22The+Spy+who+Came+In+From+The+Cold%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Spy_Who_Came_in_from_the_Cold.html?hl=&id=aJdPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aJdPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 50th-anniversary edition of the bestselling novel that launched John le Carr\u00e9\u2019s career worldwide In the shadow of the newly erected Berlin Wall, Alec Leamas watches as his last agent is shot dead by East German sentries."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HgI-PgAACAAJ",
+      "etag": "YcPMsDk5J8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HgI-PgAACAAJ",
+      "volumeInfo": {
+        "title": "The Spy Who Came in from the Cold",
+        "authors": [
+          "John Le Carr\u00e9",
+          "John"
+        ],
+        "publishedDate": "2009-05-14",
+        "description": "The Spy Who Came in from the Cold is the story of a breathlessly perilous assignment for the agent who wants desperately to end his career in espionage - to come in from the cold. In this acknowledged classic of suspense, le Carr\u00e9 changed the rules of the game, and rocketed to worldwide fame.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0340994355"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780340994351"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HgI-PgAACAAJ&dq=intitle:%22The+Spy+who+Came+In+From+The+Cold%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HgI-PgAACAAJ&dq=intitle:%22The+Spy+who+Came+In+From+The+Cold%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Spy_Who_Came_in_from_the_Cold.html?hl=&id=HgI-PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HgI-PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

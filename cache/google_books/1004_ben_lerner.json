@@ -1,0 +1,178 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vnpzAwAAQBAJ",
+      "etag": "AKm2RIe8O9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vnpzAwAAQBAJ",
+      "volumeInfo": {
+        "title": "10:04: A Novel",
+        "authors": [
+          "Ben Lerner"
+        ],
+        "publisher": "Farrar, Straus and Giroux",
+        "publishedDate": "2014-09-02",
+        "description": "A stunning, urgent, and original novel from Ben Lerner (The Topeka School and Leaving the Atocha Station) about making art, love, and children during the twilight of an empire. Winner of The Paris Review's 2012 Terry Southern Prize A Finalist for the 2014 Folio Prize and the NYPL Young Lions Fiction Award In the last year, the narrator of 10:04 has enjoyed unlikely literary success, has been diagnosed with a potentially fatal medical condition, and has been asked by his best friend to help her conceive a child. In a New York of increasingly frequent superstorms and social unrest, he must reckon with his own mortality and the prospect of fatherhood in a city that might soon be underwater. A writer whose work Jonathan Franzen has called \"hilarious . . . cracklingly intelligent . . . and original in every sentence,\" Lerner captures what it's like to be alive now when the difficulty of imagining a future is changing our relationship to both the present and the past. Named One of the Best Books of the Year By: The New Yorker The New York Times Book Review The Wall Street Journal The Village Voice The Boston Globe NPR Vanity Fair The Guardian (London) The L Magazine The Times Literary Supplement (London) The Globe and Mail (Toronto) The Huffington Post Gawker Flavorwire San Francisco Chronicle The Kansas City Star The Jewish Daily Forward Tin House",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374711344"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0374711348"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vnpzAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vnpzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vnpzAwAAQBAJ&printsec=frontcover&dq=intitle:%2210:04%22+inauthor:%22Ben+Lerner%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vnpzAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vnpzAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vnpzAwAAQBAJ&rdid=book-vnpzAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/10_04_A_Novel-sample-epub.acsm?id=vnpzAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vnpzAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Named One of the Best Books of the Year By: The New Yorker The New York Times Book Review The Wall Street Journal The Village Voice The Boston Globe NPR Vanity Fair The Guardian (London) The L Magazine The Times Literary Supplement (London) ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iI1zAwAAQBAJ",
+      "etag": "uMMP/GP6oSE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iI1zAwAAQBAJ",
+      "volumeInfo": {
+        "title": "10:04",
+        "authors": [
+          "Ben Lerner"
+        ],
+        "publisher": "McClelland & Stewart",
+        "publishedDate": "2014-09-02",
+        "description": "Following the international buzz for his debut, Leaving the Atocha Station, comes 10:04, Ben Lerner's electric second novel that blends artistry and wit, intelligence and tenderness. A unique collision between art and life by an extraordinary young writer. For readers of Jeffrey Eugenides, Jonathan Lethem, Sheila Heti. Leaving the Atocha Station was hailed as \"one of the truest (and funniest) novels...of his generation\" (Lorin Stein, New York Review of Books), \"a work so luminously original in style and form as to seem like a premonition, a comet from the future\" (Geoff Dyer, The Observer). Now Lerner's second novel departs from Atocha's exquisite ironies in order to explore new territories of thought and feeling. In the last year, the narrator of 10:04 has enjoyed unexpected literary success, has been diagnosed with a potentially fatal heart condition, and has been asked by his best friend to help her conceive a child, despite his dating a rising star in the visual arts. In a New York of increasingly frequent super storms and political unrest, he must reckon with his biological mortality, the possibility of a literary afterlife, and the prospect of (unconventional) fatherhood in a city that might soon be under water. In prose that Jonathan Franzen has called \"hilarious...cracklingly intelligent...and original in every sentence,\" Lerner captures what it's like to be alive now, when the difficulty of imagining a future has changed our relation to both our present and our past. Exploring sex, friendship, medicine, memory, art, and politics, 10:04 is both a riveting work of fiction and a brilliant examination of the role fiction plays in our lives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780771047206"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0771047207"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iI1zAwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iI1zAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iI1zAwAAQBAJ&dq=intitle:%2210:04%22+inauthor:%22Ben+Lerner%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iI1zAwAAQBAJ&dq=intitle:%2210:04%22+inauthor:%22Ben+Lerner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/10_04.html?hl=&id=iI1zAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iI1zAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Following the international buzz for his debut, Leaving the Atocha Station, comes 10:04, Ben Lerner&#39;s electric second novel that blends artistry and wit, intelligence and tenderness."
+      }
+    }
+  ]
+}

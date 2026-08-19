@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lee Child",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lee Child</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q333719",
+  "titles": {
+    "canonical": "Lee_Child",
+    "normalized": "Lee Child",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lee Child</span></span>"
+  },
+  "pageid": 1256799,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lee_Child%2C_Bouchercon_2010.jpg/330px-Lee_Child%2C_Bouchercon_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 308
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Lee_Child%2C_Bouchercon_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2772,
+    "height": 2589
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365881558",
+  "tid": "fee22ccd-87bd-11f1-9bd0-9a2ed894e5b1",
+  "timestamp": "2026-07-25T00:15:52Z",
+  "description": "British thriller writer (born 1954)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lee_Child",
+      "revisions": "https://en.wikipedia.org/wiki/Lee_Child?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lee_Child?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lee_Child"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lee_Child",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lee_Child",
+      "edit": "https://en.wikipedia.org/wiki/Lee_Child?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lee_Child"
+    }
+  },
+  "extract": "James Dover Grant, primarily known by his pen name Lee Child, is a British author who writes thriller novels and is best known for his Jack Reacher novel series. The books follow the adventures of a former American military policeman, Jack Reacher, who wanders the United States. His first novel, Killing Floor (1997), won the Anthony Award and the 1998 Barry Award for Best First Novel.",
+  "extract_html": "<p><b>James Dover Grant</b>, primarily known by his pen name <b>Lee Child</b>, is a British author who writes thriller novels and is best known for his <i>Jack Reacher</i> novel series. The books follow the adventures of a former American military policeman, Jack Reacher, who wanders the United States. His first novel, <i>Killing Floor</i> (1997), won the Anthony Award and the 1998 Barry Award for Best First Novel.</p>"
+}

@@ -1,0 +1,195 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-eqNkdtERRMC",
+      "etag": "S2DyzHbnAsY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-eqNkdtERRMC",
+      "volumeInfo": {
+        "title": "Norwegian Wood",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2000",
+        "description": "The tragic death of their best friend has a profound influence on the passionate relationship between Toro, a serious young college student in Tokyo, and Naoko, an introspective beauty.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307950628"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "030795062X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 307,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-eqNkdtERRMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-eqNkdtERRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-eqNkdtERRMC&printsec=frontcover&dq=intitle:%22Norweigan+Wood%22+inauthor:%22Haruki+Murakami%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-eqNkdtERRMC&dq=intitle:%22Norweigan+Wood%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Norwegian_Wood.html?hl=&id=-eqNkdtERRMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-eqNkdtERRMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The tragic death of their best friend has a profound influence on the passionate relationship between Toro, a serious young college student in Tokyo, and Naoko, an introspective beauty."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2b16SQAACAAJ",
+      "etag": "hijSHE3HQrc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2b16SQAACAAJ",
+      "volumeInfo": {
+        "title": "Norwegian wood",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9722621750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789722621755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com/books?id=2b16SQAACAAJ&dq=intitle:%22Norweigan+Wood%22+inauthor:%22Haruki+Murakami%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2b16SQAACAAJ&dq=intitle:%22Norweigan+Wood%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Norwegian_wood.html?hl=&id=2b16SQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2b16SQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dcVUPwAACAAJ",
+      "etag": "4rU9bAQmDls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dcVUPwAACAAJ",
+      "volumeInfo": {
+        "title": "Norwegian wood",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8373198334"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788373198333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 469,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.com/books?id=dcVUPwAACAAJ&dq=intitle:%22Norweigan+Wood%22+inauthor:%22Haruki+Murakami%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dcVUPwAACAAJ&dq=intitle:%22Norweigan+Wood%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Norwegian_wood.html?hl=&id=dcVUPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dcVUPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

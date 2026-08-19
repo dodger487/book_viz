@@ -1,0 +1,48 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7503842A"
+      ],
+      "author_name": [
+        "Tom Sweterlitsch"
+      ],
+      "cover_edition_key": "OL27344700M",
+      "cover_i": 8808811,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL19732028W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Gone World"
+    },
+    {
+      "author_key": [
+        "OL7503842A"
+      ],
+      "author_name": [
+        "Tom Sweterlitsch"
+      ],
+      "cover_edition_key": "OL26853736M",
+      "cover_i": 8541071,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL19632807W",
+      "public_scan_b": false,
+      "title": "The Gone World (Thorndike Press Large Print Core)"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5WpBEAAAQBAJ",
+      "etag": "jOlwjTvFgOQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5WpBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Red Harvest",
+        "subtitle": "A Tale of Corruption and Intrigue in a Gritty City",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2021-08-31",
+        "description": "Dashiell Hammett's \"Red Harvest\" is a seminal work in the hard-boiled detective genre, blending a gritty narrative with an unflinching exploration of corruption and moral ambiguity. Set against the backdrop of the fictional town of Personville, the novel is driven by a nameless detective's mission to cleanse the city of its pervasive criminal elements. Through terse prose and vivid descriptions, Hammett crafts a narrative that is both fast-paced and intricate, reflecting the chaotic atmosphere of Prohibition-era America. His innovative use of dialogue and unconventional plot structure offers readers a nuanced portrayal of a society teetering on the brink of lawlessness. Hammett himself, a former Pinkerton detective, draws upon his personal experiences in law enforcement to create an authentic and harrowing lens through which to examine crime and its consequences. His unique perspective informs the book's raw realism, making the story resonate powerfully with a 1920s audience that grappled with the challenges of urban crime and governance. Hammett's roots in the detective world undoubtedly shaped his capability to navigate the intricacies of human betrayal and societal decay. \"Red Harvest\" is highly recommended for readers seeking an unvarnished glimpse into the underbelly of early 20th-century America. Hammett's pioneering techniques and hard-hitting themes not only captivate the reader but also paved the way for generations of crime writers. This novel remains a critical touchstone for understanding American literature's evolution and the complexities of morality, making it essential reading for both enthusiasts of detective fiction and scholars alike.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4066338032812"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5WpBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5WpBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5WpBEAAAQBAJ&printsec=frontcover&dq=intitle:%22Red+Harvest%22+inauthor:%22Dashiell+Hammett%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5WpBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5WpBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5WpBEAAAQBAJ&rdid=book-5WpBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Red_Harvest-sample-epub.acsm?id=5WpBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Red_Harvest-sample-pdf.acsm?id=5WpBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5WpBEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel remains a critical touchstone for understanding American literature&#39;s evolution and the complexities of morality, making it essential reading for both enthusiasts of detective fiction and scholars alike."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kd9dEQAAQBAJ",
+      "etag": "bLe5huBOWwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kd9dEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Red Harvest",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "publisher": "Aegitas",
+        "publishedDate": "2025-05-14",
+        "description": "\"Red Harvest\" is a novel by Dashiell Hammett, first published in 1929. It is considered one of the seminal works of hard-boiled detective fiction. The story is set in the fictional town of Personville, often referred to as \"Poisonville.\" The novel follows an unnamed detective, known as the Continental Op, who is hired to clean up the corruption and violence that has taken over the town. The narrative begins when the Op arrives in Personville to investigate the murder of a local man. He quickly discovers that the town is rife with crime and corruption. Various factions are vying for power, and the situation is complicated by the presence of a powerful crime boss named Max Thaler. The Op is determined to restore order, but he soon realizes that the task is more challenging than he anticipated. As the story unfolds, the Op employs his trademark cunning and resourcefulness to navigate the treacherous landscape of Personville. He interacts with a variety of characters, including gangsters, corrupt officials, and desperate citizens. Each character adds depth to the narrative, showcasing the moral ambiguity that permeates the world Hammett has created. One of the central themes of \"Red Harvest\" is the idea of moral decay in society. The Op is confronted with the harsh realities of crime and corruption, forcing him to make difficult choices. He must decide how far he is willing to go to achieve his goals and whether the end justifies the means. This moral ambiguity is a hallmark of Hammett's writing and is reflected in the complex motivations of the characters. The novel is notable for its fast-paced and gritty writing style. Hammett's prose is sharp and economical, capturing the raw energy of the story. The dialogue is crisp and realistic, adding to the authenticity of the characters and their interactions. This style has influenced countless authors in the detective genre and has helped to establish the conventions of hard-boiled fiction. \"Red Harvest\" is also significant for its exploration of violence. The Op's methods are often ruthless, and he does not shy away from using force to achieve his objectives. The novel portrays violence as an inherent part of the criminal underworld, reflecting the brutal reality of the time. Hammett's unflinching depiction of violence sets the tone for the novel and contributes to its overall impact. The setting of Personville is almost a character in itself. Hammett vividly describes the town's atmosphere, filled with tension and danger. The streets are alive with the sounds of gunfire and the whispers of betrayal. This sense of place enhances the narrative, immersing readers in the world of the Op and the challenges he faces. \"Red Harvest\" has received critical acclaim and is often regarded as one of Hammett's best works. It has been praised for its innovative storytelling and complex characters. The novel has influenced many subsequent writers and filmmakers, solidifying its place in the canon of American literature. In addition to its literary significance, \"Red Harvest\" has been adapted into various forms of media, including film and radio. Its themes of corruption and moral ambiguity continue to resonate with audiences today. The novel's exploration of the darker aspects of human nature remains relevant, making it a timeless read. \"Red Harvest\" is a compelling and thought-provoking novel that showcases Dashiell Hammett's mastery of the detective genre. Its rich characters, intricate plot, and unflinching portrayal of violence make it a must-read for fans of hard-boiled fiction. The story challenges readers to confront the complexities of morality and the human condition in a world where right and wrong are often blurred. This novel is an essential addition to any literary collection and a testament to Hammett's enduring legacy as a pioneer of detective fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780369412713"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0369412710"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Kd9dEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Kd9dEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Kd9dEQAAQBAJ&printsec=frontcover&dq=intitle:%22Red+Harvest%22+inauthor:%22Dashiell+Hammett%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Kd9dEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Kd9dEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Kd9dEQAAQBAJ&rdid=book-Kd9dEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Red_Harvest-sample-epub.acsm?id=Kd9dEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Red_Harvest-sample-pdf.acsm?id=Kd9dEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kd9dEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Red Harvest&quot; is a novel by Dashiell Hammett, first published in 1929. It is considered one of the seminal works of hard-boiled detective fiction. The story is set in the fictional town of Personville, often referred to as &quot;Poisonville."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ifvW0QEACAAJ",
+      "etag": "boa4GJFjrtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifvW0QEACAAJ",
+      "volumeInfo": {
+        "title": "Red Harvest",
+        "authors": [
+          "Dashiell Hammett"
+        ],
+        "publisher": "Impact",
+        "publishedDate": "2026-01-22",
+        "description": "Poisonville is rotten to the core - and someone has to clean it up. In Red Harvest, a nameless detective arrives in a corrupt mining town where crime, politics, and business are fused into a single violent machine. When he begins pulling at the threads, the entire city starts to unravel. Gangsters turn on each other, alliances collapse, and bodies pile up as the detective drives the town toward destruction in the name of justice. Dashiell Hammett's novel is pure hard-boiled momentum: brutal, unsentimental, and relentless. Every decision has consequences, and every action pushes the violence further. Written with sharp, economical prose and a ruthless sense of cause and effect, the story moves like a controlled explosion from first page to last. First published in 1929, Red Harvest changed crime fiction forever, replacing genteel puzzles with raw action and moral ambiguity. This Impact Books edition restores a landmark American crime novel for readers who want their mysteries fast, hard, and uncompromising.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798903000371"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifvW0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifvW0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ifvW0QEACAAJ&dq=intitle:%22Red+Harvest%22+inauthor:%22Dashiell+Hammett%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ifvW0QEACAAJ&dq=intitle:%22Red+Harvest%22+inauthor:%22Dashiell+Hammett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Red_Harvest.html?hl=&id=ifvW0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ifvW0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Impact Books edition restores a landmark American crime novel for readers who want their mysteries fast, hard, and uncompromising."
+      }
+    }
+  ]
+}

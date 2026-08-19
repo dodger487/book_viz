@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MosvEQAAQBAJ",
+      "etag": "PgY2mIP8y5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MosvEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Sapiens [Tenth Anniversary Edition]",
+        "subtitle": "A Brief History of Humankind",
+        "authors": [
+          "Yuval Noah Harari"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2025-02-18",
+        "description": "New York Times Readers\u2019 Pick: Top 100 Books of the 21st Century The tenth anniversary edition of the internationally bestselling phenomenon that cemented Yuval Noah Harari as one of the most prominent historians of our time\u2014featuring a new afterword from the author. One hundred thousand years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations, and human rights; to trust money, books, and laws; and to be enslaved by bureaucracy, timetables, and consumerism? And what will our world be like in the millennia to come? In Sapiens, Professor Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical\u2014and sometimes devastating\u2014breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology, and economics, and incorporating full-color illustrations throughout the text, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Can we ever free our behavior from the legacy of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? Bold, wide-ranging, and provocative, Sapiens integrates history and science to challenge everything we thought we knew about being human: our thoughts, our actions, our heritage...and our future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063453982"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0063453983"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 594,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MosvEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MosvEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MosvEQAAQBAJ&printsec=frontcover&dq=intitle:%22Sapiens%22+inauthor:%22Yuval+Harari%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MosvEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MosvEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MosvEQAAQBAJ&rdid=book-MosvEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sapiens_Tenth_Anniversary_Edition-sample-epub.acsm?id=MosvEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MosvEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New York Times Readers\u2019 Pick: Top 100 Books of the 21st Century The tenth anniversary edition of the internationally bestselling phenomenon that cemented Yuval Noah Harari as one of the most prominent historians of our time\u2014featuring a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zfuOEAAAQBAJ",
+      "etag": "mA2s7eGMmyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zfuOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sapiens",
+        "subtitle": "A Brief History of Humankind",
+        "authors": [
+          "Yuval Noah Harari"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2016-05-10",
+        "description": "NATIONAL BESTSELLER NEW YORK TIMES BESTSELLER Destined to become a modern classic in the vein of Guns, Germs, and Steel, Sapiens is a lively, groundbreaking history of humankind told from a unique perspective. 100,000 years ago, at least six species of human inhabited the earth. Today there is just one. Us. Homo Sapiens. How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations, and human rights; to trust money, books, and laws; and to be enslaved by bureaucracy, timetables, and consumerism? And what will our world be like in the millennia to come? In Sapiens, Dr. Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical \u2014 and sometimes devastating \u2014 breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions. Drawing on insights from biology, anthropology, palaeontology, and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power...and our future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780771038518"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0771038518"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zfuOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zfuOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zfuOEAAAQBAJ&dq=intitle:%22Sapiens%22+inauthor:%22Yuval+Harari%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zfuOEAAAQBAJ&dq=intitle:%22Sapiens%22+inauthor:%22Yuval+Harari%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sapiens.html?hl=&id=zfuOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zfuOEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Sapiens, Dr. Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical \u2014 and sometimes devastating \u2014 breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c9Sp0AEACAAJ",
+      "etag": "D+F9p/PKT1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c9Sp0AEACAAJ",
+      "volumeInfo": {
+        "title": "Sapiens a Graphic History, Volume 1",
+        "subtitle": "The Birth of Humankind",
+        "authors": [
+          "Yuval Noah Harari",
+          "David Vandermeulen"
+        ],
+        "publisher": "Jonathan Cape",
+        "publishedDate": "2020-11-12",
+        "description": "The first volume of the graphic adaptation of Yuval Noah Harari's global phenomenon and smash Sunday Times #1 bestseller, with gorgeous full-colour illustrations and a beautiful package - the perfect gift for the curious beings in your life. One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one-homo sapiens. What happened to the others? And what may happen to us? In this first volume of the full-colour illustrated adaptation of his groundbreaking book, renowned historian Yuval Harari tells the story of humankind's creation and evolution, exploring the ways in which biology and history have defined us and enhanced our understanding of what it means to be \"human\". From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens challenges us to reconsider accepted beliefs, connect past developments with contemporary concerns, and view specific events within the context of larger ideas. Featuring 256 pages of full-colour illustrations and easy-to-understand text covering the first part of the full-length original edition, this adaptation of the mind-expanding book furthers the ongoing conversation as it introduces Harari's ideas to a wider new readership.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787332810"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787332812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c9Sp0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c9Sp0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=c9Sp0AEACAAJ&dq=intitle:%22Sapiens%22+inauthor:%22Yuval+Harari%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=c9Sp0AEACAAJ&dq=intitle:%22Sapiens%22+inauthor:%22Yuval+Harari%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sapiens_a_Graphic_History_Volume_1.html?hl=&id=c9Sp0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c9Sp0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this first volume of the full-colour illustrated adaptation of his groundbreaking book, renowned historian Yuval Harari tells the story of humankind&#39;s creation and evolution, exploring the ways in which biology and history have defined ..."
+      }
+    }
+  ]
+}

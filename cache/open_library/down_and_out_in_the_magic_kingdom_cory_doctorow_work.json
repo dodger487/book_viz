@@ -1,0 +1,68 @@
+{
+  "description": "**Read** *Down & Out in the Magic Kingdom* online at the **Internet Archive**.\r\n\r\n**From the Back Cover**\r\n\"*He sparkles! He fizzes! He does backflips and breaks the furniture! Science fiction needs Cory Doctorow*.\" \r\n--Bruce Sterling, author of The Hacker Crackdown and Distraction\r\n\r\n**On The Skids In The Transhuman Future**\r\n\r\nJules is a young man barely a century old. He's lived long enough to see the cure for death and the end of scarcity, to learn ten languages and compose three symphonies ... and to realize his boyhood dream of taking up residence in Disney World.\r\n\r\nDisney World! The greatest artistic achievement of the long-ago twentieth century. Now in the keeping of a network of \"ad-hocs\" who keep the classic attractions running as they always have, enhanced with only the smallest high-tech touches.\r\n\r\nNow, though, the \"ad hocs\" are under attack. A new group has taken over the Hall of the Presidents, and is replacing its venerable audioanimatronics with new, immersive direct-to-brain interfaces that give guests the illusion of being Washington, Lincoln, and all the others. For Jules, this is an attack on the artistic purity of Disney World itself. \r\n\r\nWorse: it appears this new group has had Jules killed. This upsets him. (It's only his fourth death and revival, after all.) Now it's war ....\r\n\r\n\r\n  [1]: http://ia600604.us.archive.org/6/items/DownAndOutInTheMagicKingdom/DownandOutITMK.pdf",
+  "links": [
+    {
+      "url": "http://ia600604.us.archive.org/6/items/DownAndOutInTheMagicKingdom/DownandOutITMK.pdf",
+      "title": "Read DOWN AND OUT Online at the Internet Archive [PDF]",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://www.nytimes.com/2003/03/09/books/does-that-mean-we-can-defrost-walt.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Down and out in the Magic Kingdom",
+  "covers": [
+    524060,
+    8433206,
+    8573616,
+    9926602,
+    11980495
+  ],
+  "subject_places": [
+    "Walt Disney World (Fla.)",
+    "Florida"
+  ],
+  "subjects": [
+    "Science fiction",
+    "Fiction",
+    "Immortalism",
+    "Singularity",
+    "Fiction, science fiction, general",
+    "New York Times reviewed"
+  ],
+  "key": "/works/OL5734712W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1394244A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "Transhuman Future",
+    "Singularity",
+    "Future"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:10:48.256984"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-23T15:58:35.503308"
+  }
+}

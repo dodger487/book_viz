@@ -1,0 +1,275 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Vg89DwAAQBAJ",
+      "etag": "uKjZeEh0EWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vg89DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Poppy War (The Poppy War, Book 1)",
+        "authors": [
+          "R.F. Kuang"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2018-05-03",
+        "description": "Winner of the Reddit Fantasy Award for Best Debut 2018 \u2018The best fantasy debut of 2018\u2019 \u2013 WIRED",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780008239824"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0008239827"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 511,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vg89DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vg89DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Vg89DwAAQBAJ&dq=intitle:%22The+Poppy+War%22+inauthor:%22R.F.+Kuang%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Vg89DwAAQBAJ&dq=intitle:%22The+Poppy+War%22+inauthor:%22R.F.+Kuang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Poppy_War_The_Poppy_War_Book_1.html?hl=&id=Vg89DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vg89DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Winner of the Reddit Fantasy Award for Best Debut 2018 \u2018The best fantasy debut of 2018\u2019 \u2013 WIRED"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DHv5EAAAQBAJ",
+      "etag": "20r7WnINePw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DHv5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Poppy War Collector's Edition",
+        "subtitle": "A Novel",
+        "authors": [
+          "R. F. Kuang"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2024-11-26",
+        "description": "From the #1 New York Times bestselling author of Babel and Yellowface comes an all-new, fully illustrated, collector\u2019s edition of R. F. Kuang\u2019s debut novel, The Poppy War. Considered one of Time Magazine\u2019s 100 Best Fantasy Books of All Time, the story of orphaned Rin\u2019s rise to power gets a fresh look with black-and-white interior art by JungShan throughout. When Rin aced the Keju\u2014the Empire-wide test to find the most talented youth to learn at the Academies\u2014it was a shock to everyone: to the test officials, who couldn\u2019t believe a war orphan from Rooster Province could pass without cheating; to Rin\u2019s guardians, who believed they\u2019d finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her daily existence. That she got into Sinegard\u2014the most elite military school in Nikan\u2014was even more surprising. But surprises aren\u2019t always good. Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power\u2014an aptitude for the nearly mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much alive\u2014and that mastering control over those powers could mean more than just surviving school. For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away . . . Rin\u2019s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity . . . and that it may already be too late.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063413580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0063413582"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 637,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DHv5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DHv5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DHv5EAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Poppy+War%22+inauthor:%22R.F.+Kuang%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DHv5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DHv5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.49,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DHv5EAAAQBAJ&rdid=book-DHv5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16490000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Poppy_War_Collector_s_Edition-sample-epub.acsm?id=DHv5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DHv5EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considered one of Time Magazine\u2019s 100 Best Fantasy Books of All Time, the story of orphaned Rin\u2019s rise to power gets a fresh look with black-and-white interior art by JungShan throughout."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sjqyEAAAQBAJ",
+      "etag": "Y0gftZ3w4/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sjqyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Complete Poppy War Trilogy",
+        "subtitle": "The Poppy War, The Dragon Republic, The Burning God",
+        "authors": [
+          "R. F. Kuang"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2023-06-06",
+        "description": "From R. F. Kuang, the #1 New York Times bestselling and award-winning author of Babel, this collection features the novels in her historical military fantasy trilogy\u2014The Poppy War, The Dragon Republic, and The Burning God\u2014a complete epic inspired by the bloody history of China\u2019s twentieth century and filled with treachery and magic. The Poppy War A war orphan, Rin earned her place in Nikan\u2019s most elite military school. There, she discovers her lethal, unearthly power of shamanism\u2014and learns that gods long thought dead are very much alive. When an inevitable conflict arises between longtime enemies the Nikara Empire and the Federation of Mugen, Rin realizes her shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity. . . The Dragon Republic After committing an atrocity in battle, shamanic warrior Rin is consumed with guilt, an opium addiction, and the murderous commands of the fiery Phoenix god. Channeling her anger against the Empress who betrayed Rin\u2019s homeland, she chooses to join forces with the Empress\u2019s enemy, the Dragon Warlord. But as Rin discovers the true natures of the Empress and the Dragon Warlord, the temptation to unleash the Phoenix\u2019s fearsome power grows\u2014and so does her vengeance. . . The Burning God After saving Nikan from foreign invaders and battling the evil Empress in a brutal civil war, Rin realizes that her homeland\u2019s real power lies with the millions of common people who thirst for vengeance and revere her as a goddess of salvation. Vowing to defeat all who threaten the shamanic arts, Rin\u2019s power and influence grows\u2014but so does the Phoenix\u2019s intoxicating voice urging her to burn the world and everything in it. . . \u201cMixing historical parallels of Chinese history, the themes of war, politics, and colonialism are balanced with terrific, flawed characters and amazing worldbuilding.\u201d\u2014Library Journal (starred review)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780063347755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "006334775X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 2034,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sjqyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sjqyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sjqyEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Poppy+War%22+inauthor:%22R.F.+Kuang%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sjqyEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sjqyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 36.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 36.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sjqyEAAAQBAJ&rdid=book-sjqyEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 36990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 36990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Complete_Poppy_War_Trilogy-sample-epub.acsm?id=sjqyEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sjqyEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From R. F. Kuang, the #1 New York Times bestselling and award-winning author of Babel, this collection features the novels in her historical military fantasy trilogy\u2014The Poppy War, The Dragon Republic, and The Burning God\u2014a complete ..."
+      }
+    }
+  ]
+}

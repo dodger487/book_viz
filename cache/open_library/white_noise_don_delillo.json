@@ -1,0 +1,84 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL230288A",
+        "OL13430552A"
+      ],
+      "author_name": [
+        "Don DeLillo",
+        "Mosche Hana'ami"
+      ],
+      "cover_edition_key": "OL2531465M",
+      "cover_i": 94015,
+      "ebook_access": "borrowable",
+      "edition_count": 41,
+      "first_publish_year": 1984,
+      "has_fulltext": true,
+      "ia": [
+        "baizaoyin0000deli",
+        "ruidodefondo0000dond",
+        "whitenoisedeli00deli",
+        "whitenoise0000deli",
+        "isbn_9780140283303",
+        "whitenoise00deli",
+        "whitenoise00dond",
+        "whitenoisetextcr00deli"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "bpljordan-ol",
+        "cua-ol",
+        "delawarecountydistrictlibrary-ol",
+        "framingham-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "udc-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "uslprototype",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL1921196W",
+      "language": [
+        "heb",
+        "por",
+        "fre",
+        "spa",
+        "eng",
+        "ger",
+        "chi",
+        "ita"
+      ],
+      "lending_edition_s": "OL35323283M",
+      "lending_identifier_s": "baizaoyin0000deli",
+      "public_scan_b": false,
+      "title": "White Noise"
+    }
+  ]
+}

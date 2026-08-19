@@ -1,0 +1,72 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Fledgling",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL30802A"
+      }
+    }
+  ],
+  "key": "/works/OL43073913W",
+  "description": {
+    "type": "/type/text",
+    "value": "Shori is a mystery. Found alone in the woods, she appears to be a little black girl with traumatic amnesia and near-fatal wounds. But Shori is a fifty-three-year-old vampire with a ravenous hunger for blood, the lost child of an ancient species of near-immortals who live in dark symbiosis with humanity. Genetically modified to be able to walk in daylight, Shori now becomes the target of a vast plot to destroy her and her kind. And in the final apocalyptic battle, her survival will depend on whether all humans are bigots-or all bigots are human."
+  },
+  "covers": [
+    846914,
+    10138009,
+    10691263,
+    12025042,
+    13791758,
+    12237295,
+    14181790
+  ],
+  "first_publish_date": "2005",
+  "dewey_number": [
+    "813/.54"
+  ],
+  "subjects": [
+    "Mystery",
+    "Vampires",
+    "Fiction",
+    "Young women",
+    "Vampires, fiction",
+    "Young women, fiction",
+    "Fiction, psychological",
+    "Fiction, horror",
+    "Fiction, fantasy, general",
+    "Fantasy",
+    "Paranormal",
+    "Horror",
+    "Science Fiction",
+    "Action & Adventure",
+    "FICTION / Fantasy / Paranormal",
+    "FICTION / Horror",
+    "FICTION / Science Fiction / Action & Adventure",
+    "Fiction, visionary & metaphysical",
+    "Vampires--fiction",
+    "Young women--fiction",
+    "Ps3552.u827 f47 2007"
+  ],
+  "identifiers": {
+    "librarything": [
+      "1094471"
+    ]
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-04-27T11:01:47.162246"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-02T07:08:32.304697"
+  }
+}

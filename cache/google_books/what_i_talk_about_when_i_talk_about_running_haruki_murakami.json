@@ -1,0 +1,143 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DBMm0F3tUbQC",
+      "etag": "Z3H+CvR+R4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DBMm0F3tUbQC",
+      "volumeInfo": {
+        "title": "What I Talk About When I Talk About Running",
+        "subtitle": "A Memoir",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2009-08-11",
+        "description": "An intimate look at writing, running, and the incredible way they intersect, What I Talk About When I Talk About Running is an illuminating glimpse into the solitary passions of one of our greatest artists. While training for the New York City Marathon, Haruki Murakami decided to keep a journal of his progress. The result is a memoir about his intertwined obsessions with running and writing, full of vivid recollections and insights, including the eureka moment when he decided to become a writer. By turns funny and sobering, playful and philosophical, here is a rich and revelatory work that elevates the human need for motion to an art form.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307389831"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307389839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DBMm0F3tUbQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DBMm0F3tUbQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DBMm0F3tUbQC&printsec=frontcover&dq=intitle:%22What+I+Talk+About+When+I+Talk+About+Running%22+inauthor:%22Haruki+Murakami%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DBMm0F3tUbQC&dq=intitle:%22What+I+Talk+About+When+I+Talk+About+Running%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_I_Talk_About_When_I_Talk_About_Runn.html?hl=&id=DBMm0F3tUbQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DBMm0F3tUbQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By turns funny and sobering, playful and philosophical, here is a rich and revelatory work that elevates the human need for motion to an art form."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sq3xoAEACAAJ",
+      "etag": "nFE+gyRKc4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sq3xoAEACAAJ",
+      "volumeInfo": {
+        "title": "What I Talk About When I Talk About Running",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publisher": "Clipper Audio",
+        "publishedDate": "2000",
+        "description": "In 1982 Murakami began running to keep fit. Here, he reflects on his running experiences. Equal parts travelogue, training log, and reminiscence, this revealing memoir covers his preparation for the 2005 New York City Marathon. By turns funny and sobering, playful and philosophical, this is a must read for fans of this masterful writer, and for the increasing number of people who find a similar satisfaction in running.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "147122404X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781471224041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sq3xoAEACAAJ&dq=intitle:%22What+I+Talk+About+When+I+Talk+About+Running%22+inauthor:%22Haruki+Murakami%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sq3xoAEACAAJ&dq=intitle:%22What+I+Talk+About+When+I+Talk+About+Running%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_I_Talk_About_When_I_Talk_About_Runn.html?hl=&id=sq3xoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sq3xoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By turns funny and sobering, playful and philosophical, this is a must read for fans of this masterful writer, and for the increasing number of people who find a similar satisfaction in running."
+      }
+    }
+  ]
+}

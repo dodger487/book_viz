@@ -1,0 +1,41 @@
+{
+  "first_publish_date": "2009",
+  "description": {
+    "type": "/type/text",
+    "value": "A challenging, controversial, and highly readable look at our lives, our world, and our future. In this remarkable challenge to conventional thinking about the environment, David Owen argues that the greenest community in the United States is not Portland, Oregon, or Snowmass, Colorado, but New York, New York. Most Americans think of crowded cities as ecological nightmares, as wastelands of concrete and garbage and diesel fumes and traffic jams. Yet residents of compact urban centers, Owen shows, individually consume less oil, electricity, and water than other Americans. They live in smaller spaces, discard less trash, and, most important of all, spend far less time in automobiles. Residents of Manhattan\u2014 the most densely populated place in North America \u2014rank first in public-transit use and last in percapita greenhouse-gas production, and they consume gasoline at a rate that the country as a whole hasn't matched since the mid-1920s, when the most widely owned car in the United States was the Ford Model T. They are also among the only people in the United States for whom walking is still an important means of daily transportation. These achievements are not accidents. Spreading people thinly across the countryside may make them feel green, but it doesn't reduce the damage they do to the environment. In fact, it increases the damage, while also making the problems they cause harder to see and to address. Owen contends that the environmental problem we face, at the current stage of our assault on the world's nonrenewable resources, is not how to make teeming cities more like the pristine countryside. The problem is how to make other settled places more like Manhattan, whose residents presently come closer than any other Americans to meeting environmental goals that all of us, eventually, will have to come to terms with."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2019-07-22T12:55:09.227659"
+  },
+  "title": "Green metropolis ; what the city can teach the country about true sustainability",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T02:31:45.462788"
+  },
+  "lc_classifications": [
+    "GF504.N7 O95 2009"
+  ],
+  "latest_revision": 4,
+  "key": "/works/OL3165827W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL505685A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "304.2091732"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Nonfiction",
+    "Science",
+    "Sociology"
+  ],
+  "revision": 4
+}

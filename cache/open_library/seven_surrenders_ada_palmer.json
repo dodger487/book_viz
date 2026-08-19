@@ -1,0 +1,40 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7475792A"
+      ],
+      "author_name": [
+        "Ada Palmer"
+      ],
+      "cover_edition_key": "OL26775865M",
+      "cover_i": 8429595,
+      "ebook_access": "printdisabled",
+      "edition_count": 11,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "sevensurrenders0000palm_f6o5"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19213555W",
+      "language": [
+        "eng",
+        "pol",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Seven Surrenders"
+    }
+  ]
+}

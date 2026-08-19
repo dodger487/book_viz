@@ -1,0 +1,47 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Chip War",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL882985A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2729320A"
+      }
+    }
+  ],
+  "key": "/works/OL27846746W",
+  "covers": [
+    12968901,
+    13346499
+  ],
+  "subjects": [
+    "nyt:business-books=2022-11-13",
+    "New York Times bestseller"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "An epic account of the decades-long battle to control what has emerged as the world's most critical resource\u2014microchip technology\u2014with the United States and China increasingly in conflict.\r\n\r\nYou may be surprised to learn that microchips are the new oil\u2014the scarce resource on which the modern world depends. Today, military, economic, and geopolitical power are built on a foundation of computer chips. Virtually everything\u2014 from missiles to microwaves, smartphones to the stock market \u2014 runs on chips. Until recently, America designed and built the fastest chips and maintained its lead as the #1 superpower. Now, America's edge is slipping, undermined by competitors in Taiwan, Korea, Europe, and, above all, China. Today, as Chip War reveals, China, which spends more money each year importing chips than it spends importing oil, is pouring billions into a chip-building initiative to catch up to the US. At stake is America's military superiority and economic prosperity.\r\n\r\nEconomic historian Chris Miller explains how the semiconductor came to play a critical role in modern life and how the U.S. become dominant in chip design and manufacturing and applied this technology to military systems. America's victory in the Cold War and its global military dominance stems from its ability to harness computing power more effectively than any other power. But here, too, China is catching up, with its chip-building ambitions and military modernization going hand in hand. America has let key components of the chip-building process slip out of its grasp, contributing not only to a worldwide chip shortage but also a new Cold War with a superpower adversary that is desperate to bridge the gap.\r\n\r\nIlluminating, timely, and fascinating, Chip War shows that, to make sense of the current state of politics, economics, and technology, we must first understand the vital role played by chips."
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-05-26T09:29:51.220422"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-20T00:28:20.210376"
+  }
+}

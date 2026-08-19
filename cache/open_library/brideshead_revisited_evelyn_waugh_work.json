@@ -1,0 +1,84 @@
+{
+  "title": "Brideshead Revisited",
+  "key": "/works/OL5721394W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1391432A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    2560441,
+    2520506,
+    417749,
+    191102,
+    100107,
+    908622,
+    107791,
+    9070896,
+    10226295,
+    10797891,
+    -1
+  ],
+  "description": "The most nostalgic and reflective of Evelyn Waugh's novels, *Brideshead Revisited* looks back to the golden age before the Second World War. It tells the story of Charles Ryder's infatuation with the Marchmains and the rapidly-disappearing world of privilege they inhabit. Enchanted first by Sebastian at Oxford, then by his doomed Catholic family, in particular his remote sister, Julia, Charles comes finally to recognize only his spiritual and social distance from them.",
+  "subject_places": [
+    "England"
+  ],
+  "subjects": [
+    "Catholics",
+    "Family",
+    "Family chronicles",
+    "Fiction",
+    "Friendship",
+    "Male friendship",
+    "Man-woman relationships",
+    "Men",
+    "Upper class",
+    "Upper class families",
+    "Young men",
+    "Upper class families -- Fiction",
+    "Male friendship -- Fiction",
+    "Catholics -- Fiction",
+    "England -- Fiction",
+    "British and irish fiction (fictional works by one author)",
+    "England, fiction",
+    "Fiction, family life",
+    "Friendship, fiction",
+    "Large type books",
+    "Domestic fiction",
+    "Family life",
+    "Social life and customs",
+    "Manners and customs",
+    "Adel",
+    "Katholizismus",
+    "Families",
+    "English literature",
+    "Drama (dramatic works by one author)",
+    "Fiction, family life, general",
+    "Fiction, lgbtq+, general",
+    "Fiction, classics",
+    "Familles de la classe sup\u00e9rieure",
+    "Romans, nouvelles",
+    "LGBTQ fiction before Stonewall"
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:08:58.244762"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-24T06:50:22.950627"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sfmp6gjZGP8C",
+      "etag": "RT5seHAz83M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sfmp6gjZGP8C",
+      "volumeInfo": {
+        "title": "Beloved",
+        "subtitle": "Pulitzer Prize Winner",
+        "authors": [
+          "Toni Morrison"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2007-07-24",
+        "description": "PULITZER PRIZE WINNER \u2022 NEW YORK TIMES BESTSELLER \u2022 This \"powerful, mesmerizing story\u201d (People) is an unflinching look into the abyss of slavery, from the acclaimed Nobel Prize winner. With an afterword by the author and a new introduction by Honor\u00e9e Fanonne Jeffers. \u201cA masterwork.... Wonderful.... I can\u2019t imagine American literature without it.\u201d \u2014John Leonard, Los Angeles Times Sethe was born a slave and escaped to Ohio, but eighteen years later she is still not free. Sethe has too many memories of Sweet Home, the beautiful farm where so many hideous things happened. And Sethe\u2019s new home is haunted by the ghost of her baby, who died nameless and whose tombstone is engraved with a single word: Beloved. \u201cDazzling. . . . Magical. . . . An extraordinary work.\u201d \u2014The New York Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307388629"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "030738862X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.19.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sfmp6gjZGP8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sfmp6gjZGP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sfmp6gjZGP8C&printsec=frontcover&dq=intitle:%22Beloved%22+inauthor:%22Toni+Morrison%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sfmp6gjZGP8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sfmp6gjZGP8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sfmp6gjZGP8C&rdid=book-sfmp6gjZGP8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Beloved-sample-epub.acsm?id=sfmp6gjZGP8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sfmp6gjZGP8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And Sethe\u2019s new home is haunted by the ghost of her baby, who died nameless and whose tombstone is engraved with a single word: Beloved. \u201cDazzling. . . . Magical. . . . An extraordinary work.\u201d \u2014The New York Times"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bm-KDQAAQBAJ",
+      "etag": "YDqb8G55dUs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bm-KDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Beloved",
+        "subtitle": "Pulitzer Prize Winner",
+        "authors": [
+          "Toni Morrison"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2004-06-08",
+        "description": "PULITZER PRIZE WINNER \u2022 NEW YORK TIMES BESTSELLER \u2022 This \"powerful, mesmerizing story\u201d (People) is an unflinching look into the abyss of slavery, from the acclaimed Nobel Prize winner. With an afterword by the author and a new introduction by Honor\u00e9e Fanonne Jeffers. \u201cA masterwork.... Wonderful.... I can\u2019t imagine American literature without it.\u201d \u2014John Leonard, Los Angeles Times Sethe was born a slave and escaped to Ohio, but eighteen years later she is still not free. Sethe has too many memories of Sweet Home, the beautiful farm where so many hideous things happened. And Sethe\u2019s new home is haunted by the ghost of her baby, who died nameless and whose tombstone is engraved with a single word: Beloved. \u201cDazzling. . . . Magical. . . . An extraordinary work.\u201d \u2014The New York Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400033416"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1400033411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bm-KDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bm-KDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bm-KDQAAQBAJ&printsec=frontcover&dq=intitle:%22Beloved%22+inauthor:%22Toni+Morrison%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bm-KDQAAQBAJ&dq=intitle:%22Beloved%22+inauthor:%22Toni+Morrison%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beloved.html?hl=&id=bm-KDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bm-KDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And Sethe\u2019s new home is haunted by the ghost of her baby, who died nameless and whose tombstone is engraved with a single word: Beloved. \u201cDazzling. . . . Magical. . . . An extraordinary work.\u201d \u2014The New York Times"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F4ZYPwAACAAJ",
+      "etag": "aoO7cfGBjH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F4ZYPwAACAAJ",
+      "volumeInfo": {
+        "title": "Beloved",
+        "authors": [
+          "Toni Morrison"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0833522019"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780833522016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F4ZYPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F4ZYPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=F4ZYPwAACAAJ&dq=intitle:%22Beloved%22+inauthor:%22Toni+Morrison%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=F4ZYPwAACAAJ&dq=intitle:%22Beloved%22+inauthor:%22Toni+Morrison%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beloved.html?hl=&id=F4ZYPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F4ZYPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hrTRDwAAQBAJ",
+      "etag": "3xdd6cVdwFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hrTRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Story of a New Name",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "publisher": "Europa Editions",
+        "publishedDate": "2013-09-03",
+        "description": "A novel in the bestselling quartet about two very different women and their complex friendship: \"Everyone should read anything with Ferrante's name on it\" ( The Boston Globe). The follow-up to My Brilliant Friend, The Story of a New Name continues the epic New York Times\u2013bestselling literary quartet that has inspired an HBO series, and returns us to the world of Lila and Elena, who grew up together in post-WWII Naples, Italy. In The Story of a New Name, Lila has recently married and made her entr\u00e9e into the family business; Elena, meanwhile, continues her studies and her exploration of the world beyond the neighborhood that she so often finds stifling. Marriage appears to have imprisoned Lila, and the pressure to excel is at times too much for Elena. Yet the two young women share a complex and evolving bond that is central to their emotional lives and a source of strength in the face of life's challenges. In these Neapolitan Novels, Elena Ferrante, \"one of the great novelists of our time\" ( The New York Times), gives us a poignant and universal story about friendship and belonging, a meditation on love and jealousy, freedom and commitment\u2014at once a masterfully plotted page-turner and an intense, generous-hearted family saga. \"Imagine if Jane Austen got angry and you'll have some idea of how explosive these works are.\" \u2014 The Australian \"Brilliant . . . captivating and insightful . . . the richness of her storytelling is likely to please fans of Sara Gruen and Silvia Avallone.\" \u2014 Booklist (starred review)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781609451479"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1609451473"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 473,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hrTRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hrTRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hrTRDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Story+of+a+New+Name%22+inauthor:%22Elena+Ferrante%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hrTRDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hrTRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hrTRDwAAQBAJ&rdid=book-hrTRDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Story_of_a_New_Name-sample-epub.acsm?id=hrTRDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Story_of_a_New_Name-sample-pdf.acsm?id=hrTRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hrTRDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In these Neapolitan Novels, Elena Ferrante, &quot;one of the great novelists of our time&quot; ( The New York Times), gives us a poignant and universal story about friendship and belonging, a meditation on love and jealousy, freedom and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gWJVngEACAAJ",
+      "etag": "xvvtSDkuUeg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gWJVngEACAAJ",
+      "volumeInfo": {
+        "title": "The Story of a New Name - OUT OF PRINT",
+        "subtitle": "The Neapolitan Novels, Book Two",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "publisher": "Text Publishing",
+        "publishedDate": "2013-09-25",
+        "description": "The Story of a New Name is an extraordinary novel about two young women, Lila and Elena, growing up in Naples in the early 1960s. At sixteen Lila marries the shopkeeper Stefano. She is filled with pleasure at her new wealth, and horror at the life she has chosen. Elena's own attempts at romance seem to be sabotaged by Lila's turbulent affairs. As she tries to plot her way out of poverty via academic and literary success, her constant anxiety is that she is just a shadow of the brilliant Lila. The sequel to My Brilliant Friend, The Story of a New Name continues the enthralling chronicle of a friendship that is obsessive, loving, complicated, hurtful, enduring and constantly startling. It is an exhilarating reading experience.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1922147680"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781922147684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gWJVngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gWJVngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gWJVngEACAAJ&dq=intitle:%22The+Story+of+a+New+Name%22+inauthor:%22Elena+Ferrante%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gWJVngEACAAJ&dq=intitle:%22The+Story+of+a+New+Name%22+inauthor:%22Elena+Ferrante%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_a_New_Name_OUT_OF_PRINT.html?hl=&id=gWJVngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gWJVngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Story of a New Name is an extraordinary novel about two young women, Lila and Elena, growing up in Naples in the early 1960s."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oa8PAAAAQBAJ",
+      "etag": "u+PEV3YP87M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oa8PAAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Story of a New Name",
+        "subtitle": "The Neapolitan Novels, Book Two",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "publisher": "Text Publishing",
+        "publishedDate": "2013-09-25",
+        "description": "The Story of a New Name is an extraordinary novel about two young women, Lila and Elena, growing up in Naples in the early 1960s. At sixteen Lila marries the shopkeeper Stefano. She is filled with pleasure at her new wealth, and horror at the life she has chosen. Elena's own attempts at romance seem to be sabotaged by Lila's turbulent affairs. As she tries to plot her way out of poverty via academic and literary success, her constant anxiety is that she is just a shadow of the brilliant Lila. The sequel to My Brilliant Friend, The Story of a New Name continues the enthralling chronicle of a friendship that is obsessive, loving, complicated, hurtful, enduring and constantly startling. It is an exhilarating reading experience. Elena Ferrante was born in Naples. She is the author of seven novels: The Days of Abandonment, Troubling Love, The Lost Daughter, and the quartet of Neapolitan Novels: My Brilliant Friend, The Story of a New Name, Those Who Leave and Those Who Stay, and The Story of the Lost Child. Fragments, a selection of interviews, letters and occasional writings by Ferrante, will be published in early 2016. She is one of Italy\u2019s most acclaimed authors. Ann Goldstein is an editor at the New Yorker and a recipient of the PEN Renato Poggioli Translation Award. 'Ferrante transforms the love, separation and reunion of two poor urban girls into the general tragedy of their city, a place so beautiful and heartbreaking that it inspired the expression \"Vedi Napoli e poi muori\" - \"See Naples and then die\".' New York Times Book Review 'Elena Ferrante may be the best contemporary novelist you have never heard of...Ferrante's voice is startlingly honest...her storytelling both visceral and compelling.' Economist 'The writing and translation from Italian are first-class.' Otago Daily Times 'The first two Neapolitan novels [My Brilliant Friend and The Story of a New Name]...move far from contrivance, logic or respectability to ask uncomfortable questions about how we live, how we love, how we singe an existence in a deeply flawed world that expects pretty acquiescence from its women. In all their beauty, their ugliness, their devotion and deceit, these girls enchant and repulse, like life, like our very selves.' Sydney Morning Herald 'Ferrante writes so beautifully that you can't help but become engrossed with the lives, loves and loss of Lila and Elena...will leave readers salivating for the third instalment.' Courier Mail '[Elena Ferrante's] brilliance isn\u2019t limited to her mechanics, her finesse or her creativity as a writer, but it\u2019s her willingness to continually address the psychological machinations of women who have very unfeminine feelings.' Three Percent 'The Neapolitan novels are smart, thoughtful, serious literature. At the same time, they are violent, suspenseful soap operas populated with a vivid cast of scheming characters...Ferrante\u2019s novels are deeply personal and intimate, getting to the very heart of what it means to be a woman, a friend, a daughter, a mother.\u2019 Debrief Daily",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781922148698"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1922148695"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 412,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oa8PAAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oa8PAAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oa8PAAAAQBAJ&dq=intitle:%22The+Story+of+a+New+Name%22+inauthor:%22Elena+Ferrante%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oa8PAAAAQBAJ&dq=intitle:%22The+Story+of+a+New+Name%22+inauthor:%22Elena+Ferrante%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story_of_a_New_Name.html?hl=&id=oa8PAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oa8PAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Story of a New Name is an extraordinary novel about two young women, Lila and Elena, growing up in Naples in the early 1960s."
+      }
+    }
+  ]
+}

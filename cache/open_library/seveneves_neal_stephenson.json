@@ -1,0 +1,61 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL19430A"
+      ],
+      "author_name": [
+        "Neal Stephenson"
+      ],
+      "cover_edition_key": "OL26418025M",
+      "cover_i": 9295719,
+      "ebook_access": "printdisabled",
+      "edition_count": 20,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "seveneves0000step_h6c8",
+        "seveneves0000step_s6f6",
+        "seveneves0000step_r0s9",
+        "seveneves0000step",
+        "seveneves00step"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL17829905W",
+      "language": [
+        "spa",
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Seveneves"
+    }
+  ]
+}

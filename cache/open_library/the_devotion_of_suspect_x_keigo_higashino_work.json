@@ -1,0 +1,45 @@
+{
+  "subjects": [
+    "Divorced women",
+    "Crimes against",
+    "Fiction",
+    "Grief",
+    "Abused women",
+    "Neighbors",
+    "Police",
+    "Fiction, mystery & detective, general",
+    "Japan, fiction"
+  ],
+  "key": "/works/OL15637392W",
+  "title": "The devotion of suspect X",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL5332979A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    6677764
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Yasuko lives a quiet life, working in a Tokyo bento shop, a good mother to her only child. But when her ex-husband appears at her door without warning one day, her comfortable world is shattered.\r\n\r\nWhen Detective Kusanagi of the Tokyo Police tries to piece together the events of that day, he finds himself confronted by the most puzzling, mysterious circumstances he has ever investigated. Nothing quite makes sense, and it will take a genius to understand the genius behind this particular crime..."
+  },
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-01-08T04:10:37.577700"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-04-17T05:24:25.258793"
+  }
+}

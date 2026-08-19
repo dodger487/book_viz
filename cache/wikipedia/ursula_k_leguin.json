@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ursula K. Le Guin",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ursula K. Le Guin</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q181659",
+  "titles": {
+    "canonical": "Ursula_K._Le_Guin",
+    "normalized": "Ursula K. Le Guin",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ursula K. Le Guin</span></span>"
+  },
+  "pageid": 32037,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ursula_Le_Guin_%283551195631%29_-_Restoration.jpg/330px-Ursula_Le_Guin_%283551195631%29_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 393
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ursula_Le_Guin_%283551195631%29_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3185,
+    "height": 3791
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367535683",
+  "tid": "d8618a74-8f63-11f1-b4e3-f062ff07e5a7",
+  "timestamp": "2026-08-03T17:50:42Z",
+  "description": "American author (1929\u20132018)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin",
+      "revisions": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ursula_K._Le_Guin"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ursula_K._Le_Guin",
+      "edit": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ursula_K._Le_Guin"
+    }
+  },
+  "extract": "Ursula Kroeber Le Guin was an American author. She is best known for her works of speculative fiction, including science fiction works set in her Hainish universe, and the Earthsea fantasy series. Her work was first published in 1959, and her literary career spanned nearly sixty years, producing more than twenty novels and more than a hundred short stories, in addition to poetry, literary criticism, translations, and children's books. Frequently described as an author of science fiction, Le Guin has also been called a \"major voice in American Letters\". Le Guin said that she would prefer to be known as an \"American novelist\".",
+  "extract_html": "<p><b>Ursula Kroeber Le Guin</b> was an American author. She is best known for her works of speculative fiction, including science fiction works set in her Hainish universe, and the <i>Earthsea</i> fantasy series. Her work was first published in 1959, and her literary career spanned nearly sixty years, producing more than twenty novels and more than a hundred short stories, in addition to poetry, literary criticism, translations, and children's books. Frequently described as an author of science fiction, Le Guin has also been called a \"major voice in American Letters\". Le Guin said that she would prefer to be known as an \"American novelist\".</p>"
+}

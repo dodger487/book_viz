@@ -1,0 +1,45 @@
+{
+  "covers": [
+    184039
+  ],
+  "key": "/works/OL111748W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL18979A"
+      }
+    }
+  ],
+  "title": "The Black Echo (Harry Bosch)",
+  "subject_places": [
+    "Los Angeles (Calif.)",
+    "California",
+    "Los Angeles"
+  ],
+  "subjects": [
+    "Veterans",
+    "Police",
+    "Vietnam War, 1961-1975",
+    "Harry Bosch (Fictitious character)",
+    "Fiction",
+    "Bosch, harry (fictitious character), fiction",
+    "Los angeles (calif.), fiction",
+    "Fiction, mystery & detective, police procedural"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T23:59:58.253545"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-04-17T01:14:46.862202"
+  }
+}

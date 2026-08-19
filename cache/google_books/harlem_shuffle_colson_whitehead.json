@@ -1,0 +1,277 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "b9AOEAAAQBAJ",
+      "etag": "hitZGdIKgd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b9AOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harlem Shuffle",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2021-09-14",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 From the two-time Pulitzer Prize-winning author of The Underground Railroad and The Nickel Boys, this gloriously entertaining novel is \u201cfast-paced, keen-eyed and very funny ... about race, power and the history of Harlem all disguised as a thrill-ride crime novel\" (San Francisco Chronicle). \"Ray Carney was only slightly bent when it came to being crooked...\" To his customers and neighbors on 125th street, Carney is an upstanding salesman of reasonably priced furniture, making a decent life for himself and his family. He and his wife Elizabeth are expecting their second child, and if her parents on Striver's Row don't approve of him or their cramped apartment across from the subway tracks, it's still home. Few people know he descends from a line of uptown hoods and crooks, and that his fa\u00e7ade of normalcy has more than a few cracks in it. Cracks that are getting bigger all the time. Cash is tight, especially with all those installment-plan sofas, so if his cousin Freddie occasionally drops off the odd ring or necklace, Ray doesn't ask where it comes from. He knows a discreet jeweler downtown who doesn't ask questions, either. Then Freddie falls in with a crew who plan to rob the Hotel Theresa\u2014the \"Waldorf of Harlem\"\u2014and volunteers Ray's services as the fence. The heist doesn't go as planned; they rarely do. Now Ray has a new clientele, one made up of shady cops, vicious local gangsters, two-bit pornographers, and other assorted Harlem lowlifes. Thus begins the internal tussle between Ray the striver and Ray the crook. As Ray navigates this double life, he begins to see who actually pulls the strings in Harlem. Can Ray avoid getting killed, save his cousin, and grab his share of the big score, all while maintaining his reputation as the go-to source for all your quality home furniture needs? Harlem Shuffle's ingenious story plays out in a beautifully recreated New York City of the early 1960s. It's a family saga masquerading as a crime novel, a hilarious morality play, a social novel about race and power, and ultimately a love letter to Harlem. But mostly, it's a joy to read, another dazzling novel from the Pulitzer Prize and National Book Award-winning Colson Whitehead.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385545143"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385545142"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 343,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.20.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b9AOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b9AOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b9AOEAAAQBAJ&printsec=frontcover&dq=intitle:%22Harlem+Shuffle%22+inauthor:%22Colson+Whitehead%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b9AOEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b9AOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b9AOEAAAQBAJ&rdid=book-b9AOEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Harlem_Shuffle-sample-epub.acsm?id=b9AOEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b9AOEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 From the two-time Pulitzer Prize-winning author of The Underground Railroad and The Nickel Boys, this gloriously entertaining novel is \u201cfast-paced, keen-eyed and very funny ... about race, power and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ehKmEAAAQBAJ",
+      "etag": "uawEEWBWZ0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehKmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harlem shuffle",
+        "authors": [
+          "Colson Whitehead",
+          "Charles Recours\u00e9"
+        ],
+        "publisher": "Albin Michel",
+        "publishedDate": "2023-01-04",
+        "description": "\" Sublime roman [...] Harlem Shuffle est un page turner comme Colson Whitehead sait si bien en faire.\" Livres Hebdo Petites arnaques, embrouilles et lutte des classes... La fresque irr\u00e9sistible du Harlem des ann\u00e9es 1960. \u00c9poux aimant, p\u00e8re de famille attentionn\u00e9 et fils d'un homme de main li\u00e9 \u00e0 la p\u00e8gre locale, Ray Carney, vendeur de meubles et d'\u00e9lectrom\u00e9nager \u00e0 New York sur la 125e Rue, \u00ab n'est pas un voyou, tout juste un peu filou \u00bb. Jusqu'\u00e0 ce que son cousin lui propose de cambrioler le c\u00e9l\u00e8bre H\u00f4tel Theresa, surnomm\u00e9 le Waldorf de Harlem... Chink Montague, habile \u00e0 manier le coupe-chou, Pepper, v\u00e9t\u00e9ran de la Seconde Guerre mondiale, Miami Joe, gangster tout de violet v\u00eatu, et autres flics v\u00e9reux ou pornographes pyromanes composent le paysage de ce roman f\u00e9roce et dr\u00f4le. Mais son personnage principal est Harlem, haut lieu de la lutte pour les droits civiques, o\u00f9 la mort d'un adolescent noir, abattu par un policier blanc, d\u00e9clencha en 1964 des \u00e9meutes pr\u00e9figurant celles qui ont eu lieu \u00e0 la mort de George Floyd. Avec Harlem Shuffle, qui revendique l'h\u00e9ritage de Chester Himes et Donald Westlake, Colson Whitehead se r\u00e9invente une fois encore en d\u00e9tournant les codes du roman noir. \" C'est vivant, bruyant, caracolant. C'est Whitehead.\" L'Obs \" Un r\u00e9jouissant tourbillon [...] Une belle le\u00e7on d'histoire et d'humanit\u00e9 en mode thriller.\" Les Echos",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782226481962"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2226481966"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ehKmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ehKmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=ehKmEAAAQBAJ&printsec=frontcover&dq=intitle:%22Harlem+Shuffle%22+inauthor:%22Colson+Whitehead%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ehKmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ehKmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ehKmEAAAQBAJ&rdid=book-ehKmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Harlem_shuffle-sample-epub.acsm?id=ehKmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Harlem_shuffle-sample-pdf.acsm?id=ehKmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehKmEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; Sublime roman [...] Harlem Shuffle est un page turner comme Colson Whitehead sait si bien en faire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uxgZEAAAQBAJ",
+      "etag": "WEK3P1vKQ/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uxgZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harlem Shuffle",
+        "subtitle": "from the author of The Underground Railroad",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2021-09-14",
+        "description": "FROM THE AUTHOR OF THE UNDERGROUND RAILROAD (Now a major Amazon Prime TV show) 'Dazzling' Guardian 'Gloriously entertaining' Evening Standard 'A rich, wild book' New York Times 'Ray Carney was only slightly bent when it came to being crooked...' To his customers and neighbors on 125th street, Carney is an upstanding salesman of reasonably-priced furniture, making a life for himself and his family. He and his wife Elizabeth are expecting their second child, and if her parents on Striver's Row don't approve of him or their cramped apartment across from the subway tracks, it's still home. Few people know he descends from a line of uptown hoods and crooks, and that his fa\u00e7ade of normalcy has more than a few cracks in it. Cracks that are getting bigger and bigger all the time. See, cash is tight, especially with all those instalment plan sofas, so if his cousin Freddie occasionally drops off the odd ring or necklace at the furniture store, Ray doesn't see the need to ask where it comes from. He knows a discreet jeweller downtown who also doesn't ask questions. Then Freddie falls in with a crew who plan to rob the Hotel Theresa - the 'Waldorf of Harlem' - and volunteers Ray's services as the fence. The heist doesn't go as planned; they rarely do, after all. Now Ray has to cater to a new clientele, one made up of shady cops on the take, vicious minions of the local crime lord, and numerous other Harlem lowlifes. Thus begins the internal tussle between Ray the striver and Ray the crook. As Ray navigates this double life, he starts to see the truth about who actually pulls the strings in Harlem. Can Ray avoid getting killed, save his cousin, and grab his share of the big score, all while maintaining his reputation as the go-to source for all your quality home furniture needs? Harlem Shuffle is driven by an ingeniously intricate plot that plays out in a beautifully recreated Harlem of the early 1960s. It's a family saga masquerading as a crime novel, a hilarious morality play, a social novel about race and power, and ultimately a love letter to Harlem.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780708899458"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0708899455"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 359,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uxgZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uxgZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uxgZEAAAQBAJ&dq=intitle:%22Harlem+Shuffle%22+inauthor:%22Colson+Whitehead%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uxgZEAAAQBAJ&dq=intitle:%22Harlem+Shuffle%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harlem_Shuffle.html?hl=&id=uxgZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uxgZEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Harlem Shuffle is driven by an ingeniously intricate plot that plays out in a beautifully recreated Harlem of the early 1960s."
+      }
+    }
+  ]
+}

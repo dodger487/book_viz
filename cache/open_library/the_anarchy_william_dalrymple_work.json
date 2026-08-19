@@ -1,0 +1,52 @@
+{
+  "subtitle": "The East India Company, Corporate Violence, and the Pillage of an Empire",
+  "key": "/works/OL20470129W",
+  "title": "The Anarchy",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL310865A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    9134924
+  ],
+  "subjects": [
+    "New York Times reviewed",
+    "East india company",
+    "India, history, british occupation, 1765-1947",
+    "Asia, history",
+    "History",
+    "International business enterprises",
+    "Government policy",
+    "Economic conditions",
+    "Economic history",
+    "British Occupation of India (1765-1947) fast (OCoLC)fst01352145"
+  ],
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2019/09/12/books/review/anarchy-william-dalrymple.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-11-15T21:18:02.179046"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-08-20T08:51:39.910928"
+  }
+}

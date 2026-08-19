@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Emily Nussbaum",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily Nussbaum</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q22279443",
+  "titles": {
+    "canonical": "Emily_Nussbaum",
+    "normalized": "Emily Nussbaum",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily Nussbaum</span></span>"
+  },
+  "pageid": 48706471,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Emily_Nussbaum_2.04.15_%2816444645311%29.jpg/330px-Emily_Nussbaum_2.04.15_%2816444645311%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emily_Nussbaum_2.04.15_%2816444645311%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2304,
+    "height": 1728
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1338910328",
+  "tid": "45ed55ac-0c59-11f1-97ec-250f5d53800b",
+  "timestamp": "2026-02-17T23:34:59Z",
+  "description": "American critic (born 1966)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Emily_Nussbaum",
+      "revisions": "https://en.wikipedia.org/wiki/Emily_Nussbaum?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Emily_Nussbaum?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emily_Nussbaum"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Emily_Nussbaum",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Emily_Nussbaum",
+      "edit": "https://en.wikipedia.org/wiki/Emily_Nussbaum?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emily_Nussbaum"
+    }
+  },
+  "extract": "Emily Nussbaum is an American critic and arts journalist. She is the theater critic for The New Yorker, where she was television critic from 2011 until 2019. In 2016, she won the Pulitzer Prize for Criticism.",
+  "extract_html": "<p><b>Emily Nussbaum</b> is an American critic and arts journalist. She is the theater critic for <i>The New Yorker,</i> where she was television critic from 2011 until 2019. In 2016, she won the Pulitzer Prize for Criticism.</p>"
+}

@@ -1,0 +1,102 @@
+{
+  "description": "February 1862. The Civil War is less than one year old. The fighting has begun in earnest, and the nation has begun to realize it is in for a long, bloody struggle. Meanwhile, President Lincoln's beloved eleven-year-old son, Willie, lies upstairs in the White House, gravely ill. In a matter of days, despite predictions of a recovery, Willie dies and is laid to rest in a Georgetown cemetery. \"My poor boy, he was too good for this earth,\" the president says at the time. \"God has called him home.\" Newspapers report that a grief-stricken Lincoln returns, alone, to the crypt several times to hold his boy's body. From that seed of historical truth, George Saunders spins a story of familial love and loss that breaks free of its historical framework into a supernatural realm both hilarious and terrifying. Willie Lincoln finds himself in a strange purgatory where ghosts mingle, gripe, commiserate, quarrel, and enact bizarre acts of penance. Within this transitional state -- called, in the Tibetan tradition, the bardo -- a monumental struggle erupts over young Willie's soul.",
+  "links": [
+    {
+      "title": "Book info (from the author's website)",
+      "url": "http://www.georgesaundersbooks.com/lincoln-in-the-bardo/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2017/02/09/books/review/lincoln-in-the-bardo-george-saunders.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Lincoln in the Bardo",
+  "covers": [
+    7909378,
+    -1,
+    8582734,
+    8858208,
+    10360665,
+    8596050,
+    14071512,
+    8160268,
+    13561486,
+    13916810
+  ],
+  "subject_places": [
+    "United States",
+    "Georgetown (Washington, D.C.)"
+  ],
+  "subjects": [
+    "FICTION / Ghost",
+    "Presidents",
+    "Biographical fiction",
+    "Fiction",
+    "Grief",
+    "Historical fiction",
+    "FICTION / Literary",
+    "FICTION / Historical",
+    "Fiction, biographical",
+    "Fiction, historical",
+    "Presidents, united states, fiction",
+    "Purgatory",
+    "Large type books",
+    "LGBTQ historical fiction",
+    "nyt:combined-print-and-e-book-fiction=2017-03-05",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction, historical, general",
+    "18.06 Anglo-American literature",
+    "Lincoln, Abraham, 1809-1865 - Fiction",
+    "Presidents - United States - Fiction",
+    "Grief - Fiction",
+    "Historical",
+    "Ghost",
+    "General",
+    "Bereavement",
+    "American Civil War",
+    "Slavery"
+  ],
+  "subject_people": [
+    "Abraham Lincoln (1809-1865)",
+    "William Wallace Lincoln (1850-1862)"
+  ],
+  "key": "/works/OL17635834W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL537475A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL4181476A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 27,
+  "revision": 27,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-04-02T14:04:54.562480"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-29T20:39:13.277226"
+  }
+}

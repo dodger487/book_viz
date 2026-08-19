@@ -1,0 +1,242 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-T2lDwAAQBAJ",
+      "etag": "UDNpQT36ob8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-T2lDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Anarchy",
+        "subtitle": "The Relentless Rise of the East India Company",
+        "authors": [
+          "William Dalrymple"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2019-09-10",
+        "description": "THE TOP 5 SUNDAY TIMES BESTSELLER ONE OF BARACK OBAMA'S BEST BOOKS OF 2019 THE TIMES HISTORY BOOK OF THE YEAR FINALIST FOR THE CUNDILL HISTORY PRIZE 2020 LONGLISTED FOR THE BAILLIE GIFFORD PRIZE FOR NON-FICTION 2019 A FINANCIAL TIMES, OBSERVER, DAILY TELEGRAPH, WALL STREET JOURNAL AND TIMES BOOK OF THE YEAR 'Dalrymple is a superb historian with a visceral understanding of India ... A book of beauty' \u2013 Gerard DeGroot, The Times In August 1765 the East India Company defeated the young Mughal emperor and forced him to establish a new administration in his richest provinces. Run by English merchants who collected taxes using a ruthless private army, this new regime saw the East India Company transform itself from an international trading corporation into something much more unusual: an aggressive colonial power in the guise of a multinational business. William Dalrymple tells the remarkable story of the East India Company as it has never been told before, unfolding a timely cautionary tale of the first global corporate power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408864401"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408864401"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 577,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.21.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-T2lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-T2lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-T2lDwAAQBAJ&dq=intitle:%22The+Anarchy%22+inauthor:%22William+Dalrymple%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-T2lDwAAQBAJ&dq=intitle:%22The+Anarchy%22+inauthor:%22William+Dalrymple%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Anarchy.html?hl=&id=-T2lDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-T2lDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Dalrymple tells the remarkable story of the East India Company as it has never been told before, unfolding a timely cautionary tale of the first global corporate power."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HUMIEAAAQBAJ",
+      "etag": "/aikCRSJQlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HUMIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Anarchy",
+        "authors": [
+          "William Dalrymple"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2020-11-12",
+        "description": "THE TOP 5 SUNDAY TIMES BESTSELLER ONE OF BARACK OBAMA'S BEST BOOKS OF 2019 THE TIMES HISTORY BOOK OF THE YEAR FINALIST FOR THE CUNDILL HISTORY PRIZE 2020 LONGLISTED FOR THE BAILLIE GIFFORD PRIZE FOR NON-FICTION 2019 A FINANCIAL TIMES, OBSERVER, DAILY TELEGRAPH, WALL STREET JOURNAL AND TIMES BOOK OF THE YEAR 'Dalrymple is a superb historian with a visceral understanding of India ... A book of beauty' \u2013 Gerard DeGroot, The Times In August 1765 the East India Company defeated the young Mughal emperor and forced him to establish a new administration in his richest provinces. Run by English merchants who collected taxes using a ruthless private army, this new regime saw the East India Company transform itself from an international trading corporation into something much more unusual: an aggressive colonial power in the guise of a multinational business. William Dalrymple tells the remarkable story of the East India Company as it has never been told before, unfolding a timely cautionary tale of the first global corporate power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781526634016"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1526634015"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 577,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HUMIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HUMIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HUMIEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Anarchy%22+inauthor:%22William+Dalrymple%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HUMIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HUMIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.6,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.6,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HUMIEAAAQBAJ&rdid=book-HUMIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17600000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17600000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HUMIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Dalrymple tells the remarkable story of the East India Company as it has never been told before, unfolding a timely cautionary tale of the first global corporate power."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FHBFzgEACAAJ",
+      "etag": "t4vH36yoeTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FHBFzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Company Quartet",
+        "subtitle": "The Anarchy, White Mughals, Return of a King and the Last Mughal",
+        "authors": [
+          "William Dalrymple"
+        ],
+        "publishedDate": "2021-06-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1526633353"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781526633354"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FHBFzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FHBFzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FHBFzgEACAAJ&dq=intitle:%22The+Anarchy%22+inauthor:%22William+Dalrymple%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FHBFzgEACAAJ&dq=intitle:%22The+Anarchy%22+inauthor:%22William+Dalrymple%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Company_Quartet.html?hl=&id=FHBFzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FHBFzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

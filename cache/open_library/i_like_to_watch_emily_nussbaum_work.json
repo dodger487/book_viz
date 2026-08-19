@@ -1,0 +1,44 @@
+{
+  "title": "I Like to Watch",
+  "covers": [
+    10328787
+  ],
+  "key": "/works/OL21162720W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL8106142A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "New York Times reviewed",
+    "Television programs",
+    "Literature"
+  ],
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2019/07/03/books/review-i-like-to-watch-tv-revolution-emily-nussbaum.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-08-06T11:22:48.061111"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-12-30T14:45:10.961342"
+  }
+}

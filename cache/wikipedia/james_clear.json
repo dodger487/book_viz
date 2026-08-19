@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "James Clear",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">James Clear</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q98178306",
+  "titles": {
+    "canonical": "James_Clear",
+    "normalized": "James Clear",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">James Clear</span></span>"
+  },
+  "pageid": 73974413,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/James_Clear_in_2010.jpg/330px-James_Clear_in_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 448
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/James_Clear_in_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 381,
+    "height": 517
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1357655211",
+  "tid": "836db937-5f94-11f1-b402-b984d8dbcb16",
+  "timestamp": "2026-06-03T21:38:09Z",
+  "description": "American author (born 1986)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/James_Clear",
+      "revisions": "https://en.wikipedia.org/wiki/James_Clear?action=history",
+      "edit": "https://en.wikipedia.org/wiki/James_Clear?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:James_Clear"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/James_Clear",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/James_Clear",
+      "edit": "https://en.wikipedia.org/wiki/James_Clear?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:James_Clear"
+    }
+  },
+  "extract": "James Clear is an American writer. Raised in Hamilton, Ohio, and receiving education from Denison University and Ohio State University, he is best known for his 2018 self-help book Atomic Habits.",
+  "extract_html": "<p><b>James Clear</b> is an American writer. Raised in Hamilton, Ohio, and receiving education from Denison University and Ohio State University, he is best known for his 2018 self-help book <i>Atomic Habits.</i></p>"
+}

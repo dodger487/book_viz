@@ -1,0 +1,170 @@
+{
+  "description": "From a renowned historian comes a groundbreaking narrative of humanity\u2019s creation and evolution\u2014a #1 international bestseller\u2014that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be \u201chuman.\u201d\r\n\r\nOne hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one\u2014homo sapiens. What happened to the others? And what may happen to us?\r\n\r\nMost books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas.\r\n\r\nDr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become?\r\n\r\nFeaturing 27 photographs, 6 maps, and 25 illustrations/diagrams, this provocative and insightful work is sure to spark debate and is essential reading for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem.",
+  "title": "Sapiens",
+  "key": "/works/OL17075811W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL3778242A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Technology and civilization",
+    "Human beings",
+    "Historical Chronology",
+    "Historia universal",
+    "Historia",
+    "Civilization",
+    "Hombre",
+    "World history",
+    "History",
+    "Non-Fiction",
+    "Science",
+    "SCIENCE / Life Sciences / General",
+    "SCIENCE / General",
+    "SCIENCE / Life Sciences / Evolution",
+    "Weltgeschichte",
+    "Civilization, history",
+    "Chronology, historical",
+    "Chronologie historique",
+    "Technologie et civilisation",
+    "Histoire universelle",
+    "Histoire",
+    "Humans",
+    "Civilisation",
+    "Homme",
+    "nyt:combined-print-and-e-book-nonfiction=2015-03-01",
+    "New York Times bestseller",
+    "Life Sciences",
+    "Evolution",
+    "General",
+    "Menschheit",
+    "Humanit\u00e9",
+    "M\u00e4nniskan",
+    "Fysisk antropologi",
+    "Human",
+    "Sapiens",
+    "nyt:paperback-nonfiction=2018-06-03",
+    "Comics & graphic novels, adaptations",
+    "Zivilisation",
+    "Society",
+    "Psychology",
+    "Economic history",
+    "Cognition and culture",
+    "Civilization--history",
+    "Human beings--history",
+    "Technology and civilization--history",
+    "Cb113.h4 h3713 2015",
+    "599.9",
+    "Sci027000 sci086000 sci000000",
+    "Cronolog\u00eda hist\u00f3rica",
+    "Tecnolog\u00eda y civilizaci\u00f3n",
+    "Anthropology",
+    "Long Now Manual for Civilization",
+    "Comic books, strips"
+  ],
+  "covers": [
+    8634250,
+    7387235,
+    8117573,
+    7914162,
+    8202297,
+    8203967,
+    8315361,
+    10254953,
+    10456630,
+    10492831,
+    10540490,
+    9367956,
+    11237094,
+    7349454,
+    10479543,
+    9031603,
+    12130527,
+    12369635,
+    12531613,
+    10470983,
+    10516231,
+    11481587,
+    12214377,
+    12370002,
+    12394071,
+    12879721,
+    12919088,
+    13194426,
+    12924570,
+    13122431,
+    13775631,
+    13994645,
+    14060606,
+    14060607,
+    14216845,
+    14216842,
+    14216843,
+    14216844
+  ],
+  "links": [
+    {
+      "title": "The Guardian review",
+      "url": "https://www.theguardian.com/books/2014/sep/11/sapiens-brief-history-humankind-yuval-noah-harari-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Whitby Public Library",
+      "url": "https://whitby.overdrive.com/media/1690806",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Google Play Books",
+      "url": "https://play.google.com/store/books/details/Sapiens_A_Brief_History_of_Humankind?id=Y41zAwAAQBAJ",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Sapiens: Scurt\u0103 istorie a omenirii (saitul editurii Polirom)",
+      "url": "https://www.polirom.ro/web/polirom/carti/-/carte/6444",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "\u0622\u062f\u0645\u06cc: \u0628\u0646\u06cc \u0646\u0648\u0639 \u0627\u0646\u0633\u0627\u0646 \u06a9\u06cc \u0645\u062e\u062a\u0635\u0631 \u062a\u0627\u0631\u06cc\u062e",
+      "url": "https://archive.org/details/sapiens-a-brief-history-of-humankind-urdu-omer-bangash",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "America",
+    "Australia",
+    "India"
+  ],
+  "subject_times": [
+    "100",
+    "000 years ago"
+  ],
+  "subtitle": "A Brief History of Humankind",
+  "latest_revision": 32,
+  "revision": 32,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2014-11-27T11:53:56.848815"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-16T21:39:36.884949"
+  }
+}

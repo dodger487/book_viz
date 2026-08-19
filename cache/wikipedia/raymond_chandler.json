@@ -1,0 +1,53 @@
+{
+  "type": "standard",
+  "title": "Raymond Chandler",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Raymond Chandler</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q180377",
+  "titles": {
+    "canonical": "Raymond_Chandler",
+    "normalized": "Raymond Chandler",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Raymond Chandler</span></span>"
+  },
+  "pageid": 25663,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Raymond_Chandler_%28Lady_in_the_Lake_portrait%2C_1943%29.jpg/330px-Raymond_Chandler_%28Lady_in_the_Lake_portrait%2C_1943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 357
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Raymond_Chandler_%28Lady_in_the_Lake_portrait%2C_1943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 361,
+    "height": 391
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368340452",
+  "tid": "02ce8d8b-9330-11f1-8bb5-8ba291868670",
+  "timestamp": "2026-08-08T13:49:44Z",
+  "description": "American novelist and screenwriter (1888\u20131959)",
+  "description_source": "local",
+  "coordinates": {
+    "lat": 34.10176,
+    "lon": -118.3296
+  },
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Raymond_Chandler",
+      "revisions": "https://en.wikipedia.org/wiki/Raymond_Chandler?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Raymond_Chandler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Raymond_Chandler"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Raymond_Chandler",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Raymond_Chandler",
+      "edit": "https://en.wikipedia.org/wiki/Raymond_Chandler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Raymond_Chandler"
+    }
+  },
+  "extract": "Raymond Thornton Chandler was an American-British novelist and screenwriter. In 1932, at age 44, Chandler became a detective fiction writer after losing his job as an oil company executive during the Great Depression. His first short story, \"Blackmailers Don't Shoot\", was published in 1933 in Black Mask, a pulp magazine. His first novel, The Big Sleep, was published in 1939. In addition to his short stories, Chandler published seven novels during his lifetime. All but Playback have been made into motion pictures, some more than once.",
+  "extract_html": "<p><b>Raymond Thornton Chandler</b> was an American-British novelist and screenwriter. In 1932, at age 44, Chandler became a detective fiction writer after losing his job as an oil company executive during the Great Depression. His first short story, \"Blackmailers Don't Shoot\", was published in 1933 in <i>Black Mask,</i> a pulp magazine. His first novel, <i>The Big Sleep</i>, was published in 1939. In addition to his short stories, Chandler published seven novels during his lifetime. All but <i>Playback</i> have been made into motion pictures, some more than once.</p>"
+}

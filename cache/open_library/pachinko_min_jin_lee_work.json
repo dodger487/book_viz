@@ -1,0 +1,79 @@
+{
+  "description": "In the early 1900s, teenaged Sunja, the adored daughter of a crippled fisherman, falls for a wealthy stranger at the seashore near her home in Korea. He promises her the world, but when she discovers she is pregnant--and that her lover is married--she refuses to be bought. Instead, she accepts an offer of marriage from a gentle, sickly minister passing through on his way to Japan. But her decision to abandon her home, and to reject her son's powerful father, sets off a dramatic saga that will echo down through the generations.\r\n\r\nRichly told and profoundly moving, Pachinko is a story of love, sacrifice, ambition, and loyalty. From bustling street markets to the halls of Japan's finest universities to the pachinko parlors of the criminal underworld, Lee's complex and passionate characters--strong, stubborn women, devoted sisters and sons, fathers shaken by moral crisis--survive and thrive against the indifferent arc of history.",
+  "title": "Pachinko",
+  "covers": [
+    8044605,
+    11301913,
+    10540014,
+    8755926,
+    11456451
+  ],
+  "subject_places": [
+    "Korea",
+    "Japan",
+    "Cor\u00e9e",
+    "Japon"
+  ],
+  "subjects": [
+    "Fiction",
+    "Families",
+    "Literary",
+    "Cultural Heritage",
+    "Family Life",
+    "Historical",
+    "Sagas",
+    "Asian American",
+    "Koreans",
+    "Fiction, family life",
+    "Korea, fiction",
+    "Fiction, historical",
+    "Japan, fiction",
+    "New York Times reviewed",
+    "Audiobooks",
+    "Spouses of clergy",
+    "Unmarried mothers",
+    "Social life and customs",
+    "Large type books",
+    "nyt:trade-fiction-paperback=2017-12-24",
+    "New York Times bestseller",
+    "Familles",
+    "Romans, nouvelles",
+    "Cor\u00e9ens"
+  ],
+  "key": "/works/OL17762217W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2711131A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2017/02/02/books/review/pachinko-min-jin-lee.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-08-06T01:44:55.594121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-02-25T12:44:08.610423"
+  }
+}

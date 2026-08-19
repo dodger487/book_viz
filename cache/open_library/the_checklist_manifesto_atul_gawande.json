@@ -1,0 +1,92 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1485501A"
+      ],
+      "author_name": [
+        "Atul Gawande"
+      ],
+      "cover_edition_key": "OL24404509M",
+      "cover_i": 8231866,
+      "ebook_access": "printdisabled",
+      "edition_count": 10,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "checklistmanifes0000gawa_h5n6",
+        "checklistmanifes00atul",
+        "checklistmanifes0000gawa",
+        "checklistmanifes00gawa",
+        "cd_the-checklist-manifesto_atul-gawande"
+      ],
+      "ia_collection": [
+        "americana",
+        "audio_bookspoetry",
+        "barryuniversity-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchiveaudiobooks",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "samples_only",
+        "spokanepubliclibrary-ol",
+        "stream_only",
+        "swarthmore-ol",
+        "the-claremont-colleges-ol",
+        "udc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "universityofthewest-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL15436462W",
+      "language": [
+        "chi",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "How To Get Things Right",
+      "title": "The Checklist Manifesto"
+    },
+    {
+      "author_key": [
+        "OL1485501A"
+      ],
+      "author_name": [
+        "Atul Gawande"
+      ],
+      "cover_edition_key": "OL49220487M",
+      "cover_i": 14399063,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL36427210W",
+      "public_scan_b": false,
+      "subtitle": "How to Get THings RIght",
+      "title": "The Checklist Manifesto"
+    }
+  ]
+}

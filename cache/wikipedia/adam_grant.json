@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Adam Grant",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Adam Grant</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q14712273",
+  "titles": {
+    "canonical": "Adam_Grant",
+    "normalized": "Adam Grant",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Adam Grant</span></span>"
+  },
+  "pageid": 38679630,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Adam_Grant_at_the_2023_World_Economic_Forum_%2852693537938%29.jpg/330px-Adam_Grant_at_the_2023_World_Economic_Forum_%2852693537938%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Adam_Grant_at_the_2023_World_Economic_Forum_%2852693537938%29.jpg/3840px-Adam_Grant_at_the_2023_World_Economic_Forum_%2852693537938%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 4480,
+    "height": 6720
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364634546",
+  "tid": "b7c6d0ad-8202-11f1-bef6-68b39f53a9ec",
+  "timestamp": "2026-07-17T17:12:41Z",
+  "description": "American psychologist and author (born 1981)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Adam_Grant",
+      "revisions": "https://en.wikipedia.org/wiki/Adam_Grant?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Adam_Grant?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Adam_Grant"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Adam_Grant",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Adam_Grant",
+      "edit": "https://en.wikipedia.org/wiki/Adam_Grant?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Adam_Grant"
+    }
+  },
+  "extract": "Adam M. Grant is an American popular science author, and professor at the Wharton School of the University of Pennsylvania specializing in organizational psychology.",
+  "extract_html": "<p><b>Adam M. Grant</b> is an American popular science author, and professor at the Wharton School of the University of Pennsylvania specializing in organizational psychology.</p>"
+}

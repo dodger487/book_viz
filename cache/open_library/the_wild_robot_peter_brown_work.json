@@ -1,0 +1,91 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "When robot Roz opens her eyes for the first time, she discovers that she is alone on a remote, wild island. She has no idea how she got there or what her purpose is--but she knows she needs to survive. After battling a fierce storm and escaping a vicious bear attack, she realizes that her only hope for survival is to adapt to her surroundings and learn from the island's unwelcoming animal inhabitants.\r\n\r\nAs Roz slowly befriends the animals, the island starts to feel like home--until, one day, the robot's mysterious past comes back to haunt her."
+  },
+  "title": "The Wild Robot",
+  "covers": [
+    7443301,
+    7443270,
+    8803503,
+    8898273,
+    10429151,
+    12211849,
+    13550786
+  ],
+  "subjects": [
+    "Juvenile Fiction",
+    "juvenile literature",
+    "Animals",
+    "JUVENILE FICTION / Robots",
+    "JUVENILE FICTION / Animals / Bears",
+    "Robots",
+    "Fiction",
+    "JUVENILE FICTION / Animals / General",
+    "JUVENILE FICTION / Action & Adventure / Survival Stories",
+    "Islands",
+    "Friendship",
+    "Survival",
+    "JUVENILE FICTION / Animals / Ducks, Geese, etc..",
+    "Children's fiction",
+    "Robots, fiction",
+    "Survival, fiction",
+    "Animals, fiction",
+    "Friendship, fiction",
+    "Islands, fiction",
+    "nyt:childrens-middle-grade-hardcover=2016-04-24",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "nyt:middle-grade-paperback-monthly=2020-05-10"
+  ],
+  "subject_people": [
+    "The people who made Roz",
+    "no"
+  ],
+  "key": "/works/OL17365087W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1388278A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2016/04/10/books/review/the-wild-robot-by-peter-brown.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2016/04/10/books/review/the-wild-robot-by-peter-brown.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_times": [
+    "unknown"
+  ],
+  "subject_places": [
+    "An island"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-09-02T23:13:18.048911"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-01-31T19:51:26.912472"
+  }
+}

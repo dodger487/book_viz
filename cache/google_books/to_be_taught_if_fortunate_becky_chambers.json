@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "D46IDwAAQBAJ",
+      "etag": "60U9L3iA0h0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D46IDwAAQBAJ",
+      "volumeInfo": {
+        "title": "To Be Taught, If Fortunate",
+        "subtitle": "A Novella",
+        "authors": [
+          "Becky Chambers"
+        ],
+        "publisher": "Hodderscape",
+        "publishedDate": "2019-08-08",
+        "description": "In the future, instead of terraforming planets to sustain human life, explorers of the galaxy transform themselves. *FROM THE SUNDAY TIMES BESTSELLING AUTHOR* 'Extraordinary . . . A future masterwork' Joanne Harris At the turn of the twenty-second century, scientists make a breakthrough in human spaceflight. Through a revolutionary method known as somaforming, astronauts can survive in hostile environments off Earth using synthetic biological supplementations. They can produce antifreeze in sub-zero temperatures, absorb radiation and convert it for food, and conveniently adjust to the pull of different gravitational forces. With the fragility of the body no longer a limiting factor, human beings are at last able to explore neighbouring exoplanets long suspected to harbour life. Ariadne is one such explorer. On a mission to ecologically survey four habitable worlds fifteen light-years from Earth, she and her fellow crewmates sleep while in transit, and wake each time with different features. But as they shift through both form and time, life back on Earth has also changed. Faced with the possibility of returning to a planet that has forgotten those who have left, Ariadne begins to chronicle the wonders and dangers of her journey, in the hope that someone back home might still be listening. PRAISE FOR THE WAYFARERS 'Becky Chambers is a wonder, and I feel better for having her books in my life' JOHN CONNOLLY 'In a word, brilliant' ANDREW CALDECOTT 'A short but fierce ode to humanity and all our reaches and flaws. Unputdownable' NATASHA NGAN 'Outstanding . . . Chambers packs an immense amount of story into a novella worthy of full-length praise' PUBLISHERS WEEKLY, Starred Review 'Becky Chambers takes space opera in a whole new and unexpected direction' BEN AARONOVITCH",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473697171"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473697174"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D46IDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D46IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D46IDwAAQBAJ&printsec=frontcover&dq=intitle:%22To+Be+Taught,+If+Fortunate%22+inauthor:%22Becky+Chambers%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=D46IDwAAQBAJ&dq=intitle:%22To+Be+Taught,+If+Fortunate%22+inauthor:%22Becky+Chambers%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Be_Taught_If_Fortunate.html?hl=&id=D46IDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/To_Be_Taught_If_Fortunate-sample-epub.acsm?id=D46IDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D46IDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the bestselling author of the Wayfarer Series comes the futuristic story where instead of terraforming planets to sustain human life, explorers of the galaxy transform themselves."
+      }
+    }
+  ]
+}

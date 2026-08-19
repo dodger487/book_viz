@@ -1,0 +1,72 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7486601A"
+      ],
+      "author_name": [
+        "R. F. Kuang"
+      ],
+      "cover_edition_key": "OL26807748M",
+      "cover_i": 8463552,
+      "ebook_access": "no_ebook",
+      "edition_count": 12,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL19351054W",
+      "language": [
+        "eng",
+        "por",
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "The Poppy War"
+    },
+    {
+      "author_key": [
+        "OL7486601A"
+      ],
+      "author_name": [
+        "R. F. Kuang"
+      ],
+      "cover_edition_key": "OL61378384M",
+      "cover_i": 15177893,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL35923597W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Poppy War / The Dragon Republic / The Burning God"
+    },
+    {
+      "author_key": [
+        "OL7486601A",
+        "OL12422873A"
+      ],
+      "author_name": [
+        "R. F. Kuang",
+        "Nadia Carb\u00f3 Mont"
+      ],
+      "cover_edition_key": "OL46535210M",
+      "cover_i": 13229678,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL34315356W",
+      "public_scan_b": false,
+      "title": "THE POPPY WAR"
+    }
+  ]
+}

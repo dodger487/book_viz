@@ -1,0 +1,73 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "\"From Tim Wu, author of award-winning The Master Switch, and who coined the phrase \"net neutrality\"--a revelatory look at the rise of \"attention harvesting,\" and its transformative effect on our society and our selves\"--"
+  },
+  "subjects": [
+    "SOCIAL SCIENCE / Popular Culture",
+    "Consumer behavior",
+    "Advertising",
+    "BUSINESS & ECONOMICS / Industries / Media & Communications Industries",
+    "HISTORY / Social History",
+    "Marketing",
+    "History",
+    "New York Times reviewed",
+    "BUSINESS & ECONOMICS",
+    "Industries",
+    "Media & Communications Industries",
+    "Social History",
+    "SOCIAL SCIENCE",
+    "Popular Culture",
+    "Modern",
+    "General",
+    "Psychological aspects",
+    "Social aspects",
+    "HISTORY / Modern / General"
+  ],
+  "key": "/works/OL19667653W",
+  "title": "The Attention Merchants",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3297555A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL8227672A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2016/11/13/books/review/tim-wu-attention-merchants.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "covers": [
+    8868199,
+    11473152
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-15T05:28:41.570293"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-25T05:46:47.682898"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sarah Vowell",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sarah Vowell</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q452147",
+  "titles": {
+    "canonical": "Sarah_Vowell",
+    "normalized": "Sarah Vowell",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sarah Vowell</span></span>"
+  },
+  "pageid": 537885,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sarah_Vowell.jpg/330px-Sarah_Vowell.jpg",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sarah_Vowell.jpg",
+    "width": 2304,
+    "height": 3072
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1359551400",
+  "tid": "8019ed0e-6909-11f1-a835-d195c104ee5d",
+  "timestamp": "2026-06-15T22:28:15Z",
+  "description": "American author, journalist and voice actress (born 1969)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sarah_Vowell",
+      "revisions": "https://en.wikipedia.org/wiki/Sarah_Vowell?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sarah_Vowell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sarah_Vowell"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Sarah_Vowell",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Sarah_Vowell",
+      "edit": "https://en.wikipedia.org/wiki/Sarah_Vowell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sarah_Vowell"
+    }
+  },
+  "extract": "Sarah Jane Vowell is an American historian, writer, journalist, radio personality, social commentator, and actress. She has written seven nonfiction books on American history and culture. Vowell was a contributing editor for the radio program This American Life on Public Radio International from 1996 to 2008, where she produced commentaries and documentaries. She was the voice of Violet Parr in the 2004 animated film The Incredibles and its 2018 sequel.",
+  "extract_html": "<p><b>Sarah Jane Vowell</b> is an American historian, writer, journalist, radio personality, social commentator, and actress. She has written seven nonfiction books on American history and culture. Vowell was a contributing editor for the radio program <i>This American Life</i> on Public Radio International from 1996 to 2008, where she produced commentaries and documentaries. She was the voice of Violet Parr in the 2004 animated film <i>The Incredibles</i> and its 2018 sequel.</p>"
+}

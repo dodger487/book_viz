@@ -1,0 +1,49 @@
+{
+  "subjects": [
+    "Extraterrestrial beings",
+    "College stories",
+    "Interstellar travel",
+    "Fiction",
+    "Human-alien encounters",
+    "Afro-futurism",
+    "science fiction",
+    "fantasy",
+    "general",
+    "Fiction, science fiction, general"
+  ],
+  "key": "/works/OL19330487W",
+  "title": "Binti",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7350596A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8441703,
+    8503953,
+    10864701,
+    13563983
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Afro-futurist science fiction."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-15T17:48:33.484265"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-01T13:18:58.437786"
+  }
+}

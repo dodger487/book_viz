@@ -1,0 +1,53 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1424506A"
+      ],
+      "author_name": [
+        "Maggie Nelson"
+      ],
+      "cover_edition_key": "OL27438414M",
+      "cover_i": 8898517,
+      "ebook_access": "printdisabled",
+      "edition_count": 13,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "argonauts0000nels"
+      ],
+      "ia_collection": [
+        "belmont-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol"
+      ],
+      "key": "/works/OL19999589W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Argonauts"
+    }
+  ]
+}

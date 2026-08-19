@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robin Wright",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robin Wright</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q272972",
+  "titles": {
+    "canonical": "Robin_Wright",
+    "normalized": "Robin Wright",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robin Wright</span></span>"
+  },
+  "pageid": 26265,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Robin_Wright_Cannes_2017.jpg/330px-Robin_Wright_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 639
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Robin_Wright_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 413,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366736745",
+  "tid": "36741e22-8b9a-11f1-95a8-071dcbad3e2c",
+  "timestamp": "2026-07-29T22:09:48Z",
+  "description": "American actress (born 1966)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robin_Wright",
+      "revisions": "https://en.wikipedia.org/wiki/Robin_Wright?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robin_Wright?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robin_Wright"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Robin_Wright",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Robin_Wright",
+      "edit": "https://en.wikipedia.org/wiki/Robin_Wright?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robin_Wright"
+    }
+  },
+  "extract": "Robin Gayle Wright is an American actress, producer and director. She has received accolades including a Golden Globe Award, and nominations for eight Primetime Emmy Awards.",
+  "extract_html": "<p><b>Robin Gayle Wright</b> is an American actress, producer and director. She has received accolades including a Golden Globe Award, and nominations for eight Primetime Emmy Awards.</p>"
+}

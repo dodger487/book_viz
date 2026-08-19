@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Chip Heath",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chip Heath</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16252439",
+  "titles": {
+    "canonical": "Chip_Heath",
+    "normalized": "Chip Heath",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chip Heath</span></span>"
+  },
+  "pageid": 39214726,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353584183",
+  "tid": "15163da2-4ceb-11f1-ac74-3622f4ece2d7",
+  "timestamp": "2026-05-11T03:39:58Z",
+  "description": "American academic",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Chip_Heath",
+      "revisions": "https://en.wikipedia.org/wiki/Chip_Heath?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Chip_Heath?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chip_Heath"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Chip_Heath",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Chip_Heath",
+      "edit": "https://en.wikipedia.org/wiki/Chip_Heath?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chip_Heath"
+    }
+  },
+  "extract": "Chip Heath is an American academic. He is the Thrive Foundation for Youth Professor of Organizational Behavior at the Stanford Graduate School of Business, and the co-author of several books.",
+  "extract_html": "<p><b>Chip Heath</b> is an American academic. He is the Thrive Foundation for Youth Professor of Organizational Behavior at the Stanford Graduate School of Business, and the co-author of several books.</p>"
+}

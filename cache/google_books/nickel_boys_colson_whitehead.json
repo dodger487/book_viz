@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NhmNEAAAQBAJ",
+      "etag": "Oli2lYkzFIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NhmNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Nickel Boys",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2020-06-30",
+        "description": "NATIONAL BESTSELLER \u2022 In this Pulitzer Prize-winning follow-up to The Underground Railroad, Colson Whitehead brilliantly dramatizes another strand of American history through the story of two boys unjustly sentenced to a hellish reform school in Jim Crow-era Florida. When Elwood Curtis, a black boy growing up in 1960s Tallahassee, is unfairly sentenced to a juvenile reformatory called the Nickel Academy, he finds himself trapped in a grotesque chamber of horrors. Elwood\u2019s only salvation is his friendship with fellow \u201cdelinquent\u201d Turner, which deepens despite Turner\u2019s conviction that Elwood is hopelessly naive, that the world is crooked, and that the only way to survive is to scheme and avoid trouble. As life at the Academy becomes ever more perilous, the tension between Elwood\u2019s ideals and Turner\u2019s skepticism leads to a decision whose repercussions will echo down the decades. Based on the real story of a reform school that operated for 111 years and warped the lives of thousands of children, The Nickel Boys is a devastating, driven narrative that showcases a great American novelist writing at the height of his powers and \u201cshould further cement Whitehead as one of his generation's best\" (Entertainment Weekly). Look for Colson Whitehead\u2019s bestselling new novel, Harlem Shuffle!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345804341"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345804341"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NhmNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NhmNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NhmNEAAAQBAJ&dq=intitle:%22Nickel+Boys%22+inauthor:%22Colson+Whitehead%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NhmNEAAAQBAJ&dq=intitle:%22Nickel+Boys%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Nickel_Boys.html?hl=&id=NhmNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NhmNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NATIONAL BESTSELLER \u2022 In this Pulitzer Prize-winning follow-up to The Underground Railroad, Colson Whitehead brilliantly dramatizes another strand of American history through the story of two boys unjustly sentenced to a hellish reform ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0JB1DwAAQBAJ",
+      "etag": "v/sJ67MsCUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0JB1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Nickel Boys",
+        "subtitle": "Now a major motion picture and Oscar nominee for Best Picture and Best Adapted Screenplay",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2019-07-16",
+        "description": "'RaMell Ross's transcendentally moving and frightening film' (Guardian, New York Film Festival) now a major motion picture and shortlisted for a Golden Globe. WINNER OF THE PULITZER PRIZE FOR FICTION 2020 WINNER OF THE ORWELL PRIZE FOR POLITICAL FICTION 2020 Winner of the Library of Congress Prize for American Fiction 2020 Time #1 Novel of the Year 2019 Author of The Underground Railroad, Colson Whitehead brilliantly dramatizes another strand of American history through the story of two boys sentenced to a hellish reform school in 1960s Florida. Elwood Curtis has taken the words of Dr Martin Luther King to heart: he is as good as anyone. Abandoned by his parents, brought up by his loving, strict and clear-sighted grandmother, Elwood is about to enroll in the local black college. But given the time and the place, one innocent mistake is enough to destroy his future, and so Elwood arrives at The Nickel Academy, which claims to provide 'physical, intellectual and moral training' which will equip its inmates to become 'honorable and honest men'. In reality, the Nickel Academy is a chamber of horrors, where physical, emotional and sexual abuse is rife, where corrupt officials and tradesmen do a brisk trade in supplies intended for the school, and where any boy who resists is likely to disappear 'out back'. Stunned to find himself in this vicious environment, Elwood tries to hold on to Dr King's ringing assertion, 'Throw us in jail, and we will still love you.' But Elwood's fellow inmate and new friend Turner thinks Elwood is naive and worse; the world is crooked, and the only way to survive is to emulate the cruelty and cynicism of their oppressors. The tension between Elwood's idealism and Turner's skepticism leads to a decision which will have decades-long repercussions. Based on the history of a real reform school in Florida that operated for one hundred and eleven years and warped and destroyed the lives of thousands of children, The Nickel Boys is a devastating, driven narrative by a great American novelist whose work is essential to understanding the current reality of the United States. 'If greatness is excellence sustained over time, then without question, Whitehead is one of the greatest of his generation. In fact, figuring his age, acclaim, productivity and consistency, he is one of the greatest American writers alive' Time 'A commanding triumph' Sunday Times 'Every chapter hits its mark' New York Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780708899403"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0708899404"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 147,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0JB1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0JB1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0JB1DwAAQBAJ&dq=intitle:%22Nickel+Boys%22+inauthor:%22Colson+Whitehead%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0JB1DwAAQBAJ&dq=intitle:%22Nickel+Boys%22+inauthor:%22Colson+Whitehead%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Nickel_Boys.html?hl=&id=0JB1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0JB1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "WINNER OF THE PULITZER PRIZE FOR FICTION 2020 WINNER OF THE ORWELL PRIZE FOR POLITICAL FICTION 2020 Winner of the Library of Congress Prize for American Fiction 2020 Time #1 Novel of the Year 2019 Author of The Underground Railroad, Colson ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aDdyDwAAQBAJ",
+      "etag": "SmDUnNm81gU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aDdyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Nickel Boys (Winner 2020 Pulitzer Prize for Fiction)",
+        "subtitle": "A Novel",
+        "authors": [
+          "Colson Whitehead"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2019-07-16",
+        "description": "PULITZER PRIZE WINNER \u2022 NATIONAL BESTSELLER \u2022 This follow-up to The Underground Railroad brilliantly dramatizes another strand of American history through the story of two boys unjustly sentenced to a hellish reform school in Jim Crow-era Florida. \u2022 \"One of the most gifted novelists in America today.\" \u2014NPR NOW A MAJOR MOTION PICTURE NOMINATED FOR AN ACADEMY AWARD\u00ae FOR BEST PICTURE AND DIRECTED BY ACADEMY AWARD\u00ae NOMINEE RAMELL ROSS When Elwood Curtis, a black boy growing up in 1960s Tallahassee, is unfairly sentenced to a juvenile reformatory called the Nickel Academy, he finds himself trapped in a grotesque chamber of horrors. Elwood\u2019s only salvation is his friendship with fellow \u201cdelinquent\u201d Turner, which deepens despite Turner\u2019s conviction that Elwood is hopelessly naive, that the world is crooked, and that the only way to survive is to scheme and avoid trouble. As life at the Academy becomes ever more perilous, the tension between Elwood\u2019s ideals and Turner\u2019s skepticism leads to a decision whose repercussions will echo down the decades. Based on the real story of a reform school that operated for 111 years and warped the lives of thousands of children, The Nickel Boys is a devastating, driven narrative that showcases a great American novelist writing at the height of his powers and \u201cshould further cement Whitehead as one of his generation's best\" (Entertainment Weekly).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385537087"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385537085"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aDdyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aDdyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aDdyDwAAQBAJ&printsec=frontcover&dq=intitle:%22Nickel+Boys%22+inauthor:%22Colson+Whitehead%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aDdyDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aDdyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aDdyDwAAQBAJ&rdid=book-aDdyDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Nickel_Boys_Winner_2020_Pulitzer_Pri-sample-epub.acsm?id=aDdyDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aDdyDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "PULITZER PRIZE WINNER \u2022 NATIONAL BESTSELLER \u2022 This follow-up to The Underground Railroad brilliantly dramatizes another strand of American history through the story of two boys unjustly sentenced to a hellish reform school in Jim Crow ..."
+      }
+    }
+  ]
+}

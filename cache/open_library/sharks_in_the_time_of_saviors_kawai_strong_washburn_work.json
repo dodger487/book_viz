@@ -1,0 +1,43 @@
+{
+  "title": "Sharks in the Time of Saviors",
+  "subjects": [
+    "American literature",
+    "Fiction, family life",
+    "Hawaii, fiction",
+    "Fiction, family life, general",
+    "Brothers and sisters",
+    "Fiction",
+    "Families",
+    "Mythology",
+    "Sharks",
+    "Animal heroes"
+  ],
+  "key": "/works/OL20756378W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7904034A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    11273211,
+    12780704
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-05-17T10:50:18.121059"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-27T17:17:28.187603"
+  }
+}

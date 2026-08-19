@@ -1,0 +1,252 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "0_zyf3DRjxEC",
+      "etag": "92VzfYNJL48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0_zyf3DRjxEC",
+      "volumeInfo": {
+        "title": "Spin",
+        "authors": [
+          "Robert Charles Wilson"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2005-04",
+        "description": "A spectacular new SF novel of immense scope",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765309389"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0765309386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0_zyf3DRjxEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0_zyf3DRjxEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0_zyf3DRjxEC&printsec=frontcover&dq=intitle:%22Spin%22+inauthor:%22Robert+Charles+Wilson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0_zyf3DRjxEC&dq=intitle:%22Spin%22+inauthor:%22Robert+Charles+Wilson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Spin.html?hl=&id=0_zyf3DRjxEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0_zyf3DRjxEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A spectacular new SF novel of immense scope"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cbhWDwAAQBAJ",
+      "etag": "NY5Df4Z7eIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cbhWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Spin Saga Trilogy",
+        "subtitle": "Spin, Axis, Vortex",
+        "authors": [
+          "Robert Charles Wilson"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2018-07-10",
+        "description": "A discounted ebundle of author Robert Charles Wilson's Hugo Award-winning and critically-acclaimed Spin Saga Trilogy, which includes: Spin, Axis, and Vortex \u201cRobert Charles Wilson is a hell of a storyteller.\u201d \u2014Stephen King on Spin \u201cWilson does so many fine things, it\u2019s hard to know where to begin to praise him.\u201d \u2014The Washington Post on Spin Spin One night in October when he was ten years old, Tyler Dupree stood in his back yard and watched the stars go out. They all flared into brilliance at once, then disappeared, replaced by a flat, empty black barrier. He and his best friends, Jason and Diane Lawton, had seen what became known as the Big Blackout. It would shape their lives... Life on Earth is about to get much, much stranger. Axis Visit the \"world next door\"\u2014the planet engineered by the mysterious Hypotheticals to support human life, and connected to Earth by way of the Arch that towers hundreds of miles over the Indian Ocean. Humans are colonizing this new world\u2014and, predictably, fiercely exploiting its resources, chiefly large deposits of oil in the western deserts of the continent of Equatoria. Vortex Turk and his young friend Isaac Dvali are taken up by a community of fanatics who use them to enable a passage to the dying Earth, where they believe a prophecy of human/Hypothetical contact will be fulfilled. The prophecy is only partly true, however, and Turk must unravel the truth about the nature and purpose of the Hypotheticals before they carry him on a journey through warped time to the end of the universe itself. Tor books by Robert Charles Wilson Last Year The Affinities Burning Paradise Julian Comstock Blind Lake The Chronoliths The Perseids and Other Stories Bios Darwinia Mysterium A Bridge of Years A Hidden Place At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250305558"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250305551"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1061,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cbhWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cbhWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cbhWDwAAQBAJ&printsec=frontcover&dq=intitle:%22Spin%22+inauthor:%22Robert+Charles+Wilson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cbhWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cbhWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.98,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 27.98,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cbhWDwAAQBAJ&rdid=book-cbhWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27980000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 27980000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cbhWDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A discounted ebundle of author Robert Charles Wilson&#39;s Hugo Award-winning and critically-acclaimed Spin Saga Trilogy, which includes: Spin, Axis, and Vortex \u201cRobert Charles Wilson is a hell of a storyteller.\u201d \u2014Stephen King on Spin ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "njsGBAAAQBAJ",
+      "etag": "8CE/3CHHnAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/njsGBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Spin",
+        "subtitle": "Roman",
+        "authors": [
+          "Robert Charles Wilson"
+        ],
+        "publisher": "Heyne Verlag",
+        "publishedDate": "2014-07-21",
+        "description": "Die Sterne am Himmel verschwinden Der junge Tyler Dupree sitzt eines Abends mit seinen Freunden auf dem Dach \u2013 als pl\u00f6tzlich die Sterne verschwinden. Am n\u00e4chsten Morgen geht zwar die Sonne auf, aber ihr Licht erscheint wie durch einen Filter. Satelliten fallen aus, der Mond ist verschwunden. Ein riesiger Energieschirm scheint sich um die Erde gelegt zu haben. Wie ist so etwas m\u00f6glich? Wer ist daf\u00fcr verantwortlich? Und was wird damit bezweckt? W\u00e4hrend die Erde in Hysterie versinkt, beginnt f\u00fcr Tyler das Abenteuer seines Lebens ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783641149185"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3641149185"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 483,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=njsGBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=njsGBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=njsGBAAAQBAJ&printsec=frontcover&dq=intitle:%22Spin%22+inauthor:%22Robert+Charles+Wilson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=njsGBAAAQBAJ&dq=intitle:%22Spin%22+inauthor:%22Robert+Charles+Wilson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Spin.html?hl=&id=njsGBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Spin-sample-epub.acsm?id=njsGBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Spin-sample-pdf.acsm?id=njsGBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=njsGBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Die Sterne am Himmel verschwinden Der junge Tyler Dupree sitzt eines Abends mit seinen Freunden auf dem Dach \u2013 als pl\u00f6tzlich die Sterne verschwinden."
+      }
+    }
+  ]
+}

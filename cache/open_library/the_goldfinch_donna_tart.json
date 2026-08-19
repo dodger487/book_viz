@@ -1,0 +1,56 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL841112A",
+        "OL15020935A"
+      ],
+      "author_name": [
+        "Donna Tartt",
+        "Katia Benovich"
+      ],
+      "cover_edition_key": "OL27291891M",
+      "cover_i": 8771366,
+      "ebook_access": "printdisabled",
+      "edition_count": 42,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "eljilguero0000tart",
+        "jinchique0000tart",
+        "shchegolroman0000tart",
+        "lechardonneretro0000tart",
+        "lechardonneret0000tart",
+        "goldfinch00tart",
+        "goldfinchnovel0000tart",
+        "isbn_9780316055437"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16809803W",
+      "language": [
+        "eng",
+        "chi",
+        "fre",
+        "spa",
+        "jpn",
+        "dut",
+        "pol",
+        "ita",
+        "heb"
+      ],
+      "public_scan_b": false,
+      "title": "The Goldfinch"
+    }
+  ]
+}

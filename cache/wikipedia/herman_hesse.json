@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Hermann Hesse",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hermann Hesse</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q25973",
+  "titles": {
+    "canonical": "Hermann_Hesse",
+    "normalized": "Hermann Hesse",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hermann Hesse</span></span>"
+  },
+  "pageid": 13578,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hermann_Hesse_2.jpg/330px-Hermann_Hesse_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 394
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Hermann_Hesse_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2530,
+    "height": 3024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367642910",
+  "tid": "9544f9e5-8fdf-11f1-86db-11b8f798580e",
+  "timestamp": "2026-08-04T08:36:27Z",
+  "description": "German writer (1877\u20131962)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hermann_Hesse",
+      "revisions": "https://en.wikipedia.org/wiki/Hermann_Hesse?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hermann_Hesse?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hermann_Hesse"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Hermann_Hesse",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Hermann_Hesse",
+      "edit": "https://en.wikipedia.org/wiki/Hermann_Hesse?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hermann_Hesse"
+    }
+  },
+  "extract": "Hermann Karl Hesse was a German-Swiss poet and novelist, and winner of the 1946 Nobel Prize in Literature. His interest in Eastern religious, spiritual, and philosophical traditions, combined with his involvement with Jungian analysis, helped shape his literary work. His best-known novels include Demian, Steppenwolf, Siddhartha, Narcissus and Goldmund, and The Glass Bead Game, each of which explores an individual's search for authenticity, self-knowledge, and spirituality.",
+  "extract_html": "<p><b>Hermann Karl Hesse</b> was a German-Swiss poet and novelist, and winner of the 1946 Nobel Prize in Literature. His interest in Eastern religious, spiritual, and philosophical traditions, combined with his involvement with Jungian analysis, helped shape his literary work. His best-known novels include <i>Demian</i>, <i>Steppenwolf</i>, <i>Siddhartha</i>, <i>Narcissus and Goldmund</i>, and <i>The Glass Bead Game</i>, each of which explores an individual's search for authenticity, self-knowledge, and spirituality.</p>"
+}

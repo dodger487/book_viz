@@ -1,0 +1,95 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7350596A"
+      ],
+      "author_name": [
+        "Nnedi Okorafor"
+      ],
+      "cover_edition_key": "OL26788681M",
+      "cover_i": 8441703,
+      "ebook_access": "printdisabled",
+      "edition_count": 7,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "binti0000okor"
+      ],
+      "ia_collection": [
+        "365-Books-by-Women-Authors",
+        "additional_collections",
+        "americana",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibraryscanningteam",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofthewest-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL19330487W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Binti"
+    },
+    {
+      "author_key": [
+        "OL7350596A",
+        "OL7934520A"
+      ],
+      "author_name": [
+        "Nnedi Okorafor",
+        "Bel Olid"
+      ],
+      "cover_edition_key": "OL26855593M",
+      "cover_i": 8542534,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL19634667W",
+      "language": [
+        "spa",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Binti: The Night Masquerade"
+    },
+    {
+      "author_key": [
+        "OL7350596A"
+      ],
+      "author_name": [
+        "Nnedi Okorafor"
+      ],
+      "cover_edition_key": "OL26869506M",
+      "cover_i": 8565599,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL19649739W",
+      "public_scan_b": false,
+      "title": "Binti: The Complete Trilogy"
+    }
+  ]
+}

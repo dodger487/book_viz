@@ -1,0 +1,52 @@
+{
+  "subjects": [
+    "Marketing research",
+    "Consumers",
+    "Success in business",
+    "Research",
+    "New business enterprises",
+    "Entrepreneurship",
+    "Consumer behavior",
+    "Consumers' preferences",
+    "Marktforschung",
+    "Unternehmensgr\u00fcndung",
+    "Business development",
+    "Statistics",
+    "General",
+    "Bus020000",
+    "Cs.cmp_sc.app_sw",
+    "Cs.ecn.ecn_dev"
+  ],
+  "key": "/works/OL17581285W",
+  "title": "Lean Analytics",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3365718A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    7863278
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"Whether you're a startup founder trying to disrupt an industry or an intrapreneur trying to provoke change from within, your biggest challenge is creating a product people actually want. Lean analytics steers you in the right direction. This book shows you how to validate your initial idea, find the right customers, decide what to build, how to monetize your business, and how to spread the word.\"--Publisher description."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-10-19T06:00:17.456925"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-12T02:22:53.433762"
+  }
+}

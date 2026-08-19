@@ -1,0 +1,67 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "In this landmark work of history, the National Book Award--winning author of American Sphinx explores how a group of greatly gifted but deeply flawed individuals--Hamilton, Burr, Jefferson, Franklin, Washington, Adams, and Madison--confronted the overwhelming challenges before them to set the course for our nation.The United States was more a fragile hope than a reality in 1790. During the decade that followed, the Founding Fathers--re-examined here as Founding Brothers--combined the ideals of the Declaration of Independence with the content of the Constitution to create the practical workings of our government. Through an analysis of six fascinating episodes--Hamilton and Burr's deadly duel, Washington's precedent-setting Farewell Address, Adams' administration and political partnership with his wife, the debate about where to place the capital, Franklin's attempt to force Congress to confront the issue of slavery and Madison's attempts to block him, and Jefferson and Adams' famous correspondence--Founding Brothers brings to life the vital issues and personalities from the most important decade in our nation's history.From the Trade Paperback edition."
+  },
+  "title": "Founding Brothers",
+  "covers": [
+    4853598
+  ],
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Politics and government",
+    "Anecdotes",
+    "Presidents",
+    "Nonfiction",
+    "Biography & Autobiography",
+    "Statesmen",
+    "Biography",
+    "History",
+    "USA",
+    "Politiker",
+    "Biographies",
+    "Histoire",
+    "Pr\u00e9sidents",
+    "USA President",
+    "Hommes d'\u00c9tat",
+    "Politique et gouvernement",
+    "Revolutionary Period (1775-1800)",
+    "Large type books",
+    "Presidents, united states",
+    "United states, politics and government, 1783-1809",
+    "United states, history, 1783-1865",
+    "Statesmen, united states",
+    "United states, history, anecdotes",
+    "United states, history, 1783-1809"
+  ],
+  "key": "/works/OL53120W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL34354A"
+      }
+    }
+  ],
+  "subject_times": [
+    "1783-1809",
+    "1783-1815"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T17:17:53.713360"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-13T17:30:12.498383"
+  }
+}

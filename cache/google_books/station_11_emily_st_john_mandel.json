@@ -1,0 +1,78 @@
+{
+  "kind": "books#volume",
+  "id": "lRGPEAAAQBAJ",
+  "etag": "ZRnolhUBVjM",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/lRGPEAAAQBAJ",
+  "volumeInfo": {
+    "title": "Station Eleven",
+    "authors": [
+      "Emily St. John Mandel"
+    ],
+    "publisher": "National Geographic Books",
+    "publishedDate": "2015-06-02",
+    "description": "<b>NATIONAL BESTSELLER <b>\u2022 NATIONAL BOOK AWARD FINALIST <b>\u2022 A PEN/FAULKNER AWARD FINALIST\u00a0\u2022 Set in the eerie days of civilization\u2019s collapse\u2014the spellbinding story of a Hollywood star, his would-be savior, and a nomadic group of actors roaming the scattered outposts of the Great Lakes region, risking everything for art and humanity. \u2022 Now an original series on HBO Max. \u2022 Over one million copies sold!</b><i><br></i></b></b><br>Kirsten Raymonde will never forget the night Arthur Leander, the famous Hollywood actor, had a heart attack on stage during a production of <i>King Lear</i>.\u00a0That was the night when a devastating flu pandemic arrived in the city, and within weeks, civilization as we know it came to an end. <br><br>Twenty years later, Kirsten moves between the settlements of the altered world with a small troupe of actors and musicians. They call themselves The Traveling Symphony, and they have dedicated themselves to keeping the remnants of art and humanity alive. But when they arrive in St. Deborah by the Water, they encounter a violent prophet who will threaten the tiny band\u2019s existence. And as the story takes off, moving back and forth in time, and vividly depicting life before and after the pandemic, the strange twist of fate that connects them all will be revealed.<br><br><b>Look for Emily St. John Mandel\u2019s bestselling new novel, <i>Sea of Tranquility</i>!</b>",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0804172447"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780804172448"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 352,
+    "printedPageCount": 352,
+    "dimensions": {
+      "height": "21.00 cm",
+      "width": "13.20 cm",
+      "thickness": "1.80 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Literary",
+      "Fiction / Dystopian",
+      "Fiction / Science Fiction / Apocalyptic & Post-Apocalyptic"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=lRGPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72cJkZSqz6mwOPWVttHSOYcCNZ3Y9oRWoNWsnvi3Z08H6YW9VAmcd-suSAh5HPj6ER2cauLRVvYsySkmaj0mvaptlDR_6DdK_bIzzFws9oymIQ0NX_ASJR-KDFjEvJdamruQFeT&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=lRGPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE721Qv5gtGA62EoxEDIUEMCSim-QBEueQPNhYzQaYG6IIWd-sAaVs13LJ35CFpZVoEHb-TZOWYewnQK8dwLh3ezzlZQhJMvTvr15F8MRhvJVbGt_VrMPoW86k-HnJoPUd3yJSY5O&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lRGPEAAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lRGPEAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lRGPEAAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lRGPEAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

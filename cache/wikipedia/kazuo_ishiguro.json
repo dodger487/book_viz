@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Kazuo Ishiguro",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kazuo Ishiguro</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q272855",
+  "titles": {
+    "canonical": "Kazuo_Ishiguro",
+    "normalized": "Kazuo Ishiguro",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kazuo Ishiguro</span></span>"
+  },
+  "pageid": 83499,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MKr377543_Kazuo_Ishiguro_%28A_Pale_View_of_Hills%2C_Cannes_2025%29.jpg/330px-MKr377543_Kazuo_Ishiguro_%28A_Pale_View_of_Hills%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/MKr377543_Kazuo_Ishiguro_%28A_Pale_View_of_Hills%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2297,
+    "height": 3445
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363000587",
+  "tid": "bf1ef839-7a08-11f1-9998-d8187bf4eaf2",
+  "timestamp": "2026-07-07T13:35:41Z",
+  "description": "Japanese-British writer and Nobel Laureate (born 1954)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
+      "revisions": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kazuo_Ishiguro"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Kazuo_Ishiguro",
+      "edit": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kazuo_Ishiguro"
+    }
+  },
+  "extract": "Sir Kazuo Ishiguro  is a Japanese-British novelist, screenwriter, musician, and short-story writer. He is one of the most critically acclaimed contemporary fiction authors writing in English, having been awarded several major literary prizes, including the 2017 Nobel Prize in Literature. In its citation, the Swedish Academy described Ishiguro as a writer \"who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world\".",
+  "extract_html": "<p><b>Sir Kazuo Ishiguro</b><span style=\"font-weight:normal\"> </span> is a Japanese-British novelist, screenwriter, musician, and short-story writer. He is one of the most critically acclaimed contemporary fiction authors writing in English, having been awarded several major literary prizes, including the 2017 Nobel Prize in Literature. In its citation, the Swedish Academy described Ishiguro as a writer \"who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world\".</p>"
+}

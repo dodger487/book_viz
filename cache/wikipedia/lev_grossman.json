@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lev Grossman",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lev Grossman</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2558063",
+  "titles": {
+    "canonical": "Lev_Grossman",
+    "normalized": "Lev Grossman",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lev Grossman</span></span>"
+  },
+  "pageid": 2064461,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lev_grossman_2011.jpg/330px-Lev_grossman_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lev_grossman_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 600,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363994673",
+  "tid": "5c42c881-7efa-11f1-bab5-e0e0a3675c5e",
+  "timestamp": "2026-07-13T20:35:18Z",
+  "description": "American novelist and journalist (born 1969)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lev_Grossman",
+      "revisions": "https://en.wikipedia.org/wiki/Lev_Grossman?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lev_Grossman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lev_Grossman"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lev_Grossman",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lev_Grossman",
+      "edit": "https://en.wikipedia.org/wiki/Lev_Grossman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lev_Grossman"
+    }
+  },
+  "extract": "Lev Grossman is an American novelist and journalist who wrote the Magicians trilogy: The Magicians (2009), The Magician King (2011), and The Magician's Land (2014). He was the book critic and lead technology writer at Time magazine from 2002 to 2016. His recent work includes the children's book The Silver Arrow and its sequel, The Golden Swift; The Bright Sword, a reimagining of the King Arthur legend; and the screenplay for the film The Map of Tiny Perfect Things, based on his short story.",
+  "extract_html": "<p><b>Lev Grossman</b> is an American novelist and journalist who wrote the <i>Magicians</i> trilogy: <i>The Magicians</i> (2009), <i>The Magician King</i> (2011), and <i>The Magician's Land</i> (2014). He was the book critic and lead technology writer at <i>Time</i> magazine from 2002 to 2016. His recent work includes the children's book <i>The Silver Arrow</i> and its sequel, <i>The Golden Swift</i>; <i>The Bright Sword</i>, a reimagining of the King Arthur legend; and the screenplay for the film <i>The Map of Tiny Perfect Things</i>, based on his short story.</p>"
+}

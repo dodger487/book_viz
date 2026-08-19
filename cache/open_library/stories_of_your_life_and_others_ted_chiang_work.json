@@ -1,0 +1,90 @@
+{
+  "description": "Ted Chiang's first published story, \"Tower of Babylon,\" won the Nebula Award in 1990. Subsequent stories have won the Asimov's SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF.\r\n\r\nNow, collected here for the first time are all seven of this extraordinary writer's stories so far--plus an eighth story written especially for this volume.\r\n\r\nWhat if men built a tower from Earth to Heaven--and broke through to Heaven's other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life . . . and others.",
+  "covers": [
+    524046,
+    8741839,
+    8792038,
+    7238020,
+    10242463,
+    13367980,
+    14521457,
+    8778210,
+    10293563,
+    10386844,
+    10812061,
+    14058074,
+    12672167,
+    13127184,
+    13907772,
+    13934455,
+    9374636,
+    10853116
+  ],
+  "key": "/works/OL6216050W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1604887A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Stories of Your Life and Others",
+  "subjects": [
+    "American Science fiction",
+    "Fiction, science fiction, short stories",
+    "nyt:trade-fiction-paperback=2016-12-04",
+    "New York Times bestseller",
+    "Life change events",
+    "Fiction",
+    "Change (Psychology)",
+    "Automation",
+    "Human-alien encounters",
+    "Adaptability (Psychology)",
+    "FICTION / Science Fiction / General",
+    "FICTION / Short Stories (single author)",
+    "Short stories",
+    "Science fiction",
+    "Science fiction, american",
+    "Ps3603.h53 s76 2002",
+    "813/.6",
+    "Life change events--fiction",
+    "Change (psychology)--fiction",
+    "Automation--fiction",
+    "Human-alien encounters--fiction",
+    "Adaptability (psychology)--fiction",
+    "Ps3603.h53 a6 2016",
+    "Fic028000 fic029000",
+    "Fiction, science fiction, collections & anthologies",
+    "American",
+    "speculative fiction",
+    "Short Stories (single author)",
+    "General",
+    "American literature",
+    "Duan pian xiao shuo",
+    "Xiao shuo ji",
+    "Fiction, short stories (single author)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_places": [
+    "Babylon",
+    "Mei guo"
+  ],
+  "subject_times": [
+    "Xiandai"
+  ],
+  "latest_revision": 23,
+  "revision": 23,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T18:46:26.049429"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-03-15T16:36:39.389748"
+  }
+}

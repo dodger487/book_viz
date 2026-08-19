@@ -1,0 +1,28 @@
+{
+  "title": "The Lumumba Plot",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL12451138A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL38410435W",
+  "type": {
+    "key": "/type/work"
+  },
+  "subtitle": "The Secret History of the CIA and a Cold A War Assassination",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-07-08T20:03:51.459837"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-08T20:13:00.994735"
+  }
+}

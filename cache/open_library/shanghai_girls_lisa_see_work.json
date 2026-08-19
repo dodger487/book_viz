@@ -1,0 +1,62 @@
+{
+  "description": "In 1937, Shanghai is the Paris of Asia, a city of great wealth and glamour, the home of millionaires and beggars, gangsters and gamblers, patriots and revolutionaries, artists and warlords. Thanks to the financial security and material comforts provided by their father's prosperous rickshaw business, twenty-one-year-old Pearl Chin and her younger sister, May, are having the time of their lives. Though both sisters wave off authority and tradition, they couldn't be more different: Pearl is a Dragon sign, strong and stubborn, while May is a true Sheep, adorable and placid. Both are beautiful, modern, and carefree . . . until the day their father tells them that he has gambled away their wealth and that in order to repay his debts he must sell the girls as wives to suitors who have traveled from California to find Chinese brides.As Japanese bombs fall on their beloved city, Pearl and May set out on the journey of a lifetime, one that will take them through the Chinese countryside, in and out of the clutch of brutal soldiers, and across the Pacific to the shores of America. In Los Angeles they begin a fresh chapter, trying to find love with the strangers they have married, brushing against the seduction of Hollywood, and striving to embrace American life even as they fight against discrimination, brave Communist witch hunts, and find themselves hemmed in by Chinatown's old ways and rules. At its heart, Shanghai Girls is a story of sisters: Pearl and May are inseparable best friends who share hopes, dreams, and a deep connection, but like sisters everywhere they also harbor petty jealousies and rivalries. They love each other, but each knows exactly where to drive the knife to hurt the other the most. Along the way they face terrible sacrifices, make impossible choices, and confront a devastating, life-changing secret, but through it all the two heroines of this astounding new novel hold fast to who they are--Shanghai girls.From the Hardcover edition.",
+  "subtitle": "a novel",
+  "title": "Shanghai girls",
+  "covers": [
+    6287533
+  ],
+  "subject_places": [
+    "United States",
+    "Shanghai (China)",
+    "Shanghai (China : International Settlement)",
+    "Grand Canal (China)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Family secrets",
+    "Immigrants",
+    "Chinese",
+    "Sisters",
+    "Literature",
+    "Historical fiction",
+    "Large type books",
+    "nyt:trade-fiction-paperback=2010-02-21",
+    "New York Times bestseller",
+    "Fiction, family life",
+    "Sisters, fiction",
+    "Chinese americans, fiction",
+    "Los angeles (calif.), fiction",
+    "Shanghai (china), fiction",
+    "Fiction, historical, general"
+  ],
+  "key": "/works/OL14927216W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL24657A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_people": [
+    "Jinrong Huang (1868-1953)"
+  ],
+  "subject_times": [
+    "1937-1957"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-03-12T19:48:24.197297"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-02-21T15:46:26.841440"
+  }
+}

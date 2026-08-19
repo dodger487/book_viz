@@ -1,0 +1,105 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FlzODgAAQBAJ",
+      "etag": "3I2veoVOoyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FlzODgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Gone World",
+        "authors": [
+          "Tom Sweterlitsch"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2018-02-06",
+        "description": "Inception meets True Detective in this science fiction thriller of spellbinding tension and staggering scope that follows a special agent into a savage murder case with grave implications for the fate of mankind... \u201cI promise you have never read a story like this.\u201d\u2014Blake Crouch, New York Times bestselling author of Dark Matter Shannon Moss is part of a clandestine division within the Naval Criminal Investigative Service. In western Pennsylvania, 1997, she is assigned to solve the murder of a Navy SEAL's family\u2014and to locate his vanished teenage daughter. Though she can't share the information with conventional law enforcement, Moss discovers that the missing SEAL was an astronaut aboard the spaceship U.S.S. Libra\u2014a ship assumed lost to the currents of Deep Time. Moss knows first-hand the mental trauma of time-travel and believes the SEAL's experience with the future has triggered this violence. Determined to find the missing girl and driven by a troubling connection from her own past, Moss travels ahead in time to explore possible versions of the future, seeking evidence to crack the present-day case. To her horror, the future reveals that it's not only the fate of a family that hinges on her work, for what she witnesses rising over time's horizon and hurtling toward the present is the Terminus: the terrifying and cataclysmic end of humanity itself. Luminous and unsettling, The Gone World bristles with world-shattering ideas yet remains at its heart an intensely human story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780698142763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0698142764"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FlzODgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FlzODgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FlzODgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Gone+World%22+inauthor:%22Tom+Sweterlitsch%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FlzODgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FlzODgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FlzODgAAQBAJ&rdid=book-FlzODgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Gone_World-sample-epub.acsm?id=FlzODgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FlzODgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inception meets True Detective in this science fiction thriller of spellbinding tension and staggering scope that follows a special agent into a savage murder case with grave implications for the fate of mankind... \u201cI promise you have ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jeffrey Eugenides",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jeffrey Eugenides</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q357108",
+  "titles": {
+    "canonical": "Jeffrey_Eugenides",
+    "normalized": "Jeffrey Eugenides",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jeffrey Eugenides</span></span>"
+  },
+  "pageid": 79953,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nick_Cave_and_Jeffrey_Eugenides_%28cropped%29.jpg/330px-Nick_Cave_and_Jeffrey_Eugenides_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nick_Cave_and_Jeffrey_Eugenides_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1435,
+    "height": 1915
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367408272",
+  "tid": "93d2df15-8ec4-11f1-8b5d-e1a1cceaa7c0",
+  "timestamp": "2026-08-02T22:50:37Z",
+  "description": "American novelist and short story writer (born 1960)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jeffrey_Eugenides",
+      "revisions": "https://en.wikipedia.org/wiki/Jeffrey_Eugenides?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jeffrey_Eugenides?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jeffrey_Eugenides"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jeffrey_Eugenides",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jeffrey_Eugenides",
+      "edit": "https://en.wikipedia.org/wiki/Jeffrey_Eugenides?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jeffrey_Eugenides"
+    }
+  },
+  "extract": "Jeffrey Kent Eugenides is an American author. He has written numerous short stories and essays, as well as three novels: The Virgin Suicides (1993), Middlesex (2002), and The Marriage Plot (2011). The Virgin Suicides served as the basis of the 1999 film of the same name, while Middlesex received the 2003 Pulitzer Prize for Fiction in addition to being a finalist for the National Book Critics Circle Award, the International Dublin Literary Award, and France's Prix M\u00e9dicis.",
+  "extract_html": "<p><b>Jeffrey Kent Eugenides</b> is an American author. He has written numerous short stories and essays, as well as three novels: <i>The Virgin Suicides</i> (1993), <i>Middlesex</i> (2002), and <i>The Marriage Plot</i> (2011). <i>The Virgin Suicides</i> served as the basis of the 1999 film of the same name, while <i>Middlesex</i> received the 2003 Pulitzer Prize for Fiction in addition to being a finalist for the National Book Critics Circle Award, the International Dublin Literary Award, and France's Prix M\u00e9dicis.</p>"
+}

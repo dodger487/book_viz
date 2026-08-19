@@ -1,0 +1,229 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rG36FwIfNEsC",
+      "etag": "aqne/4wWPAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rG36FwIfNEsC",
+      "volumeInfo": {
+        "title": "Fledgling",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2007-01-01",
+        "description": "Octavia E. Butler is one of the finest voices in fiction--period. . . . A master storyteller, Butler casts an unflinching eye on racism, sexism, poverty, and ignorance and lets the reader see the terror and beauty of human nature.-\"The Washington Post Book World \"Readers familiar with . . . \"Parable of the Sower and \"Bloodchild will recall that [Butler] never asks easy questions or settles for easy answers.\"-Gerald Jonas in \"The New York Times \"Fledgling, Octavia Butler's first new novel in seven years, is the story of an apparently young, amnesiac girl whose alarmingly unhuman needs and abilities lead her to a startling conclusion: She is in fact a genetically modified, 53-year-old vampire. Forced to discover what she can about her stolen former life, she must at the same time learn who wanted-and still wants-to destroy her and those she cares for and how she can save herself. \"Fledgling is a captivating novel that tests the limits of \"otherness\" and questions what it means to be truly human. Octavia E. Butler is the author of 11 novels, including \"Kindred, \"Dawn, and \"Parable of the Sower. Recipient of a MacArthur Foundation \"genius\" grant, the Nebula Award, the Hugo Award, and numerous other literary awards, she has been acclaimed for her lean prose, strong protagonists, and social observations that range from the distant past to the far future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780759516342"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0759516340"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rG36FwIfNEsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rG36FwIfNEsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rG36FwIfNEsC&printsec=frontcover&dq=intitle:%22Fledgling%22+inauthor:%22Octavia+Butler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rG36FwIfNEsC&dq=intitle:%22Fledgling%22+inauthor:%22Octavia+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fledgling.html?hl=&id=rG36FwIfNEsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fledgling-sample-epub.acsm?id=rG36FwIfNEsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rG36FwIfNEsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;-Gerald Jonas in &quot;The New York Times &quot;Fledgling, Octavia Butler&#39;s first new novel in seven years, is the story of an apparently young, amnesiac girl whose alarmingly unhuman needs and abilities lead her to a startling conclusion: She is in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IYFgzwEACAAJ",
+      "etag": "gIEGlpfEddU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IYFgzwEACAAJ",
+      "volumeInfo": {
+        "title": "Fledgling",
+        "subtitle": "Octavia E. Butler's Extraordinary Final Novel",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Headline",
+        "publishedDate": "2022-11",
+        "description": "'The Octavia Butler novel for our times' THE ATLANTIC 'My book of the year . . . completely devours the genre which gave rise to it' JUNOT D\u00cdAZ The final ground-breaking novel from renowned, bestselling author Octavia E. Butler. A young girl wakes up in the woods, gravely injured and alone, with no memory of what happened or who she is. As Shori heals, she realises that she isn't like the people around her, which leads to a shocking discovery. She is a fifty-three-year-old vampire, and in terrible danger. To save herself, Shori must learn anew everything about the power and desires that she holds, the life that was stolen from her - and those who want her dead. PRAISE FOR OCTAVIA E. BUTLER, THE NEW YORK TIMES BESTSELLING AUTHOR 'In the ongoing contest over which dystopian classic is most applicable to our time... for sheer peculiar prescience, Butler's novel may be unmatched' NEW YORKER 'Octavia Butler was playing out our very real possibilities as humans. I think she can help each of us to do the same' GLORIA STEINEM 'Butler's prose, always pared back to the bone, delineates the painful paradoxes of metamorphosis with compelling precision' GUARDIAN 'One of the most significant literary artists of the twentieth century' JUNOT DIAZ 'Octavia Butler was a visionary' VIOLA DAVIS 'Her evocative, often troubling, novels explore far-reaching issues of race, sex, power and, ultimately, what it means to be human' NEW YORK TIMES",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1472281098"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781472281098"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IYFgzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IYFgzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IYFgzwEACAAJ&dq=intitle:%22Fledgling%22+inauthor:%22Octavia+Butler%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IYFgzwEACAAJ&dq=intitle:%22Fledgling%22+inauthor:%22Octavia+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fledgling.html?hl=&id=IYFgzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IYFgzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;The Octavia Butler novel for our times&#39; THE ATLANTIC &#39;My book of the year . . . completely devours the genre which gave rise to it&#39; JUNOT D\u00cdAZ The final ground-breaking novel from renowned, bestselling author Octavia E. Butler."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RGxn0QEACAAJ",
+      "etag": "03mUq13vhOA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGxn0QEACAAJ",
+      "volumeInfo": {
+        "title": "Fledgling",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2007-01-02",
+        "description": "\"A master storyteller, Butler casts an unflinching eye on racism, sexism, poverty, and ignorance and lets the reader see the terror and beauty of human nature.\" - The Washington Post This is the story of an apparently young, amnesiac girl whose alarmingly unhuman needs and abilities lead her to a startling conclusion: She is in fact a genetically modified, 53-year-old vampire. Forced to discover what she can about her stolen former life, she must at the same time learn who wanted-and still wants-to destroy her and those she cares for and how she can save herself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0446696161"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780446696166"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RGxn0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RGxn0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RGxn0QEACAAJ&dq=intitle:%22Fledgling%22+inauthor:%22Octavia+Butler%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RGxn0QEACAAJ&dq=intitle:%22Fledgling%22+inauthor:%22Octavia+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fledgling.html?hl=&id=RGxn0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGxn0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; - The Washington Post This is the story of an apparently young, amnesiac girl whose alarmingly unhuman needs and abilities lead her to a startling conclusion: She is in fact a genetically modified, 53-year-old vampire."
+      }
+    }
+  ]
+}

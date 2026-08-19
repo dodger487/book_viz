@@ -1,0 +1,106 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "aXM53Y8TgSIC",
+      "etag": "YzNtqJy4lrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aXM53Y8TgSIC",
+      "volumeInfo": {
+        "title": "The Power of the Dog",
+        "authors": [
+          "Don Winslow"
+        ],
+        "publisher": "Vintage Crime/Black Lizard",
+        "publishedDate": "2005-04-26",
+        "description": "From the New York Times bestselling author, here is the first novel in the explosive Power of the Dog series\u2014an action-filled look at the drug trade that takes you deep inside a world riddled with corruption, betrayal, and bloody revenge. Book One of the Power of the Dog Series Set about ten years prior to The Cartel, this gritty novel introduces a brilliant cast of characters. Art Keller is an obsessive DEA agent. The Barrera brothers are heirs to a drug empire. Nora Hayden is a jaded teenager who becomes a high-class hooker. Father Parada is a powerful and incorruptible Catholic priest. Callan is an Irish kid from Hell\u2019s kitchen who grows up to be a merciless hit man. And they are all trapped in the world of the Mexican drug Federaci\u00f3n. From the streets of New York City to Mexico City and Tijuana to the jungles of Central America, this is the war on drugs like you\u2019ve never seen it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400044849"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1400044847"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 701,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.15.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aXM53Y8TgSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aXM53Y8TgSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aXM53Y8TgSIC&printsec=frontcover&dq=intitle:%22The+Power+of+the+Dog%22+inauthor:%22Don+Winslow%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aXM53Y8TgSIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aXM53Y8TgSIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aXM53Y8TgSIC&rdid=book-aXM53Y8TgSIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Power_of_the_Dog-sample-epub.acsm?id=aXM53Y8TgSIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Power_of_the_Dog-sample-pdf.acsm?id=aXM53Y8TgSIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aXM53Y8TgSIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the New York Times bestselling author, here is the first novel in the explosive Power of the Dog series\u2014an action-filled look at the drug trade that takes you deep inside a world riddled with corruption, betrayal, and bloody revenge."
+      }
+    }
+  ]
+}

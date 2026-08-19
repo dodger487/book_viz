@@ -1,0 +1,43 @@
+{
+  "title": "Four Futures",
+  "key": "/works/OL24536408W",
+  "type": {
+    "key": "/type/work"
+  },
+  "subtitle": "Life After Capitalism",
+  "subjects": [
+    "Socialism",
+    "Capitalism",
+    "Political science, philosophy",
+    "Economics",
+    "Economic forecasting",
+    "Economic history"
+  ],
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7512535A"
+      }
+    }
+  ],
+  "covers": [
+    14615991
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "It is easier to imagine the end of the world,' the theorist Fredric Jameson has remarked, 'than to imagine the end of capitalism.' 'Jacobin' Editor Peter Frase argues that technological advancements and environmental threats will inevitably push our society beyond capitalism, and 'Four Futures' imagines just how this might look. Extrapolating possible futures from current changes the world is now experiencing, and drawing upon speculative fictions to illustrate how these futures might be realized, 'Four Futures' examines communism, rentism, socialism, and exterminism-or in other words, the socialisms we may reach if a resurgent Left is successful and the barbarisms we may be consigned to if those movements fail."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-05-27T21:44:12.018914"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-04T01:31:01.557862"
+  }
+}

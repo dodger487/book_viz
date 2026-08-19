@@ -1,0 +1,228 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CpdPEAAAQBAJ",
+      "etag": "SFAkzwzykFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CpdPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Call for the Dead",
+        "subtitle": "A George Smiley Novel",
+        "authors": [
+          "John le Carr\u00e9"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2012-10-02",
+        "description": "The first of his peerless novels of Cold War espionage and international intrigue, Call for the Dead is also the debut of John le Carr\u00e9's masterful creation George Smiley. \"Go back to Whitehall and look for more spies on your drawing boards.\" George Smiley is no one's idea of a spy\u2014which is perhaps why he's such a natural. But Smiley apparently made a mistake. After a routine security interview, he concluded that the affable Samuel Fennan had nothing to hide. Why, then, did the man from the Foreign Office shoot himself in the head only hours later? Or did he? The heart-stopping tale of intrigue that launched both novelist and spy, Call for the Dead is an essential introduction to le Carr\u00e9's chillingly amoral universe.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143122579"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143122576"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CpdPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CpdPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CpdPEAAAQBAJ&printsec=frontcover&dq=intitle:%22Call+for+the+Dead%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CpdPEAAAQBAJ&dq=intitle:%22Call+for+the+Dead%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Call_for_the_Dead.html?hl=&id=CpdPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CpdPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Or did he? The heart-stopping tale of intrigue that launched both novelist and spy, Call for the Dead is an essential introduction to le Carr\u00e9&#39;s chillingly amoral universe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S6gVwQEACAAJ",
+      "etag": "y+AbwoBI72Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S6gVwQEACAAJ",
+      "volumeInfo": {
+        "title": "Call for the Dead",
+        "subtitle": "The Smiley Collection",
+        "authors": [
+          "John le Carr\u00e9"
+        ],
+        "publisher": "Penguin Classics",
+        "publishedDate": "2020-02-27",
+        "description": "THE FIRST GEORGE SMILEY NOVEL After a routine security check by George Smiley, civil servant Samuel Fennan apparently kills himself. When Smiley finds Circus head Maston is trying to blame him for the death, he begins his own investigation, meeting Fennan's widow to find out what led him to such desperation. On the very day Smiley is ordered off the enquiry he receives an urgent letter from the dead man. Do the East Germans - and their agents - know more about this man's death than the Circus previously imagined? Le Carr\u00e9's first book, Call for the Dead, introduced the tenacious and retiring spy George Smiley in a gripping tale of espionage and deceit. 'Intelligent, thrilling, surprising . . . makes most cloak-and-dagger stuff taste of cardboard' Sunday Telegraph 'Brilliant. Realistic. Constant suspense' Observer",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0241330874"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241330876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S6gVwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S6gVwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=S6gVwQEACAAJ&dq=intitle:%22Call+for+the+Dead%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=S6gVwQEACAAJ&dq=intitle:%22Call+for+the+Dead%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Call_for_the_Dead.html?hl=&id=S6gVwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S6gVwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le Carr\u00e9&#39;s first book, Call for the Dead, introduced the tenacious and retiring spy George Smiley in a gripping tale of espionage and deceit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ndg2aIg9XokC",
+      "etag": "Wsccb9tryBs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ndg2aIg9XokC",
+      "volumeInfo": {
+        "title": "Call for the Dead",
+        "subtitle": "Includes: A Murder of Quality and Call for the Dead",
+        "authors": [
+          "John le Carr\u00e9"
+        ],
+        "publisher": "Penguin Canada",
+        "publishedDate": "2010-07-27",
+        "description": "Murder of Quality John le Carr\u00e9's classic novels deftly navigate readers through the intricate shadow worlds of international esionage with unsurpassed skill and knowledge, and have earned him -- and his hero, British secret Service Agent George Smiley -- unprecedented worldwide acclaim. George Smiley was simply doing a favor for Miss Ailsa Brimley, and old friend and editor of a small newspaper. Miss Brimley had received a letter from a worried reader: \"I'm not mad. And I know my husbad is trying to kill me.\" But the letter had arrived too late: it's scribe, the wife of an assistant master at the distinguished Carne School, was already dead. So George Smiley went to Carne to listen, ask questions, and think. And to uncover, layer by layer, the complex network of skeletons and hatreds that comprised that little English institution. Call for the Dead It was less an interview than an amiable conversation over a walk in the park. George Smiley had been sent to speak to a high-ranking civil servant after an anonymous tip-off that he was a security risk. It was a formality -- and the two men liked each other. Why then, did it apparently drive the poor man to despair? And why was he found dead the next day, the victim of an unnecessary suicide? Call for the Dead launched John le Carr\u00e9's unparalleled career as a novelist, and introduces one of fiction's most famous spies -- George Smiley, who is both brilliant and unremarkable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143182986"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143182986"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ndg2aIg9XokC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ndg2aIg9XokC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ndg2aIg9XokC&dq=intitle:%22Call+for+the+Dead%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ndg2aIg9XokC&dq=intitle:%22Call+for+the+Dead%22+inauthor:%22John+le+Carr%C3%A9%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Call_for_the_Dead.html?hl=&id=Ndg2aIg9XokC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ndg2aIg9XokC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Call for the Dead launched John le Carr\u00e9&#39;s unparalleled career as a novelist, and introduces one of fiction&#39;s most famous spies -- George Smiley, who is both brilliant and unremarkable."
+      }
+    }
+  ]
+}

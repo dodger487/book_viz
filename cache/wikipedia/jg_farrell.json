@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "J. G. Farrell",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">J. G. Farrell</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q542763",
+  "titles": {
+    "canonical": "J._G._Farrell",
+    "normalized": "J. G. Farrell",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">J. G. Farrell</span></span>"
+  },
+  "pageid": 1919008,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/4a/James_Gordon_Farrell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 240,
+    "height": 240
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/4a/James_Gordon_Farrell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 240,
+    "height": 240
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1362945216",
+  "tid": "9e76876d-79af-11f1-bf7c-e141ff027fba",
+  "timestamp": "2026-07-07T02:57:41Z",
+  "description": "English-born writer of Irish descent (1935\u20131979)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/J._G._Farrell",
+      "revisions": "https://en.wikipedia.org/wiki/J._G._Farrell?action=history",
+      "edit": "https://en.wikipedia.org/wiki/J._G._Farrell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:J._G._Farrell"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/J._G._Farrell",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/J._G._Farrell",
+      "edit": "https://en.wikipedia.org/wiki/J._G._Farrell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:J._G._Farrell"
+    }
+  },
+  "extract": "James Gordon Farrell was an English-born novelist of Irish descent. He gained prominence for a series of novels known as \"the Empire Trilogy\", which deal with the political and human consequences of British colonial rule.",
+  "extract_html": "<p><b>James Gordon Farrell</b> was an English-born novelist of Irish descent. He gained prominence for a series of novels known as \"the Empire Trilogy\", which deal with the political and human consequences of British colonial rule.</p>"
+}

@@ -1,0 +1,101 @@
+{
+  "numFound": 11,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 11,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL5332979A"
+      ],
+      "author_name": [
+        "\u6771\u91ce\u572d\u543e"
+      ],
+      "cover_edition_key": "OL24584243M",
+      "cover_i": 6677764,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "devotionofsuspec0000higa_f5z0"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL15637392W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The devotion of suspect X"
+    },
+    {
+      "author_key": [
+        "OL5332979A"
+      ],
+      "author_name": [
+        "\u6771\u91ce\u572d\u543e"
+      ],
+      "cover_edition_key": "OL24881175M",
+      "cover_i": 7091234,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "devotionofsuspec00higa"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15976084W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The devotion of suspect X"
+    },
+    {
+      "author_key": [
+        "OL9237162A",
+        "OL3591536A"
+      ],
+      "author_name": [
+        "Keigo Higashino",
+        "David Pittu"
+      ],
+      "cover_edition_key": "OL32687824M",
+      "cover_i": 11312447,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL24633849W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Devotion of Suspect X"
+    }
+  ]
+}

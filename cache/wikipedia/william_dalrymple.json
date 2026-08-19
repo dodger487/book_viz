@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "William Dalrymple",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Dalrymple</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q955334",
+  "titles": {
+    "canonical": "William_Dalrymple",
+    "normalized": "William Dalrymple",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Dalrymple</span></span>"
+  },
+  "pageid": 855762,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Dalrymple_%28sq_cropped%29.png/330px-William_Dalrymple_%28sq_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/William_Dalrymple_%28sq_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 864,
+    "height": 864
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363318655",
+  "tid": "a98c0506-7b97-11f1-b240-11728ef6f308",
+  "timestamp": "2026-07-09T13:11:14Z",
+  "description": "British historian and writer (born 1965)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/William_Dalrymple",
+      "revisions": "https://en.wikipedia.org/wiki/William_Dalrymple?action=history",
+      "edit": "https://en.wikipedia.org/wiki/William_Dalrymple?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:William_Dalrymple"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/William_Dalrymple",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/William_Dalrymple",
+      "edit": "https://en.wikipedia.org/wiki/William_Dalrymple?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:William_Dalrymple"
+    }
+  },
+  "extract": "William Benedict Hamilton-Dalrymple is a Scottish historian, art historian, indologist, curator, broadcaster, critic and author.",
+  "extract_html": "<p><b>William Benedict Hamilton-Dalrymple</b> is a Scottish historian, art historian, indologist, curator, broadcaster, critic and author.</p>"
+}

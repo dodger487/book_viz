@@ -1,0 +1,81 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL221294A"
+      ],
+      "author_name": [
+        "Martha Wells"
+      ],
+      "cover_edition_key": "OL26500848M",
+      "cover_i": 9157148,
+      "ebook_access": "printdisabled",
+      "edition_count": 9,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "allsystemsred0000well"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17914663W",
+      "language": [
+        "fin",
+        "bul",
+        "eng",
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "All Systems Red"
+    },
+    {
+      "author_key": [
+        "OL221294A"
+      ],
+      "author_name": [
+        "Martha Wells"
+      ],
+      "cover_i": 10282464,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL20914988W",
+      "language": [
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "All Systems Red / Artificial Condition / Rogue Protocol / Exit Strategy"
+    },
+    {
+      "author_key": [
+        "OL221294A"
+      ],
+      "author_name": [
+        "Martha Wells"
+      ],
+      "cover_edition_key": "OL38244226M",
+      "cover_i": 13783017,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL27973423W",
+      "language": [
+        "pol"
+      ],
+      "public_scan_b": false,
+      "title": "All Systems Red & Artificial Condition"
+    }
+  ]
+}

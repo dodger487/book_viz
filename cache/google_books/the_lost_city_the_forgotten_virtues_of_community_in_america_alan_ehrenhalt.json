@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_KawswEACAAJ",
+      "etag": "5BiNOqgLd8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_KawswEACAAJ",
+      "volumeInfo": {
+        "title": "The Lost City",
+        "subtitle": "The Forgotten Virtues Of Community In America",
+        "authors": [
+          "Alan Ehrenhalt"
+        ],
+        "publisher": "Basic Books",
+        "publishedDate": "1996-08-23",
+        "description": "Millions of Americans yearn for a lost sense of community, for the days when neighbors looked out for one another and families were stable and secure. The 1950s are regarded as the golden age of community, but 1960s rebellion and 1980s nostalgia have blurred our view of what life was really like back then.In The Lost City, Alan Ehrenhalt cuts through the fog, immersing us in the sights, sounds, and rhythms of life in America forty years ago. He takes us down the streets and into the homes, schools, and shops of three neighborhoods in one quintessentially American city: Chicago. In St. Nicholas of Tolentine parish on the Southwest Side, we see how the local Catholic church served as the moral and social center of community life. In Bronzeville, the heart of the black South Side, we meet the civic leaders who offered hope and role models to people hemmed in by poverty and segregation. And in Elmhurst, a commuter suburb bursting with new subdivisions, we witness the culture of middle-class conformity and the ways in which children and adults bent to the rules of the majority culture.Through evocative stories and incisive analysis, Ehrenhalt shows that the glue holding each neighborhood together was an unstated social compact under which people accepted limits in their lives and deferred to authority figures to enforce those limits\u2014a compact destroyed by the baby boomers' rejection of authority in the 1960s. Since that time, an entire generation has come to believe that personal choice is the most important of life's values. But Ehrenhalt argues that if we truly wish to balance the demands of modern life with a feeling of community, we have a great deal to learn from the \u201dlimited\u201d life of the 1950s. The Lost City reveals the price we must pay to restore community in our lives today and the values that will make such a restoration possible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0465041930"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780465041930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_KawswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_KawswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_KawswEACAAJ&dq=intitle:%22The+Lost+City:+The+Forgotten+Virtues+of+Community+in+America%22+inauthor:%22Alan+Ehrenhalt%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_KawswEACAAJ&dq=intitle:%22The+Lost+City:+The+Forgotten+Virtues+of+Community+in+America%22+inauthor:%22Alan+Ehrenhalt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_City.html?hl=&id=_KawswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_KawswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 1950s are regarded as the golden age of community, but 1960s rebellion and 1980s nostalgia have blurred our view of what life was really like back then.In The Lost City, Alan Ehrenhalt cuts through the fog, immersing us in the sights, ..."
+      }
+    }
+  ]
+}

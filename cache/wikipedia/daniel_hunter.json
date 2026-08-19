@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Daniel Hunter",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel Hunter</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5217555",
+  "titles": {
+    "canonical": "Daniel_Hunter",
+    "normalized": "Daniel Hunter",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel Hunter</span></span>"
+  },
+  "pageid": 38412362,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1338709568",
+  "tid": "0ba88917-0b71-11f1-b61c-dafef79180c4",
+  "timestamp": "2026-02-16T19:52:38Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_Hunter",
+      "revisions": "https://en.wikipedia.org/wiki/Daniel_Hunter?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_Hunter?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_Hunter"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_Hunter",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Daniel_Hunter",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_Hunter?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_Hunter"
+    }
+  },
+  "extract": "Daniel Hunter may refer to:Daniel Hunter (musician), founder of Analog Rebellion\nDaniel Hunter (volleyball), British volleyball player\nDaniel Hunter (swimmer), New Zealand swimmer",
+  "extract_html": "<p><b>Daniel Hunter</b> may refer to:</p><ul><li>Daniel Hunter (musician), founder of Analog Rebellion</li>\n<li>Daniel Hunter (volleyball), British volleyball player</li>\n<li>Daniel Hunter (swimmer), New Zealand swimmer</li></ul>"
+}

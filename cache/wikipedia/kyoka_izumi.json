@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ky\u014dka Izumi",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ky\u014dka Izumi</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1064272",
+  "titles": {
+    "canonical": "Ky\u014dka_Izumi",
+    "normalized": "Ky\u014dka Izumi",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ky\u014dka Izumi</span></span>"
+  },
+  "pageid": 732605,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kyoka_Izumi.jpg/330px-Kyoka_Izumi.jpg",
+    "width": 330,
+    "height": 485
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kyoka_Izumi.jpg",
+    "width": 822,
+    "height": 1207
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1360646503",
+  "tid": "f8cff71d-6e6f-11f1-966c-82e276d80898",
+  "timestamp": "2026-06-22T19:24:22Z",
+  "description": "Japanese writer (1873\u20131939)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ky%C5%8Dka_Izumi",
+      "revisions": "https://en.wikipedia.org/wiki/Ky%C5%8Dka_Izumi?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ky%C5%8Dka_Izumi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ky%C5%8Dka_Izumi"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ky%C5%8Dka_Izumi",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ky%C5%8Dka_Izumi",
+      "edit": "https://en.wikipedia.org/wiki/Ky%C5%8Dka_Izumi?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ky%C5%8Dka_Izumi"
+    }
+  },
+  "extract": "Ky\u014dtar\u014d Izumi , known by his pen name Izumi Ky\u014dka , was a Japanese novelist, writer and kabuki playwright who was active during the prewar period.",
+  "extract_html": "<p><b>Ky\u014dtar\u014d Izumi</b><span style=\"font-weight:normal\"> </span>, known by his pen name <b>Izumi Ky\u014dka</b><span style=\"font-weight:normal\"> </span>, was a Japanese novelist, writer and kabuki playwright who was active during the prewar period.</p>"
+}

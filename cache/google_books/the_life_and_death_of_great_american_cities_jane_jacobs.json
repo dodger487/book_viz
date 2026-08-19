@@ -1,0 +1,226 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tDRUAAAAMAAJ",
+      "etag": "Wcw1+Kiey44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tDRUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Death and Life of Great American Cities",
+        "authors": [
+          "Jane Jacobs"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "1961",
+        "description": "Originally published: New York: Random House, 1961.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015006760063"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 482,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tDRUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tDRUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tDRUAAAAMAAJ&dq=intitle:%22The+Life+and+Death+of+Great+American+Cities%22+inauthor:%22Jane+Jacobs%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tDRUAAAAMAAJ&dq=intitle:%22The+Life+and+Death+of+Great+American+Cities%22+inauthor:%22Jane+Jacobs%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Death_and_Life_of_Great_American_Cit.html?hl=&id=tDRUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tDRUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Originally published: New York: Random House, 1961."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wEorDwAAQBAJ",
+      "etag": "GBetbStaw7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wEorDwAAQBAJ",
+      "volumeInfo": {
+        "title": "An Analysis of Jane Jacobs's The Death and Life of Great American Cities",
+        "authors": [
+          "Martin Fuller",
+          "Ryan Moore"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2017-07-05",
+        "description": "Despite having no formal training in urban planning, Jane Jacobs deftly explores the strengths and weaknesses of policy arguments put forward by American urban planners in the era after World War II. They believed that the efficient movement of cars was of more value in the development of US cities than the everyday lives of the people living there. By carefully examining their relevance in her 1961 book, The Death and Life of Great American Cities, Jacobs dismantles these arguments by highlighting their shortsightedness. She evaluates the information to hand and comes to a very different conclusion, that urban planners ruin great cities, because they don\u2019t understand that it is a city\u2019s social interaction that makes it great. Proposals and policies that are drawn from planning theory do not consider the social dynamics of city life. They are in thrall to futuristic fantasies of a modern way of living that bears no relation to reality, or to the desires of real people living in real spaces. Professionals lobby for separation and standardization, splitting commercial, residential, industrial, and cultural spaces. But a truly visionary approach to urban planning should incorporate spaces with mixed uses, together with short, walkable blocks, large concentrations of people, and a mix of new and old buildings. This creates true urban vitality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351353052"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351353055"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wEorDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wEorDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wEorDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Life+and+Death+of+Great+American+Cities%22+inauthor:%22Jane+Jacobs%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wEorDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wEorDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.52,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wEorDwAAQBAJ&rdid=book-wEorDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7520000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/An_Analysis_of_Jane_Jacobs_s_The_Death_a-sample-epub.acsm?id=wEorDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/An_Analysis_of_Jane_Jacobs_s_The_Death_a-sample-pdf.acsm?id=wEorDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wEorDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Despite having no formal training in urban planning, Jane Jacobs deftly explores the strengths and weaknesses of policy arguments put forward by American urban planners in the era after World War II. They believed that the efficient ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a1b0rQEACAAJ",
+      "etag": "lj3H4ZZZ5yY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a1b0rQEACAAJ",
+      "volumeInfo": {
+        "title": "The Death and Life of Great American Cities",
+        "authors": [
+          "Jane M Jacobs"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:900746163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=a1b0rQEACAAJ&dq=intitle:%22The+Life+and+Death+of+Great+American+Cities%22+inauthor:%22Jane+Jacobs%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a1b0rQEACAAJ&dq=intitle:%22The+Life+and+Death+of+Great+American+Cities%22+inauthor:%22Jane+Jacobs%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Death_and_Life_of_Great_American_Cit.html?hl=&id=a1b0rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a1b0rQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

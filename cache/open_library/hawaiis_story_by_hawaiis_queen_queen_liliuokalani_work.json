@@ -1,0 +1,78 @@
+{
+  "first_publish_date": "1898",
+  "title": "Hawaii's story by Hawaii's queen, Liliuokalani",
+  "covers": [
+    578334,
+    713804,
+    2873804,
+    4965323,
+    -1,
+    806839,
+    12042345,
+    13829740
+  ],
+  "subject_places": [
+    "Hawaii"
+  ],
+  "lc_classifications": [
+    "DU627.2 .L72",
+    "DU627.2 .L55 1990",
+    "DU627.2 .L72 1964"
+  ],
+  "key": "/works/OL233382W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2510268A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "History",
+    "Annexation to the United States",
+    "Biography",
+    "Queens",
+    "Kings and rulers",
+    "Monarchy",
+    "Hawaii, history",
+    "Liliuokalani, queen of hawaii, 1838-1917",
+    "Liliuokalani , 1838-1917",
+    "Du627.2 .l72 2013"
+  ],
+  "description": "From inside cover: Her book ... is essentially a plea for the preservation of her kindgom. It is also a portrayal of the life and customs of 19th-century Hawaii -- and, incidentally, of the United States and Europe -- seen through the eyes of the shrewd and observant eyes of an internationally famous person who was basically a sympathetic and understanding woman ... it is a compelling account of the last years of a monarchy ... Told with pride in, and love for, her royal predecessors as well as her people, the facts of the queen's story do not differ from those of other writers ... but her presentation, naturally enough, is colored by her deep affection and loyalty.",
+  "subject_people": [
+    "Liliuokalani Queen of Hawaii (1838-1917)"
+  ],
+  "excerpts": [
+    {
+      "pages": "1",
+      "excerpt": "The extinct crater or mountain which forms the background to the city of Honolulu is known as the Punch-Bowl; at its base is situated the Queen's Hospital, so named because of the great interest taken in its erection by Emma, the queen of Kamehameha IV. Funds for the cause were solicited by the reigning sovereigns in person, and the hospital building was completed in 1860. Very near to its site, on Sept. 2, 1838, I was born.",
+      "comment": "First three sentences.",
+      "author": {
+        "key": "/people/sklibrarian"
+      }
+    }
+  ],
+  "subject_times": [
+    "1838-1898"
+  ],
+  "dewey_number": [
+    "923.1969"
+  ],
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-23T05:54:12.849755"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-29T05:09:06.659075"
+  }
+}

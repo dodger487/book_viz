@@ -1,0 +1,93 @@
+{
+  "numFound": 32,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 32,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL3308583M",
+      "cover_i": 570844,
+      "ebook_access": "borrowable",
+      "edition_count": 29,
+      "first_publish_year": 1961,
+      "has_fulltext": true,
+      "ia": [
+        "schattenvongeste0000leca",
+        "callfordead0000leca_e2j7",
+        "callfordead0000leca",
+        "callfordead00leca",
+        "callfordead0000leca_u2h5"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "marygrovecollege",
+        "printdisabled"
+      ],
+      "key": "/works/OL29776W",
+      "language": [
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL21829728M",
+      "lending_identifier_s": "schattenvongeste0000leca",
+      "public_scan_b": false,
+      "title": "Call for the Dead"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL28327497M",
+      "cover_i": 10266729,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL20911151W",
+      "public_scan_b": false,
+      "title": "Call for the Dead"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL7534685M",
+      "cover_i": 9943522,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 1960,
+      "has_fulltext": true,
+      "ia": [
+        "callfordead00john"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL8066907W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Call for the Dead"
+    }
+  ]
+}

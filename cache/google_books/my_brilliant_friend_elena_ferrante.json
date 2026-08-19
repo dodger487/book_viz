@@ -1,0 +1,247 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mLTRDwAAQBAJ",
+      "etag": "CBo4grWtt9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mLTRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "My Brilliant Friend",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "publisher": "Europa Editions",
+        "publishedDate": "2012-09-25",
+        "description": "Named the #1 Book of the 21st Century by the New York Times: The \u201cenduring classic\u201d about the lifelong friendship of two women from Naples (The Atlantic). Beginning in the 1950s in a poor but vibrant neighborhood on the outskirts of Naples, Elena Ferrante\u2019s four-volume story spans almost sixty years, as its main characters, the fiery and unforgettable Lila and the bookish narrator, Elena, become women, wives, mothers, and leaders, all the while maintaining a complex and at times conflicted friendship. This first novel in the series follows Lila and Elena from their fateful meeting as ten-year-olds through their school years and adolescence. Through the lives of these two women, Ferrante tells the story of a neighborhood, a city, and a country as it is transformed in ways that, in turn, also transform the relationship between two women. \u201cAn intoxicatingly furious portrait of enmeshed friends.\u201d \u2014Entertainment Weekly \u201cSpectacular.\u201d \u2014Maureen Corrigan, NPR\u2019s Fresh Air \u201cCaptivating.\u201d \u2014The New Yorker Basis for the HBO series",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781609458638"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "160945863X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mLTRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mLTRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mLTRDwAAQBAJ&printsec=frontcover&dq=intitle:%22My+Brilliant+Friend%22+inauthor:%22Elena+Ferrante%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mLTRDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mLTRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mLTRDwAAQBAJ&rdid=book-mLTRDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/My_Brilliant_Friend-sample-epub.acsm?id=mLTRDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/My_Brilliant_Friend-sample-pdf.acsm?id=mLTRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mLTRDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This first novel in the series follows Lila and Elena from their fateful meeting as ten-year-olds through their school years and adolescence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RmU20QEACAAJ",
+      "etag": "+pLCz86JS0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RmU20QEACAAJ",
+      "volumeInfo": {
+        "title": "The Four Volumes: My Brilliant Friend",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "publisher": "Europa Editions",
+        "publishedDate": "2025-10-07",
+        "description": "A deluxe cloth hardcover with sprayed edges and colored end papers illustrating the Bay of Naples. #1 BEST BOOK OF THE CENTURY --NEW YORK TIMES \"An unconditional masterpiece.\" --Jhumpa Lahiri When Elena Ferrante set out to write the story of Elena and Lila, she conceived it as one single work of fiction, one expansive novel that would capture the reality and ambivalence of female friendship, motherhood, marriage, class and adolescence. 2025 marks 10 years since publication of the quartet was completed. To celebrate this anniversary, as well as honor and acknowledge the author's original conception, we are releasing the four novels in one volume. Described by the New Yorker's James Wood as \"large, captivating, amiably peopled...a beautiful and delicate tale of confluence and reversal,\" the Neapolitan Quartet tells a poignant, universal story about friendship and belonging. \"The capacity of stories to speak to anyone and in any time is the fruit of a mysterious mixture of sensibility, ability, and luck, and no writer really knows how that fruit ripens and if it has fully matured.\" --Elena Ferrante Contains the four Neapolitan Novels: My Brilliant Friend; The Story of a New Name; Those Who Leave and Those Who Stay; The Story of the Lost Child",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798889661443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RmU20QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RmU20QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RmU20QEACAAJ&dq=intitle:%22My+Brilliant+Friend%22+inauthor:%22Elena+Ferrante%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RmU20QEACAAJ&dq=intitle:%22My+Brilliant+Friend%22+inauthor:%22Elena+Ferrante%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Four_Volumes_My_Brilliant_Friend.html?hl=&id=RmU20QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RmU20QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; --Elena Ferrante Contains the four Neapolitan Novels: My Brilliant Friend; The Story of a New Name; Those Who Leave and Those Who Stay; The Story of the Lost Child"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oQzJvQEACAAJ",
+      "etag": "7vighZmo1Y0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oQzJvQEACAAJ",
+      "volumeInfo": {
+        "title": "My Brilliant Friend",
+        "subtitle": "The Neapolitan Novels, Book One (TV tie-in)",
+        "authors": [
+          "Elena Ferrante"
+        ],
+        "publisher": "Text Publishing",
+        "publishedDate": "2018-11-01",
+        "description": "The story of Elena and Lila begins in the 1950s in a poor but vibrant neighbourhood on the outskirts of Naples. They learn to rely on each other and discover that their destinies are bound up in the intensity of their relationship. Elena Ferrante\u2019s piercingly honest portrait of two girls\u2019 path into womanhood is also the story of a nation and a meditation on the nature of friendship itself. My Brilliant Friend is a modern masterpiece, the work of one of Italy\u2019s great storytellers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1925773752"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781925773750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oQzJvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oQzJvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oQzJvQEACAAJ&dq=intitle:%22My+Brilliant+Friend%22+inauthor:%22Elena+Ferrante%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oQzJvQEACAAJ&dq=intitle:%22My+Brilliant+Friend%22+inauthor:%22Elena+Ferrante%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Brilliant_Friend.html?hl=&id=oQzJvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oQzJvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story of Elena and Lila begins in the 1950s in a poor but vibrant neighbourhood on the outskirts of Naples."
+      }
+    }
+  ]
+}

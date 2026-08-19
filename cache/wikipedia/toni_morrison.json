@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Toni Morrison",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Toni Morrison</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q72334",
+  "titles": {
+    "canonical": "Toni_Morrison",
+    "normalized": "Toni Morrison",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Toni Morrison</span></span>"
+  },
+  "pageid": 43165,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Toni_Morrison.jpg/330px-Toni_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 470
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Toni_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1540,
+    "height": 2195
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367959693",
+  "tid": "373c21ba-9159-11f1-a0f7-cf7020381f22",
+  "timestamp": "2026-08-06T05:39:39Z",
+  "description": "American novelist and editor (1931\u20132019)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Toni_Morrison",
+      "revisions": "https://en.wikipedia.org/wiki/Toni_Morrison?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Toni_Morrison?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Toni_Morrison"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Toni_Morrison",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Toni_Morrison",
+      "edit": "https://en.wikipedia.org/wiki/Toni_Morrison?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Toni_Morrison"
+    }
+  },
+  "extract": "Chloe Anthony Wofford \"Toni\" Morrison was an American novelist and editor. She was awarded the Nobel Prize in Literature in 1993. Her first novel, The Bluest Eye, was published in 1970. The critically acclaimed Song of Solomon (1977) brought her national attention and won the National Book Critics Circle Award. In 1988, Morrison won the Pulitzer Prize for Beloved (1987). Some of her other notable works include The Bluest Eye (1970), Song of Solomon (1977), Sula (1973), and Recitatif (1983).",
+  "extract_html": "<p><b>Chloe Anthony Wofford</b> \"<b>Toni</b>\" <b>Morrison</b> was an American novelist and editor. She was awarded the Nobel Prize in Literature in 1993. Her first novel, <i>The Bluest Eye</i>, was published in 1970. The critically acclaimed <i>Song of Solomon</i> (1977) brought her national attention and won the National Book Critics Circle Award. In 1988, Morrison won the Pulitzer Prize for <i>Beloved</i> (1987). Some of her other notable works include <i>The Bluest Eye</i> (1970), <span><i>Song of Solomon</i></span> (1977), Sula (1973), and Recitatif (1983).</p>"
+}

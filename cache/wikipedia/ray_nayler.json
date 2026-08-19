@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ray Nayler",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ray Nayler</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q98960258",
+  "titles": {
+    "canonical": "Ray_Nayler",
+    "normalized": "Ray Nayler",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ray Nayler</span></span>"
+  },
+  "pageid": 76268301,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ray_Nayler_Author_Photo.jpg/330px-Ray_Nayler_Author_Photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ray_Nayler_Author_Photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3024,
+    "height": 4032
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1359833343",
+  "tid": "40145048-6a56-11f1-b8c4-cb7ccc7f2dc6",
+  "timestamp": "2026-06-17T14:10:10Z",
+  "description": "American and Canadian writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ray_Nayler",
+      "revisions": "https://en.wikipedia.org/wiki/Ray_Nayler?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ray_Nayler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ray_Nayler"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ray_Nayler",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ray_Nayler",
+      "edit": "https://en.wikipedia.org/wiki/Ray_Nayler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ray_Nayler"
+    }
+  },
+  "extract": "Ray Nayler is an American and Canadian writer whose works engage with ecology, systems theory, and questions of consciousness and intelligence, including animal and artificial intelligence.",
+  "extract_html": "<p><b>Ray Nayler</b> is an American and Canadian writer whose works engage with ecology, systems theory, and questions of consciousness and intelligence, including animal and artificial intelligence.</p>"
+}

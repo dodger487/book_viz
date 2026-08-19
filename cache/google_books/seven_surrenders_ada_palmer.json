@@ -1,0 +1,176 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bLcsDAAAQBAJ",
+      "etag": "kvnpObOg4V0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bLcsDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Seven Surrenders",
+        "subtitle": "Book 2 of Terra Ignota",
+        "authors": [
+          "Ada Palmer"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2017-03-07",
+        "description": "*2018 LOCUS AWARD FINALIST FOR BEST SCIENCE FICTION NOVEL CATEGORY* From 2017 John W. Campbell Award winner, Ada Palmer, the second book of Terra Ignota, a political SF epic of extraordinary audacity \u201cA cornucopia of dazzling, sharp ideas set in rich, wry prose that rewards rumination with layers of delight. Provocative, erudite, inventive, resplendent.\u201d \u2014Ken Liu, author of The Grace of Kings In a future of near-instantaneous global travel, of abundant provision for the needs of all, a future in which no one living can remember an actual war...a long era of stability threatens to come to an abrupt end. For known only to a few, the leaders of the great Hives, nations without fixed locations, have long conspired to keep the world stable, at the cost of just a little blood. A few secret murders, mathematically planned. So that no faction can ever dominate, and the balance holds. And yet the balance is beginning to give way. Mycroft Canner, convict, sentenced to wander the globe in service to all, knows more about this conspiracy the than he can ever admit. Carlyle Foster, counselor, sensayer, has secrets as well, and they burden Carlyle beyond description. And both Mycroft and Carlyle are privy to the greatest secret of all: Bridger, the child who can bring inanimate objects to life. Shot through with astonishing invention, Ada Palmer's Seven Surrenders is the next movement in one of the great SF epics of our time. \u201cSeven Surrenders veers expertly between love, murder, mayhem, parenthood, theology, and high politics. I haven't had this much fun with a book in a long time.\u201d \u2014Max Gladstone, author of Three Parts Dead Terra Ignota 1. Too Like the Lightning 2. Seven Surrenders 3. The Will to Battle At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466858756"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466858753"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bLcsDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bLcsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bLcsDAAAQBAJ&printsec=frontcover&dq=intitle:%22Seven+Surrenders%22+inauthor:%22Ada+Palmer%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bLcsDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bLcsDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bLcsDAAAQBAJ&rdid=book-bLcsDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bLcsDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "*2018 LOCUS AWARD FINALIST FOR BEST SCIENCE FICTION NOVEL CATEGORY* From 2017 John W. Campbell Award winner, Ada Palmer, the second book of Terra Ignota, a political SF epic of extraordinary audacity \u201cA cornucopia of dazzling, sharp ideas ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CF3DswEACAAJ",
+      "etag": "igD36dTPujY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CF3DswEACAAJ",
+      "volumeInfo": {
+        "title": "Seven Surrenders",
+        "authors": [
+          "Ada Palmer"
+        ],
+        "publisher": "Terra Ignota",
+        "publishedDate": "2017-11-30",
+        "description": "The year is 2454. The sun is setting on a hard-won golden age. For three centuries, humanity has enjoyed peace and prosperity fuelled by technological abundance, oracular data analytics, careful censorship... and just a little blood. In a world dominated by seven factions, or 'Hives', the price of peace has been a few secret murders, mathematically planned to ensure political and economic balance. But now the secret is out, the balance is slipping and war beckons. Convict Mycroft Canner knew this war was coming - he committed his terrible crimes to forestall it. Now, he has just one card left, a wild card no degree of statistical genius could have predicted: a thirteen-year-old child with the power to work miracles. Turning thought into matter, matter in life, this child has the power to save the world, or to doom it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1786699524"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786699527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Automation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CF3DswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CF3DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CF3DswEACAAJ&dq=intitle:%22Seven+Surrenders%22+inauthor:%22Ada+Palmer%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CF3DswEACAAJ&dq=intitle:%22Seven+Surrenders%22+inauthor:%22Ada+Palmer%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Seven_Surrenders.html?hl=&id=CF3DswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CF3DswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now, he has just one card left, a wild card no degree of statistical genius could have predicted: a thirteen-year-old child with the power to work miracles."
+      }
+    }
+  ]
+}

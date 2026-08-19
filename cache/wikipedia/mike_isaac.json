@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Super Pumped",
+  "displaytitle": "<i>Super Pumped</i>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q85804215",
+  "titles": {
+    "canonical": "Super_Pumped",
+    "normalized": "Super Pumped",
+    "display": "<i>Super Pumped</i>"
+  },
+  "pageid": 61859854,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/ec/Super_Pumped%2C_The_Battle_For_Uber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 260,
+    "height": 390
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/ec/Super_Pumped%2C_The_Battle_For_Uber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 260,
+    "height": 390
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1362243190",
+  "tid": "b617d94a-7646-11f1-8ce0-94a836583e60",
+  "timestamp": "2026-07-02T18:49:10Z",
+  "description": "2019 non-fiction book by Mike Isaac",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Super_Pumped",
+      "revisions": "https://en.wikipedia.org/wiki/Super_Pumped?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Super_Pumped?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Super_Pumped"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Super_Pumped",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Super_Pumped",
+      "edit": "https://en.wikipedia.org/wiki/Super_Pumped?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Super_Pumped"
+    }
+  },
+  "extract": "Super Pumped: The Battle for Uber is a 2019 book by New York Times journalist Mike Isaac. The book covers the events between the founding of Uber and its initial public offering in 2019.",
+  "extract_html": "<p><i><b>Super Pumped: The Battle for Uber</b></i> is a 2019 book by <i>New York Times</i> journalist Mike Isaac. The book covers the events between the founding of Uber and its initial public offering in 2019.</p>"
+}

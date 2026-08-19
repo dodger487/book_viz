@@ -1,0 +1,168 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gCjSEQAAQBAJ",
+      "etag": "7umMRqln/O8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gCjSEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cribsheet",
+        "authors": [
+          "Emily Oster"
+        ],
+        "publisher": "Fastchapters",
+        "publishedDate": "2026-04-20",
+        "description": "In the quiet of a late-night Google search, you've likely found yourself down a rabbit hole of parenting advice that leaves you more confused than when you started. You're not alone. As a pediatrician who has spent years studying child development and behavioral economics, I've seen firsthand how overwhelming the deluge of often contradictory advice can be. The pressure to be the 'perfect parent' is immense, and it's a myth that does more harm than good. Let me tell you why. Meet Priya, a data scientist in London, who found herself paralyzed by the conflicting advice on sleep training. Every expert seemed to have a different opinion, and the more she read, the more anxious she became. She tried every method, desperate to find the 'right' one, and ended up with an exhausted baby and an even more exhausted herself. The truth is, there is no one-size-fits-all solution. What works for one family might not work for another, and that's okay. Then there's Jamal, a nurse in a rural village, who was told that his son's developmental delays were a result of his 'poor parenting.' The stigma and shame he felt were overwhelming, and it wasn't until he sought out evidence-based resources that he realized his son's delays were likely due to a combination of genetic and environmental factors, not his parenting skills. This is where the power of informed discernment comes in. Understanding the science behind child development can help parents navigate the cultural pressure to conform to unrealistic standards. The myth of the perfect parent is not just a harmless ideal; it's a dangerous illusion that can lead to anxiety, depression, and even neglect. Studies have shown that parents who strive for perfection are more likely to experience stress and burnout, which can negatively impact their children's well-being. Moreover, the pressure to conform to societal expectations can lead to a one-size-fits-all approach to parenting, ignoring the unique needs and circumstances of each family. But here's the good news: science shows that small, consistent tweaks to routine, not rigid adherence to dogma, lead to healthier, happier children and parents. The key is 'good enough' parenting, not perfection. This doesn't mean ignoring expert advice or dismissing professional expertise. On the contrary, it means valuing professional expertise while maintaining parental agency. It's about understanding the science behind child development and using that knowledge to make informed decisions that work for your family. Take, for example, the case of Lila, a single mother in New York City who was struggling with her daughter's picky eating. She had tried every trick in the book, from hiding vegetables in smoothies to bribing her daughter with dessert. But it wasn't until she read about the importance of exposure and modeling healthy eating habits that she saw a real change. She started incorporating more fruits and vegetables into her own diet and involving her daughter in meal preparation. It wasn't an overnight fix, but over time, her daughter's eating habits improved. The stakes are high, and the consequences of ignoring the thesis are real. Parents who feel overwhelmed and unsupported are more likely to experience stress, anxiety, and depression, which can negatively impact their children's well-being. But it doesn't have to be this way. By embracing the myth of the perfect parent and the power of small, consistent tweaks, we can create a healthier, happier future for our children and ourselves. In the pages that follow, we'll explore the science behind child development and the myths that surround it. We'll delve into the latest research on sleep, nutrition, discipline, and more, and we'll provide practical, evidence-based strategies for navigating the challenges of parenting. But most importantly, we'll emphasize the importance of flexibility, adaptability, and informed discernment. Because the truth is, there is no one-size-fits-all solution to parenting. What works for one family might not work for another, and that's okay. The key is to find what works for you and your family, and to trust in the power of small, consistent tweaks to create a healthier, happier future for your children.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gCjSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gCjSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gCjSEQAAQBAJ&printsec=frontcover&dq=intitle:%22Cribsheet%22+inauthor:%22Emily+Oster%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gCjSEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gCjSEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gCjSEQAAQBAJ&rdid=book-gCjSEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cribsheet-sample-epub.acsm?id=gCjSEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cribsheet-sample-pdf.acsm?id=gCjSEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gCjSEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is where the power of informed discernment comes in. Understanding the science behind child development can help parents navigate the cultural pressure to conform to unrealistic standards."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8V6UDwAAQBAJ",
+      "etag": "jnUH/KbVQhI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8V6UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cribsheet",
+        "subtitle": "A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool",
+        "authors": [
+          "Emily Oster"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2019-04-23",
+        "description": "From the author of Expecting Better, The Family Firm, and The Unexpected an economist's guide to the early years of parenting. \u201cBoth refreshing and useful. With so many parenting theories driving us all a bit batty, this is the type of book that we need to help calm things down.\u201d \u2014LA Times \u201cThe book is jampacked with information, but it\u2019s also a delightful read because Oster is such a good writer.\u201d \u2014NPR With Expecting Better, award-winning economist Emily Oster spotted a need in the pregnancy market for advice that gave women the information they needed to make the best decision for their own pregnancies. By digging into the data, Oster found that much of the conventional pregnancy wisdom was wrong. In Cribsheet, she now tackles an even greater challenge: decision-making in the early years of parenting. As any new parent knows, there is an abundance of often-conflicting advice hurled at you from doctors, family, friends, and strangers on the internet. From the earliest days, parents get the message that they must make certain choices around feeding, sleep, and schedule or all will be lost. There's a rule\u2014or three\u2014for everything. But the benefits of these choices can be overstated, and the trade-offs can be profound. How do you make your own best decision? Armed with the data, Oster finds that the conventional wisdom doesn't always hold up. She debunks myths around breastfeeding (not a panacea), sleep training (not so bad!), potty training (wait until they're ready or possibly bribe with M&Ms), language acquisition (early talkers aren't necessarily geniuses), and many other topics. She also shows parents how to think through freighted questions like if and how to go back to work, how to think about toddler discipline, and how to have a relationship and parent at the same time. Economics is the science of decision-making, and Cribsheet is a thinking parent's guide to the chaos and frequent misinformation of the early years. Emily Oster is a trained expert\u2014and mom of two\u2014who can empower us to make better, less fraught decisions\u2014and stay sane in the years before preschool.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525559252"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525559256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8V6UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8V6UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8V6UDwAAQBAJ&printsec=frontcover&dq=intitle:%22Cribsheet%22+inauthor:%22Emily+Oster%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8V6UDwAAQBAJ&dq=intitle:%22Cribsheet%22+inauthor:%22Emily+Oster%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cribsheet.html?hl=&id=8V6UDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8V6UDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With so many parenting theories driving us all a bit batty, this is the type of book that we need to help calm things down.\u201d \u2014LA Times \u201cThe book is jampacked with information, but it\u2019s also a delightful read because Oster is such a ..."
+      }
+    }
+  ]
+}

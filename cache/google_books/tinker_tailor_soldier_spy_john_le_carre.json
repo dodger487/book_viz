@@ -1,0 +1,79 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TRJNtwEACAAJ",
+      "etag": "lYYFHKMzyaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TRJNtwEACAAJ",
+      "volumeInfo": {
+        "title": "Tinker Tailor Soldier Spy",
+        "authors": [
+          "John Le Carr\u00e9"
+        ],
+        "publisher": "Penguin Classics",
+        "publishedDate": "2018",
+        "description": "George Smiley, who is a troubled man of infinite compassion, is also a single-mindedly ruthless adversary as a spy. The scene which he enters is a Cold War landscape of moles and lamplighters, scalp-hunters and pavement artists, where men are turned, burned or bought for stock. Smiley's mission is to catch a Moscow Centre mole burrowed thirty years deep into the Circus itself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "024132341X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241323410"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TRJNtwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TRJNtwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TRJNtwEACAAJ&dq=intitle:%22Tinker,+Tailor,+Soldier,+Spy%22+inauthor:%22John+le+Carre%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TRJNtwEACAAJ&dq=intitle:%22Tinker,+Tailor,+Soldier,+Spy%22+inauthor:%22John+le+Carre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tinker_Tailor_Soldier_Spy.html?hl=&id=TRJNtwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TRJNtwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "George Smiley, who is a troubled man of infinite compassion, is also a single-mindedly ruthless adversary as a spy."
+      }
+    }
+  ]
+}

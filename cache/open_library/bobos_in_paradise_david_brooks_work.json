@@ -1,0 +1,80 @@
+{
+  "title": "Bobos in paradise",
+  "covers": [
+    1020175,
+    4529208,
+    6608630,
+    8321004,
+    13782045
+  ],
+  "first_publish_date": "March 1, 2001",
+  "key": "/works/OL251813W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1393795A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Elite (Social sciences)",
+    "Social conditions",
+    "Social life and customs",
+    "Upper class",
+    "Hogere klassen",
+    "Elites",
+    "Baby boom generation",
+    "Classes sup\u00e9rieures",
+    "M\u0153urs et coutumes",
+    "Conditions sociales",
+    "\u00c9lite (Sciences sociales)",
+    "Manners and customs",
+    "Oberschicht",
+    "High-Society",
+    "Social Mobility",
+    "Sociology - General",
+    "Popular Culture",
+    "Current Affairs",
+    "Sociology",
+    "Humor",
+    "Popular Culture - General",
+    "General",
+    "Social Science / Popular Culture",
+    "Social classes",
+    "Social history",
+    "USA",
+    "United States",
+    "American",
+    "1980-",
+    "71.12 social stratification, social mobility",
+    "United states, social conditions, 1980-",
+    "United states, social life and customs"
+  ],
+  "subject_times": [
+    "1971-",
+    "1980-"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"It used to be pretty easy to distinguish between the bourgeois world of capitalism and the bohemian counterculture. The bourgeois worked for corporations, wore gray, and went to church. The bohemians were artists and intellectuals. Bohemians championed the values of the liberated 1960s; the bourgeois were the enterprising yuppies of the 1980s.\".\n\n\"But now the bohemian and the bourgeois are all mixed up, as David Brooks explains in this description of upscale culture in America. It is hard to tell an espresso-sipping professor from a cappuccino-gulping banker. Laugh and sob as you read about the information age economy's new dominant class. Marvel at their attitudes toward morality, sex, work, and lifestyle, and at how the members of this new elite have combined the values of the counter-cultural sixties with those of the achieving eighties.\n\nThese are the people who set the tone for society today, for you. They are bourgeois bohemians: Bobos.\" \"Their hybrid culture is the atmosphere we breathe. Their status codes govern social life, and their moral codes govern ethics and influence our politics. Bobos in Paradise is a witty and serious look at the cultural consequences of the information age and a penetrating description of how we live now.\"--BOOK JACKET."
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-23T20:27:44.804800"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-09T19:19:15.047269"
+  }
+}

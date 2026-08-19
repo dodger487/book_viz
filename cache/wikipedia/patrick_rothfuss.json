@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Patrick Rothfuss",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrick Rothfuss</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q514546",
+  "titles": {
+    "canonical": "Patrick_Rothfuss",
+    "normalized": "Patrick Rothfuss",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrick Rothfuss</span></span>"
+  },
+  "pageid": 11125946,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Patrick-rothfuss-2014-kyle-cassidy.jpg/330px-Patrick-rothfuss-2014-kyle-cassidy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Patrick-rothfuss-2014-kyle-cassidy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1668,
+    "height": 2222
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361307716",
+  "tid": "55634954-71cd-11f1-be4a-85d3e83d856b",
+  "timestamp": "2026-06-27T02:10:14Z",
+  "description": "American fantasy writer (born 1973)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Patrick_Rothfuss",
+      "revisions": "https://en.wikipedia.org/wiki/Patrick_Rothfuss?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Patrick_Rothfuss?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Patrick_Rothfuss"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Patrick_Rothfuss",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Patrick_Rothfuss",
+      "edit": "https://en.wikipedia.org/wiki/Patrick_Rothfuss?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Patrick_Rothfuss"
+    }
+  },
+  "extract": "Patrick James Rothfuss is an American author. He is best known for his highly acclaimed series The Kingkiller Chronicle, beginning with Rothfuss' debut novel, The Name of the Wind (2007), which won several awards, and continuing in the sequel, The Wise Man's Fear (2011), which topped The New York Times Best Seller list.",
+  "extract_html": "<p><b>Patrick James Rothfuss</b> is an American author. He is best known for his highly acclaimed series <i>The Kingkiller Chronicle</i>, beginning with Rothfuss' debut novel, <i>The Name of the Wind</i> (2007), which won several awards, and continuing in the sequel, <i>The Wise Man's Fear</i> (2011), which topped <span><i>The New York Times</i> Best Seller list</span>.</p>"
+}

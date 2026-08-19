@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Marina Keegan",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marina Keegan</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q18249281",
+  "titles": {
+    "canonical": "Marina_Keegan",
+    "normalized": "Marina Keegan",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marina Keegan</span></span>"
+  },
+  "pageid": 43211965,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367524311",
+  "tid": "59feed75-8f57-11f1-98e4-a46203166742",
+  "timestamp": "2026-08-03T16:21:16Z",
+  "description": "American author & playwright (1989\u20132012)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Marina_Keegan",
+      "revisions": "https://en.wikipedia.org/wiki/Marina_Keegan?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Marina_Keegan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Marina_Keegan"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Marina_Keegan",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Marina_Keegan",
+      "edit": "https://en.wikipedia.org/wiki/Marina_Keegan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Marina_Keegan"
+    }
+  },
+  "extract": "\nMarina Evelyn Keegan was an American author, playwright, and journalist. She is best known for her essay \"The Opposite of Loneliness,\" which went viral and was viewed over 1.4 million times in 98 countries after her death in a car crash while traveling home as a passenger just five days after she graduated magna cum laude from Yale University.",
+  "extract_html": "<p>\n<b>Marina Evelyn Keegan</b> was an American author, playwright, and journalist. She is best known for her essay \"The Opposite of Loneliness,\" which went viral and was viewed over 1.4 million times in 98 countries after her death in a car crash while traveling home as a passenger just five days after she graduated <i>magna cum laude</i> from Yale University.</p>"
+}

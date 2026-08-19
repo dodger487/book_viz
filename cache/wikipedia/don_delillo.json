@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Don DeLillo",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Don DeLillo</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q310048",
+  "titles": {
+    "canonical": "Don_DeLillo",
+    "normalized": "Don DeLillo",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Don DeLillo</span></span>"
+  },
+  "pageid": 93585,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Don_delillo_nyc_02-cropped.jpg/330px-Don_delillo_nyc_02-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 426
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Don_delillo_nyc_02-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1970,
+    "height": 2546
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368533848",
+  "tid": "f9b6f217-9413-11f1-9baf-ce652c1604c8",
+  "timestamp": "2026-08-09T17:01:34Z",
+  "description": "American writer (born 1936)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Don_DeLillo",
+      "revisions": "https://en.wikipedia.org/wiki/Don_DeLillo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Don_DeLillo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_DeLillo"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Don_DeLillo",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Don_DeLillo",
+      "edit": "https://en.wikipedia.org/wiki/Don_DeLillo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Don_DeLillo"
+    }
+  },
+  "extract": "Donald Richard DeLillo is an American novelist, short story writer, playwright, screenwriter and essayist. His works have covered subjects as diverse as consumerism, nuclear war, the complexities of language, art, television, the advent of the Digital Age, mathematics, politics, economics and sports.",
+  "extract_html": "<p><b>Donald Richard DeLillo</b> is an American novelist, short story writer, playwright, screenwriter and essayist. His works have covered subjects as diverse as consumerism, nuclear war, the complexities of language, art, television, the advent of the Digital Age, mathematics, politics, economics and sports.</p>"
+}

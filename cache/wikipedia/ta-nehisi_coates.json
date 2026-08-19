@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ta-Nehisi Coates",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ta-Nehisi Coates</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q15452495",
+  "titles": {
+    "canonical": "Ta-Nehisi_Coates",
+    "normalized": "Ta-Nehisi Coates",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ta-Nehisi Coates</span></span>"
+  },
+  "pageid": 19882431,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ta-Nehisi_Coates_at_the_2025_Edinburgh_International_Book_Festival-21_%28cropped%29.jpg/330px-Ta-Nehisi_Coates_at_the_2025_Edinburgh_International_Book_Festival-21_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ta-Nehisi_Coates_at_the_2025_Edinburgh_International_Book_Festival-21_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2697,
+    "height": 3594
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353108177",
+  "tid": "c331a4c8-4aa7-11f1-83d1-6978da0c7475",
+  "timestamp": "2026-05-08T06:33:02Z",
+  "description": "American writer and journalist (born 1975)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ta-Nehisi_Coates",
+      "revisions": "https://en.wikipedia.org/wiki/Ta-Nehisi_Coates?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ta-Nehisi_Coates?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ta-Nehisi_Coates"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ta-Nehisi_Coates",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ta-Nehisi_Coates",
+      "edit": "https://en.wikipedia.org/wiki/Ta-Nehisi_Coates?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ta-Nehisi_Coates"
+    }
+  },
+  "extract": "Ta-Nehisi Paul Coates is an American author, journalist, and activist. He gained a wide readership during his time as national correspondent at The Atlantic, where he wrote about cultural, social, and political issues, particularly regarding African Americans and white supremacy. He is politically progressive.",
+  "extract_html": "<p><b>Ta-Nehisi Paul Coates</b> is an American author, journalist, and activist. He gained a wide readership during his time as national correspondent at <i>The Atlantic</i>, where he wrote about cultural, social, and political issues, particularly regarding African Americans and white supremacy. He is politically progressive.</p>"
+}

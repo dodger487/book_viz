@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Octavia E. Butler",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Octavia E. Butler</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q239739",
+  "titles": {
+    "canonical": "Octavia_E._Butler",
+    "normalized": "Octavia E. Butler",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Octavia E. Butler</span></span>"
+  },
+  "pageid": 173612,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Butler_signing.jpg/330px-Butler_signing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 252
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Butler_signing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1380,
+    "height": 1055
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364764843",
+  "tid": "da0d26a3-829c-11f1-a987-91e37150a847",
+  "timestamp": "2026-07-18T11:36:01Z",
+  "description": "American science fiction writer (1947\u20132006)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Octavia_E._Butler",
+      "revisions": "https://en.wikipedia.org/wiki/Octavia_E._Butler?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Octavia_E._Butler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Octavia_E._Butler"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Octavia_E._Butler",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Octavia_E._Butler",
+      "edit": "https://en.wikipedia.org/wiki/Octavia_E._Butler?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Octavia_E._Butler"
+    }
+  },
+  "extract": "Octavia Estelle Butler was an American science fiction and speculative fiction author who won several awards for her works, including Hugo, Locus, and Nebula awards. In 1995, Butler became the first science-fiction writer to receive a MacArthur Fellowship.",
+  "extract_html": "<p><b>Octavia Estelle Butler</b> was an American science fiction and speculative fiction author who won several awards for her works, including Hugo, Locus, and Nebula awards. In 1995, Butler became the first science-fiction writer to receive a MacArthur Fellowship.</p>"
+}

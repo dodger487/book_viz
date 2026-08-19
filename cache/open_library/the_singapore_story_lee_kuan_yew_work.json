@@ -1,0 +1,51 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The personal account of the life of Lee Kuan Yew. Information on Singapore's politics, history and much more."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-02-14T00:02:59.681892"
+  },
+  "title": "The Singapore Story",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-27T08:26:59.823312"
+  },
+  "covers": [
+    7432823,
+    3761308
+  ],
+  "subject_places": [
+    "Singapore"
+  ],
+  "first_publish_date": "1998",
+  "subject_people": [
+    "Kuan Yew Lee (1923-)"
+  ],
+  "key": "/works/OL354132W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL8066A"
+      }
+    }
+  ],
+  "latest_revision": 8,
+  "dewey_number": [
+    "959.5705/092",
+    "B"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Politics and government",
+    "Prime ministers",
+    "Biography"
+  ],
+  "revision": 8
+}

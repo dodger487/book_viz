@@ -1,0 +1,46 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7106874A",
+        "OL7925291A",
+        "OL7850410A",
+        "OL13681919A"
+      ],
+      "author_name": [
+        "Robin Sloan",
+        "Robin Sloan",
+        "Ari Fliakos",
+        "Robin Sloane"
+      ],
+      "cover_i": 7241549,
+      "ebook_access": "printdisabled",
+      "edition_count": 14,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "mrpenumbras24hou0000sloa",
+        "mrpenumbras24hou0628sloa_kn730",
+        "mrpenumbras24hou0000sloa_w2s8",
+        "mrpenumbras24hou00sloa"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16585786W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Mr. Penumbra's 24-hour bookstore"
+    }
+  ]
+}

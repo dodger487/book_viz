@@ -1,0 +1,36 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Mountain in the Sea",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2986525A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL27172785W",
+  "description": {
+    "type": "/type/text",
+    "value": "When pioneering marine biologist Dr. Ha Nguyen is offered the chance to travel to the remote Con Dao Archipelago to investigate a highly intelligent, dangerous octopus species, she doesn't pause long enough to look at the fine print. DIANIMA - a transnational tech corporation best known for its groundbreaking work in artificial intelligence - has purchased the islands, evacuated their population and sealed the archipelago off from the world so that Nguyen can focus on her research.\r\n\r\nBut the stakes are high: the octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence and there are vast fortunes to be made by whoever can take advantage of their advancements. And no one has yet asked the octopuses what they think. And what they might do about it."
+  },
+  "subjects": [
+    "Science fiction",
+    "speculative evolution",
+    "Fiction, thrillers, general"
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-01-28T19:17:04.649700"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-11-04T10:09:49.786619"
+  }
+}

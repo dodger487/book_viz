@@ -1,0 +1,152 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7_PxHvCta28C",
+      "etag": "UawZbyLW7Pg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7_PxHvCta28C",
+      "volumeInfo": {
+        "title": "The Marriage Plot",
+        "authors": [
+          "Jeffrey Eugenides"
+        ],
+        "publisher": "Knopf Canada",
+        "publishedDate": "2011-10-11",
+        "description": "The long-awaited new novel from the Pulitzer Prize-winning author Jeffrey Eugenides. \"There is no happiness in love, except at the end of an English novel.\" \u2014Anthony Trollope, Barchester Towers Madeleine Hanna was the dutiful English major who didn't get the memo. While everyone else in the early 1980s was reading Derrida, she was happily absorbed with Jane Austen and George Eliot: purveyors of the marriage plot that lies at the heart of the greatest English novels. Madeleine was the girl who dressed a little too nicely for the taste of her more bohemian friends, the perfect girlfriend whose college love life, despite her good looks, hadn't lived up to expectations. But now, in the spring of her senior year, Madeleine has enrolled in a semiotics course \"to see what all the fuss is about,\" and, for reasons that have nothing to do with school, life and literature will never be the same. Not after she falls in love with Leonard Morten - charismatic loner, college Darwinist and lost Oregon boy - who is possessed of seemingly inexhaustible energy and introduces her to the ecstasies of immediate experience. And certainly not after Mitchell Grammaticus - devotee of Patti Smith and Thomas Merton - resurfaces in her life, obsessed with the idea that Madeleine is destined to be his mate. The triangle in this amazing and delicious novel about a generation beginning to grow up is age old, and completely fresh and surprising. With devastating wit, irony and an abiding understanding and love for his characters, Jeffrey Eugenides resuscitates the original energies of the novel while creating a story so contemporary that it reads like the intimate journal of our own lives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307401885"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "030740188X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 418,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7_PxHvCta28C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7_PxHvCta28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7_PxHvCta28C&printsec=frontcover&dq=intitle:%22The+Marriage+Plot%22+inauthor:%22Jeffrey+Eugenides%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7_PxHvCta28C&dq=intitle:%22The+Marriage+Plot%22+inauthor:%22Jeffrey+Eugenides%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marriage_Plot.html?hl=&id=7_PxHvCta28C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Marriage_Plot-sample-epub.acsm?id=7_PxHvCta28C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7_PxHvCta28C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With devastating wit, irony and an abiding understanding and love for his characters, Jeffrey Eugenides resuscitates the original energies of the novel while creating a story so contemporary that it reads like the intimate journal of our ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UxiVngEACAAJ",
+      "etag": "ZpISH3BwSTY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UxiVngEACAAJ",
+      "volumeInfo": {
+        "title": "The Marriage Plot",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jeffrey Eugenides"
+        ],
+        "publisher": "Farrar Straus & Giroux",
+        "publishedDate": "2011-10-11",
+        "description": "Madeleine Hanna breaks out of her straight-and-narrow mold when she falls in love with charismatic loner Leonard Bankhead, while at the same time an old friend of hers resurfaces, obsessed with the idea that Madeleine is his destiny.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0374203059"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374203054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UxiVngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UxiVngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UxiVngEACAAJ&dq=intitle:%22The+Marriage+Plot%22+inauthor:%22Jeffrey+Eugenides%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UxiVngEACAAJ&dq=intitle:%22The+Marriage+Plot%22+inauthor:%22Jeffrey+Eugenides%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Marriage_Plot.html?hl=&id=UxiVngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UxiVngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With devastating wit and an abiding understanding of and affection for his characters, Jeffrey Eugenides revives the motivating energies of the Novel, while creating a story so contemporary and fresh that it reads like the intimate journal ..."
+      }
+    }
+  ]
+}

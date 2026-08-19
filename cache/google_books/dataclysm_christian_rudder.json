@@ -1,0 +1,253 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qtZzAwAAQBAJ",
+      "etag": "DcFrj9nJ9jE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qtZzAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dataclysm: Who We Are (When We Think No One\u2019s Looking)",
+        "authors": [
+          "Christian Rudder"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2014-09-09",
+        "description": "An irreverent, provocative, and visually fascinating look at what our online lives reveal about who we really are \u2013 and how this deluge of data will transform the science of human behaviour.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007494422"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007494424"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qtZzAwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qtZzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qtZzAwAAQBAJ&dq=intitle:%22Dataclysm%22+inauthor:%22Christian+Rudder%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qtZzAwAAQBAJ&dq=intitle:%22Dataclysm%22+inauthor:%22Christian+Rudder%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dataclysm_Who_We_Are_When_We_Think_No_On.html?hl=&id=qtZzAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qtZzAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An irreverent, provocative, and visually fascinating look at what our online lives reveal about who we really are \u2013 and how this deluge of data will transform the science of human behaviour."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-xEcAwAAQBAJ",
+      "etag": "Cx+AysF71Fw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-xEcAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dataclysm",
+        "subtitle": "Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selves",
+        "authors": [
+          "Christian Rudder"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2014-09-09",
+        "description": "A New York Times Bestseller An audacious, irreverent investigation of human behavior\u2014and a first look at a revolution in the making Our personal data has been used to spy on us, hire and fire us, and sell us stuff we don\u2019t need. In Dataclysm, Christian Rudder uses it to show us who we truly are. For centuries, we\u2019ve relied on polling or small-scale lab experiments to study human behavior. Today, a new approach is possible. As we live more of our lives online, researchers can finally observe us directly, in vast numbers, and without filters. Data scientists have become the new demographers. In this daring and original book, Rudder explains how Facebook \"likes\" can predict, with surprising accuracy, a person\u2019s sexual orientation and even intelligence; how attractive women receive exponentially more interview requests; and why you must have haters to be hot. He charts the rise and fall of America\u2019s most reviled word through Google Search and examines the new dynamics of collaborative rage on Twitter. He shows how people express themselves, both privately and publicly. What is the least Asian thing you can say? Do people bathe more in Vermont or New Jersey? What do black women think about Simon & Garfunkel? (Hint: they don\u2019t think about Simon & Garfunkel.) Rudder also traces human migration over time, showing how groups of people move from certain small towns to the same big cities across the globe. And he grapples with the challenge of maintaining privacy in a world where these explorations are possible. Visually arresting and full of wit and insight, Dataclysm is a new way of seeing ourselves\u2014a brilliant alchemy, in which math is made human and numbers become the narrative of our time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385347389"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385347383"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-xEcAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-xEcAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-xEcAwAAQBAJ&printsec=frontcover&dq=intitle:%22Dataclysm%22+inauthor:%22Christian+Rudder%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-xEcAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-xEcAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-xEcAwAAQBAJ&rdid=book--xEcAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Dataclysm-sample-epub.acsm?id=-xEcAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-xEcAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Dataclysm, Christian Rudder uses it to show us who we truly are. For centuries, we\u2019ve relied on polling or small-scale lab experiments to study human behavior. Today, a new approach is possible."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6vbOoAEACAAJ",
+      "etag": "9OmkhJrtWas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6vbOoAEACAAJ",
+      "volumeInfo": {
+        "title": "Dataclysm",
+        "subtitle": "What Our Online Lives Tell Us about Our Offline Selves",
+        "authors": [
+          "Christian Rudder"
+        ],
+        "publisher": "Fourth Estate",
+        "publishedDate": "2016-04-07",
+        "description": "An irreverent, provocative, and visually fascinating look at what our online lives reveal about who we really are - and how this deluge of data will transform the science of human behaviour.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0007494432"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007494439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6vbOoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6vbOoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6vbOoAEACAAJ&dq=intitle:%22Dataclysm%22+inauthor:%22Christian+Rudder%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6vbOoAEACAAJ&dq=intitle:%22Dataclysm%22+inauthor:%22Christian+Rudder%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dataclysm.html?hl=&id=6vbOoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6vbOoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In &#39;Dataclysm&#39;, Christian Rudder, founder of one of the world&#39;s biggest dating websites OkCupid, puts this flood of information to an entirely different use: understanding human nature."
+      }
+    }
+  ]
+}

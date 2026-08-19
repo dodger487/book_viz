@@ -1,0 +1,50 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The key to living well in a high tech world is to spend much less time using technology.\r\n\r\nIn recent years, our culture's relationship with personal technology has transformed from something exciting into something darker. Innovations like smartphones and social media are useful, but many of us are increasingly troubled by how much control these tools seem to exert over our daily experiences \u2013 including how we spend our free time and how we feel about ourselves.\r\n\r\nIn Digital Minimalism, Newport proposes a bold solution: a minimalist approach to technology use in which you radically reduce the time you spend online, focusing on a small set of carefully-selected activities while happily ignoring the rest."
+  },
+  "subjects": [
+    "Information technology",
+    "Internet addiction",
+    "Technological innovations",
+    "Internet, social aspects",
+    "Technology, social aspects",
+    "nyt:advice-how-to-and-miscellaneous=2019-02-24",
+    "New York Times bestseller",
+    "Social aspects",
+    "BUSINESS & ECONOMICS / Personal Success",
+    "SELF-HELP / Personal Growth / Success",
+    "TECHNOLOGY & ENGINEERING / Social Aspects"
+  ],
+  "key": "/works/OL19541830W",
+  "title": "Digital Minimalism",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2853212A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8507540,
+    8572415,
+    10174401,
+    10840178
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-04-04T22:14:51.820751"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-03-29T14:52:53.921392"
+  }
+}

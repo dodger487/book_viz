@@ -1,0 +1,43 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6573124A",
+        "OL2830015A",
+        "OL9110936A",
+        "OL9083073A",
+        "OL7969667A"
+      ],
+      "author_name": [
+        "\u6751\u7530\u6c99\u8036\u9999",
+        "Nancy Wu",
+        "Mathilde Tamae-Bouhon",
+        "Albert Nolla Cabellos",
+        "Marina Bornas Monta\u00f1a"
+      ],
+      "cover_i": 9315164,
+      "ebook_access": "no_ebook",
+      "edition_count": 16,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL19744024W",
+      "language": [
+        "ita",
+        "fre",
+        "cat",
+        "arm",
+        "eng",
+        "tur"
+      ],
+      "public_scan_b": false,
+      "title": "Convenience store woman"
+    }
+  ]
+}

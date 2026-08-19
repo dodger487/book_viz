@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Kevin Kwan",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kevin Kwan</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q20948755",
+  "titles": {
+    "canonical": "Kevin_Kwan",
+    "normalized": "Kevin Kwan",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kevin Kwan</span></span>"
+  },
+  "pageid": 46419349,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Author_Kevin_Kwan_speaks_about_his_new_book%2C_%22Lies_and_Weddings%2C%22_with_Library_literary_director_Clay_Smith%2C_June_6%2C_2024_%28cropped%29.jpg/330px-Author_Kevin_Kwan_speaks_about_his_new_book%2C_%22Lies_and_Weddings%2C%22_with_Library_literary_director_Clay_Smith%2C_June_6%2C_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Author_Kevin_Kwan_speaks_about_his_new_book%2C_%22Lies_and_Weddings%2C%22_with_Library_literary_director_Clay_Smith%2C_June_6%2C_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1720,
+    "height": 2291
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363268076",
+  "tid": "fee8f832-7b40-11f1-93e1-3e189814fcf4",
+  "timestamp": "2026-07-09T02:50:51Z",
+  "description": "Singaporean novelist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Kevin_Kwan",
+      "revisions": "https://en.wikipedia.org/wiki/Kevin_Kwan?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Kevin_Kwan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kevin_Kwan"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Kevin_Kwan",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Kevin_Kwan",
+      "edit": "https://en.wikipedia.org/wiki/Kevin_Kwan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kevin_Kwan"
+    }
+  },
+  "extract": "Kevin Kwan is a Singaporean-born American novelist and writer of satirical novels Crazy Rich Asians, China Rich Girlfriend, and Rich People Problems. His latest book, Lies and Weddings, was released in June 2024.",
+  "extract_html": "<p><b>Kevin Kwan</b> is a Singaporean-born American novelist and writer of satirical novels <i>Crazy Rich Asians</i>, <i>China Rich Girlfriend</i>, and <i>Rich People Problems</i>. His latest book, <i>Lies and Weddings</i>, was released in June 2024.</p>"
+}

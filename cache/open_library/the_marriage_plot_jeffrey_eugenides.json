@@ -1,0 +1,81 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL720924A"
+      ],
+      "author_name": [
+        "Jeffrey Eugenides"
+      ],
+      "cover_edition_key": "OL28180755M",
+      "cover_i": 10117650,
+      "ebook_access": "borrowable",
+      "edition_count": 23,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "latramadelmatrim0000euge",
+        "leromandumariage0000euge",
+        "dieliebeshandlun0000jeff",
+        "latramanupcial1e0000unse",
+        "marriageplot0004euge",
+        "marriageplot0000euge_p6t8",
+        "marriageplotnove00jeff",
+        "marriageplot0000euge_2011",
+        "marriageplot00euge_0"
+      ],
+      "ia_collection": [
+        "cnusd-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "salisburyfreelibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "unb-ol",
+        "uni-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL16099125W",
+      "language": [
+        "eng",
+        "por",
+        "ger",
+        "spa",
+        "ita",
+        "fre"
+      ],
+      "lending_edition_s": "OL39196576M",
+      "lending_identifier_s": "latramadelmatrim0000euge",
+      "public_scan_b": false,
+      "title": "The Marriage Plot"
+    },
+    {
+      "author_key": [
+        "OL720924A"
+      ],
+      "author_name": [
+        "Jeffrey Eugenides"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL44138967W",
+      "public_scan_b": false,
+      "title": "The Marriage Plot"
+    }
+  ]
+}

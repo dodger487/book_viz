@@ -1,0 +1,96 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1393502A"
+      ],
+      "author_name": [
+        "Chimamanda Ngozi Adichie"
+      ],
+      "cover_edition_key": "OL25428864M",
+      "cover_i": 8474037,
+      "ebook_access": "printdisabled",
+      "edition_count": 58,
+      "first_publish_year": 1969,
+      "has_fulltext": true,
+      "ia": [
+        "americanah0000adic_a7u3",
+        "americanah0000adic_e9z3",
+        "americanah0000adic_a5z1",
+        "americanah0000adic_y0o9",
+        "americanah0000adic_n3f2",
+        "americanah0000adic_u9q4",
+        "americanah0000adic_o4z3",
+        "americanah0000unse",
+        "americanah0000adic",
+        "americanah00chim"
+      ],
+      "ia_collection": [
+        "1000blackgirlbooks",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "marymount-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "stmaryscountylibrary",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL16805415W",
+      "language": [
+        "eng",
+        "dut",
+        "hrv",
+        "tur",
+        "jpn",
+        "fre",
+        "spa",
+        "rus"
+      ],
+      "public_scan_b": false,
+      "title": "Americanah"
+    },
+    {
+      "author_key": [
+        "OL1393502A"
+      ],
+      "author_name": [
+        "Chimamanda Ngozi Adichie"
+      ],
+      "cover_edition_key": "OL42407553M",
+      "cover_i": 13286449,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL25172750W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Half of a Yellow Sun, Americanah, Purple Hibiscus"
+    }
+  ]
+}

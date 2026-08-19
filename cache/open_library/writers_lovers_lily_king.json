@@ -1,0 +1,49 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL24473A"
+      ],
+      "author_name": [
+        "Lily King"
+      ],
+      "cover_edition_key": "OL27922883M",
+      "cover_i": 9286143,
+      "ebook_access": "no_ebook",
+      "edition_count": 9,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL20649931W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Writers & Lovers"
+    },
+    {
+      "author_key": [
+        "OL16028354A"
+      ],
+      "author_name": [
+        "Lily King"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44561387W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Writers and Lovers"
+    }
+  ]
+}

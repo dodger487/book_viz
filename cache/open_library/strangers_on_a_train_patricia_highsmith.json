@@ -1,0 +1,88 @@
+{
+  "numFound": 5,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 5,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL28577A"
+      ],
+      "author_name": [
+        "Patricia Highsmith"
+      ],
+      "cover_edition_key": "OL3945908M",
+      "cover_i": 250171,
+      "ebook_access": "borrowable",
+      "edition_count": 37,
+      "first_publish_year": 1950,
+      "has_fulltext": true,
+      "ia": [
+        "neznakomtsyvpoez0000high",
+        "linconnudunordex0000high_f2q7",
+        "strangersontrain0000patr",
+        "strangersontrain0000high",
+        "strangersontrain00high_0"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL59482W",
+      "language": [
+        "ger",
+        "tur",
+        "eng",
+        "ita",
+        "rus",
+        "fre"
+      ],
+      "lending_edition_s": "OL39485008M",
+      "lending_identifier_s": "neznakomtsyvpoez0000high",
+      "public_scan_b": false,
+      "title": "Strangers On a Train"
+    },
+    {
+      "author_key": [
+        "OL28577A"
+      ],
+      "author_name": [
+        "Patricia Highsmith"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL34652485W",
+      "public_scan_b": false,
+      "title": "Strangers on a train"
+    },
+    {
+      "author_key": [
+        "OL3390998A",
+        "OL28577A"
+      ],
+      "author_name": [
+        "Craig Warner",
+        "Patricia Highsmith"
+      ],
+      "cover_edition_key": "OL10642859M",
+      "cover_i": 12098832,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL26142856W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Strangers on a Train Play (French's Acting Edition)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+name: Sync new books
+
+# Checks the reading-tracker Google Sheet (published CSV of the Books
+# tab) for rows not yet in data/books.csv. If there are none, the job
+# exits early and costs nothing. If there are, it fetches metadata/tags/
+# embeddings for JUST those new books (scripts 1-4 already skip anything
+# already cached) and rebuilds the plot, then commits the result.
+#
+# This never deploys to Netlify -- it only commits to `main`. Netlify's
+# auto-deploy-on-push is intentionally disabled for this repo (see
+# README), so the live site only updates when a deploy is run by hand.
+
+on:
+  schedule:
+    - cron: "0 13 * * 1" # every Monday, 13:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Check the sheet for new books
+        env:
+          BOOKS_SHEET_CSV_URL: ${{ secrets.BOOKS_SHEET_CSV_URL }}
+        run: |
+          pip install requests
+          python scripts/00_sync_books.py
+
+      - name: Decide whether there's anything to do
+        id: diff
+        run: |
+          if git diff --quiet -- data/books.csv; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install pipeline dependencies
+        if: steps.diff.outputs.changed == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Fetch metadata for new books
+        if: steps.diff.outputs.changed == 'true'
+        run: python scripts/01_fetch_metadata.py
+
+      - name: Merge metadata
+        if: steps.diff.outputs.changed == 'true'
+        run: python scripts/02_extract_metadata.py
+
+      - name: Generate tags for new books
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/03_generate_tags.py
+
+      - name: Embed new books
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/04_generate_embeddings.py --provider openai --text-variant v2 --model text-embedding-3-large
+
+      - name: Rebuild the plot
+        if: steps.diff.outputs.changed == 'true'
+        run: python scripts/05_visualize.py
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/books.csv data/book_metadata.json data/book_tags.json \
+                  data/embedding_input_v2.json data/embeddings_openai_v2.npz \
+                  cache/ output/
+          git commit -m "Sync new books from reading list"
+          git push

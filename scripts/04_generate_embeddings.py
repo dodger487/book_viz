@@ -15,6 +15,15 @@ variant or provider never overwrites another's output. Script 5
 auto-discovers every embeddings_*.npz file and lets you compare all of
 them (any provider x any variant) in the interactive plot.
 
+Incremental by default: if data/embeddings_<provider>_<variant>.npz
+already exists (and matches the requested model/variant), only books
+missing from it are actually sent to the embedding API -- the rest are
+carried over from the existing file untouched. This is what makes the
+scheduled sync (scripts/00_sync_books.py + CI) cheap: adding one new book
+re-embeds one book, not the whole library. Pass --refresh to force a full
+re-embed (e.g. after changing what the text variant produces for existing
+books).
+
 Output:
   data/embedding_input_<variant>.json      - constructed text per book (for inspection)
   data/embeddings_<provider>_<variant>.npz - slugs[]/embeddings[]/provider/model/variant
@@ -180,6 +189,7 @@ def main():
     parser.add_argument("--provider", choices=PROVIDERS, default="local")
     parser.add_argument("--model", default=None, help="override the provider's default model name")
     parser.add_argument("--text-variant", choices=TEXT_VARIANTS, default="v1")
+    parser.add_argument("--refresh", action="store_true", help="re-embed every book, ignoring any cached embeddings")
     args = parser.parse_args()
 
     if not METADATA_JSON.exists():
@@ -215,14 +225,31 @@ def main():
 
     provider_cls = PROVIDERS[args.provider]
     model_name = args.model or provider_cls.default_model
-    provider = provider_cls(model_name)
+    out_path = embeddings_path(args.provider, args.text_variant)
 
-    print(f"Embedding {len(records)} texts with provider={args.provider}, model={model_name}...")
-    embeddings = provider.embed([r["text"] for r in records])
+    cached_by_slug = {}
+    if out_path.exists() and not args.refresh:
+        npz = np.load(out_path, allow_pickle=True)
+        if str(npz["model"]) == model_name and str(npz["text_variant"]) == args.text_variant:
+            cached_by_slug = dict(zip(npz["slugs"].tolist(), npz["embeddings"]))
+        else:
+            print(f"  ({out_path.name} was built with a different model/variant -- ignoring cache, full re-embed)")
+
+    to_embed = [r for r in records if r["slug"] not in cached_by_slug]
+    print(
+        f"Embedding {len(to_embed)} new text(s) (of {len(records)} total, "
+        f"{len(records) - len(to_embed)} already cached) with provider={args.provider}, model={model_name}..."
+    )
+    if to_embed:
+        provider = provider_cls(model_name)
+        new_vectors = provider.embed([r["text"] for r in to_embed])
+        for r, vec in zip(to_embed, new_vectors):
+            cached_by_slug[r["slug"]] = vec
+
+    embeddings = np.array([cached_by_slug[r["slug"]] for r in records])
     print(f"Got embeddings with shape {embeddings.shape}")
 
     slugs = np.array([r["slug"] for r in records])
-    out_path = embeddings_path(args.provider, args.text_variant)
     np.savez(
         out_path,
         slugs=slugs,

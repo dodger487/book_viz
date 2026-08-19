@@ -1,0 +1,43 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Getting It Done",
+  "subjects": [
+    "Leadership",
+    "Teams in the workplace",
+    "Interpersonal communication"
+  ],
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL220090A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2891679A"
+      }
+    }
+  ],
+  "covers": [
+    684333
+  ],
+  "key": "/works/OL26481442W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-12-25T13:21:19.695990"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-06T03:24:24.523589"
+  }
+}

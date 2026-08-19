@@ -1,0 +1,34 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "I Have Some Questions for You",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6945312A"
+      }
+    }
+  ],
+  "key": "/works/OL28130255W",
+  "subjects": [
+    "nyt:combined-print-and-e-book-fiction=2023-03-12",
+    "New York Times bestseller"
+  ],
+  "covers": [
+    13264157
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-06-19T15:32:27.099011"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-06-02T01:03:38.617434"
+  }
+}

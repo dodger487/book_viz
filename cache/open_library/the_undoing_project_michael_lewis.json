@@ -1,0 +1,43 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL383719A",
+        "OL2750954A",
+        "OL7373397A"
+      ],
+      "author_name": [
+        "Michael Lewis",
+        "Dennis Boutsikaris",
+        "Michael Lewis"
+      ],
+      "cover_edition_key": "OL26887677M",
+      "cover_i": 9595637,
+      "ebook_access": "printdisabled",
+      "edition_count": 15,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "undoingprojectfr0000lewi_b6h0",
+        "undoingprojectfr0000lewi_h8e0"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19669285W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The undoing project"
+    }
+  ]
+}

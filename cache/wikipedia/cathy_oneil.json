@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cathy O'Neil",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cathy O&#039;Neil</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16499729",
+  "titles": {
+    "canonical": "Cathy_O'Neil",
+    "normalized": "Cathy O'Neil",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cathy O&#039;Neil</span></span>"
+  },
+  "pageid": 40066499,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cathy_O%27Neil_at_Google_Cambridge.jpg/330px-Cathy_O%27Neil_at_Google_Cambridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 451
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cathy_O%27Neil_at_Google_Cambridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1518,
+    "height": 2075
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365746839",
+  "tid": "2421613e-8722-11f1-b4a2-ea0b23bf09d6",
+  "timestamp": "2026-07-24T05:40:13Z",
+  "description": "American mathematician",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cathy_O'Neil",
+      "revisions": "https://en.wikipedia.org/wiki/Cathy_O'Neil?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cathy_O'Neil?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cathy_O'Neil"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Cathy_O'Neil",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Cathy_O'Neil",
+      "edit": "https://en.wikipedia.org/wiki/Cathy_O'Neil?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cathy_O'Neil"
+    }
+  },
+  "extract": "Catherine Helen O'Neil is an American mathematician, data scientist, and author. She is the author of the New York Times best-seller Weapons of Math Destruction, and opinion columns in Bloomberg View. O'Neil was active in the Occupy movement.",
+  "extract_html": "<p><b>Catherine Helen O'Neil</b> is an American mathematician, data scientist, and author. She is the author of the <i>New York Times</i> best-seller <i>Weapons of Math Destruction</i>, and opinion columns in Bloomberg View. O'Neil was active in the Occupy movement.</p>"
+}

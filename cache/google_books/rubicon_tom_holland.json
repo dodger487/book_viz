@@ -1,0 +1,243 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "B_VdAlX0XNwC",
+      "etag": "8XWvoqPP1DI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B_VdAlX0XNwC",
+      "volumeInfo": {
+        "title": "Rubicon",
+        "subtitle": "The Last Years of the Roman Republic",
+        "authors": [
+          "Tom Holland"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2007-12-18",
+        "description": "From Tom Holland, co-host of the hit podcast THE REST IS HISTORY, a vivid historical account of the social world of Rome as it moved from republic to empire. \u201cA fascinating picture of Roman city life. . . . In every aspect of this story, Holland expertly makes the Romans, so alien and yet so familiar, relevant to us.\u201d \u2013Los Angeles Times \u201cStunning. . . . Holland keeps his narrative moving at chariot-race speed.\u201d \u2013Newsday In 49 B.C., the seven hundred fifth year since the founding of Rome, Julius Caesar crossed a small border river called the Rubicon and plunged Rome into cataclysmic civil war. Tom Holland\u2019s enthralling account tells the story of Caesar\u2019s generation, witness to the twilight of the Republic and its bloody transformation into an empire. From Cicero, Spartacus, and Brutus, to Cleopatra, Virgil, and Augustus, here are some of the most legendary figures in history brought thrillingly to life. Combining verve and freshness with scrupulous scholarship, Rubicon is not only an engrossing history of this pivotal era but a uniquely resonant portrait of a great civilization in all its extremes of self-sacrifice and rivalry, decadence and catastrophe, intrigue, war, and world-shaking ambition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307427519"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "030742751X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.9.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B_VdAlX0XNwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B_VdAlX0XNwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B_VdAlX0XNwC&printsec=frontcover&dq=intitle:%22Rubicon%22+inauthor:%22Tom+Holland%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B_VdAlX0XNwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B_VdAlX0XNwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B_VdAlX0XNwC&rdid=book-B_VdAlX0XNwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Rubicon-sample-epub.acsm?id=B_VdAlX0XNwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Rubicon-sample-pdf.acsm?id=B_VdAlX0XNwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B_VdAlX0XNwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . In every aspect of this story, Holland expertly makes the Romans, so alien and yet so familiar, relevant to us.\u201d\u2014Los Angeles Times \u201cStunning . . ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GG3xMwEACAAJ",
+      "etag": "D/vshTP+4/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GG3xMwEACAAJ",
+      "volumeInfo": {
+        "title": "Rubicon",
+        "subtitle": "The Triumph and Tragedy of the Roman Republic",
+        "authors": [
+          "Tom Holland"
+        ],
+        "publisher": "Abacus",
+        "publishedDate": "2013-04-01",
+        "description": "The Roman Republic was the most remarkable state in history. What began as a small community of peasants camped among marshes and hills ended up ruling the known world. Rubicon paints a vivid portrait of the Republic at the climax of its greatness - the same greatness which would herald the catastrophe of its fall. It is a story of incomparable drama. This was the century of Julius Caesar, the gambler whose addiction to glory led him to the banks of the Rubicon, and beyond; of Cicero, whose defence of freedom would make him a byword for eloquence; of Spartacus, the slave who dared to challenge a superpower; of Cleopatra, the queen who did the same. Tom Holland brings to life this strange and unsettling civilization, with its extremes of ambition and self-sacrifice, bloodshed and desire. Yet alien as it was, the Republic still holds up a mirror to us. Its citizens were obsessed by celebrity chefs, all-night dancing and exotic pets; they fought elections in law courts and were addicted to spin; they toppled foreign tyrants in the name of self-defence. Two thousand years may have passed, but we remain the Romans' heirs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0349138958"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349138954"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+          "Rome"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GG3xMwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GG3xMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GG3xMwEACAAJ&dq=intitle:%22Rubicon%22+inauthor:%22Tom+Holland%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GG3xMwEACAAJ&dq=intitle:%22Rubicon%22+inauthor:%22Tom+Holland%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rubicon.html?hl=&id=GG3xMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GG3xMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tom Holland&#39;s bestselling narrative history book about the rise and fall of the Roman Empire is being reissued with a new cover alongside other classic titles from the Abacus list in our 40th Anniversary year."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TyQ-PgAACAAJ",
+      "etag": "7+LIRLveh7k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TyQ-PgAACAAJ",
+      "volumeInfo": {
+        "title": "Rubicon",
+        "authors": [
+          "Tom Holland",
+          "Andrew Sachs"
+        ],
+        "publisher": "Little, Brown Young Readers",
+        "publishedDate": "2007-10-01",
+        "description": "The Roman Republic was the most remarkable state in history. What began as a small community of peasants camped among marshes and hills ended up ruling the known world. Rubicon paints a vivid portrait of the Republic at the climax of its greatness - the same greatness which would herald the catastrophe of its fall.It is a story of incomparable drama. This was the century of Julius Caesar, the gambler whose addiction to glory led him to the banks of the Rubicon, and beyond; of Cicero, whose defence of freedom would make him a byword for eloquence; of Spartacus, the slave who dared to challenge a superpower; of Cleopatra, the queen who did the same.Tom Holland brings to life this strange and unsettling civilization, with its extremes of ambition and self-sacrifice, bloodshed and desire. Yet alien as it was, the Republic still holds up a mirror to us. Its citizens were obsessed by celebrity chefs, all-night dancing and exotic pets; they fought elections in law courts and were addicted to spin; they toppled foreign tyrants in the name of self-defence. Two thousand years may have passed, but we remain the Romans' heirs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1405503599"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405503594"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TyQ-PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TyQ-PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TyQ-PgAACAAJ&dq=intitle:%22Rubicon%22+inauthor:%22Tom+Holland%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TyQ-PgAACAAJ&dq=intitle:%22Rubicon%22+inauthor:%22Tom+Holland%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rubicon.html?hl=&id=TyQ-PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TyQ-PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This was the century of Julius Caesar, the gambler whose addiction to glory led him to the banks of the Rubicon, and beyond; of Cicero, whose defence of freedom would make him a byword for eloquence; of Spartacus, the slave who dared to ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tom Holland",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Holland</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2023710",
+  "titles": {
+    "canonical": "Tom_Holland",
+    "normalized": "Tom Holland",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Holland</span></span>"
+  },
+  "pageid": 26763420,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TomHolland-byPhilipRomano.jpg/330px-TomHolland-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 496
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TomHolland-byPhilipRomano.jpg/3840px-TomHolland-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 4024,
+    "height": 6048
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368510141",
+  "tid": "8f438357-93f6-11f1-bc5d-b47ab3d476d5",
+  "timestamp": "2026-08-09T13:31:00Z",
+  "description": "British actor (born 1996)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tom_Holland",
+      "revisions": "https://en.wikipedia.org/wiki/Tom_Holland?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tom_Holland?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Holland"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tom_Holland",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tom_Holland",
+      "edit": "https://en.wikipedia.org/wiki/Tom_Holland?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Holland"
+    }
+  },
+  "extract": "Thomas Stanley Holland is a British actor known for his work in a diverse range of genres. His accolades include a BAFTA Award as well as two Critics' Choice Awards nominations. Holland's films as a leading actor have grossed over $13.1 billion worldwide, making him one of the highest-grossing actors of all time. He was featured on the Forbes 30 Under 30 Europe list of 2019.",
+  "extract_html": "<p><b>Thomas Stanley Holland</b> is a British actor known for his work in a diverse range of genres. His accolades include a BAFTA Award as well as two Critics' Choice Awards nominations. Holland's films as a leading actor have grossed over $13.1 billion worldwide, making him one of the highest-grossing actors of all time. He was featured on the <span><i>Forbes</i> 30 Under 30 Europe</span> list of 2019.</p>"
+}

@@ -1,0 +1,246 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RJVuEAAAQBAJ",
+      "etag": "GuGT+YkUel4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RJVuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "I Have Some Questions for You",
+        "subtitle": "A Novel",
+        "authors": [
+          "Rebecca Makkai"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2023-02-21",
+        "description": "A NEW YORK TIMES BESTSELLER Named a Best Book of 2023 by The Washington Post, People, USA Today, NPR, Esquire, Good Housekeeping, Real Simple, The Boston Globe, CrimeReads and more \u201cA twisty, immersive whodunit perfect for fans of Donna Tartt\u2019s The Secret History.\u201d \u2014People \"Spellbinding.\" \u2014The New York Times Book Review \"[An] irresistible literary page-turner.\" \u2014The Boston Globe The riveting new novel \u2014 \"part true-crime page-turner, part campus coming-of-age\" (San Francisco Chronicle) \u2014 from the author of the Pulitzer Prize and National Book Award finalist The Great Believers A successful film professor and podcaster, Bodie Kane is content to forget her past\u2014the family tragedy that marred her adolescence, her four largely miserable years at a New Hampshire boarding school, and the murder of her former roommate, Thalia Keith, in the spring of their senior year. Though the circumstances surrounding Thalia\u2019s death and the conviction of the school\u2019s athletic trainer, Omar Evans, are hotly debated online, Bodie prefers\u2014needs\u2014to let sleeping dogs lie. But when the Granby School invites her back to teach a course, Bodie is inexorably drawn to the case and its increasingly apparent \ufb02aws. In their rush to convict Omar, did the school and the police overlook other suspects? Is the real killer still out there? As she falls down the very rabbit hole she was so determined to avoid, Bodie begins to wonder if she wasn\u2019t as much of an outsider at Granby as she\u2019d thought\u2014if, perhaps, back in 1995, she knew something that might have held the key to solving the case. In I Have Some Questions for You, award-winning author Rebecca Makkai has crafted her most irresistible novel yet: a stirring investigation into collective memory and a deeply felt examination of one woman\u2019s reckoning with her past, with a trans\ufb01xing mystery at its heart. Timely, hypnotic, and populated with a cast of unforgettable characters, I Have Some Questions for You is at once a compulsive page-turner and a literary triumph.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593490150"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593490150"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RJVuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RJVuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RJVuEAAAQBAJ&printsec=frontcover&dq=intitle:%22I+Have+Some+Questions+For+You%22+inauthor:%22Rebecca+Makkai%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RJVuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RJVuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RJVuEAAAQBAJ&rdid=book-RJVuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/I_Have_Some_Questions_for_You-sample-epub.acsm?id=RJVuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RJVuEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A NEW YORK TIMES BESTSELLER Named a Best Book of 2023 by The Washington Post, People, USA Today, NPR, Esquire, Good Housekeeping, Real Simple, The Boston Globe, CrimeReads and more \u201cA twisty, immersive whodunit perfect for fans of Donna ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xnlz0QEACAAJ",
+      "etag": "jqzGYwGWWAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xnlz0QEACAAJ",
+      "volumeInfo": {
+        "title": "I Have Some Questions for You",
+        "authors": [
+          "Rebecca Makkai"
+        ],
+        "publishedDate": "2025-02-26",
+        "description": "Korean edition of [I Have Some Questions for You] by Rebecca Makkai. A NEW YORK TIMES BESTSELLER. The riveting new novel from the author of the Pulitzer Prize and National Book Award finalist [The Great Believers]. The author has crafted her most irresistible novel yet: a stirring investigation into collective memory and a deeply felt examination of one woman's reckoning with her past, with a trans\ufb01xing mystery at its heart. Korean edition translated by Eun Ah Joh.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791170525646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xnlz0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xnlz0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.com/books?id=Xnlz0QEACAAJ&dq=intitle:%22I+Have+Some+Questions+For+You%22+inauthor:%22Rebecca+Makkai%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Xnlz0QEACAAJ&dq=intitle:%22I+Have+Some+Questions+For+You%22+inauthor:%22Rebecca+Makkai%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Have_Some_Questions_for_You.html?hl=&id=Xnlz0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xnlz0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Korean edition of [I Have Some Questions for You] by Rebecca Makkai. A NEW YORK TIMES BESTSELLER. The riveting new novel from the author of the Pulitzer Prize and National Book Award finalist [The Great Believers]."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XMCGEAAAQBAJ",
+      "etag": "iAUAbNvC4YQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XMCGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "I Have Some Questions For You",
+        "subtitle": "'A perfect crime' NEW YORKER",
+        "authors": [
+          "Rebecca Makkai"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2023-02-23",
+        "description": "'Whip-smart and uncompromising' NEW YORK TIMES BOOK REVIEW 'Quietly riveting' IRISH TIMES 'It's the perfect crime' NEW YORKER 'Impressive and complex' GUARDIAN 'Addictive' OPRAH DAILY The riveting new novel from the author of The Great Believers, finalist for the Pulitzer Prize and the National Book Award A successful film professor and podcaster, Bodie Kane is content to forget her past: the family tragedy that marred her adolescence, her four largely miserable years at a New Hampshire boarding school, and the 1995 murder of a classmate, Thalia Keith. Though the circumstances surrounding Thalia's death and the conviction of the school's athletics coach, Omar Evans, are the subject of intense fascination online, Bodie prefers-needs-to let sleeping dogs lie. But when The Granby School invites her back to teach a two-week course, Bodie finds herself inexorably drawn to the case and its increasingly apparent flaws. In their rush to convict Omar, did the school and the police overlook other suspects? Is the real killer still out there? As she falls down the very rabbit hole she was so determined to avoid, Bodie begins to wonder if she wasn't as much of an outsider at Granby as she'd thought-if, perhaps, back in 1995, she knew something that might have held the key to solving the case. One of the most acclaimed contemporary American writers, Rebecca Makkai reinvents herself with each of her brilliant novels. Both a transfixing mystery and a deeply felt examination of one woman's reckoning with her past, I Have Some Questions for You is her finest achievement yet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349727226"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0349727228"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 485,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XMCGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XMCGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XMCGEAAAQBAJ&dq=intitle:%22I+Have+Some+Questions+For+You%22+inauthor:%22Rebecca+Makkai%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XMCGEAAAQBAJ&dq=intitle:%22I+Have+Some+Questions+For+You%22+inauthor:%22Rebecca+Makkai%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Have_Some_Questions_For_You.html?hl=&id=XMCGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XMCGEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Whip-smart and uncompromising&#39; NEW YORK TIMES BOOK REVIEW &#39;Quietly riveting&#39; IRISH TIMES &#39;It&#39;s the perfect crime&#39; NEW YORKER &#39;Impressive and complex&#39; GUARDIAN &#39;Addictive&#39; OPRAH DAILY The riveting new novel from the author of The Great ..."
+      }
+    }
+  ]
+}

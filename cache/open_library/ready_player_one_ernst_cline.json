@@ -1,0 +1,85 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6941868A"
+      ],
+      "author_name": [
+        "Ernest Cline"
+      ],
+      "cover_edition_key": "OL27097855M",
+      "cover_i": 8737626,
+      "ebook_access": "printdisabled",
+      "edition_count": 40,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "readyplayerone0000clin_l5h4",
+        "readyplayerone00clin"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15936512W",
+      "language": [
+        "heb",
+        "srp",
+        "eng",
+        "por",
+        "lit",
+        "cat",
+        "spa",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Ready Player One"
+    },
+    {
+      "author_key": [
+        "OL6941868A"
+      ],
+      "author_name": [
+        "Ernest Cline"
+      ],
+      "cover_edition_key": "OL26790013M",
+      "cover_i": 8443283,
+      "ebook_access": "unclassified",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "ia": [
+        "readyplayerone0000clin"
+      ],
+      "key": "/works/OL19331965W",
+      "language": [
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Novel",
+      "title": "Ready Player One (Movie Tie-In)"
+    },
+    {
+      "author_key": [
+        "OL6941868A"
+      ],
+      "author_name": [
+        "Ernest Cline"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45399027W",
+      "public_scan_b": false,
+      "title": "Ready Player One: The Graphic Novel"
+    }
+  ]
+}

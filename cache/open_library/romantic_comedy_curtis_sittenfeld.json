@@ -1,0 +1,49 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL10852038A"
+      ],
+      "author_name": [
+        "Curtis Sittenfeld"
+      ],
+      "cover_edition_key": "OL41597723M",
+      "cover_i": 13305330,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL30259343W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Romantic Comedy"
+    },
+    {
+      "author_key": [
+        "OL1392897A"
+      ],
+      "author_name": [
+        "Curtis Sittenfeld"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL28628007W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Romantic Comedy"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xpJHDAAAQBAJ",
+      "etag": "iEYSkH89C+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xpJHDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Undoing Project",
+        "subtitle": "A Friendship That Changed Our Minds",
+        "authors": [
+          "Michael Lewis"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2016-12-06",
+        "description": "\u201cBrilliant. . . . Lewis has given us a spectacular account of two great men who faced up to uncertainty and the limits of human reason.\u201d \u2014William Easterly, Wall Street Journal Forty years ago, Israeli psychologists Daniel Kahneman and Amos Tversky wrote a series of breathtakingly original papers that invented the field of behavioral economics. One of the greatest partnerships in the history of science, Kahneman and Tversky\u2019s extraordinary friendship incited a revolution in Big Data studies, advanced evidence-based medicine, led to a new approach to government regulation, and made much of Michael Lewis\u2019s own work possible. In The Undoing Project, Lewis shows how their Nobel Prize\u2013winning theory of the mind altered our perception of reality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393254600"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393254607"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.33.30.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xpJHDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xpJHDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xpJHDAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Undoing+Project%22+inauthor:%22Michael+Lewis%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xpJHDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xpJHDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.09,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xpJHDAAAQBAJ&rdid=book-xpJHDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17090000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Undoing_Project-sample-epub.acsm?id=xpJHDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xpJHDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The Undoing Project, Lewis shows how their Nobel Prize\u2013winning theory of the mind altered our perception of reality."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sEz8MAAACAAJ",
+      "etag": "ARhvYeTAxnU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sEz8MAAACAAJ",
+      "volumeInfo": {
+        "title": "The Undoing Project",
+        "subtitle": "A Friendship that Changed Our Minds",
+        "authors": [
+          "Michael M. Lewis"
+        ],
+        "publisher": "W. W. Norton",
+        "publishedDate": "2017",
+        "description": "How a Nobel Prize-winning theory of the mind altered our perception of reality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "039363437X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393634372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sEz8MAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sEz8MAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sEz8MAAACAAJ&dq=intitle:%22The+Undoing+Project%22+inauthor:%22Michael+Lewis%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sEz8MAAACAAJ&dq=intitle:%22The+Undoing+Project%22+inauthor:%22Michael+Lewis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Undoing_Project.html?hl=&id=sEz8MAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sEz8MAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How a Nobel Prize-winning theory of the mind altered our perception of reality."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZneREAAAQBAJ",
+      "etag": "I+/p2p8lm5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZneREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Deshaciendo errores / The Undoing Project: A Friendship That Changed Our Minds",
+        "subtitle": "Kahneman, Tversky y la amistad que cambio el mundo",
+        "authors": [
+          "Michael Lewis"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2017-07-25",
+        "description": "Michael Lewis examina en este brillante libro c\u00f3mo la amistad entre David Kahneman y Amos Tversky revolucion\u00f3 radicalmente nuestra manera de entender el funcionamiento de la mente humana. Hace m\u00e1s de cuarenta a\u00f1os, una serie de experimentos totalmente originales de dos j\u00f3venes psic\u00f3logos, Daniel Kahneman y Amos Tversky, desmontaron todas las suposiciones existentes respecto al funcionamiento de la mente humana y la toma de decisiones. Deshaciendo errores es el maravilloso relato de la colaboraci\u00f3n de estos dos hombres de ciencia que bien podr\u00edan ser grandes figuras literarias. H\u00e9roes acad\u00e9micos y b\u00e9licos -ambos tuvieron una importante carrera militar- sus investigaciones estuvieron profundamente ligadas a sus experiencias vitales. Tversky era un personaje brillante, con un magnetismo inusual, confiado y extrovertido; Kahneman, un fugitivo de la represi\u00f3n nazi durante su infancia, era un introvertido que se cuestionaba todo lo que le rodeaba. Su relaci\u00f3n fue tan cercana, que resulta imposible saber de qu\u00e9 mente surgieron qu\u00e9 ideas: son de lejos el d\u00fao m\u00e1s fascinante de la historia de la psicolog\u00eda conductiva. En su estilo habitual, Lewis nos ofrece un libro magistral sobre un tema pionero, explorado a trav\u00e9s de las personalidades de dos asombrosos individuos tan fundamentalmente opuestos que sorprende que llegasen a ser amigos, tan siquiera colegas, pero que en el proceso cambiaron radicalmente la manera de entender c\u00f3mo pensamos y por qu\u00e9 nos equivocamos tan f\u00e1cilmente. Rese\u00f1a: \u00abMichael Lewis es el mejor contador de historia de nuestra generaci\u00f3n.\u00bbMalcolm Gladwell ENGLISH DESCRIPTION How a Nobel Prize\u2013winning theory of the mind altered our perception of reality. Forty years ago, Israeli psychologists Daniel Kahneman and Amos Tversky wrote a series of breathtakingly original studies undoing our assumptions about the decision-making process. Their papers showed the ways in which the human mind erred, systematically, when forced to make judgments in uncertain situations. Their work created the field of behavioral economics, revolutionized Big Data studies, advanced evidencebased medicine, led to a new approach to government regulation, and made much of Michael Lewis\u2019s own work possible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788499927411"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8499927416"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZneREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZneREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=ZneREAAAQBAJ&dq=intitle:%22The+Undoing+Project%22+inauthor:%22Michael+Lewis%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZneREAAAQBAJ&dq=intitle:%22The+Undoing+Project%22+inauthor:%22Michael+Lewis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deshaciendo_errores_The_Undoing_Project.html?hl=&id=ZneREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZneREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michael Lewis examina en este brillante libro c\u00f3mo la amistad entre David Kahneman y Amos Tversky revolucion\u00f3 radicalmente nuestra manera de entender el funcionamiento de la mente humana."
+      }
+    }
+  ]
+}

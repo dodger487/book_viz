@@ -1,0 +1,45 @@
+{
+  "description": "\"The world into which Mycroft and Carlyle have been born is as strange to our 21st-century eyes as ours would be to a native of the 1500s. It is a hard-won utopia built on technologically-generated abundance, and also on complex and mandatory systems of labeling all public writing and speech... And in this world, Mycroft and Carlyle have stumbled on the wild card that may destabilize the system: the boy Bridger, who can effortlessly make his wishes come true. Who can, it would seem, bring inanimate objects to life...\"--Book jacket.",
+  "covers": [
+    8600692,
+    8673756
+  ],
+  "key": "/works/OL19800093W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7475792A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Too Like the Lightning",
+  "subjects": [
+    "Utopias",
+    "Prisoners",
+    "Twenty-fifth century",
+    "Fiction",
+    "Third millennium",
+    "Fiction, science fiction, general",
+    "series:terra_ignota",
+    "Spirituality",
+    "Magic",
+    "Science Fiction",
+    "collection:otherwise_tiptree_award=honor"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-06-23T20:50:30.749828"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-27T04:25:16.848810"
+  }
+}

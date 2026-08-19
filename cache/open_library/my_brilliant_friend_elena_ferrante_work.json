@@ -1,0 +1,52 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "My Brilliant Friend",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL10714950A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL3105889A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL9506134A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "covers": [
+    13772133
+  ],
+  "key": "/works/OL34947113W",
+  "subjects": [
+    "Comics & graphic novels, adaptations",
+    "Comics & graphic novels, historical fiction",
+    "Comics & graphic novels, literary"
+  ],
+  "subtitle": "The Graphic Novel",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-03-26T12:55:59.378110"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-24T16:11:43.968623"
+  }
+}

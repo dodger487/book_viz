@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Cory Doctorow",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cory Doctorow</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q110436",
+  "titles": {
+    "canonical": "Cory_Doctorow",
+    "normalized": "Cory Doctorow",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cory Doctorow</span></span>"
+  },
+  "pageid": 220477,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Re_publica_faces_2019_%2832858497617%29.jpg/330px-Re_publica_faces_2019_%2832858497617%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Re_publica_faces_2019_%2832858497617%29.jpg/3840px-Re_publica_faces_2019_%2832858497617%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 5304,
+    "height": 7952
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367723337",
+  "tid": "79723f28-9041-11f1-81a5-8b87d186dc44",
+  "timestamp": "2026-08-04T20:17:11Z",
+  "description": "Canadian-British writer (born 1971)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Cory_Doctorow",
+      "revisions": "https://en.wikipedia.org/wiki/Cory_Doctorow?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Cory_Doctorow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cory_Doctorow"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Cory_Doctorow",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Cory_Doctorow",
+      "edit": "https://en.wikipedia.org/wiki/Cory_Doctorow?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Cory_Doctorow"
+    }
+  },
+  "extract": "Cory Efram Doctorow is a Canadian-British blogger, journalist, and science fiction author who served as co-editor of the blog Boing Boing. He is an activist in favour of liberalising copyright laws and a proponent of the Creative Commons organisation, using some of its licences for his books. Some common themes of his work include digital rights management, file sharing, and post-scarcity economics.",
+  "extract_html": "<p><b>Cory Efram Doctorow</b> is a Canadian-British blogger, journalist, and science fiction author who served as co-editor of the blog <i>Boing Boing</i>. He is an activist in favour of liberalising copyright laws and a proponent of the Creative Commons organisation, using some of its licences for his books. Some common themes of his work include digital rights management, file sharing, and post-scarcity economics.</p>"
+}

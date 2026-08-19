@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ada Palmer",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ada Palmer</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q29649607",
+  "titles": {
+    "canonical": "Ada_Palmer",
+    "normalized": "Ada Palmer",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ada Palmer</span></span>"
+  },
+  "pageid": 53943040,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ada_Palmer_at_the_Hugo_Award_Ceremony%2C_at_Worldcon_75_in_Helsinki_2017_%28cropped%29.jpg/330px-Ada_Palmer_at_the_Hugo_Award_Ceremony%2C_at_Worldcon_75_in_Helsinki_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 461
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ada_Palmer_at_the_Hugo_Award_Ceremony%2C_at_Worldcon_75_in_Helsinki_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1244,
+    "height": 1738
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366525397",
+  "tid": "bd899faa-8a91-11f1-b0e4-ddcc8d4724ab",
+  "timestamp": "2026-07-28T14:36:38Z",
+  "description": "American novelist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ada_Palmer",
+      "revisions": "https://en.wikipedia.org/wiki/Ada_Palmer?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ada_Palmer?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ada_Palmer"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ada_Palmer",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ada_Palmer",
+      "edit": "https://en.wikipedia.org/wiki/Ada_Palmer?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ada_Palmer"
+    }
+  },
+  "extract": "Ada Palmer is an American historian and writer. She is an associate professor at the University of Chicago and wrote the science fiction series Terra Ignota. The first novel in the series, Too Like the Lightning, was published in May 2016. The work has been well received by critics and was a finalist for the Hugo Award for Best Novel. She received the 2017 John W. Campbell Award for Best New Writer.",
+  "extract_html": "<p><b>Ada Palmer</b> is an American historian and writer. She is an associate professor at the University of Chicago and wrote the science fiction series Terra Ignota. The first novel in the series, <i>Too Like the Lightning</i>, was published in May 2016. The work has been well received by critics and was a finalist for the Hugo Award for Best Novel. She received the 2017 John W. Campbell Award for Best New Writer.</p>"
+}

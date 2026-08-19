@@ -1,0 +1,96 @@
+{
+  "subjects": [
+    "Florida, fiction",
+    "African americans, fiction",
+    "Fiction, historical",
+    "Friendship, fiction",
+    "Fiction, coming of age",
+    "nyt:combined-print-and-e-book-fiction=2019-08-04",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction",
+    "Abuse of administrative power",
+    "African American boys",
+    "Abuse of",
+    "African American teenagers",
+    "Racism",
+    "Reformatories",
+    "Corrupt practices",
+    "African Americans",
+    "Social conditions",
+    "Civil rights",
+    "Historical",
+    "General",
+    "Florida School for Boys",
+    "Male friendship",
+    "Teenagers",
+    "FICTION / Coming of Age",
+    "Segregation",
+    "Race relations",
+    "nyt:trade-fiction-paperback=2020-07-19",
+    "Fiction, historical, general",
+    "Fiction, african american & black, general"
+  ],
+  "key": "/works/OL20072032W",
+  "title": "The Nickel Boys",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL218462A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL7999926A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8747820,
+    10223466,
+    10540830,
+    10721493,
+    12238175,
+    13912363,
+    10443880
+  ],
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2019/07/11/books/review-nickel-boys-colson-whitehead.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2019/07/14/books/review/nickel-boys-colson-whitehead.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "As the Civil Rights movement begins to reach the black enclave of Frenchtown in segregated Tallahassee, Elwood Curtis takes the words of Dr. Martin Luther King to heart: He is \"as good as anyone.\" Abandoned by his parents, but kept on the straight and narrow by his grandmother, Elwood is about to enroll in the local black college. But for a black boy in the Jim Crow South of the early 1960s, one innocent mistake is enough to destroy the future. Elwood is sentenced to a juvenile reformatory called the Nickel Academy, whose mission statement says it provides \"physical, intellectual and moral training\" so the delinquent boys in their charge can become \"honorable and honest men.\" In reality, the Nickel Academy is a grotesque chamber of horrors where the sadistic staff beats and sexually abuses the students, corrupt officials and locals steal food and supplies, and any boy who resists is likely to disappear \"out back.\" Stunned to find himself in such a vicious environment, Elwood tries to hold onto Dr. King's ringing assertion \"Throw us in jail and we will still love you.\" His friend Turner thinks Elwood is worse than naive, that the world is crooked, and that the only way to survive is to scheme and avoid trouble. The tension between Elwood's ideals and Turner's skepticism leads to a decision whose repercussions will echo down the decades. Formed in the crucible of the evils Jim Crow wrought, the boys' fates will be determined by what they endured at the Nickel Academy."
+  },
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-29T16:21:05.465186"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-19T16:27:36.252135"
+  }
+}

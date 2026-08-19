@@ -1,0 +1,49 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7459083A",
+        "OL2678224A"
+      ],
+      "author_name": [
+        "Chris Voss",
+        "Tahl Raz"
+      ],
+      "cover_edition_key": "OL26706016M",
+      "cover_i": 8365942,
+      "ebook_access": "borrowable",
+      "edition_count": 10,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "fbitanpanxieshan0000voss",
+        "neversplitdiffer0000voss"
+      ],
+      "ia_collection": [
+        "dartmouthlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled",
+        "universityofarizona-ol"
+      ],
+      "key": "/works/OL18819818W",
+      "language": [
+        "eng",
+        "chi",
+        "spa"
+      ],
+      "lending_edition_s": "OL28287806M",
+      "lending_identifier_s": "fbitanpanxieshan0000voss",
+      "public_scan_b": false,
+      "title": "Never Split the Difference"
+    }
+  ]
+}

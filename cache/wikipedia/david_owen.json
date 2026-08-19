@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David Owen",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Owen</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q333085",
+  "titles": {
+    "canonical": "David_Owen",
+    "normalized": "David Owen",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Owen</span></span>"
+  },
+  "pageid": 217415,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Official_portrait_of_Lord_Owen_crop_2.jpg/330px-Official_portrait_of_Lord_Owen_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Official_portrait_of_Lord_Owen_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1554,
+    "height": 2072
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368008728",
+  "tid": "43e467e3-91a1-11f1-84fe-086c0cd8dd47",
+  "timestamp": "2026-08-06T14:15:24Z",
+  "description": "British politician (born 1938)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_Owen",
+      "revisions": "https://en.wikipedia.org/wiki/David_Owen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_Owen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Owen"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_Owen",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Owen",
+      "edit": "https://en.wikipedia.org/wiki/David_Owen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Owen"
+    }
+  },
+  "extract": "David Anthony Llewellyn Owen, Baron Owen, is a British politician and physician. He served as Foreign Secretary in the Labour government of James Callaghan from 1977 to 1979, becoming the youngest person appointed to the position since 1935, and later led the Social Democratic Party (SDP). He was a Member of Parliament for 26 years, from 1966 to 1992.",
+  "extract_html": "<p><b>David Anthony Llewellyn Owen, Baron Owen</b>, is a British politician and physician. He served as Foreign Secretary in the Labour government of James Callaghan from 1977 to 1979, becoming the youngest person appointed to the position since 1935, and later led the Social Democratic Party (SDP). He was a Member of Parliament for 26 years, from 1966 to 1992.</p>"
+}

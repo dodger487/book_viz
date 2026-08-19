@@ -1,0 +1,209 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WHabQG6yIQ4C",
+      "etag": "LDKWaiytw/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WHabQG6yIQ4C",
+      "volumeInfo": {
+        "title": "Getting It Done",
+        "subtitle": "How to Lead When You're Not in Charge",
+        "authors": [
+          "Roger Fisher",
+          "Alan Sharp"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "1999-05-05",
+        "description": "Let's face it. In this chaotic world of teams, matrix management, and horizontal organizations, it's tougher than ever to get things done. How do you lead when you're not the one in charge? How can you be effective when joint action is needed? You need an edge in order to reach solutions and effectively work with others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780887309588"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0887309585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WHabQG6yIQ4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WHabQG6yIQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WHabQG6yIQ4C&printsec=frontcover&dq=intitle:%22Getting+It+Done%22+inauthor:%22Alan+Sharp%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WHabQG6yIQ4C&dq=intitle:%22Getting+It+Done%22+inauthor:%22Alan+Sharp%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Getting_It_Done.html?hl=&id=WHabQG6yIQ4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WHabQG6yIQ4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Let&#39;s face it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z9kZuAEACAAJ",
+      "etag": "3Uv4slSvJUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z9kZuAEACAAJ",
+      "volumeInfo": {
+        "title": "Getting it Done",
+        "subtitle": "How to Lead when You're Not in Charge",
+        "authors": [
+          "Roger Fisher"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:819438338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=z9kZuAEACAAJ&dq=intitle:%22Getting+It+Done%22+inauthor:%22Alan+Sharp%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=z9kZuAEACAAJ&dq=intitle:%22Getting+It+Done%22+inauthor:%22Alan+Sharp%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Getting_it_Done.html?hl=&id=z9kZuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z9kZuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_7xrGwAACAAJ",
+      "etag": "7GvOM10vy5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_7xrGwAACAAJ",
+      "volumeInfo": {
+        "title": "Lateral Leadership",
+        "subtitle": "Getting it Done when You are Not the Boss",
+        "authors": [
+          "Roger Fisher",
+          "Alan Sharp"
+        ],
+        "publishedDate": "2004",
+        "description": "THE DEFINITIVE GUIDE TO GETTING RESULTS WHEN YOU HAVE TO WORK WITH OTHERS. JOE: I've been thinking about this job and I know exactly how to tackle it. SALLY: Hang on. First I want to know why we are doing it.JOE: That's obvious. The boss is dissatisfied with the present situation.CHARLIE: Fair enough, but before we get started I want to get a timetable set up.BILL: Okay. By when do we need to get the job done?CHRISTINE: Before we sort that out, is anyone in charge of this job?... Have you ever been in a situation like this? Have you ever walked out of a meeting thinking, 'What a waste of time that was! I could have done it myself in a fraction of the time.' No one can get everything done alone. We have to work with others. We should not need to negotiate with them to get them to work with us. Yet we cannot just tell most of them what to do or how to do it. People have different ideas and approaches. Collaboration is difficult. Lateral Leadership lays out the detailed strategies for working effectively and productively in a team, from the early stages of a project and the building of a common purpose. It also covers the unavoidable conflicts of multiple views and work styles, describing step by step how to build up the portfolio of leadership skills that will foster cooperation at any level and get results.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1861977239"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781861977236"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Executive ability"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_7xrGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_7xrGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_7xrGwAACAAJ&dq=intitle:%22Getting+It+Done%22+inauthor:%22Alan+Sharp%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_7xrGwAACAAJ&dq=intitle:%22Getting+It+Done%22+inauthor:%22Alan+Sharp%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lateral_Leadership.html?hl=&id=_7xrGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_7xrGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New edition of the definitive guide to getting results when you have to work with others by the author of the international bestseller Getting to Yes."
+      }
+    }
+  ]
+}

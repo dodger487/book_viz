@@ -1,0 +1,30 @@
+{
+  "title": "Building a Movement to End the New Jim Crow",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-09-28T15:04:47.377450"
+  },
+  "covers": [
+    10460223
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-28T15:04:47.377450"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL22440104W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7784860A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

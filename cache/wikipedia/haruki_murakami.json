@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Haruki Murakami",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Haruki Murakami</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q134798",
+  "titles": {
+    "canonical": "Haruki_Murakami",
+    "normalized": "Haruki Murakami",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Haruki Murakami</span></span>"
+  },
+  "pageid": 229198,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg/330px-Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 456,
+    "height": 608
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366557265",
+  "tid": "3993e017-8ab2-11f1-a636-383e709b4661",
+  "timestamp": "2026-07-28T18:29:10Z",
+  "description": "Japanese writer (born 1949)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+      "revisions": "https://en.wikipedia.org/wiki/Haruki_Murakami?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Haruki_Murakami?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Haruki_Murakami"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Haruki_Murakami",
+      "edit": "https://en.wikipedia.org/wiki/Haruki_Murakami?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Haruki_Murakami"
+    }
+  },
+  "extract": "Haruki Murakami  is a Japanese writer. His novels, essays, and short stories have been best-sellers in Japan and internationally, with his work translated into 50 languages and having sold millions of copies outside Japan. He has received numerous awards for his work, including the Gunzo Prize for New Writers, the World Fantasy Award, the Tanizaki Prize, Yomiuri Prize for Literature, the Frank O'Connor International Short Story Award, the Noma Literary Prize, the Franz Kafka Prize, the Kiriyama Prize for Fiction, the Goodreads Choice Awards for Best Fiction, the Jerusalem Prize, and the Princess of Asturias Awards.",
+  "extract_html": "<p><b>Haruki Murakami</b><span style=\"font-weight:normal\"> </span> is a Japanese writer. His novels, essays, and short stories have been best-sellers in Japan and internationally, with his work translated into 50 languages and having sold millions of copies outside Japan. He has received numerous awards for his work, including the Gunzo Prize for New Writers, the World Fantasy Award, the Tanizaki Prize, Yomiuri Prize for Literature, the Frank O'Connor International Short Story Award, the Noma Literary Prize, the Franz Kafka Prize, the Kiriyama Prize for Fiction, the Goodreads Choice Awards for Best Fiction, the Jerusalem Prize, and the Princess of Asturias Awards.</p>"
+}

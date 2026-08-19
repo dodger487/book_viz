@@ -1,0 +1,156 @@
+{
+  "description": "Steinbeck\u2019s classic novel of the Great Depression is as vivid now as ever. The story focuses on a family of Oklahoma sharecroppers, farmers who work another man\u2019s land for a share of the crops. Driven from their home by drought and poverty they take to the road in a battered old truck and make their way to California to look for work. When they arrive they find hundreds of others like them being forced to work for breadline wages. they begin working as fruit pickers, strike-breakers replacing the people who have been trying to establish a union but their consciences force them to leave.",
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "VIAF ID: 178502508",
+      "url": "https://viaf.org/viaf/178502508",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/1996/11/01/movies/where-fact-and-fiction-intertwine.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Review of \u201cThe Grapes Of Wrath\": John Steinbeck\u2019s Masterpiece",
+      "url": "https://love-books-review.com/blog/john-steinbeck-the-grapes-of-wrath/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Grapes of Wrath",
+  "covers": [
+    12715902,
+    -1,
+    14913337,
+    14896020,
+    8770722,
+    9259578,
+    11228113,
+    7368021,
+    12295233,
+    13008630,
+    15003492
+  ],
+  "subject_places": [
+    "California",
+    "Oklahoma",
+    "West (U.S.)",
+    "Israel"
+  ],
+  "first_publish_date": "1939",
+  "key": "/works/OL23205W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25788A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "The Great Depression",
+    "1930's"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Labor camps",
+    "Depressions",
+    "Labor camps in literature",
+    "Classic Literature",
+    "Open Library Staff Picks",
+    "Pulitzer Prize Winner",
+    "Fiction",
+    "Migrant agricultural laborers in literature",
+    "award:pulitzer_prize=1940",
+    "open_syllabus_project",
+    "award:pulitzer_prize=fiction",
+    "California",
+    "American fiction",
+    "In literature",
+    "Migrant agricultural laborers",
+    "Rural families",
+    "Migrant agricultural laborers -- Fiction",
+    "Dust Bowl Era, 1931-1939",
+    "Farm family",
+    "Great Depression, 1929-1939",
+    "Agricultural laborers",
+    "Migrant labor",
+    "California, fiction",
+    "Fiction, historical",
+    "American fiction (fictional works by one author)",
+    "Fiction, family life",
+    "Fiction, political",
+    "Oklahoma, fiction",
+    "English literature",
+    "Prose",
+    "New York Times reviewed",
+    "Fiction, historical, general",
+    "Travailleurs agricoles migrants",
+    "Romans, nouvelles",
+    "Familles rurales",
+    "Crises \u00e9conomiques",
+    "Abris pour travailleurs",
+    "Historical fiction",
+    "Readers for new literates",
+    "Reading (Adult education)",
+    "Steinbeck, john , 1902-1968",
+    "Migrant agricultural laborers--california--fiction",
+    "Labor camps--california--fiction",
+    "Migrant agricultural laborers--fiction",
+    "Rural families--fiction",
+    "Depressions--fiction",
+    "Labor camps--fiction",
+    "Medicine in literature",
+    "Ps3537.t3234 g8 1996",
+    "813/.52",
+    "Ps3537.t3234 g8 2006",
+    "Long Now Manual for Civilization",
+    "Translations into Persian",
+    "Theater programs",
+    "Specimens",
+    "Texts",
+    "Dutch language",
+    "Fiction, general"
+  ],
+  "identifiers": {
+    "wikidata": [
+      "Q215983"
+    ],
+    "bookbrainz": [
+      "c70355e4-a58b-4335-8b2e-3e7e9529868c"
+    ],
+    "librarything": [
+      "8488"
+    ],
+    "goodreads": [
+      "2931549"
+    ]
+  },
+  "latest_revision": 87,
+  "revision": 87,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-08T21:50:57.551649"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-29T20:03:24.972727"
+  }
+}

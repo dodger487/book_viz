@@ -1,0 +1,215 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DoxPEAAAQBAJ",
+      "etag": "SHsfFjofZ8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DoxPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Grapes of Wrath",
+        "subtitle": "(Centennial Edition)",
+        "authors": [
+          "John Steinbeck"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2002-01-08",
+        "description": "The Pulitzer Prize-winning epic of the Great Depression, a book that galvanized\u2014and sometimes outraged\u2014millions of readers. One of The Atlantic\u2019s Great American Novels of the Past 100 Years First published in 1939, Steinbeck\u2019s Pulitzer Prize-winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads\u2014driven from their homestead and forced to travel west to the promised land of California. Out of their trials and their repeated collisions against the hard realities of an America divided into Haves and Have-Nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity. A portrait of the conflict between the powerful and the powerless, of one man\u2019s fierce reaction to injustice, and of one woman\u2019s stoical strength, the novel captures the horrors of the Great Depression and probes into the very nature of equality and justice in America. At once a naturalistic epic, captivity narrative, road novel, and transcendental gospel, Steinbeck\u2019s powerful landmark novel is perhaps the most American of American Classics. This Centennial edition, specially designed to commemorate one hundred years of Steinbeck, features french flaps and deckle-edged pages. For more than sixty-five years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,500 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780142000663"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0142000663"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DoxPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DoxPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DoxPEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Grapes+of+Wrath%22+inauthor:%22John+Steinbeck%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DoxPEAAAQBAJ&dq=intitle:%22The+Grapes+of+Wrath%22+inauthor:%22John+Steinbeck%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Grapes_of_Wrath.html?hl=&id=DoxPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DoxPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Centennial edition, specially designed to commemorate one hundred years of Steinbeck, features french flaps and deckle-edged pages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p_4MzgEACAAJ",
+      "etag": "qjRTjJazgeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p_4MzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Grapes of Wrath, a Novel",
+        "authors": [
+          "John John Steinbeck"
+        ],
+        "publishedDate": "2020-08-24",
+        "description": "The Grapes of Wrath is an American realist novel written by John Steinbeck and published in 1939.The book won the National Book Award and Pulitzer Prize for fiction, and it was cited prominently when Steinbeck was awarded the Nobel Prize in 1962.Set during the Great Depression, the novel focuses on the Joads, a poor family of tenant farmers driven from their Oklahoma home by drought, economic hardship, agricultural industry changes, and bank foreclosures forcing tenant farmers out of work. Due to their nearly hopeless situation, and in part because they are trapped in the Dust Bowl, the Joads set out for California along with thousands of other \"Okies\" seeking jobs, land, dignity, and a future.The Grapes of Wrath is frequently read in American high school and college literature classes due to its historical context and enduring legacy.A celebrated Hollywood film version, starring Henry Fonda and directed by John Ford, was released in 1940.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798678536587"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p_4MzgEACAAJ&dq=intitle:%22The+Grapes+of+Wrath%22+inauthor:%22John+Steinbeck%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p_4MzgEACAAJ&dq=intitle:%22The+Grapes+of+Wrath%22+inauthor:%22John+Steinbeck%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Grapes_of_Wrath_a_Novel.html?hl=&id=p_4MzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p_4MzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Grapes of Wrath is an American realist novel written by John Steinbeck and published in 1939.The book won the National Book Award and Pulitzer Prize for fiction, and it was cited prominently when Steinbeck was awarded the Nobel Prize in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-oRPEAAAQBAJ",
+      "etag": "wG6j17rRpdI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-oRPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Grapes of Wrath",
+        "subtitle": "Text and Criticism; Revised Edition",
+        "authors": [
+          "John Steinbeck"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1997-07-01",
+        "description": "John Steinbeck's Pulitzer Prize-winning epic of the Great Depression follows the western moevement of wone family and a nation in search of work and human dignity. This completely updated Viking Critical Library Edition of The Grapes of Wrath includes the full text of the novel, corrected in 1996, as well as extensive and contextual material including: Essays placing The Grapes of Wrath in social context, including a 1942 essay by Carey McWilliams about migrant workers and working conditions and a Martin Schockley piece on the reception of The Grapes of Wrath in Oklahoma Eight new essays by John Ditsky, Nellie Y. McKay, MimiReisel Gladstein, Louis Owens, and others An essay on the background to the composition of The Grapes of Wrath by Steinbeck's biographer, Jackson J. Benson An introduction by the editor, a chronology, a list of topics for discussion and papers, and a bibliography",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140247756"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0140247750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 737,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-oRPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-oRPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-oRPEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Grapes+of+Wrath%22+inauthor:%22John+Steinbeck%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-oRPEAAAQBAJ&dq=intitle:%22The+Grapes+of+Wrath%22+inauthor:%22John+Steinbeck%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Grapes_of_Wrath.html?hl=&id=-oRPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-oRPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This completely updated Viking Critical Library Edition of The Grapes of Wrath includes the full text of the novel, corrected in 1996, as well as extensive and contextual material including: Essays placing The Grapes of Wrath in social ..."
+      }
+    }
+  ]
+}

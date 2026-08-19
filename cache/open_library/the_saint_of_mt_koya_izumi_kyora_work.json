@@ -1,0 +1,34 @@
+{
+  "lc_classifications": [
+    "PL809.Z9"
+  ],
+  "key": "/works/OL12046078W",
+  "title": "The saint of Mt. Koya  The song of the troubadour",
+  "first_publish_date": "1990",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL455001A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "895.6/342"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-11T05:58:51.023393"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-28T19:12:15.627128"
+  }
+}

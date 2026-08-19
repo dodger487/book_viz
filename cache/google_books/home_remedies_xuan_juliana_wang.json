@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hL-SDwAAQBAJ",
+      "etag": "o9W1pJB2dts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hL-SDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Home Remedies",
+        "subtitle": "Stories",
+        "authors": [
+          "Xuan Juliana Wang"
+        ],
+        "publisher": "Hogarth",
+        "publishedDate": "2019-05-14",
+        "description": "A FINALIST FOR THE NEW YORK PUBLIC LIBRARY YOUNG LIONS FICTION AWARD \u2022 SHORTLISTED FOR THE PEN/ROBERT W. BINGHAM PRIZE FOR DEBUT SHORT STORY COLLECTION \u2022 WINNER OF THE CALIFORNIA BOOK AWARDS GOLD MEDAL IN FIRST FICTION \u2022 WINNER OF THE JOHN ZACHARIS FIRST BOOK AWARD \u2022 LONGLISTED FOR THE STORY PRIZE \u2022 NAMED ONE OF THE BEST BOOKS OF THE YEAR BY LIBRARY JOURNAL \u201cAn urgent and necessary literary voice.\u201d\u2014Alexander Chee, Electric Literature \u201cTough, luminous stories.\u201d\u2014The New York Times Book Review \u201cSpectacular.\u201d\u2014Vogue Xuan Juliana Wang's remarkable debut introduces us to the new and changing face of Chinese youth. From fuerdai (second-generation rich kids) to a glass-swallowing qigong grandmaster, her dazzling, formally inventive stories upend the immigrant narrative to reveal a new experience of belonging: of young people testing the limits of who they are, in a world as vast and varied as their ambitions. In stories of love, family, and friendship, here are the voices, faces and stories of a new generation never before captured between the pages in fiction. What sets them apart is Juliana Wang\u2019s surprising imagination, able to capture the innermost thoughts of her characters with astonishing empathy, as well as the contradictions of the modern immigrant experience in a way that feels almost universal. Home Remedies is, in the words of Alexander Chee, \u201cthe arrival of an urgent and necessary literary voice we\u2019ve been needing, waiting for maybe, without knowing.\u201d Praise for Home Remedies \u201cA radiant new talent.\u201d\u2014Lauren Groff \u201cThese dazzling stories interrogate the fractures, collisions and glorious new alloys of what it means to be a Chinese millennial.\u201d\u2014Adam Johnson, author of the Pulitzer Prize\u2013winning The Orphan Master\u2019s Son \u201cHome Remedies doesn\u2019t read like a first collection; like Jhumpa Lahiri\u2019s Interpreter of Maladies, the twelve stories here announce the arrival of an exciting, electric new voice.\u201d\u2014Financial Times \u201cStylistically ambitious in a way rarely seen in prose fiction . . . Writing like this will never stop enlightening us. [Wang\u2019s] voice comes to us from the edge of a new world.\u201d\u2014Los Angeles Review of Books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984822741"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1984822748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hL-SDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hL-SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hL-SDwAAQBAJ&printsec=frontcover&dq=intitle:%22Home+Remedies%22+inauthor:%22Xuan+Juliana+Wang%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hL-SDwAAQBAJ&dq=intitle:%22Home+Remedies%22+inauthor:%22Xuan+Juliana+Wang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Home_Remedies.html?hl=&id=hL-SDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hL-SDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A FINALIST FOR THE NEW YORK PUBLIC LIBRARY YOUNG LIONS FICTION AWARD \u2022 SHORTLISTED FOR THE PEN/ROBERT W. BINGHAM PRIZE FOR DEBUT SHORT STORY COLLECTION \u2022 WINNER OF THE CALIFORNIA BOOK AWARDS GOLD MEDAL IN FIRST FICTION \u2022 WINNER OF THE ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6FmJEAAAQBAJ",
+      "etag": "BqZY+9/mmpo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6FmJEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wise Man's Fear",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "publisher": "Astra Publishing House",
+        "publishedDate": "2011-03-01",
+        "description": "Discover book two of Patrick Rothfuss\u2019 #1 New York Times-bestselling epic fantasy series, The Kingkiller Chronicle. \u201cI just love the world of Patrick Rothfuss.\u201d \u2014Lin-Manuel Miranda DAY TWO: THE WISE MAN\u2019S FEAR \u201cThere are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.\u201d My name is Kvothe. You may have heard of me. So begins a tale told from his own point of view\u2014a story unequaled in fantasy literature. Now in The Wise Man\u2019s Fear, Day Two of The Kingkiller Chronicle, an escalating rivalry with a powerful member of the nobility forces Kvothe to leave the University and seek his fortune abroad. Adrift, penniless, and alone, he travels to Vintas, where he quickly becomes entangled in the politics of courtly society. While attempting to curry favor with a powerful noble, Kvothe uncovers an assassination attempt, comes into conflict with a rival arcanist, and leads a group of mercenaries into the wild, in an attempt to solve the mystery of who (or what) is waylaying travelers on the King's Road. All the while, Kvothe searches for answers, attempting to uncover the truth about the mysterious Amyr, the Chandrian, and the death of his parents. In The Wise Man's Fear, Kvothe takes his first steps on the path of the hero and learns how difficult life can be when a man becomes a legend in his own time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101486405"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101486406"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1010,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6FmJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6FmJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6FmJEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wise+Man%27s+Fear%22+inauthor:%22Patrick+Rothfuss%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6FmJEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6FmJEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6FmJEAAAQBAJ&rdid=book-6FmJEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wise_Man_s_Fear-sample-epub.acsm?id=6FmJEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wise_Man_s_Fear-sample-pdf.acsm?id=6FmJEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6FmJEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The Wise Man&#39;s Fear, Kvothe takes his first steps on the path of the hero and learns how difficult life can be when a man becomes a legend in his own time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yKT9nQEACAAJ",
+      "etag": "75U+Kuzpgb0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yKT9nQEACAAJ",
+      "volumeInfo": {
+        "title": "The Wise Man's Fear",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "publisher": "Daw Books",
+        "publishedDate": "2011",
+        "description": "Picking up where The Name of the Wind left off, hero Kvothe continues on his quest to reclaim the honor of his family in the Fae realm and learn the truth about the death of his parents and Amyr, the Chandrian. 100,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0756404738"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780756404734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 993,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yKT9nQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yKT9nQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yKT9nQEACAAJ&dq=intitle:%22The+Wise+Man%27s+Fear%22+inauthor:%22Patrick+Rothfuss%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yKT9nQEACAAJ&dq=intitle:%22The+Wise+Man%27s+Fear%22+inauthor:%22Patrick+Rothfuss%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wise_Man_s_Fear.html?hl=&id=yKT9nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yKT9nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Picking up where The Name of the Wind left off, hero Kvothe continues on his quest to reclaim the honor of his family in the Fae realm and learn the truth about the death of his parents and Amyr, the Chandrian. 100,000 first printing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NaxKSwAACAAJ",
+      "etag": "2tLsm+puyB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NaxKSwAACAAJ",
+      "volumeInfo": {
+        "title": "The Wise Man's Fear",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "publisher": "Gollancz",
+        "publishedDate": "2011-11-01",
+        "description": "Sequel to the extraordinary THE NAME OF THE WIND, THE WISE MAN'S FEAR is the second instalment of this superb fantasy trilogy from Patrick Rothfuss. This is the most exciting fantasy series since George R. R. Martin's A SONG OF ICE AND FIRE, and a must-read for all fans of HBO's GAME OF THRONES. Picking up the tale of Kvothe Kingkiller once again, we follow him into exile, into political intrigue, courtship, adventure, love and magic . . . and further along the path that has turned Kvothe, the mightiest magician of his age, a legend in his own time, into Kote, the unassuming pub landlord. Packed with as much magic, adventure and home-grown drama as THE NAME OF THE WIND, this is a sequel in every way the equal to its predecessor and a must-read for all fantasy fans. Readable, engaging and gripping THE WISE MAN'S FEAR is the biggest and the best new fantasy novel out there.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575099569"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575099562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1008,
+        "printType": "BOOK",
+        "categories": [
+          "Attempted assassination"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NaxKSwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NaxKSwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NaxKSwAACAAJ&dq=intitle:%22The+Wise+Man%27s+Fear%22+inauthor:%22Patrick+Rothfuss%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NaxKSwAACAAJ&dq=intitle:%22The+Wise+Man%27s+Fear%22+inauthor:%22Patrick+Rothfuss%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wise_Man_s_Fear.html?hl=&id=NaxKSwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NaxKSwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the most exciting fantasy series since George R. R. Martin&#39;s A SONG OF ICE AND FIRE, and a must-read for all fans of HBO&#39;s GAME OF THRONES."
+      }
+    }
+  ]
+}

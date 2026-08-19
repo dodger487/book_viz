@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lee Kuan Yew",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lee Kuan Yew</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q131248",
+  "titles": {
+    "canonical": "Lee_Kuan_Yew",
+    "normalized": "Lee Kuan Yew",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lee Kuan Yew</span></span>"
+  },
+  "pageid": 65064,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Prime_Minister_Lee_Kuan_Yew_of_Singapore_Making_a_Toast_at_a_State_Dinner_Held_in_His_Honor%2C_1975.jpg/330px-Prime_Minister_Lee_Kuan_Yew_of_Singapore_Making_a_Toast_at_a_State_Dinner_Held_in_His_Honor%2C_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Prime_Minister_Lee_Kuan_Yew_of_Singapore_Making_a_Toast_at_a_State_Dinner_Held_in_His_Honor%2C_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1004,
+    "height": 1339
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368370864",
+  "tid": "4c2ed4f5-9350-11f1-a256-ac44de5d8f07",
+  "timestamp": "2026-08-08T17:40:51Z",
+  "description": "Prime Minister of Singapore from 1959 to 1990",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "revisions": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lee_Kuan_Yew"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lee_Kuan_Yew",
+      "edit": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lee_Kuan_Yew"
+    }
+  },
+  "extract": "Lee Kuan Yew, also known as LKY, was a Singaporean politician and barrister who served as the first prime minister of Singapore from 1959 to 1990. A member of the People's Action Party (PAP), his authoritarian governance oversaw the transformation of post-independence Singapore into a highly developed country and one of the four Asian Tigers. He is regarded as the founding father of modern Singapore.",
+  "extract_html": "<p><b>Lee Kuan Yew</b>, also known as <b>LKY</b>, was a Singaporean politician and barrister who served as the first prime minister of Singapore from 1959 to 1990. A member of the People's Action Party (PAP), his authoritarian governance oversaw the transformation of post-independence Singapore into a highly developed country and one of the four Asian Tigers. He is regarded as the founding father of modern Singapore.</p>"
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LE8ADAAAQBAJ",
+      "etag": "bgQ6fuiJeAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LE8ADAAAQBAJ",
+      "volumeInfo": {
+        "title": "Why Did the Chicken Cross the World?",
+        "subtitle": "The Epic Saga of the Bird that Powers Civilization",
+        "authors": [
+          "Andrew Lawler"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-04-26",
+        "description": "Beginning in the jungles of Southeast Asia, trekking through the Middle East, traversing the Pacific, Lawler discovers the secrets behind the chicken's transformation from a shy, wild bird into an animal of astonishing versatility, capable of serving our species' changing needs. Across the ages, it has been an all-purpose medicine, sex symbol, gambling aid, inspiration for bravery, and of course, the star of the world's most famous joke. Only recently has it become humanity's most important single source of protein. Most surprisingly, the chicken--more than the horse, cow , or dog-- has been a remarkable constant in the sperad of civilization across the globe\"--Page 4 of cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476729909"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476729905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LE8ADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LE8ADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LE8ADAAAQBAJ&printsec=frontcover&dq=intitle:%22Why+Did+the+Chicken+Cross+the+World%3F%22+inauthor:%22Andrew+Lawler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LE8ADAAAQBAJ&dq=intitle:%22Why+Did+the+Chicken+Cross+the+World%3F%22+inauthor:%22Andrew+Lawler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_Did_the_Chicken_Cross_the_World.html?hl=&id=LE8ADAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LE8ADAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Beginning in the jungles of Southeast Asia, trekking through the Middle East, traversing the Pacific, Lawler discovers the secrets behind the chicken&#39;s transformation from a shy, wild bird into an animal of astonishing versatility, capable ..."
+      }
+    }
+  ]
+}

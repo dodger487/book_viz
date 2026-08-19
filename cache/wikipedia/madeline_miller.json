@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Madeline Miller",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Madeline Miller</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q469349",
+  "titles": {
+    "canonical": "Madeline_Miller",
+    "normalized": "Madeline Miller",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Madeline Miller</span></span>"
+  },
+  "pageid": 35986123,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Madeline_Miller_-_Kolkata_2013-02-03_4377_Cropped.JPG/330px-Madeline_Miller_-_Kolkata_2013-02-03_4377_Cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Madeline_Miller_-_Kolkata_2013-02-03_4377_Cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2483,
+    "height": 3725
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367820763",
+  "tid": "107cdbde-90be-11f1-9db0-2f1620f25b9b",
+  "timestamp": "2026-08-05T11:09:02Z",
+  "description": "American writer (born 1978)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Madeline_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Madeline_Miller?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Madeline_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Madeline_Miller"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Madeline_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Madeline_Miller",
+      "edit": "https://en.wikipedia.org/wiki/Madeline_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Madeline_Miller"
+    }
+  },
+  "extract": "Madeline Miller is an American novelist, author of The Song of Achilles (2011) and Circe (2018). Miller spent ten years writing The Song of Achilles while she worked as a teacher of Latin and Greek. The novel tells the story of the love between the mythological figures Achilles and Patroclus; it won the Orange Prize for Fiction, making Miller the fourth debut novelist to win the prize. She is a 2019 recipient of the Alex Awards.",
+  "extract_html": "<p><b>Madeline Miller</b> is an American novelist, author of <i>The Song of Achilles</i> (2011) and <i>Circe</i> (2018). Miller spent ten years writing <i>The Song of Achilles</i> while she worked as a teacher of Latin and Greek. The novel tells the story of the love between the mythological figures Achilles and Patroclus; it won the Orange Prize for Fiction, making Miller the fourth debut novelist to win the prize. She is a 2019 recipient of the Alex Awards.</p>"
+}

@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DvXrEAAAQBAJ",
+      "etag": "Jpw+vdvh82U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DvXrEAAAQBAJ",
+      "volumeInfo": {
+        "title": "We'll Prescribe You a Cat",
+        "subtitle": "The feel good Japanese bestselling book",
+        "authors": [
+          "Syou Ishida"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2024-09-05",
+        "description": "The Kokoro cat clinic is open for anyone feeling in need of an emotional uplift. For fans of THE TRAVELLING CAT CHRONICLES, discover the award-winning heartwarming sensation. ____________ Readers adore it: \u2018The most wonderful book I've ever read\u2019 ***** \u2018A terrific idea, a powerful ending, brilliant storytelling\u2019 ***** \u2018The story drew me in instantly, and I laughed so much\u2019 ***** Where healing arrives on four paws ... On the top floor of an old building at the end of a cobbled alley in Kyoto lies the Kokoro Cat Clinic. Only a select few - those who feel genuine emotional pain - can find it. The mysterious centre offers a unique treatment for its troubled patients: it prescribes cats as medication. Get ready to fall in love: - Bee, an eight-year-old female, mixed breed helps a disheartened businessman as he finds unexpected joy in physical labour; - Margot, muscly like a lightweight boxer, helps a middle-aged callcentre worker stay relevant at work and at home; - Koyuki, an exquisite white cat brings closure to a young mother troubled by the memory of the rescue kitten she was forced to abandon; - Tank and Tangerine bring peace to a hardened handbag designer, as she learns to be kinder to herself; - Mimita, the Scottish Fold kitten helps a broken-hearted Geisha to stop blaming herself for the cat she lost years ago; As the clinic's patients navigate their inner turmoil and seek resolution, their feline companions lead them towards healing, self-discovery and newfound hope. **Contains five exquisite cat line-drawings** _______________________ Readers adore it: \u2018The most wonderful book I've ever read\u2019 ***** \u2018A terrific idea, a powerful ending, brilliant storytelling\u2019 ***** \u2018The story drew me in instantly, and I laughed so much\u2019 ***** \u2018I definitely want everyone to read this book\u2019 ***** \u2018There are so many wonderful lines to underscore, but if I write them here, there will be spoilers!\u2019 ***** Japanese bestseller, October 2023 Now read WE'LL PRESCRIBE YOU ANOTHER CAT for more heartwarming experiences at the Kokoro Cat Clinic and coming soon, WELCOME TO THE KOKORO CAT CLINIC.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529936728"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529936721"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 187,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DvXrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DvXrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DvXrEAAAQBAJ&printsec=frontcover&dq=intitle:%22We%27ll+Prescribe+You+a+Cat%22+inauthor:%22Syou+Ishida%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DvXrEAAAQBAJ&dq=intitle:%22We%27ll+Prescribe+You+a+Cat%22+inauthor:%22Syou+Ishida%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/We_ll_Prescribe_You_a_Cat.html?hl=&id=DvXrEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/We_ll_Prescribe_You_a_Cat-sample-epub.acsm?id=DvXrEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DvXrEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Get ready to fall in love: - Bee, an eight-year-old female, mixed breed helps a disheartened businessman as he finds unexpected joy in physical labour; - Margot, muscly like a lightweight boxer, helps a middle-aged callcentre worker stay ..."
+      }
+    }
+  ]
+}

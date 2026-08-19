@@ -1,0 +1,103 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OcspAAAAQBAJ",
+      "etag": "49jqdGwVOs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OcspAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Childhood's End",
+        "authors": [
+          "Arthur C. Clarke"
+        ],
+        "publisher": "RosettaBooks",
+        "publishedDate": "2012-11-30",
+        "description": "In the Retro Hugo Award\u2013nominated novel that inspired the Syfy miniseries, alien invaders bring peace to Earth\u2014at a grave price: \"A first-rate tour de force\" ( The New York Times). In the near future, enormous silver spaceships appear without warning over mankind's largest cities. They belong to the Overlords, an alien race far superior to humanity in technological development. Their purpose is to dominate Earth. Their demands, however, are surprisingly benevolent: end war, poverty, and cruelty. Their presence, rather than signaling the end of humanity, ushers in a golden age . . . or so it seems. Without conflict, human culture and progress stagnate. As the years pass, it becomes clear that the Overlords have a hidden agenda for the evolution of the human race that may not be as benevolent as it seems. \"Frighteningly logical, believable, and grimly prophetic . . . Clarke is a master.\" \u2014 Los Angeles Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780795324970"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0795324979"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OcspAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OcspAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OcspAAAAQBAJ&printsec=frontcover&dq=intitle:%22Childhood%27s+End%22+inauthor:%22Arthur+C.+Clarke%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OcspAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OcspAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OcspAAAAQBAJ&rdid=book-OcspAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Childhood_s_End-sample-epub.acsm?id=OcspAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OcspAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Frighteningly logical, believable, and grimly prophetic . . . Clarke is a master.&quot; \u2014 Los Angeles Times"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Severance",
+  "subjects": [
+    "Epidemics",
+    "Fiction",
+    "Fiction, satire",
+    "Fiction, dystopian",
+    "New york (n.y.), fiction",
+    "Literature",
+    "Science Fiction",
+    "Epidemics--fiction",
+    "Ps3613.a14 s49 2018",
+    "813/.6"
+  ],
+  "key": "/works/OL19748973W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7538752A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    10622831,
+    10088754
+  ],
+  "description": "Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. With the recent passing of her Chinese immigrant parents, she\u2019s had her fill of uncertainty. She\u2019s content just to carry on: She goes to work, troubleshoots the teen-targeted Gemstone Bible, watches movies in a Greenpoint basement with her boyfriend.\r\n\r\nSo Candace barely notices when a plague of biblical proportions sweeps New York. Then Shen Fever spreads. Families flee. Companies cease operations. The subways screech to a halt. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost.\r\n\r\nCandace won\u2019t be able to make it on her own forever, though. Enter a group of survivors, led by the power-hungry IT tech Bob. They\u2019re traveling to a place called the Facility, where, Bob promises, they will have everything they need to start society anew. But Candace is carrying a secret she knows Bob will exploit. Should she escape from her rescuers?\r\n\r\nA send-up and takedown of the rituals, routines, and missed opportunities of contemporary life, Ling Ma\u2019s Severance is a moving family story, a quirky coming-of-adulthood tale, and a hilarious, deadpan satire. Most important, it\u2019s a heartfelt tribute to the connections that drive us to do more than survive.",
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-05-24T08:53:06.778937"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-04-15T17:21:07.610331"
+  }
+}

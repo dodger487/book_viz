@@ -1,0 +1,114 @@
+{
+  "description": "In the year 2044. reality is an ugly place. The only time teenage Wade Watts *really* feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines--puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. \r\n\r\nBut when Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win--and confront the real world he's always been so desperate to escape. (Provided by publisher).",
+  "title": "Ready Player One",
+  "covers": [
+    8737626,
+    8270105,
+    7023280,
+    7890580,
+    7887628,
+    8750149,
+    10870287,
+    10870290,
+    12535556,
+    8464095,
+    13218398,
+    10517265,
+    8494518,
+    12369565,
+    9367521
+  ],
+  "subject_places": [
+    "Ohio",
+    "United States"
+  ],
+  "subjects": [
+    "Regression (Civilization)",
+    "Utopias",
+    "Virtual reality",
+    "Fiction",
+    "Puzzles",
+    "Fiction, science fiction, action & adventure",
+    "Fiction, dystopian",
+    "Shared virtual environments",
+    "YOUNG ADULT FICTION / Computers & Digital Media",
+    "YOUNG ADULT FICTION / Dystopian",
+    "YOUNG ADULT FICTION / Media Tie-In",
+    "YOUNG ADULT FICTION / Mysteries & Detective Stories",
+    "YOUNG ADULT FICTION / Science Fiction / General",
+    "nyt:trade-fiction-paperback=2012-06-24",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Gaming",
+    "video games",
+    "cyberpunk",
+    "science fiction",
+    "action",
+    "adventure",
+    "dystopian",
+    "Future",
+    "Realidad virtual",
+    "Ficcion",
+    "Regresi\u00f3n (Civilizaci\u00f3n)",
+    "Rompecabezas"
+  ],
+  "subject_people": [
+    "Wade Watts",
+    "James Donovan Halliday",
+    "Nolan Sorrento",
+    "Art3mis",
+    "Aech",
+    "Richard Garriott",
+    "Gary Gygax",
+    "Wil Wheaton",
+    "Cory Doctorow",
+    "George Lucas",
+    "Kevin Smith",
+    "Steven Spielberg"
+  ],
+  "key": "/works/OL15936512W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6941868A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "2044",
+    "2045",
+    "Future"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2011/08/15/books/ready-player-one-by-ernest-cline-review.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Steve Brady, \u201cPatriarchy is Cute! Culture of domination marketed as endearing timeless fantasies\u201d",
+      "url": "https://slingshotcollective.org/a10-patriarchy-is-cute-culture-of-domination-marketed-as-endearing-timeless-fantasies/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 27,
+  "revision": 27,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-07-26T18:18:09.488500"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-14T20:07:53.201936"
+  }
+}

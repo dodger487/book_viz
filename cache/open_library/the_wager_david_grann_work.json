@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Los N\u00e1ufragos Del Wager / the Wager",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL13512009A"
+      }
+    }
+  ],
+  "key": "/works/OL42430191W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-01-25T01:10:40.266571"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-01-25T01:10:40.266571"
+  }
+}

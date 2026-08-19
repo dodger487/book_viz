@@ -1,0 +1,56 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2711131A"
+      ],
+      "author_name": [
+        "Min Jin Lee"
+      ],
+      "cover_edition_key": "OL26359448M",
+      "cover_i": 8044605,
+      "ebook_access": "printdisabled",
+      "edition_count": 17,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "pachinko0000leem"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17762217W",
+      "language": [
+        "eng",
+        "kor"
+      ],
+      "public_scan_b": false,
+      "title": "Pachinko"
+    },
+    {
+      "author_key": [
+        "OL2711131A"
+      ],
+      "author_name": [
+        "Min Jin Lee"
+      ],
+      "cover_edition_key": "OL59519009M",
+      "cover_i": 15101552,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL43663189W",
+      "public_scan_b": false,
+      "title": "Pachinko"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Lt8YEAAAQBAJ",
+      "etag": "djlxDIWr2Fo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lt8YEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Making Numbers Count",
+        "subtitle": "The Art and Science of Communicating Numbers",
+        "authors": [
+          "Chip Heath",
+          "Karla Starr"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2022-01-11",
+        "description": "A clear, practical, first-of-its-kind guide to communicating and understanding numbers and data\u2014from bestselling business author Chip Heath. How much bigger is a billion than a million? Well, a million seconds is twelve days. A billion seconds is\u2026thirty-two years. Understanding numbers is essential\u2014but humans aren\u2019t built to understand them. Until very recently, most languages had no words for numbers greater than five\u2014anything from six to infinity was known as \u201clots.\u201d While the numbers in our world have gotten increasingly complex, our brains are stuck in the past. How can we translate millions and billions and milliseconds and nanometers into things we can comprehend and use? Author Chip Heath has excelled at teaching others about making ideas stick and here, in Making Numbers Count, he outlines specific principles that reveal how to translate a number into our brain\u2019s language. This book is filled with examples of extreme number makeovers, vivid before-and-after examples that take a dry number and present it in a way that people click in and say \u201cWow, now I get it!\u201d You will learn principles such as: -SIMPLE PERSPECTIVE CUES: researchers at Microsoft found that adding one simple comparison sentence doubled how accurately users estimated statistics like population and area of countries. -VIVIDNESS: get perspective on the size of a nucleus by imagining a bee in a cathedral, or a pea in a racetrack, which are easier to envision than \u201c1/100,000th of the size of an atom.\u201d -CONVERT TO A PROCESS: capitalize on our intuitive sense of time (5 gigabytes of music storage turns into \u201c2 months of commutes, without repeating a song\u201d). -EMOTIONAL MEASURING STICKS: frame the number in a way that people already care about (\u201cthat medical protocol would save twice as many women as curing breast cancer\u201d). Whether you\u2019re interested in global problems like climate change, running a tech firm or a farm, or just explaining how many Cokes you\u2019d have to drink if you burned calories like a hummingbird, this book will help math-lovers and math-haters alike translate the numbers that animate our world\u2014allowing us to bring more data, more naturally, into decisions in our schools, our workplaces, and our society.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982165451"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982165456"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Lt8YEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Lt8YEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Lt8YEAAAQBAJ&printsec=frontcover&dq=intitle:%22Making+Numbers+Count%22+inauthor:%22Chip+Heath%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Lt8YEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Lt8YEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Lt8YEAAAQBAJ&rdid=book-Lt8YEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Making_Numbers_Count-sample-epub.acsm?id=Lt8YEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lt8YEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is filled with examples of extreme number makeovers, vivid before-and-after examples that take a dry number and present it in a way that people click in and say \u201cWow, now I get it!\u201d You will learn principles such as: -SIMPLE ..."
+      }
+    }
+  ]
+}

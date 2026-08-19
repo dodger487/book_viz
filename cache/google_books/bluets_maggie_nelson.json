@@ -1,0 +1,212 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "M3w_wAEACAAJ",
+      "etag": "WecBWJpetEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M3w_wAEACAAJ",
+      "volumeInfo": {
+        "title": "Bluets",
+        "authors": [
+          "Maggie Nelson"
+        ],
+        "publishedDate": "2019",
+        "description": "Since 2009, when it first published, to today, Bluets has drawn scores of readers with its surprising insights into the emotional depths that make us most human--via 240 short pieces, at once lyrical and philosophical, on the color blue. This beautiful hardcover edition celebrates Maggie Nelson's uncompromising vision, inviting longtime fans and newcomers alike to experience and share in an indispensable work that continues to disrupt the literary landscape.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1940696909"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781940696904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M3w_wAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M3w_wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=M3w_wAEACAAJ&dq=intitle:%22Bluets%22+inauthor:%22Maggie+Nelson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=M3w_wAEACAAJ&dq=intitle:%22Bluets%22+inauthor:%22Maggie+Nelson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluets.html?hl=&id=M3w_wAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M3w_wAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A new printing of the original limited edition, in honor of its 10th anniversary, inviting longtime fans and newcomers alike to experience and share in the indispensable work that continues to disrupt the literary landscape."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3BAtEAAAQBAJ",
+      "etag": "IFTQVnqdYJk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3BAtEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bluets",
+        "subtitle": "Bespiegelingen in blauw",
+        "authors": [
+          "Maggie Nelson"
+        ],
+        "publisher": "Atlas Contact",
+        "publishedDate": "2021-05-19",
+        "description": "Bluets is een lofzang op de kleur blauw. Deze bekroonde cultklassieker onderzoekt thema\u2019s als liefde, verdriet, verlangen en kunst, in een moza\u00efek van 240 korte, poetische teksten. Het uitgangspunt van 'Bluets' is een fascinatie met de kleur blauw. In een moza\u00efek van 240 korte teksten met thema\u2019s als verlangen, kunstenaarschap, alcohol, vrouwelijke seksualiteit, plezier en pijn, cirkelt Maggie Nelson rondom die betekenisvolle en prachtige kleur. Ze beschrijft onder andere het pijnlijke einde van een liefdesrelatie en een ernstig ongeluk van een goede vriendin. Ze onderzoekt wat de waarde is van kunst en schoonheid in tijden van groot verdriet. De lezer blijft betoverd achter: hoe is het mogelijk dat iemand in woorden zo dicht bij het onzegbare kan komen? \u2018Bluets\u2019 is een rauwe, po\u00ebtische, onvergetelijke leeservaring. Sinds \u2018Bluets\u2019 van Maggie Nelson in 2009 verscheen, verwierf het een cultstatus. Het oogstte lof, won prijzen en vestigde haar eigen genre: dat van de literaire, associatieve, persoonlijke essayistiek.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789045043944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9045043947"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3BAtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3BAtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com/books?id=3BAtEAAAQBAJ&dq=intitle:%22Bluets%22+inauthor:%22Maggie+Nelson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3BAtEAAAQBAJ&dq=intitle:%22Bluets%22+inauthor:%22Maggie+Nelson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluets.html?hl=&id=3BAtEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3BAtEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bluets is een lofzang op de kleur blauw."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iKvfzwEACAAJ",
+      "etag": "yD+tMxNBwF0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iKvfzwEACAAJ",
+      "volumeInfo": {
+        "title": "From Bluets",
+        "authors": [
+          "Maggie Nelson"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1376036220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Broadsides"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iKvfzwEACAAJ&dq=intitle:%22Bluets%22+inauthor:%22Maggie+Nelson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iKvfzwEACAAJ&dq=intitle:%22Bluets%22+inauthor:%22Maggie+Nelson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/From_Bluets.html?hl=&id=iKvfzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iKvfzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

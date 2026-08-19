@@ -1,0 +1,37 @@
+{
+  "subjects": [
+    "Blue",
+    "Color (Philosophy)",
+    "Color (philosophy)"
+  ],
+  "key": "/works/OL5814581W",
+  "title": "Bluets",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1424506A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8457107,
+    10216022,
+    14193214
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T18:01:29.381935"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-16T01:04:38.423947"
+  }
+}

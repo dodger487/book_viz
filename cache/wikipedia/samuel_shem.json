@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Samuel Shem",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Samuel Shem</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q321071",
+  "titles": {
+    "canonical": "Samuel_Shem",
+    "normalized": "Samuel Shem",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Samuel Shem</span></span>"
+  },
+  "pageid": 876233,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361074715",
+  "tid": "ed5f15d6-7097-11f1-b6f4-e648ae87667b",
+  "timestamp": "2026-06-25T13:15:25Z",
+  "description": "American dramatist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Samuel_Shem",
+      "revisions": "https://en.wikipedia.org/wiki/Samuel_Shem?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Samuel_Shem?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Samuel_Shem"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Samuel_Shem",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Samuel_Shem",
+      "edit": "https://en.wikipedia.org/wiki/Samuel_Shem?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Samuel_Shem"
+    }
+  },
+  "extract": "Samuel Shem is the pen name of the American psychiatrist Stephen Joseph Bergman. His main works are The House of God and Mount Misery, both fictional but close-to-real first-hand descriptions of the training of doctors in the United States.",
+  "extract_html": "<p><b>Samuel Shem</b> is the pen name of the American psychiatrist <b>Stephen Joseph Bergman</b>. His main works are <i>The House of God</i> and <i>Mount Misery</i>, both fictional but close-to-real first-hand descriptions of the training of doctors in the United States.</p>"
+}

@@ -1,0 +1,247 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nKmmmYk_a34C",
+      "etag": "FJAI1Z0ExFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nKmmmYk_a34C",
+      "volumeInfo": {
+        "title": "The Devotion of Suspect X",
+        "subtitle": "A Detective Galileo Novel",
+        "authors": [
+          "Keigo Higashino"
+        ],
+        "publisher": "Minotaur Books",
+        "publishedDate": "2011-02-01",
+        "description": "Now a major motion picture on Netflix, Jaane Jaan This e-book now includes preview chapters from Higashino's newest mystery, SALVATION OF A SAINT. Yasuko Hanaoka is a divorced, single mother who thought she had finally escaped her abusive ex-husband Togashi. When he shows up one day to extort money from her, threatening both her and her teenaged daughter Misato, the situation quickly escalates into violence and Togashi ends up dead on her apartment floor. Overhearing the commotion, Yasuko's next door neighbor, middle-aged high school mathematics teacher Ishigami, offers his help, disposing not only of the body but plotting the cover-up step-by-step. When the body turns up and is identified, Detective Kusanagi draws the case and Yasuko comes under suspicion. Kusanagi is unable to find any obvious holes in Yasuko's manufactured alibi and yet is still sure that there's something wrong. Kusanagi brings in Dr. Manabu Yukawa, a physicist and college friend who frequently consults with the police. Yukawa, known to the police by the nickname Professor Galileo, went to college with Ishigami. After meeting up with him again, Yukawa is convinced that Ishigami had something to do with the murder. What ensues is a high level battle of wits, as Ishigami tries to protect Yasuko by outmaneuvering and outthinking Yukawa, who faces his most clever and determined opponent yet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429992312"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "142999231X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.15.14.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nKmmmYk_a34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nKmmmYk_a34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nKmmmYk_a34C&printsec=frontcover&dq=intitle:%22The+Devotion+of+Suspect+X%22+inauthor:%22Keigo+Higashino%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nKmmmYk_a34C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nKmmmYk_a34C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nKmmmYk_a34C&rdid=book-nKmmmYk_a34C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Devotion_of_Suspect_X-sample-epub.acsm?id=nKmmmYk_a34C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nKmmmYk_a34C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The critically acclaimed international bestselling novel by one of Japan&#39;s premier storytellers, Keigo Higashino&#39;s The Devotion of Suspect X marks the first book in his beloved Detective Galileo mysteries."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lpFmewAACAAJ",
+      "etag": "CQiy0TKiSbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lpFmewAACAAJ",
+      "volumeInfo": {
+        "title": "The Devotion of Suspect X",
+        "authors": [
+          "Keigo Higashino"
+        ],
+        "publishedDate": "2011",
+        "description": "Yasuko Hanaoka is a divorced, single mother who thought she had finally escaped her abusive ex-husband Togashi. When he shows up one day to extort money from her, threatening both her and her teenaged daughter Misato, the situation quickly escalates into violence and Togashi ends up dead on her apartment floor. Overhearing the commotion, Yasuko\u00bfs next door neighbor, middle-aged high school mathematics teacher Ishigami, offers his help, disposing not only of the body but plotting the cover-up step-by-step. When the body turns up and is identified, Detective Kusanagi draws the case and Yasuko comes under suspicion. Kusanagi is unable to find any obvious holes in Yasuko\u00bfs manufactured alibi and yet is still sure that there\u00bfs something wrong. Kusanagi brings in Dr. Manabu Yukawa, a physicist and college friend who frequently consults with the police. Yukawa, known to the police by the nickname Professor Galileo, went to college with Ishigami. After meeting up with him again, Yukawa is convinced that Ishigami had something to do with the murder. What ensues is a high level battle of wits, as Ishigami tries to protect Yasuko by outmaneuvering and outthinking Yukawa, who faces his most clever and determined opponent yet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1410436837"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781410436832"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lpFmewAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lpFmewAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lpFmewAACAAJ&dq=intitle:%22The+Devotion+of+Suspect+X%22+inauthor:%22Keigo+Higashino%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lpFmewAACAAJ&dq=intitle:%22The+Devotion+of+Suspect+X%22+inauthor:%22Keigo+Higashino%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Devotion_of_Suspect_X.html?hl=&id=lpFmewAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lpFmewAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Yasuko Hanaoka is a divorced, single mother who thought she had finally escaped her abusive ex-husband Togashi."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "huVwmAEACAAJ",
+      "etag": "O07STcFRz2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/huVwmAEACAAJ",
+      "volumeInfo": {
+        "title": "The Devotion of Suspect X",
+        "authors": [
+          "Keigo Higashino"
+        ],
+        "publisher": "Minotaur Books",
+        "publishedDate": "2011-02-01",
+        "description": "Yasuko Hanaoka is a divorced, single mother who thought she had finally escaped her abusive ex-husband Togashi. When he shows up one day to extort money from her, threatening both her and her teenaged daughter Misato, the situation quickly escalates into violence and Togashi ends up dead on her apartment floor. Overhearing the commotion, Yasuko\u2019s next door neighbor, middle-aged high school mathematics teacher Ishigami, offers his help, disposing not only of the body but plotting the cover-up step-by-step. When the body turns up and is identified, Detective Kusanagi draws the case and Yasuko comes under suspicion. Kusanagi is unable to find any obvious holes in Yasuko\u2019s manufactured alibi and yet is still sure that there\u2019s something wrong. Kusanagi brings in Dr. Manabu Yukawa, a physicist and college friend who frequently consults with the police. Yukawa, known to the police by the nickname Professor Galileo, went to college with Ishigami. After meeting up with him again, Yukawa is convinced that Ishigami had something to do with the murder. What ensues is a high level battle of wits, as Ishigami tries to protect Yasuko by outmaneuvering and outthinking Yukawa, who faces his most clever and determined opponent yet.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312375069"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312375065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=huVwmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=huVwmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=huVwmAEACAAJ&dq=intitle:%22The+Devotion+of+Suspect+X%22+inauthor:%22Keigo+Higashino%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=huVwmAEACAAJ&dq=intitle:%22The+Devotion+of+Suspect+X%22+inauthor:%22Keigo+Higashino%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Devotion_of_Suspect_X.html?hl=&id=huVwmAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=huVwmAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Yasuko Hanaoka is a divorced, single mother who thought she had finally escaped her abusive ex-husband Togashi."
+      }
+    }
+  ]
+}

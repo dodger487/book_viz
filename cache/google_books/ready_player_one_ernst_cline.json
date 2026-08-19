@@ -1,0 +1,251 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FY_HWAcm10MC",
+      "etag": "siB76B6bCg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FY_HWAcm10MC",
+      "volumeInfo": {
+        "title": "Ready Player One",
+        "authors": [
+          "Ernest Cline"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2011-08-16",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 Now a major motion picture directed by Steven Spielberg. \u201cEnchanting . . . Willy Wonka meets The Matrix.\u201d\u2014USA Today \u2022 \u201cAs one adventure leads expertly to the next, time simply evaporates.\u201d\u2014Entertainment Weekly A world at stake. A quest for the ultimate prize. Are you ready? In the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he\u2019s jacked into the OASIS, a vast virtual world where most of humanity spends their days. When the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune\u2014and control of the OASIS itself. Then Wade cracks the first clue. Suddenly he\u2019s beset by rivals who\u2019ll kill to take this prize. The race is on\u2014and the only way to survive is to win. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY Entertainment Weekly \u2022 San Francisco Chronicle \u2022 Village Voice \u2022 Chicago Sun-Times \u2022 iO9 \u2022 The AV Club \u201cDelightful . . . the grown-up\u2019s Harry Potter.\u201d\u2014HuffPost \u201cAn addictive read . . . part intergalactic scavenger hunt, part romance, and all heart.\u201d\u2014CNN \u201cA most excellent ride . . . Cline stuffs his novel with a cornucopia of pop culture, as if to wink to the reader.\u201d\u2014Boston Globe \u201cRidiculously fun and large-hearted . . . Cline is that rare writer who can translate his own dorky enthusiasms into prose that\u2019s both hilarious and compassionate.\u201d\u2014NPR \u201c[A] fantastic page-turner . . . starts out like a simple bit of fun and winds up feeling like a rich and plausible picture of future friendships in a world not too distant from our own.\u201d\u2014iO9",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307887450"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307887456"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 306,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "5.40.29.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FY_HWAcm10MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FY_HWAcm10MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FY_HWAcm10MC&printsec=frontcover&dq=intitle:%22Ready+Player+One%22+inauthor:%22Ernest+Cline%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FY_HWAcm10MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FY_HWAcm10MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FY_HWAcm10MC&rdid=book-FY_HWAcm10MC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ready_Player_One-sample-epub.acsm?id=FY_HWAcm10MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FY_HWAcm10MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY Entertainment Weekly \u2022 San Francisco Chronicle \u2022 Village Voice \u2022 Chicago Sun-Times \u2022 iO9 \u2022 The AV Club \u201cDelightful . . . the grown-up\u2019s Harry Potter.\u201d\u2014HuffPost \u201cAn addictive ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CW7NEQAAQBAJ",
+      "etag": "9FrI2xn7+GM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CW7NEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ready Player One",
+        "subtitle": "The Graphic Novel",
+        "authors": [
+          "Ernest Cline"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2026-10-06",
+        "description": "Immerse yourself in the electrifying world of Ready Player One with this gorgeously illustrated graphic adaptation of the #1 New York Times bestselling sci-fi novel. A world at stake. A quest for the ultimate prize. Are you ready? In the year 2045, reality is an ugly place. The only time Wade Watts really feels alive is when he\u2019s jacked into the OASIS, a vast virtual world where most of humanity spends their days. When the eccentric creator of the OASIS dies, he leaves behind a series of fiendish puzzles, based on his obsession with the pop culture of decades past. Whoever is first to solve them will inherit his vast fortune \u2013 and control of the OASIS itself. Then Wade cracks the first clue. Suddenly he\u2019s beset by rivals who\u2019ll kill to take this prize. The race is on \u2013 and the only way to survive is to win. Completely illustrated with breathtaking full-colour artwork, this stunning graphic novel adaptation brings you into Wade's exhilarating quest like never before!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781804949528"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1804949523"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "bb9f2a92869d873f_A",
+          "imageBubbleVersion": "bb9f2a92869d873f_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CW7NEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CW7NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CW7NEQAAQBAJ&dq=intitle:%22Ready+Player+One%22+inauthor:%22Ernest+Cline%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CW7NEQAAQBAJ&dq=intitle:%22Ready+Player+One%22+inauthor:%22Ernest+Cline%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ready_Player_One.html?hl=&id=CW7NEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CW7NEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The race is on \u2013 and the only way to survive is to win. Completely illustrated with breathtaking full-colour artwork, this stunning graphic novel adaptation brings you into Wade&#39;s exhilarating quest like never before!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "40NGzgEACAAJ",
+      "etag": "1PeiYxW/q3s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/40NGzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ready Player One (Movie Tie-In)",
+        "authors": [
+          "Ernest Cline",
+          "Perfection Learning Corporation"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "2019",
+        "description": "\"Now a major motion picture directed by Steven Spielberg\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1663615845"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781663615848"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=40NGzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=40NGzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=40NGzgEACAAJ&dq=intitle:%22Ready+Player+One%22+inauthor:%22Ernest+Cline%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=40NGzgEACAAJ&dq=intitle:%22Ready+Player+One%22+inauthor:%22Ernest+Cline%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ready_Player_One_Movie_Tie_In.html?hl=&id=40NGzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=40NGzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Now a major motion picture directed by Steven Spielberg&quot;--Cover."
+      }
+    }
+  ]
+}

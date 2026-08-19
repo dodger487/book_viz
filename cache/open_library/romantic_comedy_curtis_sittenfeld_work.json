@@ -1,0 +1,30 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Romantic Comedy",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10852038A"
+      }
+    }
+  ],
+  "key": "/works/OL30259343W",
+  "covers": [
+    13305330
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-11-26T18:08:11.316933"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-02-11T20:22:00.743128"
+  }
+}

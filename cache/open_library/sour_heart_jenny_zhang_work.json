@@ -1,0 +1,43 @@
+{
+  "covers": [
+    8045358
+  ],
+  "key": "/works/OL17762874W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7396290A"
+      }
+    }
+  ],
+  "title": "Sour Heart",
+  "subject_places": [
+    "New York (N.Y.)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Literary",
+    "Short Stories (single author)",
+    "Coming of Age",
+    "Immigrants",
+    "Fiction, short stories (single author)",
+    "New york (n.y.), fiction",
+    "Fiction, coming of age"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2017-08-08T09:55:39.154791"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T21:22:41.043111"
+  }
+}

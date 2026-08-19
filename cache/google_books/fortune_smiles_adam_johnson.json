@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m-f4DAAAQBAJ",
+      "etag": "ZuglZmYHsQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m-f4DAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fortune Smiles",
+        "subtitle": "Stories",
+        "authors": [
+          "Adam Johnson"
+        ],
+        "publisher": "Random House Trade Paperbacks",
+        "publishedDate": "2016-10-04",
+        "description": "The National Book Award\u2013winning story collection from the author of The Orphan Master\u2019s Son offers something rare in fiction: a new way of looking at the world. \u201cMASTERFUL.\u201d\u2014The Washington Post \u201cENTRANCING.\u201d\u2014O: The Oprah Magazine \u201cPERCEPTIVE AND BRAVE.\u201d\u2014The New York Times Throughout these six stories, Pulitzer Prize winner Adam Johnson delves deep into love and loss, natural disasters, the influence of technology, and how the political shapes the personal, giving voice to the perspectives we don\u2019t often hear. In \u201cNirvana,\u201d a programmer whose wife has a rare disease finds solace in a digital simulacrum of the president of the United States. In \u201cHurricanes Anonymous,\u201d a young man searches for the mother of his son in a Louisiana devastated by Hurricanes Katrina and Rita. \u201cGeorge Orwell Was a Friend of Mine\u201d follows a former warden of a Stasi prison in East Germany who vehemently denies his past, even as pieces of it are delivered in packages to his door. And in the unforgettable title story, Johnson returns to his signature subject, North Korea, depicting two defectors from Pyongyang who are trying to adapt to their new lives in Seoul, while one cannot forget the woman he left behind. WINNER OF THE STORY PRIZE \u2022 A NEW YORK TIMES NOTABLE BOOK NAMED ONE OF THE TEN BEST BOOKS OF THE YEAR BY The Miami Herald \u2022 San Francisco Chronicle \u2022 USA Today AND ONE OF THE BEST BOOKS OF THE YEAR BY The Washington Post \u2022 NPR \u2022 Marie Claire \u2022 St. Louis Post-Dispatch \u2022 BuzzFeed \u2022 The Daily Beast \u2022 Los Angeles Magazine \u2022 The Independent \u2022 BookPage \u2022 Kirkus Reviews \u201cRemarkable . . . Adam Johnson is one of America\u2019s greatest living writers.\u201d\u2014The Huffington Post \u201cHaunting, harrowing . . . Johnson\u2019s writing is as rich in compassion as it is in invention, and that rare combination makes Fortune Smiles worth treasuring.\u201d\u2014USA Today \u201cFortune Smiles [blends] exotic scenarios, morally compromised characters, high-wire action, rigorously limber prose, dense thickets of emotion, and, most critically, our current techno-moment.\u201d\u2014The Boston Globe \u201cJohnson\u2019s boundary-pushing stories make for exhilarating reading.\u201d\u2014San Francisco Chronicle",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812987232"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812987233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m-f4DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m-f4DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=m-f4DAAAQBAJ&printsec=frontcover&dq=intitle:%22Fortune+Smiles%22+inauthor:%22Adam+Johnson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=m-f4DAAAQBAJ&dq=intitle:%22Fortune+Smiles%22+inauthor:%22Adam+Johnson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fortune_Smiles.html?hl=&id=m-f4DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m-f4DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The National Book Award\u2013winning story collection from the author of The Orphan Master\u2019s Son offers something rare in fiction: a new way of looking at the world. \u201cMASTERFUL.\u201d\u2014The Washington Post \u201cENTRANCING.\u201d\u2014O: The Oprah ..."
+      }
+    }
+  ]
+}

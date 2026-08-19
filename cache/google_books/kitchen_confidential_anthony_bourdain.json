@@ -1,0 +1,229 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "eTGgAwAAQBAJ",
+      "etag": "TwEzglQvshg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTGgAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kitchen Confidential",
+        "subtitle": "Adventures in the Culinary Underbelly",
+        "authors": [
+          "Anthony Bourdain"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2000-05-22",
+        "description": "A New York City chef who is also a novelist recounts his experiences in the restaurant business, and exposes abuses of power, sexual promiscuity, drug use, and other secrets of life behind kitchen doors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781582340821"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "158234082X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.127.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eTGgAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eTGgAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eTGgAwAAQBAJ&printsec=frontcover&dq=intitle:%22Kitchen+Confidential%22+inauthor:%22Anthony+Bourdain%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eTGgAwAAQBAJ&dq=intitle:%22Kitchen+Confidential%22+inauthor:%22Anthony+Bourdain%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitchen_Confidential.html?hl=&id=eTGgAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Kitchen_Confidential-sample-pdf.acsm?id=eTGgAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTGgAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A New York City chef who is also a novelist recounts his experiences in the restaurant business, and exposes abuses of power, sexual promiscuity, drug use, and other secrets of life behind kitchen doors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CA44uQEACAAJ",
+      "etag": "ElPFYR+n3fM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CA44uQEACAAJ",
+      "volumeInfo": {
+        "title": "Kitchen Confidential Deluxe Edition",
+        "subtitle": "Adventures in the Culinary Underbelly",
+        "authors": [
+          "Anthony Bourdain"
+        ],
+        "publisher": "Ecco",
+        "publishedDate": "2018-10-23",
+        "description": "A new, deluxe edition of Kitchen Confidential to celebrate the life of Anthony Bourdain. The book will feature a brand new introduction, a Q&A with Ecco publisher and Bourdain\u2019s long-time editor Daniel Halpern. Interior pages are hand-annotated by Anthony Bourdain himself. The interior will also feature a brand new drawing by Ralph Steadman. Almost two decades ago, the New Yorker published a now infamous article, \u201cDon\u2019t Eat before You Read This,\u201d by then little-known chef Anthony Bourdain. Bourdain spared no one\u2019s appetite as he revealed what happens behind the kitchen door. The article was a sensation, and the book it spawned, the now classic Kitchen Confidential, became an even bigger sensation, a megabestseller with over one million copies in print. Frankly confessional, addictively acerbic, and utterly unsparing, Bourdain pulls no punches in this memoir of his years in the restaurant business\u2014this time with never-before-published material.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062899546"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062899545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CA44uQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CA44uQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CA44uQEACAAJ&dq=intitle:%22Kitchen+Confidential%22+inauthor:%22Anthony+Bourdain%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CA44uQEACAAJ&dq=intitle:%22Kitchen+Confidential%22+inauthor:%22Anthony+Bourdain%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitchen_Confidential_Deluxe_Edition.html?hl=&id=CA44uQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CA44uQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A new, deluxe edition of Kitchen Confidential to celebrate the life of Anthony Bourdain. The book will feature a brand new introduction, a Q&amp;A with Ecco publisher and Bourdain\u2019s long-time editor Daniel Halpern."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mJUGuwAACAAJ",
+      "etag": "efIBJj1dTn8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mJUGuwAACAAJ",
+      "volumeInfo": {
+        "title": "Kitchen Confidential, Insider's Edition",
+        "subtitle": "Adventures in the Culinary Underbelly",
+        "authors": [
+          "Anthony Bourdain"
+        ],
+        "publisher": "Ecco",
+        "publishedDate": "2012-10-30",
+        "description": "A pocket-size edition of the megabestselling classic, hand-annotated throughout by Anthony Bourdain himself. Bourdain's deliciously funny, delectably shocking banquet of wild-but-true tales of life in the culinary trade lays out more than a quarter century of drugs, sex, and haute cuisine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062231375"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062231376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mJUGuwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mJUGuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mJUGuwAACAAJ&dq=intitle:%22Kitchen+Confidential%22+inauthor:%22Anthony+Bourdain%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mJUGuwAACAAJ&dq=intitle:%22Kitchen+Confidential%22+inauthor:%22Anthony+Bourdain%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitchen_Confidential_Insider_s_Edition.html?hl=&id=mJUGuwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mJUGuwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A pocket-size edition of the megabestselling classic, hand-annotated throughout by Anthony Bourdain himself."
+      }
+    }
+  ]
+}

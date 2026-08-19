@@ -1,0 +1,82 @@
+{
+  "description": "***John le Carr\u00e9's classic novels deftly navigate readers through the intricate shadow worlds of international espionage*** with unsurpassed skill and knowledge, and have earned him -- and his hero, **British Secret Service Agent George Smiley -- unprecedented worldwide acclaim.**\r\n\r\n**In Smiley\u2019s People, master storyteller John le Carr\u00e9 brings his acclaimed Karla trilogy to its unforgettable, spellbinding conclusion.**George Smiley is asked to come out of retirement for one last confrontation with his soviet counterpart, Karla.** Smiley's people crisscross Paris, London, Germany, and Switzerland in an extraordinary final showdown of unrelenting suspense.***--LibraryThing***\r\n\r\n***A very junior agent answers Vladimir\u2019s call, but it could have been the Chief of the Circus himself. No one at the British Secret Service considers the old spy to be anything except a senile has-been who can\u2019t give up the game\u2014until he\u2019s shot in the face at point-blank range.*** Although George Smiley (code name: Max) is officially retired, he\u2019s summoned to identify the body now bearing Moscow Centre\u2019s bloody imprimatur. As he works to unearth his friend\u2019s fatal secrets, Smiley heads inexorably toward one final reckoning with Karla\u2014his \u201cdark grail.\u201d***--Amazon***",
+  "links": [
+    {
+      "url": "https://www.fictiondb.com/author/john-le-carre~smileys-people~65817~b.htm",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "About Book: (Fiction Data Base)"
+    },
+    {
+      "url": "https://openlibrary.org/search?q=title%3A+%22Smiley%27s+People%22&mode=ebooks&has_fulltext=true",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Borrow this book (4 available)"
+    }
+  ],
+  "title": "Smiley's People",
+  "covers": [
+    7315617
+  ],
+  "subject_places": [
+    "Cambridge Circus",
+    "London",
+    "Germany Paris",
+    "Switzerland",
+    "Soviet Union"
+  ],
+  "subjects": [
+    "John le Carr\u00e9",
+    "America's #1 Bestseller",
+    "Fiction",
+    "Book",
+    "Books",
+    "Literature",
+    "Stories",
+    "Story",
+    "Espionage",
+    "British",
+    "Secret Service",
+    "Detective",
+    "Mystery",
+    "Suspense",
+    "Thriller",
+    "Spy stories",
+    "Large type books",
+    "George Smiley (Fictitious character)",
+    "Smiley, george (fictitious character), fiction",
+    "Fiction, thrillers, espionage"
+  ],
+  "subject_people": [
+    "George Smiley (Fictitious character)"
+  ],
+  "key": "/works/OL15723133W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2101074A"
+      }
+    }
+  ],
+  "subject_times": [
+    "1979"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-05-04T04:56:55.623174"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-04T02:20:25.851149"
+  }
+}

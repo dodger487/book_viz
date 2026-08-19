@@ -1,0 +1,129 @@
+{
+  "numFound": 11,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 11,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "cover_edition_key": "OL5909204M",
+      "cover_i": 7013626,
+      "ebook_access": "borrowable",
+      "edition_count": 144,
+      "first_publish_year": 1962,
+      "has_fulltext": true,
+      "ia": [
+        "derspionderausde0000leca",
+        "laspiachevenneda0000leca",
+        "lespionquivenait0000leca",
+        "spionaandemuur0000john",
+        "elespiaquesurgio0000leca",
+        "spywhocameinfrom0000leca_z4x5",
+        "1963spywhocameinfrom00leca",
+        "fivenovelsofjohn0000leca",
+        "spywhocameinfrom0000leca_o8s3",
+        "bolindieyingspyw0000leik",
+        "bwb_S0-ASL-811",
+        "spywhocameinfrom0000leca_v4k7",
+        "spywhocameinfrom0000leca_o0j4",
+        "spywhocameinfrom0000leca_v5q3",
+        "spywhocameinfrom0000john_u5d8",
+        "spywhocameinfrom00john",
+        "spywhocameinfrom0000leca_w0k1",
+        "spywhocameinfrom0000leca",
+        "spywhocameinfrom00john_3",
+        "spywhocameinfrom0000leca_l2y7",
+        "spywhocameinfro000leca",
+        "spywhocameinfrom00john_0",
+        "spywhocameinfrom00leca"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "salisburyfreelibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "uni-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL15723140W",
+      "language": [
+        "rus",
+        "heb",
+        "chi",
+        "ger",
+        "eng",
+        "spa",
+        "ita",
+        "vie",
+        "fre",
+        "por"
+      ],
+      "lending_edition_s": "OL35349225M",
+      "lending_identifier_s": "derspionderausde0000leca",
+      "public_scan_b": false,
+      "title": "The Spy Who Came in from the Cold"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "threecompletenov0000john"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL29087263W",
+      "lending_edition_s": "OL40008656M",
+      "lending_identifier_s": "threecompletenov0000john",
+      "public_scan_b": false,
+      "title": "Three Complete Novels~Call For The Dead~A Murder Of Quality~The Spy Who Came In From The Cold"
+    },
+    {
+      "author_key": [
+        "OL2101074A"
+      ],
+      "author_name": [
+        "John le Carr\u00e9"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1980,
+      "has_fulltext": false,
+      "key": "/works/OL35412859W",
+      "public_scan_b": false,
+      "title": "The Spy Who Came in From the Cold, Call for the Dead, A Murder of Quality, The Looking-Glass War, A Small Town in Germany"
+    }
+  ]
+}

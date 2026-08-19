@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jonathan Kozol",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jonathan Kozol</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1703223",
+  "titles": {
+    "canonical": "Jonathan_Kozol",
+    "normalized": "Jonathan Kozol",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jonathan Kozol</span></span>"
+  },
+  "pageid": 861410,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jonathan_Kozol_%285991655898%29.jpg/330px-Jonathan_Kozol_%285991655898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jonathan_Kozol_%285991655898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3456,
+    "height": 5184
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361493050",
+  "tid": "d4d4420f-72c5-11f1-a9c0-c6cb45beafba",
+  "timestamp": "2026-06-28T07:49:03Z",
+  "description": "American activist and educator",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jonathan_Kozol",
+      "revisions": "https://en.wikipedia.org/wiki/Jonathan_Kozol?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jonathan_Kozol?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonathan_Kozol"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jonathan_Kozol",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jonathan_Kozol",
+      "edit": "https://en.wikipedia.org/wiki/Jonathan_Kozol?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonathan_Kozol"
+    }
+  },
+  "extract": "Jonathan Kozol is an American writer, progressive activist, and educator, best known for his books on public education in the United States.",
+  "extract_html": "<p><b>Jonathan Kozol</b> is an American writer, progressive activist, and educator, best known for his books on public education in the United States.</p>"
+}

@@ -1,0 +1,62 @@
+{
+  "subtitle": "Why Helping Others Drives Our Success",
+  "key": "/works/OL17312332W",
+  "title": "Give and Take",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3272258A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7365446A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    7391212,
+    8167467,
+    10308784
+  ],
+  "subjects": [
+    "Success, psychological aspects",
+    "Success in business",
+    "Interpersonal relations",
+    "Social networks",
+    "Altruism",
+    "nyt:paperback-nonfiction=2014-04-13",
+    "New York Times bestseller",
+    "Success",
+    "Psychological aspects",
+    "Social Support",
+    "Achievement",
+    "Psycological aspects",
+    "nyt:combined-print-and-e-book-nonfiction=2013-04-28",
+    "Successful people",
+    "Attitudes"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "For generations, we have focused on the individual drivers of success: passion, hard work, talent, and luck. But in today's dramatically reconfigured world, success is increasingly dependent on how we interact with others. This book illuminates what effective networking, collaboration, influence, negotiation, and leadership skills have in common. The author examines the surprising forces that shape why some people rise to the top of the success ladder while others sink to the bottom. In professional interactions, it turns out that most people operate as either takers, matchers, or givers. Whereas takers strive to get as much as possible from others and matchers aim to trade evenly, givers are the rare breed of people who contribute to others without expecting anything in return. Using his own studies, the author reveals that these styles have a dramatic impact on success. Although some givers get exploited and burn out, the rest achieve extraordinary results across a wide range of industries. Combining evidence with stories, this book shows how one of America's best networkers developed his connections; why the creative genius behind one of the most popular shows in television history toiled for years in anonymity; how a basketball executive responsible for multiple draft busts transformed his franchise into a winner; and how we could have anticipated Enron's demise four years before the company collapsed, without ever looking at a single number."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-01-12T23:06:25.599850"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-09-09T19:33:17.578993"
+  }
+}

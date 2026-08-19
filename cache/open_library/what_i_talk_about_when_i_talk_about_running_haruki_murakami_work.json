@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "What I Talk About When I Talk About Running",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL382524A"
+      }
+    }
+  ],
+  "key": "/works/OL31446613W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-12-07T10:30:28.043477"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-25T14:48:33.220562"
+  }
+}

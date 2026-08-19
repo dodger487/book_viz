@@ -1,0 +1,58 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3297555A",
+        "OL8227672A"
+      ],
+      "author_name": [
+        "Tim Wu",
+        "Tim Wu"
+      ],
+      "cover_edition_key": "OL27406142M",
+      "cover_i": 8868199,
+      "ebook_access": "printdisabled",
+      "edition_count": 6,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "attentionmerchan0000wuti"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL19667653W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Attention Merchants"
+    }
+  ]
+}

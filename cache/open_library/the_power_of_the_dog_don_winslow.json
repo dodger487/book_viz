@@ -1,0 +1,75 @@
+{
+  "numFound": 6,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 6,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL240995A"
+      ],
+      "author_name": [
+        "Don Winslow"
+      ],
+      "cover_edition_key": "OL25565894M",
+      "cover_i": 8574607,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL16984030W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The power of the dog"
+    },
+    {
+      "author_key": [
+        "OL240995A"
+      ],
+      "author_name": [
+        "Don Winslow"
+      ],
+      "cover_edition_key": "OL3310985M",
+      "cover_i": 225782,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "powerofdog00wins"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL2001139W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The power of the dog"
+    },
+    {
+      "author_key": [
+        "OL5407295A"
+      ],
+      "author_name": [
+        "Don Winslow"
+      ],
+      "cover_edition_key": "OL27584867M",
+      "cover_i": 9038564,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2006,
+      "has_fulltext": false,
+      "key": "/works/OL20370757W",
+      "public_scan_b": false,
+      "title": "The Power of the Dog"
+    }
+  ]
+}

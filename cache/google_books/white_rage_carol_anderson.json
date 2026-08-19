@@ -1,0 +1,223 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "aYvzDwAAQBAJ",
+      "etag": "RHUHihk5xFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aYvzDwAAQBAJ",
+      "volumeInfo": {
+        "title": "White Rage",
+        "subtitle": "The Unspoken Truth of Our Racial Divide",
+        "authors": [
+          "Carol Anderson"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2020-07-23",
+        "description": "THE NEW YORK TIMES BESTSELLER From the Civil War to our combustible present, White Rage reframes the continuing conversation about race in America, chronicling the history of the powerful forces opposed to black progress. Since the abolishment of slavery in 1865, every time African Americans have made advances towards full democratic participation, white reaction has fuelled a rollback of any gains. Carefully linking historical flashpoints \u2013 from the post-Civil War Black Codes and Jim Crow to expressions of white rage after the election of America's first black president \u2013 Carol Anderson renders visible the long lineage of white rage and the different names under which it hides. Compelling and dramatic in the history it relates, White Rage adds a vital new dimension to the conversation about race in America. 'Beautifully written and exhaustively researched' CHIMAMANDA NGOZI ADICHIE 'An extraordinarily timely and urgent call to confront the legacy of structural racism' NEW YORK TIMES BOOK REVIEW 'Brilliant' ROBIN DIANGELO, AUTHOR OF WHITE FRAGILITY",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781526631633"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1526631636"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 297,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aYvzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aYvzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aYvzDwAAQBAJ&printsec=frontcover&dq=intitle:%22White+Rage%22+inauthor:%22Carol+Anderson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aYvzDwAAQBAJ&dq=intitle:%22White+Rage%22+inauthor:%22Carol+Anderson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Rage.html?hl=&id=aYvzDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aYvzDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Carefully linking historical flashpoints \u2013 from the post-Civil War Black Codes and Jim Crow to expressions of white rage after the election of America&#39;s first black president \u2013 Carol Anderson renders visible the long lineage of white ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G5UyEAAAQBAJ",
+      "etag": "lBRECEOP59c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G5UyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "White Rage",
+        "subtitle": "The Unspoken Truth of Our Racial Divide",
+        "authors": [
+          "Carol Anderson",
+          "Carol Elaine Anderson"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2016-01-01",
+        "description": "National Book Critics Circle Award Winner New York Times Bestseller A New York Times Notable Book of the Year A Washington Post Notable Nonfiction Book of the Year A Boston Globe Best Book of 2016 A Chicago Review of Books Best Nonfiction Book of 2016 From the Civil War to our combustible present, White Rage reframes our continuing conversation about race, chronicling the powerful forces opposed to black progress in America--now in paperback with a new afterword by the author, acclaimed historian Carol Anderson. As Ferguson, Missouri, erupted in August 2014, and media commentators across the ideological spectrum referred to the angry response of African Americans as \u201cblack rage,\u201d historian Carol Anderson wrote a remarkable op-ed in The Washington Post suggesting that this was, instead, \"white rage at work. With so much attention on the flames,\" she argued, \"everyone had ignored the kindling.\" Since 1865 and the passage of the Thirteenth Amendment, every time African Americans have made advances towards full participation in our democracy, white reaction has fueled a deliberate and relentless rollback of their gains. The end of the Civil War and Reconstruction was greeted with the Black Codes and Jim Crow; the Supreme Court's landmark 1954 Brown v. Board of Education decision was met with the shutting down of public schools throughout the South while taxpayer dollars financed segregated white private schools; the Civil Rights Act of 1964 and Voting Rights Act of 1965 triggered a coded but powerful response, the so-called Southern Strategy and the War on Drugs that disenfranchised millions of African Americans while propelling presidents Nixon and Reagan into the White House, and then the election of America's first black President, led to the expression of white rage that has been as relentless as it has been brutal. Carefully linking these and other historical flashpoints when social progress for African Americans was countered by deliberate and cleverly crafted opposition, Anderson pulls back the veil that has long covered actions made in the name of protecting democracy, fiscal responsibility, or protection against fraud, rendering visible the long lineage of white rage. Compelling and dramatic in the unimpeachable history it relates, White Rage will add an important new dimension to the national conversation about race in America.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781632864130"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1632864134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G5UyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G5UyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=G5UyEAAAQBAJ&printsec=frontcover&dq=intitle:%22White+Rage%22+inauthor:%22Carol+Anderson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=G5UyEAAAQBAJ&dq=intitle:%22White+Rage%22+inauthor:%22Carol+Anderson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/White_Rage.html?hl=&id=G5UyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/White_Rage-sample-pdf.acsm?id=G5UyEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G5UyEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "National Book Critics Circle Award Winner New York Times Bestseller A New York Times Notable Book of the Year A Washington Post Notable Nonfiction Book of the Year A Boston Globe Best Book of 2016 A Chicago Review of Books Best Nonfiction ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fbDqvgEACAAJ",
+      "etag": "KvDBEXZsajA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fbDqvgEACAAJ",
+      "volumeInfo": {
+        "title": "Summary of White Rage Carol Anderson",
+        "authors": [
+          "Carol Elaine Anderson"
+        ],
+        "publishedDate": "2017",
+        "description": "\"Foster a deeper understanding of the book. Promote an atmosphere of discussion for groups. Assist in stude of the book. Explore unseen realms of the book as never seen before.\" -- Back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1389447308"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781389447303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "African Americans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fbDqvgEACAAJ&dq=intitle:%22White+Rage%22+inauthor:%22Carol+Anderson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fbDqvgEACAAJ&dq=intitle:%22White+Rage%22+inauthor:%22Carol+Anderson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Summary_of_White_Rage_Carol_Anderson.html?hl=&id=fbDqvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fbDqvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Foster a deeper understanding of the book. Promote an atmosphere of discussion for groups. Assist in stude of the book. Explore unseen realms of the book as never seen before.&quot;--Back cover"
+      }
+    }
+  ]
+}

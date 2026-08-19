@@ -1,0 +1,247 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "JPPpcoLyPwIC",
+      "etag": "hFOu1z7KqRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JPPpcoLyPwIC",
+      "volumeInfo": {
+        "title": "Bobos in Paradise",
+        "subtitle": "The New Upper Class and How They Got There",
+        "authors": [
+          "David Brooks"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2010-05-11",
+        "description": "In his bestselling work of \u201ccomic sociology,\u201d David Brooks coins a new word, Bobo, to describe today\u2019s upper class\u2014those who have wed the bourgeois world of capitalist enterprise to the hippie values of the bohemian counterculture. Their hybrid lifestyle is the atmosphere we breathe, and in this witty and serious look at the cultural consequences of the information age, Brooks has defined a new generation. Do you believe that spending $15,000 on a media center is vulgar, but that spending $15,000 on a slate shower stall is a sign that you are at one with the Zenlike rhythms of nature? Do you work for one of those visionary software companies where people come to work wearing hiking boots and glacier glasses, as if a wall of ice were about to come sliding through the parking lot? If so, you might be a Bobo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416561736"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416561730"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JPPpcoLyPwIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JPPpcoLyPwIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JPPpcoLyPwIC&printsec=frontcover&dq=intitle:%22Bobos+in+Paradise%22+inauthor:%22David+Brooks%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JPPpcoLyPwIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JPPpcoLyPwIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JPPpcoLyPwIC&rdid=book-JPPpcoLyPwIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bobos_in_Paradise-sample-epub.acsm?id=JPPpcoLyPwIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JPPpcoLyPwIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this witty and bestselling look at the cultural consequences of the information age, David Brooks coins a new word, Bobo, to describe today\u2019s upper class\u2014those who have wed the bourgeois world of capitalist enterprise to the hippie ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oGeNl2hYxHgC",
+      "etag": "jf+40G3gjCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oGeNl2hYxHgC",
+      "volumeInfo": {
+        "title": "The Paradise Suite",
+        "subtitle": "Bobos in Paradise and On Paradise Drive",
+        "authors": [
+          "David Brooks"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2011-10-25",
+        "description": "Originally published as: Bobos in Paradise: the new upper class and how they got there, 2000; and: On Paradise Drive: how we live now (and always have) in the future tense, 2004.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451649178"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451649177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 610,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oGeNl2hYxHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oGeNl2hYxHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oGeNl2hYxHgC&printsec=frontcover&dq=intitle:%22Bobos+in+Paradise%22+inauthor:%22David+Brooks%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oGeNl2hYxHgC&dq=intitle:%22Bobos+in+Paradise%22+inauthor:%22David+Brooks%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Paradise_Suite.html?hl=&id=oGeNl2hYxHgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oGeNl2hYxHgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Originally published as: Bobos in Paradise: the new upper class and how they got there, 2000; and: On Paradise Drive: how we live now (and always have) in the future tense, 2004."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8chZzQEACAAJ",
+      "etag": "pd4kNVOJ5/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8chZzQEACAAJ",
+      "volumeInfo": {
+        "title": "Bobos in Paradise: 20th Anniversary Edition",
+        "subtitle": "The New Upper Class and How They Got There",
+        "authors": [
+          "David Brooks"
+        ],
+        "publisher": "Simon & Schuster",
+        "publishedDate": "2020-10-06",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1982158204"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982158200"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8chZzQEACAAJ&dq=intitle:%22Bobos+in+Paradise%22+inauthor:%22David+Brooks%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8chZzQEACAAJ&dq=intitle:%22Bobos+in+Paradise%22+inauthor:%22David+Brooks%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bobos_in_Paradise_20th_Anniversary_Editi.html?hl=&id=8chZzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8chZzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Simon &amp; Schuster book. Simon &amp; Schuster has a great book for every reader."
+      }
+    }
+  ]
+}

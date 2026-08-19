@@ -1,0 +1,49 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "**FOLLOWING HER SERIES, HUGO, NEBULA, AND WORLD FANTASY-NOMINATED DEBUT SERIES, N. K. JEMISIN RETURNS WITH A CAPTIVATING NEW TALE.**\r\n\r\nIn the ancient city-state of Gujaareh, peace is the only law. Upon its rooftops and among the shadows of its cobbled streets wait the Gatherers--the keepers of this peace. Their duty is to harvest the magic of the sleeping mind and use it to heal, soothe...and kill those judged corrupt.\r\n\r\nBut when a conspiracy blooms within Gujaareh's great temple, Ehiru--the most famous of the city's Gatherers--must question everything he knows. Someone, or something, is stalking its prey both in Gujaareh's alleys and the realm of dreams. Ehiru must now protect the woman he was sent to kill--or watch the city be devoured by war and forbidden magic.\r\n\r\nThis description comes from the publisher. *The Killing Moon* is the first book in the Dreamblood Duology."
+  },
+  "covers": [
+    7554263,
+    10654646
+  ],
+  "key": "/works/OL17425966W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6575473A"
+      }
+    }
+  ],
+  "title": "The Killing Moon",
+  "subjects": [
+    "Magic",
+    "Conspiracies",
+    "Dreams",
+    "Fiction",
+    "Fiction, fantasy, general",
+    "Corruption",
+    "Peace",
+    "Priests",
+    "Gods",
+    "Phantastische Literatur",
+    "Amerikanisches Englisch",
+    "Gods and goddesses"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-10-14T06:28:08.353094"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-12T12:13:12.647056"
+  }
+}

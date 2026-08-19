@@ -1,0 +1,101 @@
+{
+  "numFound": 10,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 10,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1157403A"
+      ],
+      "author_name": [
+        "Tom Holland"
+      ],
+      "cover_edition_key": "OL10446406M",
+      "cover_i": 2380298,
+      "ebook_access": "printdisabled",
+      "edition_count": 6,
+      "first_publish_year": 2003,
+      "has_fulltext": true,
+      "ia": [
+        "rubiconlastyears00holl",
+        "rubicon0000holl",
+        "rubicon00tomh"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "framingham-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL5188679W",
+      "language": [
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Rubicon"
+    },
+    {
+      "author_key": [
+        "OL1157403A"
+      ],
+      "author_name": [
+        "Tom Holland"
+      ],
+      "cover_edition_key": "OL3363775M",
+      "cover_i": 2380297,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL2550605W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Rubicon"
+    },
+    {
+      "author_key": [
+        "OL1157403A"
+      ],
+      "author_name": [
+        "Tom Holland"
+      ],
+      "cover_edition_key": "OL27086056M",
+      "cover_i": 8716481,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL19900422W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Rubicon"
+    }
+  ]
+}

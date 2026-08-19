@@ -1,0 +1,55 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1604887A"
+      ],
+      "author_name": [
+        "Ted Chiang"
+      ],
+      "cover_edition_key": "OL3956559M",
+      "cover_i": 524046,
+      "ebook_access": "borrowable",
+      "edition_count": 34,
+      "first_publish_year": 2002,
+      "has_fulltext": true,
+      "ia": [
+        "niyishengdegushi0000chia",
+        "tangsininsaengui0000chia",
+        "latourdebabylone0000chia",
+        "storiesofyourlif0000meig",
+        "arrival0000chia",
+        "storiesofyourlif0000chia",
+        "isbn_9780765304193"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL6216050W",
+      "language": [
+        "chi",
+        "fre",
+        "eng",
+        "jpn",
+        "tur",
+        "ita",
+        "kor"
+      ],
+      "lending_edition_s": "OL37762665M",
+      "lending_identifier_s": "niyishengdegushi0000chia",
+      "public_scan_b": false,
+      "title": "Stories of Your Life and Others"
+    }
+  ]
+}

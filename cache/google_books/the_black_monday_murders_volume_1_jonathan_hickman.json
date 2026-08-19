@@ -1,0 +1,141 @@
+{
+  "kind": "books#volume",
+  "id": "FwDuDQAAQBAJ",
+  "etag": "U9UYRKLzdh8",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/FwDuDQAAQBAJ",
+  "volumeInfo": {
+    "title": "The Black Monday Murders Vol. 1",
+    "authors": [
+      "Jonathan Hickman"
+    ],
+    "publisher": "Image Comics",
+    "publishedDate": "2017-01-25",
+    "description": "It's the first collection of the exciting new crypto-noir series, THE BLACK MONDAY MURDERS. All Hail God Mammon\u0094 pulls the covers back on the secret world of magic lying behind the largest and oldest financial institutions in the world. Collects THE BLACK MONDAY MURDERS #1-4.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1534302840"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781534302846"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 240,
+    "printedPageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels / Crime & Mystery"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": true,
+      "containsImageBubbles": true,
+      "epubBubbleVersion": "b2eeba2e40db6f9b",
+      "imageBubbleVersion": "b2eeba2e40db6f9b"
+    },
+    "comicsContent": true,
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=FwDuDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72rbdGdop1fum5zUZSfyUrDVoy0ebAnw9gq-iWP9YyI7JJABMrst3w2aFKGeXgKfDmZwfciPFyvDlt6TPTKrJGo7oHuTEAAMe3UohUZK-3bYUA576olGY1Czh-yHhebfq6BDPq-&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=FwDuDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70JTYUcCxuTO4DqbfVdfhnC_PKxHKLRRYJJF-tvrRHH8TyqSvTnpBOrhGtVg4SzR9oLhJK9lwMmduETMxkEpiyzna9741IZvKIh5BcQgKcSto0WcNZ2eQwX0YuAoAUCVYYsKbWL&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=FwDuDQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70awtOQkApUA17Vs9qBdrDsxdMl3_V99UkCU590NCKYnjvnhOVkCQB0eoaK0V4QW8xGdi1tSKGF4CDebkNkvvlyGzpooD3KZXKRcCw_4TaHsOtSMphh8H9FNt-tbdwnK7ENqwaL&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=FwDuDQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73q4UB_5POHwRcoVZiCkAefT1jRVZodPRyVPWGTuX00amT1FvzhaJ1bSmqUWu7jVXW3pnZanaD7U9AY-XwgeRiBSN9yHhbCyJvBxrJ1vpLbFeugmoFZU6LE6B2elpD8U_4G-5gO&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=FwDuDQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE7356Aeq_Af1oKXcLMZfZK0bkLkAAKSV1ZduOw3N7T09Sxw5Mn_w1nm2y35fJXHiLh9Piy0ZFPQWYZIAkJF0Rfyy7QQKqOiXemDLF5xXg55aRyHK2_ubSIWUx2GH2fa2LM8ITPDX&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=FwDuDQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71wzhgEDYsiOXhe0AZoQLZTeeb3C-D9MlvVXOaclIx-s-JeWEmpzll9ARi2IH0efV8BR3UwXiPV3RutdCDjgZHhojRZzIVLRaZoyeN-_lYHpx3r_VZnzFgEIAQLlWhwvcuG--Hh&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FwDuDQAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FwDuDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FwDuDQAAQBAJ",
+    "seriesInfo": {
+      "kind": "books#volume_series_info",
+      "bookDisplayNumber": "1",
+      "volumeSeries": [
+        {
+          "seriesId": "AEg6GQAAABA7UM",
+          "seriesBookType": "COLLECTED_EDITION",
+          "orderNumber": 1,
+          "issue": [
+            {
+              "issueOrderNumber": 1,
+              "issueDisplayNumber": "1"
+            },
+            {
+              "issueOrderNumber": 2,
+              "issueDisplayNumber": "2"
+            },
+            {
+              "issueOrderNumber": 3,
+              "issueDisplayNumber": "3"
+            },
+            {
+              "issueOrderNumber": 4,
+              "issueDisplayNumber": "4"
+            },
+            {
+              "issueDisplayNumber": "39"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "5"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 15.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 15.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FwDuDQAAQBAJ&rdid=book-FwDuDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 15990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 15990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FwDuDQAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

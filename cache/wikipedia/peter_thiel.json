@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Peter Thiel",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Peter Thiel</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q705525",
+  "titles": {
+    "canonical": "Peter_Thiel",
+    "normalized": "Peter Thiel",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Peter Thiel</span></span>"
+  },
+  "pageid": 610532,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg/330px-Peter_Thiel_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 434
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2642,
+    "height": 3477
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368220641",
+  "tid": "f1d23e4d-9297-11f1-a703-3b153c0dc070",
+  "timestamp": "2026-08-07T19:41:12Z",
+  "description": "American entrepreneur and venture capitalist (born 1967)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Thiel",
+      "revisions": "https://en.wikipedia.org/wiki/Peter_Thiel?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Thiel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Thiel"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Peter_Thiel",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Peter_Thiel",
+      "edit": "https://en.wikipedia.org/wiki/Peter_Thiel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Thiel"
+    }
+  },
+  "extract": "Peter Andreas Thiel is a German-American entrepreneur, venture capitalist, and conservative political activist. A co-founder of PayPal (1998), Palantir Technologies (2003), and Founders Fund (2005), he was also the first outside investor in Facebook (2004). According to The New York Times, as of December 2025, Thiel's estimated net worth stood at US$27.5 billion, placing him among the 100 richest individuals in the world.",
+  "extract_html": "<p><b>Peter Andreas Thiel</b> is a German-American entrepreneur, venture capitalist, and conservative political activist. A co-founder of PayPal (1998), Palantir Technologies (2003), and Founders Fund (2005), he was also the first outside investor in Facebook (2004). According to <i>The New York Times</i>, as of December 2025, Thiel's estimated net worth stood at US$27.5 billion, placing him among the 100 richest individuals in the world.</p>"
+}

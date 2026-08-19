@@ -1,0 +1,275 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HHJwDwAAQBAJ",
+      "etag": "pgJzeY34sL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HHJwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gideon the Ninth",
+        "authors": [
+          "Tamsyn Muir"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2019-09-10",
+        "description": "Gideon the Ninth is the first book in the New York Times and USA Today Bestselling Locked Tomb Series, and one of the Best Books of 2019 according to NPR, the New York Public Library, Amazon, BookPage, Shelf Awareness, BookRiot, and Bustle! WINNER of the 2020 Locus Award and Crawford Award Finalist for the 2023 Hugo Award for Best Series! Finalist for the 2020 Hugo, Nebula, Dragon, and World Fantasy Awards \u201cUnlike anything I\u2019ve ever read. \u201d \u2014V.E. Schwab \u201cLesbian necromancers explore a haunted gothic palace in space!\u201d \u2014Charles Stross \u201cDeft, tense and atmospheric, compellingly immersive and wildly original.\u201d \u2014The New York Times The Emperor needs necromancers. The Ninth Necromancer needs a swordswoman. Gideon has a sword, some dirty magazines, and no more time for undead nonsense. Tamsyn Muir\u2019s Gideon the Ninth unveils a solar system of swordplay, cut-throat politics, and lesbian necromancers. Her characters leap off the page, as skillfully animated as arcane revenants. The result is a heart-pounding epic science fantasy. Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won\u2019t set her free without a service. Harrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will be become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon\u2019s sword, Harrow will fail, and the Ninth House will die. Of course, some things are better left dead. THE LOCKED TOMB SERIES BOOK 1: Gideon the Ninth BOOK 2: Harrow the Ninth BOOK 3: Nona the Ninth BOOK 4: Alecto the Ninth At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250313171"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250313171"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.9.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HHJwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HHJwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HHJwDwAAQBAJ&printsec=frontcover&dq=intitle:%22Gideon+the+Ninth%22+inauthor:%22Tamsyn+Muir%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HHJwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HHJwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HHJwDwAAQBAJ&rdid=book-HHJwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HHJwDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gideon the Ninth is the first book in the New York Times and USA Today Bestselling Locked Tomb Series, and one of the Best Books of 2019 according to NPR, the New York Public Library, Amazon, BookPage, Shelf Awareness, BookRiot, and Bustle!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jg6ZDwAAQBAJ",
+      "etag": "FXCpQEhWvSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jg6ZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gideon the Ninth: Act One",
+        "subtitle": "Free Ebook Preview",
+        "authors": [
+          "Tamsyn Muir"
+        ],
+        "publisher": "Tor.com",
+        "publishedDate": "2019-06-11",
+        "description": "Can't wait to discover the power of lesbian necromancers in space? Check out this free ebook preview of Tamsyn Muir's Gideon the Ninth. Read the whole first act of this epic science fantasy for free. The full book of Gideon the Ninth is available for pre-order now, and on sale everywhere September 10, 2019. The Emperor needs necromancers. The Ninth Necromancer needs a swordswoman. Gideon has a sword, some dirty magazines, and no more time for undead bullshit. Tamsyn Muir\u2019s Gideon the Ninth unveils a solar system of swordplay, cut-throat politics, and lesbian necromancers. Her characters leap off the page, as skillfully animated as necromantic skeletons. The result is a heart-pounding epic science fantasy. Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won\u2019t set her free without a service. Harrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will be become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon\u2019s sword, Harrow will fail, and the Ninth House will die. Of course, some things are better left dead. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250246110"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250246113"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jg6ZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jg6ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Jg6ZDwAAQBAJ&printsec=frontcover&dq=intitle:%22Gideon+the+Ninth%22+inauthor:%22Tamsyn+Muir%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Jg6ZDwAAQBAJ&dq=intitle:%22Gideon+the+Ninth%22+inauthor:%22Tamsyn+Muir%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gideon_the_Ninth_Act_One.html?hl=&id=Jg6ZDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jg6ZDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Read the whole first act of this epic science fantasy for free. The full book of Gideon the Ninth is available for pre-order now, and on sale everywhere September 10, 2019. The Emperor needs necromancers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KJo2EQAAQBAJ",
+      "etag": "gLOINyg+GV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KJo2EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Locked Tomb Series",
+        "subtitle": "Gideon the Ninth, Harrow the Ninth, Nona the Ninth",
+        "authors": [
+          "Tamsyn Muir"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2024-12-31",
+        "description": "The New York Times and USA Today bestselling Locked Tomb Series follows the dread adventures of Gideon Nav, Harrowhark Nonagesimus, and a host of other goths. These epic science fantasy novels mix funny tone with dark subject matter, and contain swashbuckling action, waves of bones, and lesbian necromancers in space. WINNER of the 2020 Locus Award and Crawford Award Finalist for the 2023 Hugo Award for Best Series! Finalist for the 2020 Hugo, Nebula, Dragon, and World Fantasy Awards \u201cUnlike anything I\u2019ve ever read.\u201d \u2014V.E. Schwab, #1 New York Times Bestselling Author The Emperor needs necromancers. The Ninth Necromancer needs a swordswoman. Gideon has a sword, some dirty magazines, and no more time for undead nonsense. Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won\u2019t set her free without a service. Harrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will be become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon\u2019s sword, Harrow will fail, and the Ninth House will die. Of course, some things are better left dead. This ebundle includes: Book 1: Gideon the Ninth Book 2: Harrow the Ninth Book 3: Nona the Ninth At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250412515"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "125041251X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1187,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KJo2EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KJo2EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KJo2EQAAQBAJ&printsec=frontcover&dq=intitle:%22Gideon+the+Ninth%22+inauthor:%22Tamsyn+Muir%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KJo2EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KJo2EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.78,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 28.78,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KJo2EQAAQBAJ&rdid=book-KJo2EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28780000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 28780000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KJo2EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This ebundle includes: Book 1: Gideon the Ninth Book 2: Harrow the Ninth Book 3: Nona the Ninth At the Publisher&#39;s request, this title is being sold without Digital Rights Management Software (DRM) applied."
+      }
+    }
+  ]
+}

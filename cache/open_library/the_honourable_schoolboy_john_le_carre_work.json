@@ -1,0 +1,59 @@
+{
+  "description": "In the aftermath of the events described in *Tinker, Tailor, Soldier, Spy*, George Smiley attempts to bring the Circus back from the brink and undo the damage caused by the traitor/mole Bill Haydon while still pursuing his \"arch nemesis\" Karla.",
+  "title": "The Honourable Schoolboy",
+  "covers": [
+    2398611
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Afterwards, in the dusty little corners where London's secret servants drink together, there was argument about where the Dolphin case history should really begin."
+  },
+  "subject_places": [
+    "Great Britain"
+  ],
+  "first_publish_date": "1977",
+  "key": "/works/OL181823W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2101074A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "823/.914"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Intelligence service in fiction",
+    "Fiction in English",
+    "American Spy stories",
+    "Intelligence service",
+    "George Smiley (Fictitious character)",
+    "Fiction",
+    "English Spy stories",
+    "Great Britain. MI6",
+    "Great Britain",
+    "Secret service",
+    "Large type books",
+    "Smiley, george (fictitious character), fiction",
+    "Great britain, fiction",
+    "Fiction, thrillers, espionage",
+    "Fiction, thrillers, general"
+  ],
+  "latest_revision": 21,
+  "revision": 21,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-20T20:31:38.370637"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-03T18:29:12.482638"
+  }
+}

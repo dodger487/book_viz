@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David Grann",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Grann</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4354395",
+  "titles": {
+    "canonical": "David_Grann",
+    "normalized": "David Grann",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Grann</span></span>"
+  },
+  "pageid": 21230152,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2023_National_Book_Festival_%2853123065191%29_%28cropped%29.jpg/330px-2023_National_Book_Festival_%2853123065191%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/2023_National_Book_Festival_%2853123065191%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1233,
+    "height": 1644
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1357111120",
+  "tid": "eb6f9322-5d2f-11f1-a69f-5e56632297c7",
+  "timestamp": "2026-05-31T20:33:02Z",
+  "description": "American journalist (born 1967)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_Grann",
+      "revisions": "https://en.wikipedia.org/wiki/David_Grann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_Grann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Grann"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_Grann",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Grann",
+      "edit": "https://en.wikipedia.org/wiki/David_Grann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Grann"
+    }
+  },
+  "extract": "David Elliot Grann is an American journalist, a staff writer for The New Yorker, and author.",
+  "extract_html": "<p><b>David Elliot Grann</b> is an American journalist, a staff writer for <i>The New Yorker</i>, and author.</p>"
+}

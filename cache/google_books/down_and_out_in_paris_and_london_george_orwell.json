@@ -1,0 +1,242 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "75zhEAAAQBAJ",
+      "etag": "G+o5y3x5sEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/75zhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Down and Out in Paris and London",
+        "subtitle": "A Gritty Memoir on Life & Poverty in Two Cities",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2023-11-10",
+        "description": "In \"Down and Out in Paris and London,\" George Orwell intricately weaves a narrative that explores the harrowing realities of poverty and social injustice through his keen observations of life on the margins. The book oscillates between the bustling streets of Paris and the grim atmospheres of London, capturing the essence of transient existence in a tone that is both poignant and satirical. Through vivid descriptions and a memoir-like style, Orwell immerses the reader in the struggles of the destitute, providing a profound social commentary that reflects the socio-economic disparities of the early 20th century. George Orwell, born Eric Arthur Blair, was profoundly influenced by his experiences in the working class, which led him to adopt a politically charged perspective throughout his literary career. His time spent in the slums of London and the impoverished quarters of Paris instilled a deep empathy for the downtrodden, motivating him to highlight the human condition. This autobiographical account not only reveals Orwell's disdain for capitalism but also showcases his commitment to truth and transparency in writing. \"Down and Out in Paris and London\" is essential reading for those seeking to understand the societal structures that perpetuate inequality. With its unflinching honesty and powerful insight, it invites readers to confront the uncomfortable realities of poverty, making it a compelling and thought-provoking exploration that resonates well beyond its time.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547717195"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 197,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=75zhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=75zhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=75zhEAAAQBAJ&printsec=frontcover&dq=intitle:%22Down+and+Out+in+Paris+and+London%22+inauthor:%22George+Orwell%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=75zhEAAAQBAJ&dq=intitle:%22Down+and+Out+in+Paris+and+London%22+inauthor:%22George+Orwell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Down_and_Out_in_Paris_and_London.html?hl=&id=75zhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_in_Paris_and_London-sample-epub.acsm?id=75zhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_in_Paris_and_London-sample-pdf.acsm?id=75zhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=75zhEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book oscillates between the bustling streets of Paris and the grim atmospheres of London, capturing the essence of transient existence in a tone that is both poignant and satirical."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LkpoEAAAQBAJ",
+      "etag": "LZrjPi9+7TU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LkpoEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Down and Out in Paris and London",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "epubli",
+        "publishedDate": "2021-01-03",
+        "description": "\"Down and Out in Paris and London\" is the first full-length work by the English author George Orwell, published in 1933. It is a memoir in two parts on the theme of poverty in the two cities, which was written deliberately in a non-academic tone. Its target audience was the middle and upper class members of society\u2014those who were more likely to be well educated\u2014and exposes the poverty existing in two prosperous cities: Paris and London. The first part is an account of living in near-destitution in Paris and the experience of casual labour in restaurant kitchens. The second part is a travelogue of life on the road in and around London from the tramp's perspective, with descriptions of the types of hostel accommodation available and some of the characters to be found living on the margins.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783753142517"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3753142514"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 227,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LkpoEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LkpoEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LkpoEAAAQBAJ&printsec=frontcover&dq=intitle:%22Down+and+Out+in+Paris+and+London%22+inauthor:%22George+Orwell%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LkpoEAAAQBAJ&dq=intitle:%22Down+and+Out+in+Paris+and+London%22+inauthor:%22George+Orwell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Down_and_Out_in_Paris_and_London.html?hl=&id=LkpoEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_in_Paris_and_London-sample-epub.acsm?id=LkpoEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_in_Paris_and_London-sample-pdf.acsm?id=LkpoEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LkpoEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Down and Out in Paris and London&quot; is the first full-length work by the English author George Orwell, published in 1933."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VBTTEAAAQBAJ",
+      "etag": "GKa2dY1zkiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VBTTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Down and Out In Paris and London",
+        "subtitle": "Down and Out in Paris and London: George Orwell's Gritty Tale of Hardship",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "Namaskar Book",
+        "publishedDate": "2024-02-02",
+        "description": "Embark on a raw and gritty journey through the underbelly of society with George Orwell's compelling narrative, \"Down and Out in Paris and London.\" Prepare to be immersed in a world of hardship, resilience, and the struggle for survival as Orwell paints a vivid portrait of life on the margins. As you delve into this stark and unflinching tale, be prepared to confront the harsh realities faced by the dispossessed and downtrodden. Follow Orwell's poignant observations and gripping anecdotes as he navigates the streets of Paris and London, shining a light on the lives of those often overlooked by society. But amidst the squalor and despair, a powerful question emerges: What does it mean to live on the fringes of society, and what insights can we gain from those who inhabit its darkest corners? Orwell's narrative offers a sobering glimpse into the lives of the marginalized, challenging readers to confront their own perceptions of poverty and privilege. Join Orwell on a journey of empathy and understanding as he encounters a cast of unforgettable characters, each struggling to survive in a world that offers little mercy. Through their stories, Orwell sheds light on the resilience of the human spirit and the enduring power of solidarity in the face of adversity. Are you ready to confront the harsh realities of life on the streets with \"Down and Out in Paris and London\" by George Orwell? Prepare to be moved and challenged by Orwell's uncompromising portrayal of poverty and hardship. Whether you're a fan of Orwell's work or new to his writing, this book promises to leave a lasting impression and ignite important conversations about social justice and compassion. Here's your chance to immerse yourself in Orwell's gritty tale of survival and resilience. Dive into \"Down and Out in Paris and London\" now and experience the transformative power of empathy and understanding. Seize the opportunity to broaden your perspective and engage with the realities of life on the margins. Purchase \"Down and Out in Paris and London\" today and join Orwell on a journey through the heart of human struggle and solidarity.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VBTTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VBTTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VBTTEAAAQBAJ&printsec=frontcover&dq=intitle:%22Down+and+Out+in+Paris+and+London%22+inauthor:%22George+Orwell%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VBTTEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VBTTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.28,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.28,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=VBTTEAAAQBAJ&rdid=book-VBTTEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 280000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 280000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_In_Paris_and_London-sample-epub.acsm?id=VBTTEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Down_and_Out_In_Paris_and_London-sample-pdf.acsm?id=VBTTEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VBTTEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether you&#39;re a fan of Orwell&#39;s work or new to his writing, this book promises to leave a lasting impression and ignite important conversations about social justice and compassion."
+      }
+    }
+  ]
+}

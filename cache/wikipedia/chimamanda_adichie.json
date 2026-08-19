@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Chimamanda Ngozi Adichie",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chimamanda Ngozi Adichie</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q230141",
+  "titles": {
+    "canonical": "Chimamanda_Ngozi_Adichie",
+    "normalized": "Chimamanda Ngozi Adichie",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chimamanda Ngozi Adichie</span></span>"
+  },
+  "pageid": 621845,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chimamanda_Ngozi_Adichie_%282015%29.png/330px-Chimamanda_Ngozi_Adichie_%282015%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 425
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chimamanda_Ngozi_Adichie_%282015%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 696,
+    "height": 897
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365448498",
+  "tid": "7f443b1f-85d2-11f1-a80b-b3f974ff48ef",
+  "timestamp": "2026-07-22T13:37:35Z",
+  "description": "Nigerian writer (born 1977)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie",
+      "revisions": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chimamanda_Ngozi_Adichie"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Chimamanda_Ngozi_Adichie",
+      "edit": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chimamanda_Ngozi_Adichie"
+    }
+  },
+  "extract": "Chimamanda Ngozi Adichie is a Nigerian writer, whose works include fiction, nonfiction, and lectures. She is widely recognised as a central figure in postcolonial feminist literature.",
+  "extract_html": "<p><b>Chimamanda Ngozi Adichie</b> is a Nigerian writer, whose works include fiction, nonfiction, and lectures. She is widely recognised as a central figure in postcolonial feminist literature.</p>"
+}

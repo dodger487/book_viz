@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cWQJJIgJNtUC",
+      "etag": "lAs2hlgBuUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cWQJJIgJNtUC",
+      "volumeInfo": {
+        "title": "Freedom",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jonathan Franzen"
+        ],
+        "publisher": "Farrar, Straus and Giroux",
+        "publishedDate": "2010-08-31",
+        "description": "Patty and Walter Berglund were the new pioneers of old St. Paul\u2014the gentrifiers, the hands-on parents, the avant-garde of the Whole Foods generation. Patty was the ideal sort of neighbor, who could tell you where to recycle your batteries and how to get the local cops to actually do their job. She was an enviably perfect mother and the wife of Walter's dreams. Together with Walter\u2014environmental lawyer, commuter cyclist, total family man\u2014she was doing her small part to build a better world. But now, in the new millennium, the Berglunds have become a mystery. Why has their teenage son moved in with the aggressively Republican family next door? Why has Walter taken a job working with Big Coal? What exactly is Richard Katz\u2014outr\u00e9 rocker and Walter's college best friend and rival\u2014still doing in the picture? Most of all, what has happened to Patty? Why has the bright star of Barrier Street become \"a very different kind of neighbor,\" an implacable Fury coming unhinged before the street's attentive eyes? In his first novel since The Corrections, Jonathan Franzen has given us an epic of contemporary love and marriage. Freedom comically and tragically captures the temptations and burdens of liberty: the thrills of teenage lust, the shaken compromises of middle age, the wages of suburban sprawl, the heavy weight of empire. In charting the mistakes and joys of Freedom's characters as they struggle to learn how to live in an ever more confusing world, Franzen has produced an indelible and deeply moving portrait of our time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429979436"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1429979437"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 573,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 32,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.9.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cWQJJIgJNtUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cWQJJIgJNtUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cWQJJIgJNtUC&printsec=frontcover&dq=intitle:%22Freedom%22+inauthor:%22Jonathan+Franzen%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cWQJJIgJNtUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cWQJJIgJNtUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cWQJJIgJNtUC&rdid=book-cWQJJIgJNtUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Freedom-sample-epub.acsm?id=cWQJJIgJNtUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cWQJJIgJNtUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In charting the mistakes and joys of Freedom&#39;s characters as they struggle to learn how to live in an ever more confusing world, Franzen has produced an indelible and deeply moving portrait of our time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V7c2EAAAQBAJ",
+      "etag": "1ZwTXlmjQzc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V7c2EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Freedom",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jonathan Franzen"
+        ],
+        "publisher": "Picador USA",
+        "publishedDate": "2021-10-12",
+        "description": "From the National Book Award-winning author of The Corrections, a darkly comedic novel about family.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250823991"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250823994"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V7c2EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V7c2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=V7c2EAAAQBAJ&dq=intitle:%22Freedom%22+inauthor:%22Jonathan+Franzen%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=V7c2EAAAQBAJ&dq=intitle:%22Freedom%22+inauthor:%22Jonathan+Franzen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Freedom.html?hl=&id=V7c2EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V7c2EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the National Book Award-winning author of The Corrections, a darkly comedic novel about family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Mr3zwEACAAJ",
+      "etag": "v3Go6yNLuvY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Mr3zwEACAAJ",
+      "volumeInfo": {
+        "title": "Freedom - Oprah #64",
+        "subtitle": "A Novel",
+        "authors": [
+          "Jonathan Franzen"
+        ],
+        "publisher": "Farrar, Straus and Giroux",
+        "publishedDate": "2010-09-17",
+        "description": "Patty and Walter Berglund were the new pioneers of old St. Paul\u2014the gentrifiers, the hands-on parents, the avant-garde of the Whole Foods generation. Patty was the ideal sort of neighbor, who could tell you where to recycle your batteries and how to get the local cops to actually do their job. She was an enviably perfect mother and the wife of Walter\u2019s dreams. Together with Walter\u2014environmental lawyer, commuter cyclist, total family man\u2014she was doing her small part to build a better world. But now, in the new millennium, the Berglunds have become a mystery. Why has their teenage son moved in with the aggressively Republican family next door? Why has Walter taken a job working with Big Coal? What exactly is Richard Katz\u2014outr\u00e9 rocker and Walter\u2019s college best friend and rival\u2014still doing in the picture? Most of all, what has happened to Patty? Why has the bright star of Barrier Street become \u201ca very different kind of neighbor,\u201d an implacable Fury coming unhinged before the street\u2019s attentive eyes? In his first novel since The Corrections, Jonathan Franzen has given us an epic of contemporary love and marriage. Freedom comically and tragically captures the temptations and burdens of liberty: the thrills of teenage lust, the shaken compromises of middle age, the wages of suburban sprawl, the heavy weight of empire. In charting the mistakes and joys of Freedom\u2019s characters as they struggle to learn how to live in an ever more confusing world, Franzen has produced an indelible and deeply moving portrait of our time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0312600844"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312600846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8Mr3zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8Mr3zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8Mr3zwEACAAJ&dq=intitle:%22Freedom%22+inauthor:%22Jonathan+Franzen%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8Mr3zwEACAAJ&dq=intitle:%22Freedom%22+inauthor:%22Jonathan+Franzen%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Freedom_Oprah_64.html?hl=&id=8Mr3zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Mr3zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In his first novel since The Corrections, Jonathan Franzen has given us an epic of contemporary love and marriage."
+      }
+    }
+  ]
+}

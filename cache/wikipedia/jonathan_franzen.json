@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jonathan Franzen",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jonathan Franzen</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q316607",
+  "titles": {
+    "canonical": "Jonathan_Franzen",
+    "normalized": "Jonathan Franzen",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jonathan Franzen</span></span>"
+  },
+  "pageid": 172101,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jonathan_Franzen_2011_Shankbone_2.JPG/330px-Jonathan_Franzen_2011_Shankbone_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 455
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jonathan_Franzen_2011_Shankbone_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2472,
+    "height": 3410
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365871125",
+  "tid": "6befc77c-87b2-11f1-b5dc-9738cabcc50e",
+  "timestamp": "2026-07-24T22:53:01Z",
+  "description": "American writer (born 1959)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jonathan_Franzen",
+      "revisions": "https://en.wikipedia.org/wiki/Jonathan_Franzen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jonathan_Franzen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonathan_Franzen"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jonathan_Franzen",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jonathan_Franzen",
+      "edit": "https://en.wikipedia.org/wiki/Jonathan_Franzen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jonathan_Franzen"
+    }
+  },
+  "extract": "Jonathan Earl Franzen is an American novelist and essayist. His 2001 novel The Corrections drew widespread critical acclaim, earned Franzen a National Book Award, was a Pulitzer Prize for Fiction finalist, earned a James Tait Black Memorial Prize, and was shortlisted for the International Dublin Literary Award. His novel Freedom (2010) garnered similar praise and led to an appearance on the cover of Time magazine alongside the headline \"Great American Novelist\". Franzen's latest novel Crossroads was published in 2021, and is the first in a projected trilogy.",
+  "extract_html": "<p><b>Jonathan Earl Franzen</b> is an American novelist and essayist. His 2001 novel <i>The Corrections</i> drew widespread critical acclaim, earned Franzen a National Book Award, was a Pulitzer Prize for Fiction finalist, earned a James Tait Black Memorial Prize, and was shortlisted for the International Dublin Literary Award. His novel <i>Freedom</i> (2010) garnered similar praise and led to an appearance on the cover of <span><i>Time</i> magazine</span> alongside the headline \"Great American Novelist\". Franzen's latest novel <i>Crossroads</i> was published in 2021, and is the first in a projected trilogy.</p>"
+}

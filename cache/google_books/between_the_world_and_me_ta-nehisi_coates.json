@@ -1,0 +1,175 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TV05BgAAQBAJ",
+      "etag": "oeseKoztyxE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TV05BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Between the World and Me",
+        "authors": [
+          "Ta-Nehisi Coates"
+        ],
+        "publisher": "One World",
+        "publishedDate": "2015-07-14",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 NATIONAL BOOK AWARD WINNER \u2022 NAMED ONE OF TIME\u2019S TEN BEST NONFICTION BOOKS OF THE DECADE \u2022 PULITZER PRIZE FINALIST \u2022 NATIONAL BOOK CRITICS CIRCLE AWARD FINALIST \u2022 ONE OF OPRAH\u2019S \u201cBOOKS THAT HELP ME THROUGH\u201d \u2022 NOW AN HBO ORIGINAL SPECIAL EVENT Hailed by Toni Morrison as \u201crequired reading,\u201d a bold and personal literary exploration of America\u2019s racial history by \u201cthe most important essayist in a generation and a writer who changed the national political conversation about race\u201d (Rolling Stone) NAMED ONE OF THE NEW YORK TIMES\u2019S 100 BEST BOOKS OF THE 21ST CENTURY \u2022 NAMED ONE OF THE MOST INFLUENTIAL BOOKS OF THE DECADE BY CNN \u2022 NAMED ONE OF PASTE\u2019S BEST MEMOIRS OF THE DECADE \u2022 A KIRKUS REVIEWS BEST NONFICTION BOOK OF THE CENTURY ONE OF THE TEN BEST BOOKS OF THE YEAR: The New York Times Book Review, O: The Oprah Magazine, The Washington Post, People, Entertainment Weekly, Vogue, Los Angeles Times, San Francisco Chronicle, Chicago Tribune, New York, Newsday, Library Journal, Publishers Weekly In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation\u2019s history and current crisis. Americans have built an empire on the idea of \u201crace,\u201d a falsehood that damages us all but falls most heavily on the bodies of black women and men\u2014bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden? Between the World and Me is Ta-Nehisi Coates\u2019s attempt to answer these questions in a letter to his adolescent son. Coates shares with his son\u2014and readers\u2014the story of his awakening to the truth about his place in the world through a series of revelatory experiences, from Howard University to Civil War battlefields, from the South Side of Chicago to Paris, from his childhood home to the living rooms of mothers whose children\u2019s lives were taken as American plunder. Beautifully woven from personal narrative, reimagined history, and fresh, emotionally charged reportage, Between the World and Me clearly illuminates the past, bracingly confronts our present, and offers a transcendent vision for a way forward.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780679645986"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0679645985"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.27.21.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TV05BgAAQBAJ&printsec=frontcover&dq=intitle:%22Between+the+World+and+Me%22+inauthor:%22Ta-Nehisi+Coates%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TV05BgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TV05BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TV05BgAAQBAJ&rdid=book-TV05BgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Between_the_World_and_Me-sample-epub.acsm?id=TV05BgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TV05BgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "#1 NEW YORK TIMES BESTSELLER \u2022 NATIONAL BOOK AWARD WINNER \u2022 NAMED ONE OF TIME\u2019S TEN BEST NONFICTION BOOKS OF THE DECADE \u2022 PULITZER PRIZE FINALIST \u2022 NATIONAL BOOK CRITICS CIRCLE AWARD FINALIST \u2022 ONE OF OPRAH\u2019S \u201cBOOKS THAT ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jKMYjgEACAAJ",
+      "etag": "f9tNiLA9msc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jKMYjgEACAAJ",
+      "volumeInfo": {
+        "title": "Between the World and Me",
+        "subtitle": "By Ta-Nehisi Coates Unofficial Summary and Analysis",
+        "authors": [
+          "Ta-Nehisi Coates",
+          "Tomcat Publishing"
+        ],
+        "publishedDate": "2015-07-28",
+        "description": "Disclaimer: This is an independent and unofficial addition to Between the World and Me, meant to enhance your experience of the original book. If you have not yet bought the original copy, make sure to purchase it before buying this unofficial summary.SPECIAL OFFER $2.99 (Regularly priced: $3.99) Between the World and Me was published in 2014 after the highly public and racist acts of law enforcement agents against blacks. The events that followed was a racist fueled terrorist act in Charleston, South Carolina. Ta-Nehisi's book talks about racial issues surrounding America and his personal experiences growing up around these issues. There is a residual skeletal outline that surrounds the travesties and effects of the kingdom serial and racial issues surrounding contemporary America. This book is written as a long personal narrative and letter written to his fourteen year old son who is going to grow up within the confines of a racist and prejudiced system. This review offers a detailed summary of the main themes of the book, followed by an analysis. Ta-Nehisi Coates is known as the forefront author in regards to racial issues. He is known for his previous books and is known for writing in several famous publication. He graduated from Howard University.Read more.... Download your copy today! for a limited time discount of only $2.99! Available on PC, Mac, smart phone, tablet or Kindle device. (c) 2015 All Rights Reserved",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1516966503"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781516966509"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "African Americans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jKMYjgEACAAJ&dq=intitle:%22Between+the+World+and+Me%22+inauthor:%22Ta-Nehisi+Coates%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jKMYjgEACAAJ&dq=intitle:%22Between+the+World+and+Me%22+inauthor:%22Ta-Nehisi+Coates%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Between_the_World_and_Me.html?hl=&id=jKMYjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jKMYjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Disclaimer: This is an independent and unofficial addition to Between the World and Me, meant to enhance your experience of the original book."
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Yuval Noah Harari",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yuval Noah Harari</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2484404",
+  "titles": {
+    "canonical": "Yuval_Noah_Harari",
+    "normalized": "Yuval Noah Harari",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yuval Noah Harari</span></span>"
+  },
+  "pageid": 36254359,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg/330px-MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/MKr364751_Yuval_Noah_Harari_%28Frankfurter_Buchmesse_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2513,
+    "height": 3767
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367658252",
+  "tid": "d5b06fa5-8ff7-11f1-a92f-382b3890aa5c",
+  "timestamp": "2026-08-04T11:30:03Z",
+  "description": "Israeli historian and philosopher (born 1976)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari",
+      "revisions": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Yuval_Noah_Harari"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Yuval_Noah_Harari",
+      "edit": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Yuval_Noah_Harari"
+    }
+  },
+  "extract": "Yuval Noah Harari is an Israeli medievalist, military historian, public intellectual, and popular science writer. He is a professor of history at the Hebrew University of Jerusalem. His first bestselling book, Sapiens: A Brief History of Humankind (2011) is based on his lectures to an undergraduate world history class. His other works include the bestsellers Homo Deus: A Brief History of Tomorrow (2016), 21 Lessons for the 21st Century (2018), and Nexus: A Brief History of Information Networks from the Stone Age to AI (2024). His published work examines themes of free will, consciousness, intelligence, happiness, suffering and the role of storytelling in human evolution.",
+  "extract_html": "<p><b>Yuval Noah Harari</b> is an Israeli medievalist, military historian, public intellectual, and popular science writer. He is a professor of history at the Hebrew University of Jerusalem. His first bestselling book, <i>Sapiens: A Brief History of Humankind</i> (2011) is based on his lectures to an undergraduate world history class. His other works include the bestsellers <i>Homo Deus: A Brief History of Tomorrow</i> (2016), <i>21 Lessons for the 21st Century</i> (2018), and <i>Nexus: A Brief History of Information Networks from the Stone Age to AI</i> (2024). His published work examines themes of free will, consciousness, intelligence, happiness, suffering and the role of storytelling in human evolution.</p>"
+}

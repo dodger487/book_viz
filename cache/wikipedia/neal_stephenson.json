@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Neal Stephenson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Neal Stephenson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q312853",
+  "titles": {
+    "canonical": "Neal_Stephenson",
+    "normalized": "Neal Stephenson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Neal Stephenson</span></span>"
+  },
+  "pageid": 21443,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Neal_Stephenson_in_2019_A_021.jpg/330px-Neal_Stephenson_in_2019_A_021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Neal_Stephenson_in_2019_A_021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2488,
+    "height": 3732
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1360474896",
+  "tid": "ce613b7a-6d9c-11f1-8fed-7d5e8c824b10",
+  "timestamp": "2026-06-21T18:12:47Z",
+  "description": "American speculative fiction writer (born 1959)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Neal_Stephenson",
+      "revisions": "https://en.wikipedia.org/wiki/Neal_Stephenson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Neal_Stephenson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Neal_Stephenson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Neal_Stephenson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Neal_Stephenson",
+      "edit": "https://en.wikipedia.org/wiki/Neal_Stephenson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Neal_Stephenson"
+    }
+  },
+  "extract": "Neal Town Stephenson is an American writer known for his works of speculative fiction. His novels have been categorized as science fiction, historical fiction, cyberpunk, and baroque.",
+  "extract_html": "<p><b>Neal Town Stephenson</b> is an American writer known for his works of speculative fiction. His novels have been categorized as science fiction, historical fiction, cyberpunk, and baroque.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Charles Duhigg",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Duhigg</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5076992",
+  "titles": {
+    "canonical": "Charles_Duhigg",
+    "normalized": "Charles Duhigg",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Duhigg</span></span>"
+  },
+  "pageid": 27175938,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Charles_Duhigg_at_the_Leading_Through_Excellence_summit_in_2013_%28cropped%29.jpg/330px-Charles_Duhigg_at_the_Leading_Through_Excellence_summit_in_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 438
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Charles_Duhigg_at_the_Leading_Through_Excellence_summit_in_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1032,
+    "height": 1369
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1355897633",
+  "tid": "049e9ff5-5784-11f1-9693-b984180b8c34",
+  "timestamp": "2026-05-24T15:19:55Z",
+  "description": "American journalist and author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Charles_Duhigg",
+      "revisions": "https://en.wikipedia.org/wiki/Charles_Duhigg?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Charles_Duhigg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Duhigg"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Charles_Duhigg",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Charles_Duhigg",
+      "edit": "https://en.wikipedia.org/wiki/Charles_Duhigg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Duhigg"
+    }
+  },
+  "extract": "Charles Duhigg is an American journalist and non-fiction author. He was a reporter for The New York Times. He currently writes for The New Yorker Magazine and is the author of three books: The Power of Habit: Why We Do What We Do in Life and Business, Smarter Faster Better and Supercommunicators: How to Unlock the Secret Language of Connection. In 2013, Duhigg was the recipient of the Pulitzer Prize for Explanatory Reporting for a series of ten articles on the business practices of Apple and other technology companies.",
+  "extract_html": "<p><b>Charles Duhigg</b> is an American journalist and non-fiction author. He was a reporter for <i>The New York Times.</i> He currently writes for <i>The New Yorker Magazine</i> and is the author of three books: <i>The Power of Habit: Why We Do What We Do in Life and Business</i>, <i>Smarter Faster Better</i> and <i>Supercommunicators: How to Unlock the Secret Language of Connection.</i> In 2013, Duhigg was the recipient of the Pulitzer Prize for Explanatory Reporting for a series of ten articles on the business practices of Apple and other technology companies.</p>"
+}

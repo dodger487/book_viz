@@ -1,0 +1,50 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Late in life, William F. Buckley made a confession to Corey Robin. Capitalism is \"boring,\" said the founding father of the American right. \"Devoting your life to it,\" as conservatives do, \"is horrifying if only because it's so repetitious. It's like sex.\" With this unlikely conversation began Robin's decade-long foray into the conservative mind. What is conservatism, and what's truly at stake for its proponents? If capitalism bores them, what excites them? Tracing conservatism back to its roots in the reaction against the French Revolution, Robin argues that the right is fundamentally inspired by a hostility to emancipating the lower orders. Some conservatives endorse the free market, others oppose it. Some criticize the state, others celebrate it. Underlying these differences is the impulse to defend power and privilege against movements demanding freedom and equality. Despite their opposition to these movements, conservatives favor a dynamic conception of politics and society--one that involves self-transformation, violence, and war. They are also highly adaptive to new challenges and circumstances. This partiality to violence and capacity for reinvention has been critical to their success. Written by a keen, highly regarded observer of the contemporary political scene, The Reactionary Mind ranges widely, from Edmund Burke to Antonin Scalia, from John C. Calhoun to Ayn Rand. It advances the notion that all rightwing ideologies, from the eighteenth century through today, are historical improvisations on a theme: the felt experience of having power, seeing it threatened, and trying to win it back. - Publisher."
+  },
+  "covers": [
+    7105702,
+    7105700
+  ],
+  "key": "/works/OL16282731W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7037328A"
+      }
+    }
+  ],
+  "title": "The reactionary mind",
+  "subjects": [
+    "Conservatism",
+    "History",
+    "Konservativismus",
+    "New York Times reviewed"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2011/10/09/books/review/the-reactionary-mind-by-corey-robin-book-review.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-11-16T08:34:18.897409"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-08-06T23:49:52.313331"
+  }
+}

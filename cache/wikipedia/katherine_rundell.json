@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Katherine Rundell",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Katherine Rundell</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q28474816",
+  "titles": {
+    "canonical": "Katherine_Rundell",
+    "normalized": "Katherine Rundell",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Katherine Rundell</span></span>"
+  },
+  "pageid": 52953802,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Katherine_rundell_2020_2.jpg/330px-Katherine_rundell_2020_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 453
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Katherine_rundell_2020_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 824,
+    "height": 1130
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363368652",
+  "tid": "3bfacca3-7bcd-11f1-b527-a5ad1f17b0fe",
+  "timestamp": "2026-07-09T19:34:43Z",
+  "description": "English author and academic (born 1987)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Katherine_Rundell",
+      "revisions": "https://en.wikipedia.org/wiki/Katherine_Rundell?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Katherine_Rundell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Katherine_Rundell"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Katherine_Rundell",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Katherine_Rundell",
+      "edit": "https://en.wikipedia.org/wiki/Katherine_Rundell?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Katherine_Rundell"
+    }
+  },
+  "extract": "Katherine Rundell is an English author and academic. She is the author of Impossible Creatures, named Waterstones Book of the Year for 2023. She is also the author of Rooftoppers, which in 2015 won both the overall Waterstones Children's Book Prize and the Blue Peter Book Award for Best Story, and was shortlisted for the Carnegie Medal. She is a Fellow of All Souls College, Oxford and has appeared as an expert guest on BBC Radio 4 programmes including Start the Week, Poetry Please,  Seriously.... and Private Passions.",
+  "extract_html": "<p><b>Katherine Rundell</b> is an English author and academic. She is the author of <i>Impossible Creatures</i>, named Waterstones Book of the Year for 2023. She is also the author of <i>Rooftoppers</i>, which in 2015 won both the overall Waterstones Children's Book Prize and the Blue Peter Book Award for Best Story, and was shortlisted for the Carnegie Medal. She is a Fellow of All Souls College, Oxford and has appeared as an expert guest on BBC Radio 4 programmes including <i>Start the Week</i>, <i>Poetry Please</i>, <i> Seriously...</i>. and <i>Private Passions</i>.</p>"
+}

@@ -1,0 +1,105 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LRReRz7t7xoC",
+      "etag": "vTDckCrXEZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LRReRz7t7xoC",
+      "volumeInfo": {
+        "title": "The Killing Moon",
+        "authors": [
+          "N. K. Jemisin"
+        ],
+        "publisher": "Orbit",
+        "publishedDate": "2012-05-01",
+        "description": "Assassin priests, mad kings, and the goddess of death collide in the first book of the Dreamblood Duology by NYT bestselling and three time Hugo-Award winning author N. K. Jemisin. The city burned beneath the Dreaming Moon. In the ancient city-state of Gujaareh, peace is the only law. Upon its rooftops and amongst the shadows of its cobbled streets wait the Gatherers -- the keepers of this peace. Priests of the dream-goddess, their duty is to harvest the magic of the sleeping mind and use it to heal, soothe . . . and kill those judged corrupt. But when a conspiracy blooms within Gujaareh's great temple, Ehiru -- the most famous of the city's Gatherers -- must question everything he knows. Someone, or something, is murdering dreamers in the goddess' name, stalking its prey both in Gujaareh's alleys and the realm of dreams. Ehiru must now protect the woman he was sent to kill -- or watch the city be devoured by war and forbidden magic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316202770"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316202770"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LRReRz7t7xoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LRReRz7t7xoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LRReRz7t7xoC&printsec=frontcover&dq=intitle:%22The+Killing+Moon%22+inauthor:%22N.K.+Jemisin%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LRReRz7t7xoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LRReRz7t7xoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LRReRz7t7xoC&rdid=book-LRReRz7t7xoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Killing_Moon-sample-epub.acsm?id=LRReRz7t7xoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LRReRz7t7xoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Assassin priests, mad kings, and the goddess of death collide in the first book of the Dreamblood Duology by NYT bestselling and three time Hugo-Award winning author N. K. Jemisin."
+      }
+    }
+  ]
+}

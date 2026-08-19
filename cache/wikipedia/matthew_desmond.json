@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Matthew Desmond",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Matthew Desmond</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q22096471",
+  "titles": {
+    "canonical": "Matthew_Desmond",
+    "normalized": "Matthew Desmond",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Matthew Desmond</span></span>"
+  },
+  "pageid": 48145888,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Matthew_Desmond_at_2023_National_Book_Festival_%2853123258729%29_%28cropped%29.jpg/330px-Matthew_Desmond_at_2023_National_Book_Festival_%2853123258729%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 426
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Matthew_Desmond_at_2023_National_Book_Festival_%2853123258729%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1132,
+    "height": 1461
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367358787",
+  "tid": "8bf947ad-8e90-11f1-96c3-7c86e9457a0b",
+  "timestamp": "2026-08-02T16:38:10Z",
+  "description": "American sociologist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Matthew_Desmond",
+      "revisions": "https://en.wikipedia.org/wiki/Matthew_Desmond?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Matthew_Desmond?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Matthew_Desmond"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Matthew_Desmond",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Matthew_Desmond",
+      "edit": "https://en.wikipedia.org/wiki/Matthew_Desmond?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Matthew_Desmond"
+    }
+  },
+  "extract": "Matthew Desmond is an American sociologist. He is the Maurice P. During Professor of Sociology at Princeton University, where he is also the principal investigator of the Eviction Lab. Desmond was elected to the American Philosophical Society in 2022. He was formerly the John L. Loeb Associate Professor of the Social Sciences at Harvard University.",
+  "extract_html": "<p><b>Matthew Desmond</b> is an American sociologist. He is the Maurice P. During Professor of Sociology at Princeton University, where he is also the principal investigator of the Eviction Lab. Desmond was elected to the American Philosophical Society in 2022. He was formerly the John L. Loeb Associate Professor of the Social Sciences at Harvard University.</p>"
+}

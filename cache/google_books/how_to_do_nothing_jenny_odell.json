@@ -1,0 +1,104 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OMBkDwAAQBAJ",
+      "etag": "YwwV/HV2UEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OMBkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Do Nothing",
+        "subtitle": "Resisting the Attention Economy",
+        "authors": [
+          "Jenny Odell"
+        ],
+        "publisher": "Melville House",
+        "publishedDate": "2019-04-23",
+        "description": "** A New York Times Bestseller ** NAMED ONE OF THE BEST BOOKS OF THE YEAR BY: Time \u2022 The New Yorker \u2022 NPR \u2022 GQ \u2022 Elle \u2022 Vulture \u2022 Fortune \u2022 Boing Boing \u2022 The Irish Times \u2022 The New York Public Library \u2022 The Brooklyn Public Library \"A complex, smart and ambitious book that at first reads like a self-help manual, then blossoms into a wide-ranging political manifesto.\"\u2014Jonah Engel Bromwich, The New York Times Book Review One of President Barack Obama's \"Favorite Books of 2019\" Porchlight's Personal Development & Human Behavior Book of the Year In a world where addictive technology is designed to buy and sell our attention, and our value is determined by our 24/7 data productivity, it can seem impossible to escape. But in this inspiring field guide to dropping out of the attention economy, artist and critic Jenny Odell shows us how we can still win back our lives. Odell sees our attention as the most precious\u2014and overdrawn\u2014resource we have. And we must actively and continuously choose how we use it. We might not spend it on things that capitalism has deemed important \u2026 but once we can start paying a new kind of attention, she writes, we can undertake bolder forms of political action, reimagine humankind\u2019s role in the environment, and arrive at more meaningful understandings of happiness and progress. Far from the simple anti-technology screed, or the back-to-nature meditation we read so often, How to do Nothing is an action plan for thinking outside of capitalist narratives of efficiency and techno-determinism. Provocative, timely, and utterly persuasive, this book will change how you see your place in our world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781612197500"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1612197507"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OMBkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OMBkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OMBkDwAAQBAJ&printsec=frontcover&dq=intitle:%22How+to+Do+Nothing%22+inauthor:%22Jenny+Odell%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OMBkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OMBkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OMBkDwAAQBAJ&rdid=book-OMBkDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/How_to_Do_Nothing-sample-epub.acsm?id=OMBkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OMBkDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But in this inspiring field guide to dropping out of the attention economy, artist and critic Jenny Odell shows us how we can still win back our lives. Odell sees our attention as the most precious\u2014and overdrawn\u2014resource we have."
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1353999A"
+      ],
+      "author_name": [
+        "Daniel James Brown"
+      ],
+      "cover_edition_key": "OL25607763M",
+      "cover_i": 12722394,
+      "ebook_access": "printdisabled",
+      "edition_count": 22,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "boysinboatepictr0000brow_t9s7",
+        "boysinboatnineam0000brow_n7y5",
+        "boysinboatepictr0000brow_a4a7",
+        "boysinboatnineam0000brow_u2d8",
+        "boysinboatnineam0000dani",
+        "boysinboatepictr0000brow",
+        "boysinboattruest0000dani",
+        "boysinboatnineam00brow",
+        "boysinboatnineam0000brow"
+      ],
+      "ia_collection": [
+        "americana",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "tulsacc-ol",
+        "uni-ol",
+        "universityofarizona-ol"
+      ],
+      "key": "/works/OL17038299W",
+      "language": [
+        "eng",
+        "spa",
+        "rus"
+      ],
+      "public_scan_b": false,
+      "title": "The Boys in the Boat"
+    },
+    {
+      "author_key": [
+        "OL13240689A"
+      ],
+      "author_name": [
+        "Daniel James Brown"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL36853975W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Boys in the Boat"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "siSlP9JOj2YC",
+      "etag": "4UhCcTgP89U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/siSlP9JOj2YC",
+      "volumeInfo": {
+        "title": "Americanah",
+        "authors": [
+          "Chimamanda Ngozi Adichie"
+        ],
+        "publisher": "Knopf Canada",
+        "publishedDate": "2013-05-14",
+        "description": "WINNER 2013 \u2013 National Book Critics Circle Award for Fiction FINALIST 2014 \u2013 Baileys Women\u2019s Prize for Fiction FINALIST 2014 \u2013 Andrew Carnegie Medal for Fiction LONGLISTED 2015 \u2013 International IMPAC Dublin Literary Award A searing new novel, at once sweeping and intimate, by the award-winning author of Half of a Yellow Sun: a story of love and race centered around a man and woman from Nigeria who seemed destined to be together--until the choices they are forced to make tear them apart. Ifemelu--beautiful, self-assured--left Nigeria 15 years ago, and now studies in Princeton as a Graduate Fellow. She seems to have fulfilled every immigrant's dream: Ivy League education; success as a writer of a wildly popular political blog; money for the things she needs. But what came before is more like a nightmare: wrenching departure from family; humiliating jobs under a false name. She feels for the first time the weight of something she didn't think about back home: race. Obinze--handsome and kind-hearted--was Ifemelu's teenage love; he'd hoped to join her in America, but post 9/11 America wouldn't let him in. Obinze's journey leads him to back alleys of illegal employment in London; to a fake marriage for the sake of a work card, and finally, to a set of handcuffs as he is exposed and deported. Years later, when they reunite in Nigeria, neither is the same person who left home. Obinze is the kind of successful \"Big Man\" he'd scorned in his youth, and Ifemelu has become an \"Americanah\"--a different version of her former self, one with a new accent and attitude. As they revisit their shared passion--for their homeland and for each other--they must face the largest challenges of their lives. Spanning three continents, entering the lives of a richly drawn cast of characters across numerous divides, Americanah is a riveting story of love and expectation set in today's globalized world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345807465"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345807464"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 526,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=siSlP9JOj2YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=siSlP9JOj2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=siSlP9JOj2YC&printsec=frontcover&dq=intitle:%22Americanah%22+inauthor:%22Chimamanda+Adichie%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=siSlP9JOj2YC&dq=intitle:%22Americanah%22+inauthor:%22Chimamanda+Adichie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Americanah.html?hl=&id=siSlP9JOj2YC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Americanah-sample-epub.acsm?id=siSlP9JOj2YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=siSlP9JOj2YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Spanning three continents, entering the lives of a richly drawn cast of characters across numerous divides, Americanah is a riveting story of love and expectation set in today&#39;s globalized world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WGQOogEACAAJ",
+      "etag": "/cnI9SNQSxQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WGQOogEACAAJ",
+      "volumeInfo": {
+        "title": "Americanah",
+        "authors": [
+          "Chimamanda Ngozi Adichie"
+        ],
+        "publishedDate": "2015-06-25",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "359618598X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783596185986"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WGQOogEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WGQOogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=WGQOogEACAAJ&dq=intitle:%22Americanah%22+inauthor:%22Chimamanda+Adichie%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WGQOogEACAAJ&dq=intitle:%22Americanah%22+inauthor:%22Chimamanda+Adichie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Americanah.html?hl=&id=WGQOogEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WGQOogEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nach Jahren stehen sie pl\u00f6tzlich vor einer Entscheidung, die ihr Leben auf den Kopf stellt. Adichie gelingt ein eindringlicher, moderner und hochpolitischer Roman \u00fcber Identit\u00e4t und Rassismus in unserer globale Welt."
+      }
+    }
+  ]
+}

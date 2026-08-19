@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Emily Oster",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily Oster</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5372306",
+  "titles": {
+    "canonical": "Emily_Oster",
+    "normalized": "Emily Oster",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily Oster</span></span>"
+  },
+  "pageid": 4607628,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/ECB_COVID-19_Webinar_Series_Emily_Oster_54m40s.jpg/330px-ECB_COVID-19_Webinar_Series_Emily_Oster_54m40s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 413
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/ECB_COVID-19_Webinar_Series_Emily_Oster_54m40s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 811,
+    "height": 1014
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364636182",
+  "tid": "5e12d414-8203-11f1-991a-bf9931ab262f",
+  "timestamp": "2026-07-17T17:17:20Z",
+  "description": "American economist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Emily_Oster",
+      "revisions": "https://en.wikipedia.org/wiki/Emily_Oster?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Emily_Oster?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emily_Oster"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Emily_Oster",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Emily_Oster",
+      "edit": "https://en.wikipedia.org/wiki/Emily_Oster?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Emily_Oster"
+    }
+  },
+  "extract": "Emily Fair Oster is an American economist who has served since 2019 as the Royce Family Professor of Teaching Excellence at Brown University, where she has been a professor of economics since 2015. Her research interests span from development economics and health economics to research design and experimental methodology. Her research was brought to the attention of non-economists through The Wall Street Journal, the book SuperFreakonomics, and her 2007 TED Talk.",
+  "extract_html": "<p><b>Emily Fair Oster</b> is an American economist who has served since 2019 as the Royce Family Professor of Teaching Excellence at Brown University, where she has been a professor of economics since 2015. Her research interests span from development economics and health economics to research design and experimental methodology. Her research was brought to the attention of non-economists through <i>The Wall Street Journal</i>, the book <i>SuperFreakonomics</i>, and her 2007 TED Talk.</p>"
+}

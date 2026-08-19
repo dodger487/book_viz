@@ -1,0 +1,75 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1392804A"
+      ],
+      "author_name": [
+        "Esi Edugyan"
+      ],
+      "cover_edition_key": "OL27362002M",
+      "cover_i": 8825098,
+      "ebook_access": "no_ebook",
+      "edition_count": 10,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL19669797W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Washington Black"
+    },
+    {
+      "author_key": [
+        "OL11590825A"
+      ],
+      "author_name": [
+        "Esi Edugyan"
+      ],
+      "cover_edition_key": "OL45202840M",
+      "cover_i": 13123467,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL33304546W",
+      "public_scan_b": false,
+      "title": "Washington Black"
+    },
+    {
+      "author_key": [
+        "OL11590825A"
+      ],
+      "author_name": [
+        "Esi Edugyan"
+      ],
+      "cover_edition_key": "OL61424036M",
+      "cover_i": 15192189,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2018,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9781443469043"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL31701893W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Washington Black"
+    }
+  ]
+}

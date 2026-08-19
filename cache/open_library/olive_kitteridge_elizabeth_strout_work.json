@@ -1,0 +1,82 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Olive Kitteridge: indomitable, compassionate and often unpredictable. A retired schoolteacher in a small coastal town in Maine, as she grows older she struggles to make sense of the changes in her life. She is a woman who sees into the hearts of those around her, their triumphs and tragedies.\r\n\r\nWe meet her stoic husband, bound to her in a marriage both broken and strong, and a young man who aches for the mother he lost - and whom Olive comforts by her mere presence, while her own son feels overwhelmed by her complex sensitivities.\r\n\r\nA penetrating, vibrant exploration of the human soul, the story of Olive Kitteridge will make you laugh, nod in recognition, wince in pain, and shed a tear or two."
+  },
+  "title": "Olive Kitteridge",
+  "covers": [
+    2733808,
+    8270762,
+    8356157,
+    11274851,
+    12586555,
+    12623272,
+    11074813,
+    13674707
+  ],
+  "subject_places": [
+    "Maine"
+  ],
+  "first_publish_date": "2007",
+  "subject_people": [
+    "ELIZABETH STROUT"
+  ],
+  "key": "/works/OL26963W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26232A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7319459A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Retired teachers",
+    "screen play",
+    "Fiction",
+    "New York Times bestseller",
+    "City and town life",
+    "Large type books",
+    "New York Times reviewed",
+    "Maine, fiction",
+    "Fiction, short stories (single author)",
+    "Teachers, fiction",
+    "Fictional Works",
+    "Retired women"
+  ],
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2008/04/20/books/review/Thomas-t.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 23,
+  "revision": 23,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-12T22:31:17.033421"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-25T05:39:26.977566"
+  }
+}

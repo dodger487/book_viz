@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Connelly",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Connelly</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313193",
+  "titles": {
+    "canonical": "Michael_Connelly",
+    "normalized": "Michael Connelly",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Connelly</span></span>"
+  },
+  "pageid": 543284,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/MConnelly.jpg/330px-MConnelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 411
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/MConnelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1456,
+    "height": 1812
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365077375",
+  "tid": "303db4bc-83ee-11f1-98a9-76d96acebaac",
+  "timestamp": "2026-07-20T03:50:46Z",
+  "description": "American author (born 1956)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Connelly",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Connelly?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Connelly?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Connelly"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Connelly",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Michael_Connelly",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Connelly?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Connelly"
+    }
+  },
+  "extract": "Michael Joseph Connelly is an American author of detective novels and other crime fiction, notably those featuring LAPD Detective Hieronymus \"Harry\" Bosch and criminal defense attorney Mickey Haller, including 10 with both those characters. \nConnelly is the bestselling author of 42 novels and one work of non-fiction, with over 74 million copies of his books sold worldwide and translated into 40 languages. His first novel, The Black Echo, won the Mystery Writers of America Edgar Award for Best First Novel in 1992. In 2002, Clint Eastwood directed and starred in the movie adaptation of Connelly's 1997 novel, Blood Work. In March 2011, the movie adaptation of Connelly's novel The Lincoln Lawyer starred Matthew McConaughey as Mickey Haller. Connelly was the President of the Mystery Writers of America from 2003 to 2004.",
+  "extract_html": "<p><b>Michael Joseph Connelly</b> is an American author of detective novels and other crime fiction, notably those featuring LAPD Detective Hieronymus \"Harry\" Bosch and criminal defense attorney Mickey Haller, including 10 with both those characters. \nConnelly is the bestselling author of 42 novels and one work of non-fiction, with over 74 million copies of his books sold worldwide and translated into 40 languages. His first novel, <i>The Black Echo</i>, won the Mystery Writers of America Edgar Award for Best First Novel in 1992. In 2002, Clint Eastwood directed and starred in the movie adaptation of Connelly's 1997 novel, <i>Blood Work</i>. In March 2011, the movie adaptation of Connelly's novel <i>The Lincoln Lawyer</i> starred Matthew McConaughey as Mickey Haller. Connelly was the President of the Mystery Writers of America from 2003 to 2004.</p>"
+}

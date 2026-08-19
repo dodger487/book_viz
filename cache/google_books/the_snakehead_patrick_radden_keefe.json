@@ -1,0 +1,107 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SKxptmGzIoMC",
+      "etag": "H237e8LBE0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SKxptmGzIoMC",
+      "volumeInfo": {
+        "title": "The Snakehead",
+        "subtitle": "An Epic Tale of the Chinatown Underworld and the American Dream",
+        "authors": [
+          "Patrick Radden Keefe"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2009-07-21",
+        "description": "In this thrilling panorama of real-life events, the bestselling author of Empire of Pain investigates a secret world run by a surprising criminal: a charismatic middle-aged grandmother, who from a tiny noodle shop in New York\u2019s Chinatown managed a multi-million dollar business smuggling people. \u201cReads like a mashup of The Godfather and Chinatown, complete with gun battles, a ruthless kingpin and a mountain of cash. Except that it\u2019s all true.\u201d \u2014Time Keefe reveals the inner workings of Sister Ping\u2019s complex empire and recounts the decade-long FBI investigation that eventually brought her down. He follows an often incompetent and sometimes corrupt INS as it pursues desperate immigrants risking everything to come to America, and along the way, he paints a stunning portrait of a generation of illegal immigrants and the intricate underground economy that sustains and exploits them. Grand in scope yet propulsive in narrative force, The Snakehead is both a kaleidoscopic crime story and a brilliant exploration of the ironies of immigration in America.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385530217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385530218"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "True Crime"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SKxptmGzIoMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SKxptmGzIoMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SKxptmGzIoMC&printsec=frontcover&dq=intitle:%22The+Snakehead%22+inauthor:%22Patrick+Radden+Keefe%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SKxptmGzIoMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SKxptmGzIoMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SKxptmGzIoMC&rdid=book-SKxptmGzIoMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Snakehead-sample-epub.acsm?id=SKxptmGzIoMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Snakehead-sample-pdf.acsm?id=SKxptmGzIoMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SKxptmGzIoMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Grand in scope yet propulsive in narrative force, The Snakehead is both a kaleidoscopic crime story and a brilliant exploration of the ironies of immigration in America."
+      }
+    }
+  ]
+}

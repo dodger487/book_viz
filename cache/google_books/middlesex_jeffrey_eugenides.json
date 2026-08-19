@@ -1,0 +1,208 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Bzg8AAAAIAAJ",
+      "etag": "lz4Ph7I2Nrs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bzg8AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Middlesex",
+        "authors": [
+          "Jeffrey Eugenides"
+        ],
+        "publisher": "CUP Archive",
+        "publishedDate": "2004",
+        "description": "In the spring of 1974, Calliope Stephanides, a student at a girl's school in Grosse Pointe, Michigan, finds herself drawn to a chain-smoking, strawberry-blonde classmate with a gift for acting. The passion that furtively develops between them, as well as Callie's failure to develop, leads Callie to suspect that she is not like other girls. In fact, she is not a girl at all; due to a rare genetic mutation Callie is part girl, part boy.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.10.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bzg8AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bzg8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Bzg8AAAAIAAJ&printsec=frontcover&dq=intitle:%22Middlesex%22+inauthor:%22Jeffrey+Eugenides%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Bzg8AAAAIAAJ&dq=intitle:%22Middlesex%22+inauthor:%22Jeffrey+Eugenides%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Middlesex.html?hl=&id=Bzg8AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Middlesex-sample-pdf.acsm?id=Bzg8AAAAIAAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bzg8AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the spring of 1974, Calliope Stephanides, a student at a girl&#39;s school in Grosse Pointe, Michigan, finds herself drawn to a chain-smoking, strawberry-blonde classmate with a gift for acting."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JShKwgEACAAJ",
+      "etag": "nDVAu9oRPwI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JShKwgEACAAJ",
+      "volumeInfo": {
+        "title": "Middlesex",
+        "authors": [
+          "Jeffrey Eugenides"
+        ],
+        "publishedDate": "2002-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0374956170"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374956172"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 596,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JShKwgEACAAJ&dq=intitle:%22Middlesex%22+inauthor:%22Jeffrey+Eugenides%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JShKwgEACAAJ&dq=intitle:%22Middlesex%22+inauthor:%22Jeffrey+Eugenides%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Middlesex.html?hl=&id=JShKwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JShKwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h7utqa_hWoIC",
+      "etag": "MAgq4u7FxN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h7utqa_hWoIC",
+      "volumeInfo": {
+        "title": "Middlesex",
+        "subtitle": "Reissued",
+        "authors": [
+          "Jeffrey Eugenides"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2011-10-03",
+        "description": "'I was born twice: first, as a baby girl, on a remarkably smogless Detroit day of January 1960; and then again, as a teenage boy, in an emergency room near Petoskey, Michigan, in August of l974 ...My birth certificate lists my name as Calliope Helen Stephanides. My most recent driver's license ... records my first name simply as Cal.' So begins the breathtaking story of Calliope Stephanides, and three generations of the Greek-American Stephanides family who travel from a tiny village overlooking Mount Olympus in Asia Minor to Prohibition era Detroit, witnessing its glory days as the Motor City, and the race riots of l967, before they move out to the tree-lined streets of suburban Grosse Point, Michigan. To understand why Calliope is not like other girls, she has to uncover a guilty family secret, and the astonishing genetic history that turns Callie into Cal, one of the most audacious and wondrous narrators in contemporary fiction. Lyrical and thrilling, Middlesex is an exhilarating reinvention of the American epic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408825693"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408825694"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 545,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h7utqa_hWoIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h7utqa_hWoIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=h7utqa_hWoIC&printsec=frontcover&dq=intitle:%22Middlesex%22+inauthor:%22Jeffrey+Eugenides%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h7utqa_hWoIC&dq=intitle:%22Middlesex%22+inauthor:%22Jeffrey+Eugenides%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Middlesex.html?hl=&id=h7utqa_hWoIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Middlesex-sample-epub.acsm?id=h7utqa_hWoIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Middlesex-sample-pdf.acsm?id=h7utqa_hWoIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h7utqa_hWoIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; So begins the breathtaking story of Calliope Stephanides, and three generations of the Greek-American Stephanides family who travel from a tiny village overlooking Mount Olympus in Asia Minor to Prohibition era Detroit, witnessing its ..."
+      }
+    }
+  ]
+}

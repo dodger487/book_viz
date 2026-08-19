@@ -1,0 +1,249 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZUu5n8p9p-YC",
+      "etag": "iWedT1SBmsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUu5n8p9p-YC",
+      "volumeInfo": {
+        "title": "The Long Goodbye",
+        "authors": [
+          "Raymond Chandler"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2012-09-11",
+        "description": "When Philip Marlowe befriends down-on-his-luck veteran Terry Lennox he gets more than he bargained for. With Lennox\u2019s wife dead and Lennox himself on the lam, Marlowe becomes the target for the local cops and a crazy gangster, while getting mixed up with alcoholic writer Roger Wade and his wife Eileen. Nothing is what it seems as Marlowe unravels the Wades\u2019 scheme to expose the truth behind Lennox\u2019s facade. HarperPerennial Classics brings great works of literature to life in digital format, upholding the highest standards in ebook production and celebrating reading in all its forms. Look for more titles in the HarperPerennial Classics collection to build your digital library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443417716"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443417718"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 438,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZUu5n8p9p-YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZUu5n8p9p-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZUu5n8p9p-YC&printsec=frontcover&dq=intitle:%22The+Long+Goodbye%22+inauthor:%22Raymond+Chandler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZUu5n8p9p-YC&dq=intitle:%22The+Long+Goodbye%22+inauthor:%22Raymond+Chandler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Long_Goodbye.html?hl=&id=ZUu5n8p9p-YC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Long_Goodbye-sample-epub.acsm?id=ZUu5n8p9p-YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZUu5n8p9p-YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look for more titles in the HarperPerennial Classics collection to build your digital library."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3viSswEACAAJ",
+      "etag": "6AZTPKeQQZA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3viSswEACAAJ",
+      "volumeInfo": {
+        "title": "The Long Goodbye",
+        "subtitle": "Large Print",
+        "authors": [
+          "Raymond Chandler"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-11-10",
+        "description": "When Philip Marlowe befriends down-on-his-luck veteran Terry Lennox he gets more than he bargained for. With Lennox's wife dead and Lennox himself on the lam, Marlowe becomes the target for the local cops and a crazy gangster, while getting mixed up with alcoholic writer Roger Wade and his wife Eileen. Nothing is what it seems as Marlowe unravels the Wades' scheme to expose the truth behind Lennox's facade. The most autobiographical of his novels, The Long Goodbye was considered by Chandler to be his best work. One of the preeminent examples of hard-boiled detective fiction, Adapted for radio, film and television, it received the 1955 Edgar Award for Best Novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1979497168"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781979497169"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3viSswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3viSswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3viSswEACAAJ&dq=intitle:%22The+Long+Goodbye%22+inauthor:%22Raymond+Chandler%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3viSswEACAAJ&dq=intitle:%22The+Long+Goodbye%22+inauthor:%22Raymond+Chandler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Long_Goodbye.html?hl=&id=3viSswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3viSswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nothing is what it seems as Marlowe unravels the Wades&#39; scheme to expose the truth behind Lennox&#39;s facade. The most autobiographical of his novels, The Long Goodbye was considered by Chandler to be his best work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PzbUEQAAQBAJ",
+      "etag": "dIXCFXDdwpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PzbUEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Raymond Chandler. The Long Goodbye. Illustrated",
+        "authors": [
+          "Raymond Chandler"
+        ],
+        "publisher": "Andrii Ponomarenko",
+        "publishedDate": "2026-04-28",
+        "description": "In The Long Goodbye, Raymond Chandler crafts one of his most celebrated and emotionally complex novels, featuring the iconic private detective Philip Marlowe. Set against the backdrop of post-World War II Los Angeles, the novel explores themes of friendship, betrayal, and moral decay in a world where trust is a rare commodity. Marlowe becomes entangled in the lives of two troubled men: Terry Lennox, a war-scarred alcoholic with a mysterious past, and Roger Wade, a self-destructive novelist. What begins as a simple act of loyalty\u2014helping Lennox flee the country\u2014draws Marlowe into a web of murder, blackmail, and corruption. As the detective digs deeper, he uncovers disturbing truths about his friends, as well as the wealthy and powerful figures who pull the strings in the shadows. With its intricate plot, razor-sharp dialogue, and dark, introspective tone, The Long Goodbye stands as one of Chandler\u2019s masterpieces. The novel is not only a gripping detective story but also a profound meditation on loneliness, loyalty, and the human condition. Rich in atmosphere and emotional depth, it is a defining work of the noir genre, cementing Chandler\u2019s legacy as a master of crime fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786178478483"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6178478488"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PzbUEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PzbUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PzbUEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Long+Goodbye%22+inauthor:%22Raymond+Chandler%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PzbUEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PzbUEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.1,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.1,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PzbUEQAAQBAJ&rdid=book-PzbUEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 100000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 100000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Raymond_Chandler_The_Long_Goodbye_Illust-sample-epub.acsm?id=PzbUEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Raymond_Chandler_The_Long_Goodbye_Illust-sample-pdf.acsm?id=PzbUEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PzbUEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is not only a gripping detective story but also a profound meditation on loneliness, loyalty, and the human condition."
+      }
+    }
+  ]
+}

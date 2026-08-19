@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LehqDwAAQBAJ",
+      "etag": "vsCHppi4sAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LehqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Order of the Day",
+        "authors": [
+          "\u00c9ric Vuillard"
+        ],
+        "publisher": "Other Press, LLC",
+        "publishedDate": "2018-09-25",
+        "description": "Named a Best Book of the Year by NPR, Boston Globe, and Literary Hub Winner of the 2017 Goncourt Prize, this behind-the-scenes account of the manipulation, hubris, and greed that together led to Nazi Germany\u2019s annexation of Austria brilliantly dismantles the myth of an effortless victory and offers a dire warning for our current political crisis. February 20, 1933, an unremarkable day during a harsh Berlin winter: A meeting of twenty-four German captains of industry and senior Nazi officials is being held in secret in the plush lounge of the Reichstag. They are there to extract funds for the accession to power of the National Socialist Party and its Chancellor. This opening scene sets a tone of consent that will lead to the worst possible repercussions. March 12, 1938, the annexation of Austria is on the agenda: A grotesque day intended to make history\u2014the newsreels capture a motorized army on the move, a terrible, inexorable power. But behind Goebbels\u2019s splendid propaganda, an ersatz Blitzkrieg unfolds, the Panzers breaking down en masse on the roads into Austria. The true behind-the-scenes account of the Anschluss\u2014a patchwork of minor flourishes of strength and fine words, fevered telephone calls, and vulgar threats\u2014all reveal a starkly different picture. It is not strength of character or the determination of a people that wins the day, but rather a combination of intimidation and bluff. With this vivid, compelling history, \u00c9ric Vuillard warns against the peril of willfully blind acquiescence, and offers a reminder that, ultimately, the worst is not inescapable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590519691"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1590519698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LehqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LehqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LehqDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Order+of+the+Day%22+inauthor:%22%C3%89ric+Vuillard%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LehqDwAAQBAJ&dq=intitle:%22The+Order+of+the+Day%22+inauthor:%22%C3%89ric+Vuillard%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Order_of_the_Day.html?hl=&id=LehqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Order_of_the_Day-sample-pdf.acsm?id=LehqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LehqDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this vivid, compelling history, \u00c9ric Vuillard warns against the peril of willfully blind acquiescence, and offers a reminder that, ultimately, the worst is not inescapable."
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Light From Uncommon Stars",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7600648A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL24167486W",
+  "subjects": [
+    "American literature",
+    "Violinists",
+    "Fiction",
+    "Transgender people",
+    "Blessing and cursing",
+    "LGBTQ+",
+    "Transgender",
+    "Science Fiction",
+    "General",
+    "Transsexuals",
+    "collection:otherwise_tiptree_award=winner",
+    "Stonewall Book Awards"
+  ],
+  "covers": [
+    11950190
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "**An adventure set in California's San Gabriel Valley, with cursed violins, Faustian bargains, and queer alien courtship over fresh-made donuts.**\r\n\r\nShizuka Satomi made a deal with the devil: to escape damnation, she must entice seven other violin prodigies to trade their souls for success. She has already delivered six.\r\n\r\nWhen Katrina Nguyen, a young transgender runaway, catches Shizuka's ear with her wild talent, Shizuka can almost feel the curse lifting. She's found her final candidate.\r\n\r\nBut in a donut shop off a bustling highway in the San Gabriel Valley, Shizuka meets Lan Tran, retired starship captain, interstellar refugee, and mother of four. Shizuka doesn't have time for crushes or coffee dates, what with her very soul on the line, but Lan's kind smile and eyes like stars might just redefine a soul's worth. And maybe something as small as a warm donut is powerful enough to break a curse as vast as the California coastline.\r\n\r\nAs the lives of these three women become entangled by chance and fate, a story of magic, identity, curses, and hope begins, and a family worth crossing the universe for is found."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-01-26T20:40:33.336218"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-27T18:23:01.844185"
+  }
+}

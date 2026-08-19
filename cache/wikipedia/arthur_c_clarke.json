@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arthur C. Clarke",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arthur C. Clarke</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q47087",
+  "titles": {
+    "canonical": "Arthur_C._Clarke",
+    "normalized": "Arthur C. Clarke",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arthur C. Clarke</span></span>"
+  },
+  "pageid": 18598148,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Arthur_C._Clarke_1965_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 286,
+    "height": 387
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Arthur_C._Clarke_1965_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 286,
+    "height": 387
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367751487",
+  "tid": "ae8f87c3-9063-11f1-8fb1-e6a92f2418c7",
+  "timestamp": "2026-08-05T00:22:03Z",
+  "description": "British science fiction writer (1917\u20132008)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+      "revisions": "https://en.wikipedia.org/wiki/Arthur_C._Clarke?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arthur_C._Clarke?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arthur_C._Clarke"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Arthur_C._Clarke",
+      "edit": "https://en.wikipedia.org/wiki/Arthur_C._Clarke?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arthur_C._Clarke"
+    }
+  },
+  "extract": "Sir Arthur Charles Clarke was an English science fiction writer, science writer, futurist, inventor, undersea explorer, and television series host.",
+  "extract_html": "<p><b>Sir Arthur Charles Clarke</b> was an English science fiction writer, science writer, futurist, inventor, undersea explorer, and television series host.</p>"
+}

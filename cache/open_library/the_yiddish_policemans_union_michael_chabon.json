@@ -1,0 +1,76 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL32884A"
+      ],
+      "author_name": [
+        "Michael Chabon"
+      ],
+      "cover_i": 12745258,
+      "ebook_access": "borrowable",
+      "edition_count": 36,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "elsindicatodepol0000mich",
+        "leclubdespolicie0000chab_t2a9",
+        "associacaojudaic0000chab",
+        "leclubdespolicie0000chab",
+        "ilsindacatodeipo0000chab",
+        "lccn_978000714827",
+        "yiddishpolicemen0000chab_l7x6",
+        "yiddishpolicemen0000chab_r3e7",
+        "yiddishpolicemen00chab",
+        "yiddishpolicemen00mich",
+        "yiddishpolicemen0000chab",
+        "yiddishpolicemen00chabrich"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL119430W",
+      "language": [
+        "fre",
+        "pol",
+        "ita",
+        "eng",
+        "spa",
+        "ger",
+        "por"
+      ],
+      "lending_edition_s": "OL40267880M",
+      "lending_identifier_s": "elsindicatodepol0000mich",
+      "public_scan_b": false,
+      "title": "The Yiddish Policemen's Union"
+    },
+    {
+      "author_key": [
+        "OL32884A"
+      ],
+      "author_name": [
+        "Michael Chabon"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL44351720W",
+      "language": [
+        "chi"
+      ],
+      "public_scan_b": false,
+      "title": "\u72b9\u592a\u8b66\u5bdf\u5de5\u4f1a = The Yiddish policemen's union"
+    }
+  ]
+}

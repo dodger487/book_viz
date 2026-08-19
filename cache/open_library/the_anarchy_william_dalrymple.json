@@ -1,0 +1,52 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL310865A"
+      ],
+      "author_name": [
+        "William Dalrymple"
+      ],
+      "cover_edition_key": "OL27698142M",
+      "cover_i": 9134924,
+      "ebook_access": "no_ebook",
+      "edition_count": 6,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL20470129W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The East India Company, Corporate Violence, and the Pillage of an Empire",
+      "title": "The Anarchy"
+    },
+    {
+      "author_key": [
+        "OL310865A"
+      ],
+      "author_name": [
+        "William Dalrymple"
+      ],
+      "cover_edition_key": "OL27999959M",
+      "cover_i": 9384733,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL20707056W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Anarchy"
+    }
+  ]
+}

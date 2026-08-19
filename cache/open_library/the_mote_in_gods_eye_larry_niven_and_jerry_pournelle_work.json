@@ -1,0 +1,75 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Science fiction classic about the rise, fall and subsequent rise of a civilization where the peak catastrophe is known as the \"crazy eddy point\". Introduces the concept of frictionless toilets that don't have any water in them but I suspect the authors didn't think it all the way through - I don't recall a negative air pressure that would keep odours in their rightfull place. Nevertheless a fascinating read.\r\nI haven't read this for donkeys years which is why I'm searching for an e-copy."
+  },
+  "title": "The Mote in God's Eye",
+  "covers": [
+    408133,
+    6541601,
+    7338297,
+    4910585,
+    8436157,
+    8578630,
+    10706531
+  ],
+  "subject_places": [
+    "A galaxy far",
+    "far away..."
+  ],
+  "subjects": [
+    "American Science fiction",
+    "Science fiction",
+    "Fiction in English",
+    "Life on other planets",
+    "Fiction",
+    "Fiction, science fiction, general",
+    "American literature"
+  ],
+  "subject_people": [
+    "Crazy Eddy"
+  ],
+  "key": "/works/OL15331302W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL33881A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL220399A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7868356A"
+      }
+    }
+  ],
+  "subject_times": [
+    "A long time ago..."
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-08-16T23:33:17.888102"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-05-24T01:33:48.684676"
+  }
+}

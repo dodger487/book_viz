@@ -1,0 +1,48 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7600648A"
+      ],
+      "author_name": [
+        "Ryka Aoki"
+      ],
+      "cover_i": 11950190,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL24167486W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Light From Uncommon Stars"
+    },
+    {
+      "author_key": [
+        "OL7600648A"
+      ],
+      "author_name": [
+        "Ryka Aoki"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL25485990W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Light from Uncommon Stars Sneak Peek"
+    }
+  ]
+}

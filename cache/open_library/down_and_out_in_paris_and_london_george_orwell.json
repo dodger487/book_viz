@@ -1,0 +1,113 @@
+{
+  "numFound": 8,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 8,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL118077A"
+      ],
+      "author_name": [
+        "George Orwell"
+      ],
+      "cover_edition_key": "OL16626550M",
+      "cover_i": 5539329,
+      "ebook_access": "printdisabled",
+      "edition_count": 119,
+      "first_publish_year": 1933,
+      "has_fulltext": true,
+      "ia": [
+        "downoutinparislo0000geor",
+        "downoutinparislo0000geor_v5x9",
+        "bwb_KR-483-430",
+        "bwb_KP-150-212",
+        "downoutinparislo0000orwe_q0j4",
+        "downoutinparislo00orwe",
+        "downoutinparislo0000orwe_z0d8",
+        "downoutinparisan00geor"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL1168030W",
+      "language": [
+        "heb",
+        "ger",
+        "eng",
+        "ita",
+        "chi",
+        "fre",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Down and Out in Paris and London"
+    },
+    {
+      "author_key": [
+        "OL118077A"
+      ],
+      "author_name": [
+        "George Orwell"
+      ],
+      "cover_edition_key": "OL22338733M",
+      "cover_i": 11262153,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "downoutinparislo0000orwe"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL23745771W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL22338733M",
+      "lending_identifier_s": "downoutinparislo0000orwe",
+      "public_scan_b": false,
+      "subtitle": "1931-1940 ; Essays and journalism : 1940-1943 ; Essays and journalism : 1944-1945 ; Essays and journalism : 1945-1949.: The road to Wigan Pier ; Homage to Catalonia ; Essays and journalism : 1931-1940 ; Essays and journalism : 1940-1943 ; Essays and journalism : 1944-1945 ; Essays and journalism : 1945-1949.",
+      "title": "Down and out in Paris and London; The road to Wigan Pier ; Homage to Catalonia ; Essays and journalism"
+    },
+    {
+      "author_key": [
+        "OL118077A"
+      ],
+      "author_name": [
+        "George Orwell"
+      ],
+      "cover_edition_key": "OL37061562M",
+      "cover_i": 12633283,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "downoutinparislo0000orwe_x3d9"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL27301741W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL37061562M",
+      "lending_identifier_s": "downoutinparislo0000orwe_x3d9",
+      "public_scan_b": false,
+      "title": "Down and out in Paris and London & the road to Wigan Pier"
+    }
+  ]
+}

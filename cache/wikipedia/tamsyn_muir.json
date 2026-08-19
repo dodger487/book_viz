@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tamsyn Muir",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tamsyn Muir</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q65969383",
+  "titles": {
+    "canonical": "Tamsyn_Muir",
+    "normalized": "Tamsyn Muir",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tamsyn Muir</span></span>"
+  },
+  "pageid": 62710267,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Tamsyn_Muir_at_BookExpo_%2815987%29.jpg/330px-Tamsyn_Muir_at_BookExpo_%2815987%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 383
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tamsyn_Muir_at_BookExpo_%2815987%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2977,
+    "height": 3456
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367282332",
+  "tid": "836c25dc-8e26-11f1-8e50-a8bf5950d1af",
+  "timestamp": "2026-08-02T03:59:09Z",
+  "description": "New Zealand writer (born 1985)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tamsyn_Muir",
+      "revisions": "https://en.wikipedia.org/wiki/Tamsyn_Muir?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tamsyn_Muir?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tamsyn_Muir"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tamsyn_Muir",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tamsyn_Muir",
+      "edit": "https://en.wikipedia.org/wiki/Tamsyn_Muir?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tamsyn_Muir"
+    }
+  },
+  "extract": "Tamsyn Elizabeth Muir is a New Zealand fantasy, science fiction, and horror author best known for The Locked Tomb, a science fantasy series of novels. Muir won the 2020 Locus Award for her first novel, Gideon the Ninth, and has been nominated for several other awards as well.",
+  "extract_html": "<p><b>Tamsyn Elizabeth Muir</b> is a New Zealand fantasy, science fiction, and horror author best known for <i>The Locked Tomb</i>, a science fantasy series of novels. Muir won the 2020 Locus Award for her first novel, <i>Gideon the Ninth</i>, and has been nominated for several other awards as well.</p>"
+}

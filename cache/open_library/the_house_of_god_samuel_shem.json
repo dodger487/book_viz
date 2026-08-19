@@ -1,0 +1,61 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL225606A"
+      ],
+      "author_name": [
+        "Samuel Shem"
+      ],
+      "cover_edition_key": "OL22985781M",
+      "cover_i": 7036971,
+      "ebook_access": "printdisabled",
+      "edition_count": 19,
+      "first_publish_year": 1978,
+      "has_fulltext": true,
+      "ia": [
+        "houseofgodthe00samu",
+        "houseofgod00shem_0",
+        "houseofgod00shem"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL1884679W",
+      "language": [
+        "ger",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The House of God"
+    },
+    {
+      "author_key": [
+        "OL12611068A",
+        "OL7832981A"
+      ],
+      "author_name": [
+        "Samuel Shem M.D.",
+        "Sean Runnette"
+      ],
+      "cover_edition_key": "OL47261859M",
+      "cover_i": 13711991,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL34904798W",
+      "public_scan_b": false,
+      "title": "The House of God"
+    }
+  ]
+}

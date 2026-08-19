@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Graham Greene",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Graham Greene</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q128560",
+  "titles": {
+    "canonical": "Graham_Greene",
+    "normalized": "Graham Greene",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Graham Greene</span></span>"
+  },
+  "pageid": 65463,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Graham_Greene_angol_%C3%ADr%C3%B3%2C_1975_Fortepan_84697.jpg/330px-Graham_Greene_angol_%C3%ADr%C3%B3%2C_1975_Fortepan_84697.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 485
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Graham_Greene_angol_%C3%ADr%C3%B3%2C_1975_Fortepan_84697.jpg/3840px-Graham_Greene_angol_%C3%ADr%C3%B3%2C_1975_Fortepan_84697.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 4681,
+    "height": 6878
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366656978",
+  "tid": "d77bc1da-8b33-11f1-9123-78b5724f59fd",
+  "timestamp": "2026-07-29T09:57:00Z",
+  "description": "British writer and playwright (1904\u20131991)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Graham_Greene",
+      "revisions": "https://en.wikipedia.org/wiki/Graham_Greene?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Graham_Greene?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Graham_Greene"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Graham_Greene",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Graham_Greene",
+      "edit": "https://en.wikipedia.org/wiki/Graham_Greene?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Graham_Greene"
+    }
+  },
+  "extract": "Henry Graham Greene was an English writer and journalist regarded by many as one of the leading novelists of the 20th century.",
+  "extract_html": "<p><b>Henry Graham Greene</b> was an English writer and journalist regarded by many as one of the leading novelists of the 20th century.</p>"
+}

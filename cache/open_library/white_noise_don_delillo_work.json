@@ -1,0 +1,93 @@
+{
+  "description": "The trials and tribulations of a profesor of Hitler studies.",
+  "title": "White Noise",
+  "covers": [
+    94015,
+    100540,
+    8457081,
+    10507036,
+    6926058,
+    9426073,
+    1013908,
+    985690,
+    13793945,
+    8716539,
+    10169609,
+    10242846,
+    13980038,
+    12136943
+  ],
+  "subject_places": [
+    "Germany Middle East America All-global",
+    "Middle West"
+  ],
+  "first_publish_date": "1985",
+  "subject_people": [
+    "Don DeLillo"
+  ],
+  "key": "/works/OL1921196W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL230288A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL13430552A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "College teachers",
+    "College teachers in fiction",
+    "Death",
+    "Death in fiction",
+    "Fiction",
+    "Industrial accidents",
+    "Industrial accidents in fiction",
+    "Middle West in fiction",
+    "National Book Award Winner",
+    "Stepfamilies",
+    "Stepfamilies in fiction",
+    "award:national_book_award=1985",
+    "award:national_book_award=fiction",
+    "open_syllabus_project",
+    "Classic Literature",
+    "Literature",
+    "American literature",
+    "American fiction (fictional works by one author)",
+    "Middle west, fiction",
+    "College teachers, fiction",
+    "Fiction, general",
+    "Delillo, don, 1936-",
+    "Reading Level-Grade 7",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 8",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12"
+  ],
+  "latest_revision": 28,
+  "revision": 28,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:34:27.898187"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-29T02:49:30.390240"
+  }
+}

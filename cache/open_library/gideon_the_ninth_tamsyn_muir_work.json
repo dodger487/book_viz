@@ -1,0 +1,66 @@
+{
+  "title": "Gideon the Ninth",
+  "covers": [
+    10139515,
+    14357045
+  ],
+  "key": "/works/OL20128158W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7483937A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, science fiction, action & adventure",
+    "Fiction, fantasy, epic",
+    "Fiction, fantasy, dark fantasy",
+    "paranormal",
+    "necromancy",
+    "LGBTQ science fiction & fantasy",
+    "Women authors",
+    "Lesbians",
+    "Butch Lesbians",
+    "horror",
+    "Mystery",
+    "Swordplay",
+    "Fiction",
+    "Magic",
+    "Swordsmen",
+    "Serie:The_Locked_Tomb",
+    "Sneak Peek"
+  ],
+  "subject_times": [
+    "The Far Future"
+  ],
+  "description": "\"The Emperor needs necromancers.\r\n\r\nThe Ninth Necromancer needs a swordswoman.\r\n\r\nGideon has a sword, some dirty magazines, and no more time for undead nonsense.\r\n\r\nTamsyn Muir\u2019s Gideon the Ninth unveils a solar system of swordplay, cut-throat politics, and lesbian necromancers. Her characters leap off the page, as skillfully animated as arcane revenants. The result is a heart-pounding epic science fantasy.\r\n\r\nBrought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won\u2019t set her free without a service.\r\n\r\nHarrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will be become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon\u2019s sword, Harrow will fail, and the Ninth House will die.\r\n\r\nOf course, some things are better left dead.\"",
+  "subject_people": [
+    "Gideon Nav",
+    "Harrowhark Nonagesimus",
+    "Palamedes Sextus",
+    "Camilla Hect",
+    "Coronabeth Tridentarius",
+    "Ianthe Tridentarius"
+  ],
+  "subject_places": [
+    "The Ninth House",
+    "Caanan House"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-09-11T22:17:40.110412"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-12T15:22:41.927354"
+  }
+}

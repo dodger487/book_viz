@@ -1,0 +1,74 @@
+{
+  "subjects": [
+    "Listes",
+    "Emergency Medicine",
+    "Clinical Competence",
+    "Qualit\u00e9",
+    "Lists",
+    "Quality control",
+    "Soins m\u00e9dicaux",
+    "Contr\u00f4le",
+    "nyt:paperback_business_books=2012-02-25",
+    "New York Times bestseller",
+    "Medical care",
+    "Intensive Care Units",
+    "Personal Narratives",
+    "Normes",
+    "Standards",
+    "Medical care, quality control",
+    "Conduct of life",
+    "New York Times reviewed"
+  ],
+  "key": "/works/OL15436462W",
+  "title": "The Checklist Manifesto",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1485501A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8231866,
+    6676952,
+    7980247,
+    8627658
+  ],
+  "subtitle": "How To Get Things Right",
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2009/12/24/books/24book.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://www.nytimes.com/2010/01/24/books/review/Jauhar-t.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Reveals the surprising power of the ordinary checklist now being used in medicine, aviation, the armed services, homeland security, investment banking, skyscraper construction, and businesses of all kinds."
+  },
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-11-01T20:56:42.031645"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-14T20:01:30.667850"
+  }
+}

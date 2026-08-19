@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ted Chiang",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ted Chiang</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q503095",
+  "titles": {
+    "canonical": "Ted_Chiang",
+    "normalized": "Ted Chiang",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ted Chiang</span></span>"
+  },
+  "pageid": 325507,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chiang%2C_Ted_%28Villarrubia%29_%28cropped%29.jpg/330px-Chiang%2C_Ted_%28Villarrubia%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Chiang%2C_Ted_%28Villarrubia%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1850,
+    "height": 1850
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1357832163",
+  "tid": "6b1b9dce-6069-11f1-bc40-4f6c0b015338",
+  "timestamp": "2026-06-04T23:02:11Z",
+  "description": "American science fiction writer (born 1967)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ted_Chiang",
+      "revisions": "https://en.wikipedia.org/wiki/Ted_Chiang?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ted_Chiang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ted_Chiang"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ted_Chiang",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ted_Chiang",
+      "edit": "https://en.wikipedia.org/wiki/Ted_Chiang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ted_Chiang"
+    }
+  },
+  "extract": "Ted Chiang is an American science fiction writer, whose work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story \"Story of Your Life\" was the basis of the film Arrival (2016). He was an artist in residence at the University of Notre Dame from 2020 to 2021. Chiang is also a frequent non-fiction contributor to the New Yorker, where he writes on topics related to computing such as artificial intelligence.",
+  "extract_html": "<p><b>Ted Chiang</b> is an American science fiction writer, whose work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections <i>Stories of Your Life and Others</i> (2002) and <i>Exhalation: Stories</i> (2019). His short story \"Story of Your Life\" was the basis of the film <i>Arrival</i> (2016). He was an artist in residence at the University of Notre Dame from 2020 to 2021. Chiang is also a frequent non-fiction contributor to the <i>New Yorker</i>, where he writes on topics related to computing such as artificial intelligence.</p>"
+}

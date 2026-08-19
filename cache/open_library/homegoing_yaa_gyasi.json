@@ -1,0 +1,47 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7400941A"
+      ],
+      "author_name": [
+        "Yaa Gyasi"
+      ],
+      "cover_i": 8081171,
+      "ebook_access": "printdisabled",
+      "edition_count": 32,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "homegoingnovel0000gyas_e0x6",
+        "homegoing0000gyas",
+        "homegoing0000gyas_g1a6",
+        "homegoingnovel0000gyas",
+        "homegoing0000gyas_v9b9"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17795349W",
+      "language": [
+        "chi",
+        "spa",
+        "ger",
+        "ita",
+        "ice",
+        "eng",
+        "dan"
+      ],
+      "public_scan_b": false,
+      "title": "Homegoing"
+    }
+  ]
+}

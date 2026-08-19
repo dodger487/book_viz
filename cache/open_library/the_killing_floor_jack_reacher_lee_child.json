@@ -1,0 +1,25 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL34328A"
+      ],
+      "author_name": [
+        "Lee Child"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45600074W",
+      "public_scan_b": false,
+      "title": "Novels By Lee Child, including: Jack Reacher, Killing Floor (novel), Die Trying (novel), Running Blind (lee Child Novel), Echo Burning, Without Fail, Persuader (novel), The Enemy (novel), One Shot (novel), The Hard Way (novel), Bad Luck And Trouble"
+    }
+  ]
+}

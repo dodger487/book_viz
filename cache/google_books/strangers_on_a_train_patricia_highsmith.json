@@ -1,0 +1,223 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "B_a_QgAACAAJ",
+      "etag": "lzf0iSj5ao0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B_a_QgAACAAJ",
+      "volumeInfo": {
+        "title": "Strangers on a Train",
+        "authors": [
+          "Patricia Highsmith",
+          "Michael Nation"
+        ],
+        "publisher": "Longman",
+        "publishedDate": "1999",
+        "description": "When Guy Haines meets Charley Bruno on a train, he is pulled into a world of madness, lies and death, from which there is no escape.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0582418127"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780582418127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B_a_QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B_a_QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B_a_QgAACAAJ&dq=intitle:%22Strangers+on+a+Train%22+inauthor:%22Patricia+Highsmith%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=B_a_QgAACAAJ&dq=intitle:%22Strangers+on+a+Train%22+inauthor:%22Patricia+Highsmith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strangers_on_a_Train.html?hl=&id=B_a_QgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B_a_QgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Theatre program."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XluNEAAAQBAJ",
+      "etag": "OK7GauxtVCA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XluNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Strangers on a Train",
+        "subtitle": "A Novel",
+        "authors": [
+          "Patricia Highsmith"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2021-01-19",
+        "description": "\"Strangers on a Train has lost none of its power to disturb\u2026We will likely be reading Patricia Highsmith for the next one hundred years.\" \u2014Paula Hawkins Just in time for the centennial celebration of groundbreaking noir fiction writer Patricia Highsmith comes a reissue of her propulsive, engrossing debut, Strangers on a Train, with a new introduction by best-selling author Paula Hawkins. Guy Haines and Charles Anthony Bruno are passengers on the same train. Haines is a successful architect in the midst of a divorce, Bruno a mysterious smooth-talker with a sadistic proposal: he\u2019ll murder Haines\u2019s wife if Haines will murder Bruno\u2019s father. As Bruno carries out his twisted plan, Guy finds himself trapped in Highsmith\u2019s perilous world, where, under the right circumstances, ordinary people are capable of extraordinary crimes. The inspiration for Alfred Hitchcock\u2019s classic 1951 film, Strangers on a Train launched Highsmith\u2019s prolific career, proving her a master at depicting the unsettling forces that tremble beneath the surface of everyday life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393351934"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393351939"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XluNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XluNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XluNEAAAQBAJ&dq=intitle:%22Strangers+on+a+Train%22+inauthor:%22Patricia+Highsmith%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XluNEAAAQBAJ&dq=intitle:%22Strangers+on+a+Train%22+inauthor:%22Patricia+Highsmith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strangers_on_a_Train.html?hl=&id=XluNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XluNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Strangers on a Train has lost none of its power to disturb\u2026We will likely be reading Patricia Highsmith for the next one hundred years.&quot; \u2014Paula Hawkins Just in time for the centennial celebration of groundbreaking noir fiction writer ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aaIOswEACAAJ",
+      "etag": "QrnrfrSOEMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aaIOswEACAAJ",
+      "volumeInfo": {
+        "title": "Strangers on a Train",
+        "authors": [
+          "Patricia Highsmith"
+        ],
+        "publisher": "Virago Press",
+        "publishedDate": "2016",
+        "description": "In this mesmerizing novel] . . . not to be recommended for the weak-minded and impressionable (Washington Post), we encounter Guy Haines, a successful architect in the midst of a divorce, and Charles Anthony Bruno, a conniving psychopath who manipulates a chance encounter with Guy into a sadistic plot to swap murders. Some people are better off dead, says Bruno, like your wife and my father, for instance. As Bruno carries out his twisted plan, Guy becomes trapped in Patricia Highsmith s perilous world, where under the right circumstances anyone is capable of murder. Still her most iconic novel, Strangers on a Train elicits the menace that lurks in familiar surroundings (Time) and the unsettling forces that tremble beneath the surface of everyday life.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0349007276"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780349007274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aaIOswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aaIOswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aaIOswEACAAJ&dq=intitle:%22Strangers+on+a+Train%22+inauthor:%22Patricia+Highsmith%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aaIOswEACAAJ&dq=intitle:%22Strangers+on+a+Train%22+inauthor:%22Patricia+Highsmith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Strangers_on_a_Train.html?hl=&id=aaIOswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aaIOswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "CLASSIC THRILLER BEHIND THE HITCHCOCK FILM AND HIGHSMITH&#39;S FIRST NOVEL By the bestselling author of The Talented Mr Ripley and Carol &#39;Her books have stylistic texture, psychological depth, mesmeric readability&#39; SUNDAY TIMES &#39;The original, ..."
+      }
+    }
+  ]
+}

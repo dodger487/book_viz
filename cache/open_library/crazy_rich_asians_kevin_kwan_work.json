@@ -1,0 +1,105 @@
+{
+  "description": "(Description comes from the 2013 Anchor Books edition)\r\n\r\nWhen New Yorker Rachel Chu agrees on a summer in Singapore to visit her boyfriend's \"traditional\" Chinese family, she expects the visit to be relaxing, if a little dull. She has no idea....\r\n\r\nNick's childhood home is a palace. He grew up riding in more private planes than cars. He and Rachel will be attending the wedding of the year. Oh, and Nick just happens to be one of Asia's more eligible bachelors--and his formidable mother isn't so sure Rachel is the right one for him.",
+  "title": "Crazy Rich Asians",
+  "covers": [
+    8251889,
+    8330499,
+    8457913,
+    10208508,
+    9039718,
+    10530454,
+    10530455,
+    10846345,
+    10871887
+  ],
+  "subject_places": [
+    "Singapore",
+    "Manhattan",
+    "New York City",
+    "Singapore; New York City (Manhattan)",
+    "Estadounidenses",
+    "Singapur"
+  ],
+  "subjects": [
+    "Rich people",
+    "Fianc\u00e9es",
+    "Americans",
+    "Social conflict",
+    "Fianc\u00e9s",
+    "Fiction",
+    "Romantic Comedy",
+    "Family Life",
+    "Romance",
+    "Fiancees",
+    "General",
+    "Fiances",
+    "Women",
+    "Amerikanisches Englisch",
+    "nyt:combined-print-and-e-book-fiction=2018-05-13",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fiction, family life, general",
+    "Singapore, fiction",
+    "Single women",
+    "Single men",
+    "Rich",
+    "Domestic fiction",
+    "FICTION / Asian American",
+    "FICTION / Contemporary Women",
+    "Singaporean fiction (English)",
+    "Humorous stories",
+    "Riqueza",
+    "Ficcion",
+    "Luchas sociales",
+    "Parejas solteras",
+    "Chinese fiction",
+    "Fiction, family life"
+  ],
+  "subject_people": [
+    "Rachel Chu (Fictional character)",
+    "Nicholas Young (Fictional character)"
+  ],
+  "key": "/works/OL17924837W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL3279480A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "2010s"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "https://www.nytimes.com/2013/07/01/books/kevin-kwans-crazy-rich-asians-depicts-a-cult-of-opulence.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2013/07/01/books/kevin-kwans-crazy-rich-asians-depicts-a-cult-of-opulence.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2018-09-23T21:07:34.942685"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-01-10T11:06:05.011806"
+  }
+}

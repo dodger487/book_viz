@@ -1,0 +1,32 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7618251A"
+      ],
+      "author_name": [
+        "Jenny Odell"
+      ],
+      "cover_edition_key": "OL27258148M",
+      "cover_i": 8750439,
+      "ebook_access": "no_ebook",
+      "edition_count": 13,
+      "first_publish_year": 2019,
+      "has_fulltext": false,
+      "key": "/works/OL20078135W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Resisting the Attention Economy",
+      "title": "How to Do Nothing"
+    }
+  ]
+}

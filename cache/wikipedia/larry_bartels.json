@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Larry Bartels",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Larry Bartels</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6489917",
+  "titles": {
+    "canonical": "Larry_Bartels",
+    "normalized": "Larry Bartels",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Larry Bartels</span></span>"
+  },
+  "pageid": 18202034,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Larry_M._Bartels_speaking_at_the_Munk_School_at_U_of_T_-b.jpg/330px-Larry_M._Bartels_speaking_at_the_Munk_School_at_U_of_T_-b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Larry_M._Bartels_speaking_at_the_Munk_School_at_U_of_T_-b.jpg/3840px-Larry_M._Bartels_speaking_at_the_Munk_School_at_U_of_T_-b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 4320,
+    "height": 3240
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1300221938",
+  "tid": "68ade15b-5f85-11f0-9944-492ca0b2f408",
+  "timestamp": "2025-07-13T01:05:04Z",
+  "description": "American political scientist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Larry_Bartels",
+      "revisions": "https://en.wikipedia.org/wiki/Larry_Bartels?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Larry_Bartels?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Larry_Bartels"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Larry_Bartels",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Larry_Bartels",
+      "edit": "https://en.wikipedia.org/wiki/Larry_Bartels?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Larry_Bartels"
+    }
+  },
+  "extract": "Larry Martin Bartels is an American political scientist and the Co-Director of the Center for the Study of Democratic Institutions and Shayne Chair in Public Policy and Social Science at Vanderbilt University. Prior to his appointment at Vanderbilt, Bartels served as the Donald E. Stokes Professor of Public Policy and International Relations and founding director of the Center for the Study of Democratic Politics at the Woodrow Wilson School of Public and International Affairs at Princeton University. He was elected a Member of the American Philosophical Society in 2019.",
+  "extract_html": "<p><b>Larry Martin Bartels</b> is an American political scientist and the Co-Director of the Center for the Study of Democratic Institutions and Shayne Chair in Public Policy and Social Science at Vanderbilt University. Prior to his appointment at Vanderbilt, Bartels served as the Donald E. Stokes Professor of Public Policy and International Relations and founding director of the Center for the Study of Democratic Politics at the Woodrow Wilson School of Public and International Affairs at Princeton University. He was elected a Member of the American Philosophical Society in 2019.</p>"
+}

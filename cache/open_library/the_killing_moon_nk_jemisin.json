@@ -1,0 +1,38 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6575473A"
+      ],
+      "author_name": [
+        "N. K. Jemisin"
+      ],
+      "cover_i": 7554263,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "killingmoon0000jemi"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17425966W",
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "The Killing Moon"
+    }
+  ]
+}

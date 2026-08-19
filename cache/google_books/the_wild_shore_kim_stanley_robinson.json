@@ -1,0 +1,240 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Xz9GAgAAQBAJ",
+      "etag": "h4uqA71QSWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xz9GAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wild Shore",
+        "subtitle": "Three Californias",
+        "authors": [
+          "Kim Stanley Robinson"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "1995-03-15",
+        "description": "The author of the award-winning Red Mars and its sequel Green Mars offers a vision of a radically different alternative future in the first volume of his highly acclaimed \"Three Californias\" trilogy. The Wild Shore tells the story of a young man coming of age on the Pacific coast in the aftermath of a devastating nuclear war.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780312890360"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0312890362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xz9GAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xz9GAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Xz9GAgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wild+Shore%22+inauthor:%22Kim+Stanley+Robinson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Xz9GAgAAQBAJ&dq=intitle:%22The+Wild+Shore%22+inauthor:%22Kim+Stanley+Robinson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wild_Shore.html?hl=&id=Xz9GAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xz9GAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Wild Shore tells the story of a young man coming of age on the Pacific coast in the aftermath of a devastating nuclear war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MdipDwAAQBAJ",
+      "etag": "NXe012IeWJs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MdipDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Three Californias",
+        "subtitle": "The Wild Shore, The Gold Coast, and Pacific Edge",
+        "authors": [
+          "Kim Stanley Robinson"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2020-02-04",
+        "description": "From the internationally bestselling author of the Mars Trilogy and New York 2140 Before Kim Stanley Robinson terraformed Mars, he wrote three science fiction novels set in Orange County, California, where he grew up. These alternate futures\u2014one a post-apocalypse, one an if-this-goes-on future reminiscent of Philip K. Dick, and one an ecological utopia\u2014form a whole that illuminates, enchants, and inspires--collected here as Three Californias. What if... there was a limited nuclear war that left the United States blockaded, fragmented, the few survivors living in the ruins of a once-great nation? What if... this goes on, and technology continues to accelerate, and power continues to be consolidated into corporate culture, a developer\u2019s dream world gone mad: an endless sprawl of condos, freeways, and malls, and designer drugs? What if... a revolution happens, and the US addresses climate change in a responsible way. Is a future green Utopia all that great when you\u2019re young and in love? This Tor Essentials edition of Three Californias includes an introduction by Francis Spufford, bestselling author of Golden Hill and Red Plenty. \u201c[Robinson] invites us to share his characters\u2019 intensely personal, intensely local attachment to what they have. The result may shame you into entertaining new hope for the future.\u201d \u2014The New York Times on Pacific Edge At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250758958"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250758955"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 994,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MdipDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MdipDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MdipDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wild+Shore%22+inauthor:%22Kim+Stanley+Robinson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MdipDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MdipDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MdipDwAAQBAJ&rdid=book-MdipDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MdipDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This Tor Essentials edition of Three Californias includes an introduction by Francis Spufford, bestselling author of Golden Hill and Red Plenty. \u201c[Robinson] invites us to share his characters\u2019 intensely personal, intensely local ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8flvAQAACAAJ",
+      "etag": "1lyXEib0WRk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8flvAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Wild Shore",
+        "authors": [
+          "Kim Stanley Robinson"
+        ],
+        "publishedDate": "2005",
+        "description": "For a small Californian coastal community in the year 2047, life in the aftermath of a devastating nuclear attack is a daily struggle. It is sixty years after America has been quarantined and a young man dreams of how he can build a new America.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:939667135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Orange County (Calif.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8flvAQAACAAJ&dq=intitle:%22The+Wild+Shore%22+inauthor:%22Kim+Stanley+Robinson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8flvAQAACAAJ&dq=intitle:%22The+Wild+Shore%22+inauthor:%22Kim+Stanley+Robinson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wild_Shore.html?hl=&id=8flvAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8flvAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For a small Californian coastal community in the year 2047, life in the aftermath of a devastating nuclear attack is a daily struggle."
+      }
+    }
+  ]
+}

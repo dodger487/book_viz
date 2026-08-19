@@ -1,0 +1,166 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FaNaDgAAQBAJ",
+      "etag": "nKUJ3vgnkNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FaNaDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Manager's Path",
+        "subtitle": "A Guide for Tech Leaders Navigating Growth and Change",
+        "authors": [
+          "Camille Fournier"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2017-03-13",
+        "description": "Managing people is difficult wherever you work. But in the tech industry, where management is also a technical discipline, the learning curve can be brutal\u2014especially when there are few tools, texts, and frameworks to help you. In this practical guide, author Camille Fournier (tech lead turned CTO) takes you through each stage in the journey from engineer to technical manager. From mentoring interns to working with senior staff, you\u2019ll get actionable advice for approaching various obstacles in your path. This book is ideal whether you\u2019re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization. Begin by exploring what you expect from a manager Understand what it takes to be a good mentor, and a good tech lead Learn how to manage individual members while remaining focused on the entire team Understand how to manage yourself and avoid common pitfalls that challenge many leaders Manage multiple teams and learn how to manage managers Learn how to build and bootstrap a unifying culture in teams",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491973844"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491973846"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 187,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FaNaDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FaNaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FaNaDgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Manager%27s+Path%22+inauthor:%22Camille+Fournier%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FaNaDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FaNaDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 33.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 33.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FaNaDgAAQBAJ&rdid=book-FaNaDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 33990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 33990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FaNaDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is ideal whether you\u2019re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_qg_zQEACAAJ",
+      "etag": "ymebilf2L6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_qg_zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Manager's Path, Chapter 3 \"Tech Lead\" (Audio Book)",
+        "authors": [
+          "Camille Fournier"
+        ],
+        "publishedDate": "2017",
+        "description": "This audio book chapter from The Manager's Path will teach you the biggest trick of being a good tech lead: the willingness to step away from the code and figure out how to balance your technical commitments with the work the whole team needs. From mentoring interns to working with senior staff, you'll get actionable advice for approaching various obstacles in your path.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1137340757"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_qg_zQEACAAJ&dq=intitle:%22The+Manager%27s+Path%22+inauthor:%22Camille+Fournier%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_qg_zQEACAAJ&dq=intitle:%22The+Manager%27s+Path%22+inauthor:%22Camille+Fournier%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Manager_s_Path_Chapter_3_Tech_Lead_A.html?hl=&id=_qg_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_qg_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This audio book chapter from The Manager&#39;s Path will teach you the biggest trick of being a good tech lead: the willingness to step away from the code and figure out how to balance your technical commitments with the work the whole team ..."
+      }
+    }
+  ]
+}

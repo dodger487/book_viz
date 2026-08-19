@@ -1,0 +1,134 @@
+{
+  "description": "Preceded by: [The Name of the Wind][1]\r\n\r\nIn The Wise Man's Fear, Kvothe searches for answers, attempting to uncover the truth about the mysterious Amyr, the Chandrian, and the death of his parents. Along the way, Kvothe is put on trial by the legendary Adem mercenaries, forced to reclaim the honor of his family, and travels into the Fae realm. There he meets Felurian, the faerie woman no man can resist, and who no man has ever survived...until Kvothe.\r\n\r\nNow, Kvothe takes his first steps on the path of the hero and learns how difficult life can be when a man becomes a legend in his own time.\r\n\r\n([source][2])\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL9772092W/The_Name_of_the_Wind\r\n  [2]: https://www.patrickrothfuss.com/content/books.asp",
+  "links": [
+    {
+      "title": "Official web site",
+      "url": "https://www.patrickrothfuss.com/content/books.asp",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Wise Man's Fear - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Wise_Man%27s_Fear",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Wise Man\u2019s Fear, by Patrick Rothfuss | The Independent",
+      "url": "https://www.independent.co.uk/arts-entertainment/books/reviews/the-wise-manrsquos-fear-by-patrick-rothfuss-2266395.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Wise Man\u2019s Fear by Patrick Rothfuss book review (fantasybookreview.co.uk)",
+      "url": "http://www.fantasybookreview.co.uk/Patrick-Rothfuss/The-Wise-Mans-Fear.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Wise Man\u2019s Fear",
+  "covers": [
+    8294024,
+    8259361,
+    8761697,
+    9036939,
+    10837659,
+    10851212,
+    12371211,
+    13111681,
+    13796224
+  ],
+  "subject_places": [
+    "Severen",
+    "The University",
+    "The Archives",
+    "Tarbean",
+    "Ademre"
+  ],
+  "subjects": [
+    "The Kingkiller Chronicle",
+    "Magicians",
+    "Attempted assassination",
+    "Fairies",
+    "Fiction",
+    "Fantasy",
+    "New York Times bestseller",
+    "Heroes",
+    "Mercenary troops",
+    "nyt:hardcover_fiction=2011-05-28",
+    "Epic Fantasy",
+    "Paranormal Fiction",
+    "Wizards",
+    "Magic",
+    "Phantastischer Roman",
+    "Fantasy fiction",
+    "Amerikanisches Englisch",
+    "Fiction, fantasy, general",
+    "Heroes and heroines",
+    "Mercenary soldiers",
+    "Assassination",
+    "Spanish language",
+    "Reading materials"
+  ],
+  "subject_people": [
+    "Edema Ruh",
+    "Kvothe",
+    "Denna",
+    "the Chandrian",
+    "the Fae",
+    "Felurian",
+    "Bast",
+    "Devi",
+    "Chronicler",
+    "Ambrose",
+    "Maer Alveron",
+    "the Cthaeh",
+    "Tempi",
+    "the Adem"
+  ],
+  "key": "/works/OL8479869W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2830895A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "Dawn was coming.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL337960L"
+      },
+      "position": "2"
+    }
+  ],
+  "latest_revision": 41,
+  "revision": 41,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:50:49.125618"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-13T17:12:05.669567"
+  }
+}

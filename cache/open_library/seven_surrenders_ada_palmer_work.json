@@ -1,0 +1,41 @@
+{
+  "description": "\"It is a world in which near-instantaneous travel from continent to continent is free to all. In which automation now provides for everybody's basic needs. In which nobody living can remember an actual war. In which it is illegal for three or more people to gather for the practice of religion--but ecumenical \"sensayers\" minister in private, one-on-one. In which gendered language is archaic, and to dress as strongly male or female is, if not exactly illegal, deeply taboo. In which nationality is a fading memory, and most people identify instead with their choice of the seven global Hives, distinguished from one another by their different approaches to the big questions of life. And it is a world in which, unknown to most, the entire social order is teetering on the edge of collapse. Because even in utopia, humans will conspire. And also because something new has arisen: Bridger, the child who can bring inanimate objects to conscious life\"--",
+  "covers": [
+    8429595,
+    8772829,
+    9338105,
+    9376451
+  ],
+  "key": "/works/OL19213555W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7475792A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Seven Surrenders",
+  "subjects": [
+    "Utopias",
+    "Fiction",
+    "Fiction, science fiction, general",
+    "series:terra_ignota",
+    "Utopias -- Fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-11T19:38:25.579004"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-24T07:03:47.908320"
+  }
+}

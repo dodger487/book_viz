@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tommy Orange",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tommy Orange</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q63341394",
+  "titles": {
+    "canonical": "Tommy_Orange",
+    "normalized": "Tommy Orange",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tommy Orange</span></span>"
+  },
+  "pageid": 57627523,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tommy_Orange_2018.jpg/330px-Tommy_Orange_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tommy_Orange_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1041,
+    "height": 1562
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368576986",
+  "tid": "a78cbfeb-9441-11f1-8f39-edf4902e74dc",
+  "timestamp": "2026-08-09T22:28:33Z",
+  "description": "American writer (born 1982)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tommy_Orange",
+      "revisions": "https://en.wikipedia.org/wiki/Tommy_Orange?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tommy_Orange?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tommy_Orange"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tommy_Orange",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tommy_Orange",
+      "edit": "https://en.wikipedia.org/wiki/Tommy_Orange?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tommy_Orange"
+    }
+  },
+  "extract": "Tommy Orange is an American novelist and writer from Oakland, California. His first book, There There (2018), was a finalist for the 2019 Pulitzer Prize for Fiction and received the 2019 American Book Award. In October 2025, Orange was awarded a MacArthur Foundation Fellowship.",
+  "extract_html": "<p><b>Tommy Orange</b> is an American novelist and writer from Oakland, California. His first book, <i>There There</i> (2018), was a finalist for the 2019 Pulitzer Prize for Fiction and received the 2019 American Book Award. In October 2025, Orange was awarded a MacArthur Foundation Fellowship.</p>"
+}

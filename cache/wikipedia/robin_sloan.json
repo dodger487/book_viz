@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robin Sloan",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robin Sloan</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16211413",
+  "titles": {
+    "canonical": "Robin_Sloan",
+    "normalized": "Robin Sloan",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robin Sloan</span></span>"
+  },
+  "pageid": 41803260,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Robin_Sloan_Close-up.jpg/330px-Robin_Sloan_Close-up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 248
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Robin_Sloan_Close-up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1600,
+    "height": 1200
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1246063767",
+  "tid": "19754f3b-7453-11ef-bc25-1d4c0e9fad8a",
+  "timestamp": "2024-09-16T17:42:53Z",
+  "description": "American novelist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robin_Sloan",
+      "revisions": "https://en.wikipedia.org/wiki/Robin_Sloan?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robin_Sloan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robin_Sloan"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Robin_Sloan",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Robin_Sloan",
+      "edit": "https://en.wikipedia.org/wiki/Robin_Sloan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robin_Sloan"
+    }
+  },
+  "extract": "Robin Sloan is an American author. His debut novel, Mr. Penumbra's 24-Hour Bookstore, was published in 2012.",
+  "extract_html": "<p><b>Robin Sloan</b> is an American author. His debut novel, <i>Mr. Penumbra's 24-Hour Bookstore</i>, was published in 2012.</p>"
+}

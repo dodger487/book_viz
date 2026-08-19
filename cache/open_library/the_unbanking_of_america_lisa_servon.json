@@ -1,0 +1,38 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7511170A"
+      ],
+      "author_name": [
+        "Lisa Servon"
+      ],
+      "cover_edition_key": "OL26878976M",
+      "cover_i": 8572184,
+      "ebook_access": "borrowable",
+      "edition_count": 1,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "unbankingofameri0000serv"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL19659407W",
+      "lending_edition_s": "OL26878976M",
+      "lending_identifier_s": "unbankingofameri0000serv",
+      "public_scan_b": false,
+      "title": "The Unbanking of America: How the New Middle Class Survives"
+    }
+  ]
+}

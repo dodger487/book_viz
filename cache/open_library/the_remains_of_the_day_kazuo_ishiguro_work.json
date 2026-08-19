@@ -1,0 +1,95 @@
+{
+  "description": "In the summer of 1956, Stevens, the ageing butler of Darlington Hall, embarks on a leisurely holiday that will take him deep into the countryside and into his past . . .A contemporary classic, The Remains of the Day is Kazuo Ishiguro's beautiful and haunting evocation of life between the wars in a Great English House, of lost causes and lost love.",
+  "title": "The Remains of the Day",
+  "covers": [
+    95742,
+    420075,
+    3224016,
+    9002755,
+    381418,
+    8665333,
+    979075,
+    9425849,
+    10795405,
+    10795406,
+    11116153,
+    1013800,
+    11690971,
+    12274255,
+    12331371,
+    12633788,
+    13174172,
+    12839874,
+    13547947
+  ],
+  "subject_places": [
+    "England",
+    "Angleterre"
+  ],
+  "first_publish_date": "1994",
+  "key": "/works/OL59048W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL28493A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Man Booker Prize Winner",
+    "award:man_booker_prize=1989",
+    "Literature",
+    "Household employees",
+    "Butlers",
+    "Country homes",
+    "Domestics",
+    "Fiction",
+    "Country homes -- Fiction",
+    "Man-woman relationships",
+    "History",
+    "Historical fiction",
+    "Man-woman relationships, fiction",
+    "Fiction, historical",
+    "British and irish fiction (fictional works by one author)",
+    "England, fiction",
+    "Readers",
+    "Diener",
+    "Fiction, historical, general",
+    "Social classes",
+    "Country homes--history",
+    "Country homes--england--history--20th century--fiction",
+    "Man-woman relationships--england--fiction",
+    "Household employees--england--fiction",
+    "Pr6059.s5 r46 1993x",
+    "Samfundsskildringer",
+    "Employ\u00e9s de maison",
+    "Romans, nouvelles"
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "identifiers": {
+    "librarything": [
+      "3035"
+    ],
+    "wikidata": [
+      "Q829934"
+    ]
+  },
+  "latest_revision": 31,
+  "revision": 31,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T22:46:15.529792"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-19T15:14:07.291133"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "STXyEAAAQBAJ",
+      "etag": "FsdTFyYtM/U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/STXyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "No Bad Kids",
+        "subtitle": "Toddler Discipline Without Shame",
+        "authors": [
+          "Janet Lansbury"
+        ],
+        "publisher": "Rodale Books",
+        "publishedDate": "2024-04-30",
+        "description": "A modern classic on the gentle art of discipline for toddlers, by the internationally renowned childcare expert, podcaster, and author of Elevating Child Care \u201cNo Bad Kids provides practical ways to respond to the challenges of toddlerhood while nurturing a respectful relationship with your child.\u201d\u2014Tina Payne Bryson, PhD, co-author of The Whole-Brain Child and No-Drama Discipline Janet Lansbury is unique among parenting experts. As a RIE teacher and student of pioneering child specialist Magda Gerber, her advice is not based solely on formal studies and the research of others, but also on her more than twenty years of hands-on experience guiding hundreds of parents and their toddlers. A collection of her most popular articles about toddler behavior, No Bad Kids presents her signature approach to discipline, which she sees as a parent\u2019s act of compassion and love for a child. Full of wisdom and encouragement, it covers common toddler concerns such as: \u2022 Why toddlers need clear boundaries\u2014and how to set them without yelling \u2022 What's going on when they bite, hit, kick, tantrum, whine, and talk back \u2022 Advice for parenting a strong-willed child \u2022 How to be a gentle leader, and Lansbury\u2019s secret for staying calm For parents who are anticipating or experiencing those critical years when toddlers are developmentally obliged to test the limits of our patience and love, No Bad Kids is a practical, indispensable resource for putting respectful discipline into action.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593736135"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593736133"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=STXyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=STXyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=STXyEAAAQBAJ&printsec=frontcover&dq=intitle:%22No+Bad+Kids:+Toddler+Discipline+without+Shame%22+inauthor:%22Janet+Lansbury%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=STXyEAAAQBAJ&dq=intitle:%22No+Bad+Kids:+Toddler+Discipline+without+Shame%22+inauthor:%22Janet+Lansbury%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/No_Bad_Kids.html?hl=&id=STXyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=STXyEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A modern classic on the gentle art of discipline for toddlers, by the internationally renowned childcare expert, podcaster, and author of Elevating Child Care and Baby Person \u201cNo Bad Kids provides practical ways to respond to the ..."
+      }
+    }
+  ]
+}

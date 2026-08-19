@@ -1,0 +1,221 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QP4O0QEACAAJ",
+      "etag": "ZnD3LWQePwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QP4O0QEACAAJ",
+      "volumeInfo": {
+        "title": "Brideshead Revisited",
+        "authors": [
+          "Evelyn Waugh"
+        ],
+        "publisher": "Word on Fire Classics",
+        "publishedDate": "2024-07-22",
+        "description": "Brideshead Revisited details the journey of Charles Ryder, who, through the memories of his interactions with an aristocratic English family, encounters various episodes of conversion and experiences the illuminating power of divine grace--which, in the words of G.K. Chesterton, tugs on human hearts \"with a twitch upon the thread.\" Lodged between two world wars and burdened by the stark collapse of culture, Charles Ryder comes face to face with the perils of sin and confronts the inescapable yearnings of faith.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1685782388"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781685782382"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QP4O0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QP4O0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QP4O0QEACAAJ&dq=intitle:%22Brideshead+Revisited%22+inauthor:%22Evelyn+Waugh%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QP4O0QEACAAJ&dq=intitle:%22Brideshead+Revisited%22+inauthor:%22Evelyn+Waugh%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brideshead_Revisited.html?hl=&id=QP4O0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QP4O0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novel is a story of faith and disillusionment in a glamorous upper-class world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dos7PgAACAAJ",
+      "etag": "a/WN8evLBRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dos7PgAACAAJ",
+      "volumeInfo": {
+        "title": "Brideshead Revisited",
+        "subtitle": "The Sacred and Profane Memories of Captain Charles Ryder",
+        "authors": [
+          "Evelyn Waugh"
+        ],
+        "publisher": "ePenguin",
+        "publishedDate": "2002-11",
+        "description": "Charles Ryder, a lonely student at Oxford, is captivated by the exquisitely beautiful Sebastian Flyte. Invited to Brideshead, Sebastian's magnificent family home, Charles welcomes the attentions of its eccentric, aristocratic inhabitants. But he also discovers a world where duty and desire, faith and earthly happiness are in conflict.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0141886358"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141886350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Great Britain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dos7PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dos7PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Dos7PgAACAAJ&dq=intitle:%22Brideshead+Revisited%22+inauthor:%22Evelyn+Waugh%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Dos7PgAACAAJ&dq=intitle:%22Brideshead+Revisited%22+inauthor:%22Evelyn+Waugh%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brideshead_Revisited.html?hl=&id=Dos7PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dos7PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Charles Ryder, a lonely student at Oxford, is captivated by the exquisitely beautiful Sebastian Flyte."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CxMhAQAAIAAJ",
+      "etag": "ZUFG3KY1yaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CxMhAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Brideshead Revisited",
+        "authors": [
+          "Evelyn Waugh"
+        ],
+        "publishedDate": "1993",
+        "description": "Written at the end of the World War II, this novel mourns the passing of the aristocratic world which Waugh knew in his youth and recalls the sensuous pleasures denied him by the austerities of war. In so doing, it provides a study of the conflict between the demands of religion and of the flesh.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004393489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CxMhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CxMhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CxMhAQAAIAAJ&dq=intitle:%22Brideshead+Revisited%22+inauthor:%22Evelyn+Waugh%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CxMhAQAAIAAJ&dq=intitle:%22Brideshead+Revisited%22+inauthor:%22Evelyn+Waugh%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brideshead_Revisited.html?hl=&id=CxMhAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CxMhAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written at the end of the World War II, this novel mourns the passing of the aristocratic world which Waugh knew in his youth and recalls the sensuous pleasures denied him by the austerities of war."
+      }
+    }
+  ]
+}

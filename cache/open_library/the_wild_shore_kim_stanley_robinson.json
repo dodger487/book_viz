@@ -1,0 +1,43 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL19986A"
+      ],
+      "author_name": [
+        "Kim Stanley Robinson"
+      ],
+      "cover_edition_key": "OL1272929M",
+      "cover_i": 183637,
+      "ebook_access": "printdisabled",
+      "edition_count": 9,
+      "first_publish_year": 1984,
+      "has_fulltext": true,
+      "ia": [
+        "wildshore0000robi",
+        "wildshore00robi"
+      ],
+      "ia_collection": [
+        "americana",
+        "binghamton-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "unb-ol",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL81666W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Wild Shore"
+    }
+  ]
+}

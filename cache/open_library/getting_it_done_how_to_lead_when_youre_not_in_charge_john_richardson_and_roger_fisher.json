@@ -1,0 +1,55 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL220090A",
+        "OL2891679A"
+      ],
+      "author_name": [
+        "Roger Drummer Fisher",
+        "Alan Sharp"
+      ],
+      "cover_edition_key": "OL8198044M",
+      "cover_i": 684333,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL26481442W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Getting It Done"
+    },
+    {
+      "author_key": [
+        "OL220090A",
+        "OL2891679A"
+      ],
+      "author_name": [
+        "Roger Drummer Fisher",
+        "Alan Sharp"
+      ],
+      "cover_edition_key": "OL9680189M",
+      "cover_i": 1926005,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL9680189M",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Getting It Done"
+    }
+  ]
+}

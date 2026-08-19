@@ -1,0 +1,57 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Demon Copperhead",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL221083A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "covers": [
+    13141227,
+    13157605
+  ],
+  "key": "/works/OL27052926W",
+  "subjects": [
+    "nyt:combined-print-and-e-book-fiction=2022-11-06",
+    "New York Times bestseller",
+    "fiction",
+    "Coming of age",
+    "Small Town & Rural fiction",
+    "literary fiction",
+    "Literature",
+    "Mothers",
+    "Death",
+    "Opioid abuse",
+    "Orphans",
+    "Poverty",
+    "Teenage boys",
+    "Fiction, coming of age",
+    "Fiction, small town & rural",
+    "American fiction (fictional works by one author)"
+  ],
+  "subject_places": [
+    "Appalachian region",
+    "Lee County (Va.)"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"Anyone will tell you the born of this world are marked from the get-out, win or lose.\"\r\n\r\nSet in the mountains of southern Appalachia, this is the story of a boy born to a teenaged single mother in a single-wide trailer, with no assets beyond his dead father's good looks and copper-colored hair, a caustic wit, and a fierce talent for survival. In a plot that never pauses for breath, relayed in his own unsparing voice, he braves the modern perils of foster care, child labor, derelict schools, athletic success, addiction, disastrous loves, and crushing losses. Through all of it, he reckons with his own invisibility in a popular culture where even the superheroes have abandoned rural people in favor of cities.\r\n\r\nMany generations ago, Charles Dickens wrote David Copperfield from his experience as a survivor of institutional poverty and its damages to children in his society. Those problems have yet to be solved in ours. Dickens is not a prerequisite for readers of this novel, but he provided its inspiration. In transposing a Victorian epic novel to the contemporary American South, Barbara Kingsolver enlists Dickens' anger and compassion, and above all, his faith in the transformative powers of a good story. Demon Copperhead speaks for a new generation of lost boys, and all those born into beautiful, cursed places they can't imagine leaving behind."
+  },
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-01-20T07:03:34.925788"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-17T18:42:33.264998"
+  }
+}

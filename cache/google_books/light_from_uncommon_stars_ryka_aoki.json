@@ -1,0 +1,177 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qZ4OEAAAQBAJ",
+      "etag": "9A3TSA8YDoU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qZ4OEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Light From Uncommon Stars",
+        "authors": [
+          "Ryka Aoki"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2021-09-28",
+        "description": "Good Omens meets The Long Way to a Small, Angry Planet in Ryka Aoki's Light From Uncommon Stars, a defiantly joyful adventure set in California's San Gabriel Valley, with cursed violins, Faustian bargains, and queer alien courtship over fresh-made donuts. Hugo Award Finalist A National Bestseller Indie Next Pick New York Public Library Top 10 Book of 2021 A Kirkus Best Book of 2021 A Barnes & Noble Best Science Fiction Book of 2021 2022 Alex Award Winner 2022 Stonewall Book Award Winner Shizuka Satomi made a deal with the devil: to escape damnation, she must entice seven other violin prodigies to trade their souls for success. She has already delivered six. When Katrina Nguyen, a young transgender runaway, catches Shizuka's ear with her wild talent, Shizuka can almost feel the curse lifting. She's found her final candidate. But in a donut shop off a bustling highway in the San Gabriel Valley, Shizuka meets Lan Tran, retired starship captain, interstellar refugee, and mother of four. Shizuka doesn't have time for crushes or coffee dates, what with her very soul on the line, but Lan's kind smile and eyes like stars might just redefine a soul's worth. And maybe something as small as a warm donut is powerful enough to break a curse as vast as the California coastline. As the lives of these three women become entangled by chance and fate, a story of magic, identity, curses, and hope begins, and a family worth crossing the universe for is found. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250789075"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250789079"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qZ4OEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qZ4OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qZ4OEAAAQBAJ&printsec=frontcover&dq=intitle:%22Light+from+Uncommon+Stars%22+inauthor:%22Ryka+Aoki%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qZ4OEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qZ4OEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qZ4OEAAAQBAJ&rdid=book-qZ4OEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qZ4OEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Good Omens meets The Long Way to a Small, Angry Planet in Ryka Aoki&#39;s Light From Uncommon Stars, a defiantly joyful adventure set in California&#39;s San Gabriel Valley, with cursed violins, Faustian bargains, and queer alien courtship over ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vos0EAAAQBAJ",
+      "etag": "l81452PHcfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vos0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Light From Uncommon Stars Sneak Peek",
+        "authors": [
+          "Ryka Aoki"
+        ],
+        "publisher": "Tor Books",
+        "publishedDate": "2021-07-20",
+        "description": "Good Omens meets The Long Way to a Small, Angry Planet in Ryka Aoki's Light From Uncommon Stars, a defiantly joyful adventure set in California's San Gabriel Valley, with cursed violins, Faustian bargains, and queer alien courtship over fresh-made donuts. Download a FREE sneak peek today! Shizuka Satomi made a deal with the devil: to escape damnation, she must entice seven other violin prodigies to trade their souls for success. She has already delivered six. When Katrina Nguyen, a young transgender runaway, catches Shizuka's ear with her wild talent, Shizuka can almost feel the curse lifting. She's found her final candidate. But in a donut shop off a bustling highway in the San Gabriel Valley, Shizuka meets Lan Tran, retired starship captain, interstellar refugee, and mother of four. Shizuka doesn't have time for crushes or coffee dates, what with her very soul on the line, but Lan's kind smile and eyes like stars might just redefine a soul's worth. And maybe something as small as a warm donut is powerful enough to break a curse as vast as the California coastline. As the lives of these three women become entangled by chance and fate, a story of magic, identity, curses, and hope begins, and a family worth crossing the universe for is found. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250849762"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250849764"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vos0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vos0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Vos0EAAAQBAJ&printsec=frontcover&dq=intitle:%22Light+from+Uncommon+Stars%22+inauthor:%22Ryka+Aoki%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Vos0EAAAQBAJ&dq=intitle:%22Light+from+Uncommon+Stars%22+inauthor:%22Ryka+Aoki%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Light_From_Uncommon_Stars_Sneak_Peek.html?hl=&id=Vos0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vos0EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Good Omens meets The Long Way to a Small, Angry Planet in Ryka Aoki&#39;s Light From Uncommon Stars, a defiantly joyful adventure set in California&#39;s San Gabriel Valley, with cursed violins, Faustian bargains, and queer alien courtship over ..."
+      }
+    }
+  ]
+}

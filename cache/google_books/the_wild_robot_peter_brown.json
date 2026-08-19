@@ -1,0 +1,274 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XgdtzQEACAAJ",
+      "etag": "Yym2azZOX1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XgdtzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Wild Robot",
+        "authors": [
+          "Peter Brown"
+        ],
+        "publishedDate": "2020-04-07",
+        "description": "Roz the robot discovers that she is alone on a remote, wild island with no memory of where she is from or why she is there, and her only hope of survival is to try to learn about her new environment from the island's hostile inhabitants.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1536435074"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536435078"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XgdtzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XgdtzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XgdtzQEACAAJ&dq=intitle:%22The+Wild+Robot%22+inauthor:%22Peter+Brown%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XgdtzQEACAAJ&dq=intitle:%22The+Wild+Robot%22+inauthor:%22Peter+Brown%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wild_Robot.html?hl=&id=XgdtzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XgdtzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Roz the robot discovers that she is alone on a remote, wild island with no memory of where she is from or why she is there, and her only hope of survival is to try to learn about her new environment from the island&#39;s hostile inhabitants."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W9emEAAAQBAJ",
+      "etag": "edVcBb+QVjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W9emEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wild Robot Protects",
+        "authors": [
+          "Peter Brown"
+        ],
+        "publisher": "Little, Brown Books for Young Readers",
+        "publishedDate": "2023-09-26",
+        "description": "The action-packed third installment in Peter Brown's internationally bestselling The Wild Robot series takes Roz on an under-the-ocean journey to save her beloved island! Life for Roz and the animals on their island is perfect: wild, natural, harmonious. Her son Brightbill has even found a mate! But then, one day an injured seal washes ashore and warns of dangerous, cloudy waters that are flowing toward the island\u2014and soon the animals are forced inland to fight over dwindling resources. Roz calms and organizes the animals, but the poison tide takes a terrible toll on the island. And when the robot discovers that her new body is waterproof, she marches into the waves and sets out across the ocean, determined to stop the poison tide. During her undersea journey, Roz encounters amazing geological formations and incredible creatures, and she sees the devastation caused by the toxic waters. Creatures she meets along the way direct her to a mysterious character known as the Ancient Shark, who explains that the poison tide is caused by a huge station that floats on the waves; a station operated by humans and by robots. To stop them, the Ancient Shark is prepared to attack with an army of sea creatures. However, Roz hopes to find a peaceful solution, instead. Can the wild robot save the ocean and her island and everything she loves? This thrilling third installment of the Wild Robot series takes readers on a new adventure under the ocean and to the frigid northern waters where Roz may have to make the ultimate sacrifice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316669399"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316669393"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W9emEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W9emEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W9emEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wild+Robot%22+inauthor:%22Peter+Brown%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W9emEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W9emEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W9emEAAAQBAJ&rdid=book-W9emEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wild_Robot_Protects-sample-epub.acsm?id=W9emEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W9emEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The action-packed third installment in Peter Brown&#39;s internationally bestselling The Wild Robot series takes Roz on an under-the-ocean journey to save her beloved island!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FQ3hDgAAQBAJ",
+      "etag": "eR1fGYbqJTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FQ3hDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wild Robot Escapes",
+        "authors": [
+          "Peter Brown"
+        ],
+        "publisher": "Little, Brown Books for Young Readers",
+        "publishedDate": "2018-03-13",
+        "description": "The sequel to thebestselling The Wild Robot, by award-winning author Peter Brown Shipwrecked on a remote, wild island, Robot Roz learned from the unwelcoming animal inhabitants and adapted to her surroundings--but can she survive the challenges of the civilized world and find her way home to Brightbill and the island? From bestselling and award-winning author and illustrator Peter Brown comes a heartwarming and action-packed sequel to his New York Times bestselling The Wild Robot,about what happens when nature and technology collide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316475181"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316475181"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FQ3hDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FQ3hDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FQ3hDgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Wild+Robot%22+inauthor:%22Peter+Brown%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FQ3hDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FQ3hDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FQ3hDgAAQBAJ&rdid=book-FQ3hDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wild_Robot_Escapes-sample-epub.acsm?id=FQ3hDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FQ3hDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The sequel to thebestselling The Wild Robot, by award-winning author Peter Brown Shipwrecked on a remote, wild island, Robot Roz learned from the unwelcoming animal inhabitants and adapted to her surroundings--but can she survive the ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Roger Fisher (academic)",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roger Fisher (academic)</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1340750",
+  "titles": {
+    "canonical": "Roger_Fisher_(academic)",
+    "normalized": "Roger Fisher (academic)",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roger Fisher (academic)</span></span>"
+  },
+  "pageid": 252826,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353498206",
+  "tid": "bcfe1ff0-4c8f-11f1-aa13-e87c8755cec6",
+  "timestamp": "2026-05-10T16:46:06Z",
+  "description": "American legal scholar (1922\u20132012)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Roger_Fisher_(academic)",
+      "revisions": "https://en.wikipedia.org/wiki/Roger_Fisher_(academic)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Roger_Fisher_(academic)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roger_Fisher_(academic)"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Roger_Fisher_(academic)",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Roger_Fisher_(academic)",
+      "edit": "https://en.wikipedia.org/wiki/Roger_Fisher_(academic)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roger_Fisher_(academic)"
+    }
+  },
+  "extract": "Roger D. Fisher was a Samuel Williston Professor of Law at Harvard Law School and director of the Harvard Negotiation Project.",
+  "extract_html": "<p><b>Roger D. Fisher</b> was a Samuel Williston Professor of Law at Harvard Law School and director of the Harvard Negotiation Project.</p>"
+}

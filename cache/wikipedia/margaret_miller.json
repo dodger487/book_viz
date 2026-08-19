@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Margaret Miller",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Margaret Miller</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16230501",
+  "titles": {
+    "canonical": "Margaret_Miller",
+    "normalized": "Margaret Miller",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Margaret Miller</span></span>"
+  },
+  "pageid": 29886060,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1090315859",
+  "tid": "1e024d24-dec6-11ec-933c-2d7b583ddce8",
+  "timestamp": "2022-05-28T20:38:23Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Margaret_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Margaret_Miller?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Margaret_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Margaret_Miller"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Margaret_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Margaret_Miller",
+      "edit": "https://en.wikipedia.org/wiki/Margaret_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Margaret_Miller"
+    }
+  },
+  "extract": "Margaret Miller or Maggie Miller may refer to:Margaret Carnegie Miller (1897\u20131990), American and philanthropist\nMargaret C. Miller, Canadian archaeologist\nMargaret Miller (politician), Canadian politician\nMargaret Stevenson Miller, (1896\u20131979) British lecturer and researcher\nMaggie Miller (mathematician)\nPeggy Miller, see Tales of the Riverbank",
+  "extract_html": "<p><b>Margaret Miller</b> or <b>Maggie Miller</b> may refer to:</p><ul><li>Margaret Carnegie Miller (1897\u20131990), American and philanthropist</li>\n<li>Margaret C. Miller, Canadian archaeologist</li>\n<li>Margaret Miller (politician), Canadian politician</li>\n<li>Margaret Stevenson Miller, (1896\u20131979) British lecturer and researcher</li>\n<li>Maggie Miller (mathematician)</li>\n<li>Peggy Miller, see Tales of the Riverbank</li></ul>"
+}

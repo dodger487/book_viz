@@ -1,0 +1,110 @@
+{
+  "covers": [
+    8898517,
+    10505910,
+    11659701,
+    12118455,
+    13774384
+  ],
+  "key": "/works/OL19999589W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1424506A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Argonauts",
+  "subjects": [
+    "Motherhood",
+    "Sexual minorities' families",
+    "Family",
+    "Pregnancy",
+    "Transgender parents",
+    "Gay parents",
+    "Sexual minorities",
+    "Poets, biography",
+    "Transgender people",
+    "nyt:culture=2015-06-07",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "LGBTQ parenting",
+    "LGBTQ biography and memoir",
+    "LGBTQ gender identity",
+    "LGBTQ queer theory",
+    "Transgender Persons",
+    "Narrative Medicine",
+    "Sexual and Gender Minorities",
+    "Health Equity",
+    "Minority Health",
+    "BIOGRAPHY & AUTOBIOGRAPHY",
+    "LGBT",
+    "SOCIAL SCIENCE",
+    "LGBTQ Studies",
+    "Families",
+    "Amerikanisches Englisch",
+    "Autobiografische Literatur",
+    "F\u00f6rfattare",
+    "Parf\u00f6rh\u00e5llanden",
+    "K\u00e4rlek",
+    "Sexualitet",
+    "Genus",
+    "K\u00f6nsidentiet",
+    "Graviditet",
+    "Moderskap",
+    "Modersrollen",
+    "Livsber\u00e4ttelser",
+    "Queerterori",
+    "Authors",
+    "Couples",
+    "Love",
+    "Sexuality",
+    "Gender",
+    "Gender identity",
+    "Maternal role",
+    "Life stories",
+    "Queer theory",
+    "HBTQ-personer",
+    "Familjer",
+    "Genusaspekter",
+    "K\u00f6nsidentitet",
+    "Queerteori",
+    "Biography",
+    "Sexual Behavior",
+    "LGBTQ",
+    "Queer",
+    "Familynelson, maggie , 1973-",
+    "Ps3564.e4687 z46 2015",
+    "818/.54",
+    "collection:leslie_feinberg_award=finalist"
+  ],
+  "subject_people": [
+    "Maggie Nelson (1973-)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2015/05/10/books/review/maggie-nelsons-the-argonauts.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "description": "Maggie Nelson\u2019s The Argonauts is a genre-bending memoir, a work of \u201cautotheory\u201d offering fresh, fierce, and timely thinking about desire, identity, and the limitations and possibilities of love and language. At its center is a romance: the story of the author\u2019s relationship with artist Harry Dodge. This story, which includes the author\u2019s account of falling in love with Dodge, as well as her journey to and through a pregnancy, is an intimate portrayal of the complexities and joys of (queer) family making.\r\n \r\nWriting in the spirit of public intellectuals like Susan Sontag and Roland Barthes, Nelson binds her personal experience to a rigorous exploration of what iconic theorists have said about sexuality, gender, and the vexed institutions of marriage and childrearing. Nelson\u2019s insistence on radical individual freedom and the value of caretaking becomes the rallying cry for this thoughtful, unabashed, uncompromising book.",
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-18T20:47:46.682739"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-23T23:28:00.883994"
+  }
+}

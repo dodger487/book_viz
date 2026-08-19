@@ -1,0 +1,97 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "A unique coming of age story. While the main character in this novel is dealing with gender identity issues the main focus of this brilliantly written story is the confusion we all face as we grow into the person we were meant to be.  The reader finds himself identifying with the main character's experiences. This is a brilliantly written story. The prose is honest in a way that few authors dare to write. Every word, every action, every thought, is symbolic of the common human experience."
+  },
+  "title": "Middlesex",
+  "covers": [
+    12367196,
+    4308879,
+    9379178,
+    8694988,
+    11758955,
+    7891021,
+    12373355,
+    14844164
+  ],
+  "subject_places": [
+    "Detroit (Mich.)",
+    "Grosse Pointe (Mich.)",
+    "Detroit <Mich.>"
+  ],
+  "subjects": [
+    "Intersexuality",
+    "Greek Americans",
+    "Teenagers",
+    "open_syllabus_project",
+    "Fiction",
+    "Hermaphroditism",
+    "Gender identity",
+    "City and town life",
+    "Suburban life",
+    "Teenage girls",
+    "Bildungsromans",
+    "Disorders of Sex Development",
+    "Hermaphrodites",
+    "Modern Literature",
+    "Domestic fiction",
+    "Fiction, coming of age",
+    "Detroit (mich.), fiction",
+    "Greek americans, fiction",
+    "Fiction, family life",
+    "Large type books",
+    "Mutation (Biology)",
+    "Einwanderer",
+    "Geschlechtsumwandlung",
+    "Griechische Familie",
+    "Identit\u00e4tsfindung",
+    "Zwitter",
+    "LGBTQ gender identity",
+    "LGBTQ novels",
+    "Stonewall Book Awards",
+    "Greek World",
+    "Fictional Works [Publication Type]",
+    "Fiction, general",
+    "Fiction, family life, general",
+    "Transgender Persons",
+    "Am\u00e9ricains d'origine grecque",
+    "Romans, nouvelles",
+    "Adolescentes",
+    "American fiction, history and criticism, 21st century",
+    "Group reading",
+    "Cholestenone 5 alpha-Reductase"
+  ],
+  "key": "/works/OL3951520W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL720924A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "Biblioteca Nacional de Portugal",
+      "url": "http://id.bnportugal.gov.pt/bib/porbase/1186257",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 44,
+  "revision": 44,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T04:56:08.396588"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-17T10:16:57.146212"
+  }
+}

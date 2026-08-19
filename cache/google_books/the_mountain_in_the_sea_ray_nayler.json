@@ -1,0 +1,242 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "q49VEAAAQBAJ",
+      "etag": "yUQat3CYsII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q49VEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Mountain in the Sea",
+        "subtitle": "A Novel",
+        "authors": [
+          "Ray Nayler"
+        ],
+        "publisher": "MCD",
+        "publishedDate": "2022-10-04",
+        "description": "*WINNER OF 2023 LOCUS AWARD FOR BEST FIRST NOVEL * FINALIST FOR THE NEBULA AWARD, and THE LOS ANGELES TIMES RAY BRADBURY PRIZE \u201cThe Mountain in the Sea is a wildly original, gorgeously written, unputdownable gem of a novel. Ray Nayler is one of the most exciting new voices I\u2019ve read in years.\u201d \u2014Blake Crouch, author of Upgrade and Dark Matter Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future. The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA\u2019s team: a battle-scarred securityagent and the world\u2019s first (and possibly last) android. The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves. But no one has yet asked the octopuses what they think. Or what they might do about it. A near-future thriller, a meditation on the nature of consciousness, and an eco-logical call to arms, Ray Nayler\u2019s dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind\u2019s legacy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374605964"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0374605963"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q49VEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q49VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q49VEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Mountain+in+the+Sea%22+inauthor:%22Ray+Nayler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q49VEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q49VEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q49VEAAAQBAJ&rdid=book-q49VEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Mountain_in_the_Sea-sample-epub.acsm?id=q49VEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q49VEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A near-future thriller, a meditation on the nature of consciousness, and an eco-logical call to arms, Ray Nayler\u2019s dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind\u2019s ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eDdfEAAAQBAJ",
+      "etag": "bwWN7mjTFrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eDdfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Mountain in the Sea",
+        "subtitle": "Shortlisted for the 2024 Arthur C. Clarke Award",
+        "authors": [
+          "Ray Nayler"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2022-10-04",
+        "description": "'I loved this novel's brain and heart' DAVID MITCHELL, AUTHOR OF CLOUD ATLAS 'A first-rate speculative thriller, by turns fascinating, brutal, powerful, and redemptive' JEFF VANDERMEER, AUTHOR OF ANNIHILATION There are creatures in the water of Con Dao. To the locals, they're monsters. To the corporate owners of the island, an opportunity. To the team of three sent to study them, a revelation. Their minds are unlike ours. Their bodies are malleable, transformable, shifting. They can communicate. And they want us to leave. When pioneering marine biologist Dr. Ha Nguyen is offered the chance to travel to the remote Con Dao Archipelago to investigate a highly intelligent, dangerous octopus species, she doesn't pause long enough to look at the fine print. DIANIMA - a transnational tech corporation best known for its groundbreaking work in artificial intelligence - has purchased the islands, evacuated their population and sealed the archipelago off from the world so that Nguyen can focus on her research. But the stakes are high: the octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence and there are vast fortunes to be made by whoever can take advantage of their advancements. And no one has yet asked the octopuses what they think. And what they might do about it. Locus Award 2023 - Winner of First Novel award Nebula Award 2023 Finalist. Ray Bradbury Prize 2023 Finalist. Shortlisted for the 2024 Arthur C. Clarke Award",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781399600491"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1399600494"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eDdfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eDdfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eDdfEAAAQBAJ&dq=intitle:%22The+Mountain+in+the+Sea%22+inauthor:%22Ray+Nayler%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eDdfEAAAQBAJ&dq=intitle:%22The+Mountain+in+the+Sea%22+inauthor:%22Ray+Nayler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mountain_in_the_Sea.html?hl=&id=eDdfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eDdfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;I loved this novel&#39;s brain and heart&#39; DAVID MITCHELL, AUTHOR OF CLOUD ATLAS &#39;A first-rate speculative thriller, by turns fascinating, brutal, powerful, and redemptive&#39; JEFF VANDERMEER, AUTHOR OF ANNIHILATION There are creatures in the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y1ml0QEACAAJ",
+      "etag": "oAmUxwHYSzU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y1ml0QEACAAJ",
+      "volumeInfo": {
+        "title": "The Mountain in the Sea",
+        "authors": [
+          "Ray Nayler"
+        ],
+        "publishedDate": "2025-07-23",
+        "description": "Korean edition of [The Mountain in the Sea] by Ray Nayler. WINNER OF 2023 LOCUS AWARD FOR BEST FIRST NOVEL. FINALIST FOR THE NEBULA AWARD, and THE LOS ANGELES TIMES RAY BRADBURY PRIZE. Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future. Korean edition translated by Hang Na Kim.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791171714544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.com/books?id=Y1ml0QEACAAJ&dq=intitle:%22The+Mountain+in+the+Sea%22+inauthor:%22Ray+Nayler%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Y1ml0QEACAAJ&dq=intitle:%22The+Mountain+in+the+Sea%22+inauthor:%22Ray+Nayler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mountain_in_the_Sea.html?hl=&id=Y1ml0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y1ml0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Korean edition of [The Mountain in the Sea] by Ray Nayler. WINNER OF 2023 LOCUS AWARD FOR BEST FIRST NOVEL. FINALIST FOR THE NEBULA AWARD, and THE LOS ANGELES TIMES RAY BRADBURY PRIZE."
+      }
+    }
+  ]
+}

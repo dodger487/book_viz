@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Curtis Sittenfeld",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Curtis Sittenfeld</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q456855",
+  "titles": {
+    "canonical": "Curtis_Sittenfeld",
+    "normalized": "Curtis Sittenfeld",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Curtis Sittenfeld</span></span>"
+  },
+  "pageid": 1438001,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Curtis_Sittenfeld.jpg/330px-Curtis_Sittenfeld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 220
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Curtis_Sittenfeld.jpg/3840px-Curtis_Sittenfeld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 5568,
+    "height": 3712
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368678588",
+  "tid": "69cd8048-94bd-11f1-8529-3bd8d9dbdc27",
+  "timestamp": "2026-08-10T13:14:27Z",
+  "description": "American novelist (born 1975)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Curtis_Sittenfeld",
+      "revisions": "https://en.wikipedia.org/wiki/Curtis_Sittenfeld?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Curtis_Sittenfeld?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Curtis_Sittenfeld"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Curtis_Sittenfeld",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Curtis_Sittenfeld",
+      "edit": "https://en.wikipedia.org/wiki/Curtis_Sittenfeld?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Curtis_Sittenfeld"
+    }
+  },
+  "extract": "Elizabeth Curtis Sittenfeld is an American writer. She is the author of two collections of short stories, You Think it, I\u2019ll Say It (2018) and Show Don't Tell (2025), as well as seven novels: Prep (2005), the story of students at a Massachusetts prep school; The Man of My Dreams (2006), a coming-of-age novel and an examination of romantic love; American Wife (2008), a fictional story loosely based on the life of First Lady Laura Bush; Sisterland (2013), which tells the story of identical twins with psychic powers; Eligible (2016), a modern-day retelling of Pride and Prejudice; Rodham (2020), an alternate history political novel about the life of Hillary Clinton; and Romantic Comedy (2023), a romance between a comedy writer and a pop star.",
+  "extract_html": "<p><b>Elizabeth Curtis Sittenfeld</b> is an American writer. She is the author of two collections of short stories, <i>You Think it, I\u2019ll Say It</i> (2018) and <i>Show Don't Tell</i> (2025), as well as seven novels: <i>Prep</i> (2005), the story of students at a Massachusetts prep school; <i>The Man of My Dreams</i> (2006), a coming-of-age novel and an examination of romantic love; <i>American Wife</i> (2008), a fictional story loosely based on the life of First Lady Laura Bush; <i>Sisterland</i> (2013), which tells the story of identical twins with psychic powers; <i>Eligible</i> (2016), a modern-day retelling of <i>Pride and Prejudice</i>; <i>Rodham</i> (2020), an alternate history political novel about the life of Hillary Clinton; and <i>Romantic Comedy</i> (2023), a romance between a comedy writer and a pop star.</p>"
+}

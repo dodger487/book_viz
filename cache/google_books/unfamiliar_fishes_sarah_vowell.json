@@ -1,0 +1,79 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "M_vaCwAAQBAJ",
+      "etag": "JQvYd04UISc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M_vaCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Unfamiliar Fishes",
+        "authors": [
+          "Sarah Vowell"
+        ],
+        "publisher": "Riverhead Books",
+        "publishedDate": "2012-03-06",
+        "description": "From the bestselling author of \"The Wordy Shipmates\" comes an examination of Hawaii's emblematic and exceptional history, retracing the impact of New England missionaries who began arriving in the early 1800s to remake the island paradise into a version of New England.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594485640"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "159448564X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M_vaCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M_vaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=M_vaCwAAQBAJ&printsec=frontcover&dq=intitle:%22Unfamiliar+Fishes%22+inauthor:%22Sarah+Vowell%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=M_vaCwAAQBAJ&dq=intitle:%22Unfamiliar+Fishes%22+inauthor:%22Sarah+Vowell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Unfamiliar_Fishes.html?hl=&id=M_vaCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M_vaCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the bestselling author of &quot;The Wordy Shipmates&quot; comes an examination of Hawaii&#39;s emblematic and exceptional history, retracing the impact of New England missionaries who began arriving in the early 1800s to remake the island paradise ..."
+      }
+    }
+  ]
+}

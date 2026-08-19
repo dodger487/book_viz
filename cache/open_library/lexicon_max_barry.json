@@ -1,0 +1,96 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2678246A"
+      ],
+      "author_name": [
+        "Max Barry"
+      ],
+      "cover_edition_key": "OL25430038M",
+      "cover_i": 7261044,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "lexicon0000barr"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "schroederlibrary-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL16806284W",
+      "public_scan_b": false,
+      "title": "Lexicon"
+    },
+    {
+      "author_key": [
+        "OL241734A"
+      ],
+      "author_name": [
+        "Max Barry"
+      ],
+      "cover_edition_key": "OL27940861M",
+      "cover_i": 9328605,
+      "ebook_access": "printdisabled",
+      "edition_count": 9,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9789910057557",
+        "lexicon0000barr_i9v1",
+        "lexicon0000barr_x8l6"
+      ],
+      "ia_collection": [
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "salisburyfreelibrary-ol"
+      ],
+      "key": "/works/OL20662782W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Lexicon"
+    },
+    {
+      "author_key": [
+        "OL241734A"
+      ],
+      "author_name": [
+        "Max Barry"
+      ],
+      "cover_edition_key": "OL47177795M",
+      "cover_i": 13592778,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL34824066W",
+      "public_scan_b": false,
+      "title": "Lexic\u00f3n"
+    }
+  ]
+}

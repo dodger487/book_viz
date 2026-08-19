@@ -1,0 +1,46 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "The Neapolitan Novels : My Brilliant Friend, The Story of a New Name, Those Who Leave and Those Who Stay, and The Story of the Lost Child",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3105889A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL12551056A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3080512A"
+      }
+    }
+  ],
+  "covers": [
+    13518415
+  ],
+  "key": "/works/OL34777467W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-03-16T16:54:57.086719"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-19T09:56:55.268666"
+  }
+}

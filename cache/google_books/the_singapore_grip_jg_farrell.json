@@ -1,0 +1,179 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "679vDwAAQBAJ",
+      "etag": "o+EwnvVgIio",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/679vDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Singapore Grip",
+        "authors": [
+          "J.G. Farrell"
+        ],
+        "publisher": "New York Review of Books",
+        "publishedDate": "2005-01-31",
+        "description": "Singapore, 1939: life on the eve of World War II just isn't what it used to be for Walter Blackett, head of British Singapore's oldest and most powerful firm. No matter how forcefully the police break one strike, the natives go on strike somewhere else. His daughter keeps entangling herself with the most unsuitable beaus, while her intended match, the son of Blackett's partner, is an idealistic sympathizer with the League of Nations and a vegetarian. Business may be booming\u2014what with the war in Europe, the Allies are desperate for rubber and helpless to resist Blackett's price-fixing and market manipulation\u2014but something is wrong. No one suspects that the world of the British Empire, of fixed boundaries between classes and nations, is about to come to a terrible end. A love story and a war story, a tragicomic tale of a city under siege and a dying way of life, The Singapore Grip completes the \u201cEmpire Trilogy\u201d that began with Troubles and the Booker prize-winning Siege of Krishnapur.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590171363"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1590171365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 586,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=679vDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=679vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=679vDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Singapore+Grip%22+inauthor:%22J.G.+Farrell%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=679vDwAAQBAJ&dq=intitle:%22The+Singapore+Grip%22+inauthor:%22J.G.+Farrell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Singapore_Grip.html?hl=&id=679vDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Singapore_Grip-sample-pdf.acsm?id=679vDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=679vDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A love story and a war story, a tragicomic tale of a city under siege and a dying way of life, The Singapore Grip completes the \u201cEmpire Trilogy\u201d that began with Troubles and the Booker prize-winning Siege of Krishnapur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oFaJP7Q5GU0C",
+      "etag": "paWsy3+IEiE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oFaJP7Q5GU0C",
+      "volumeInfo": {
+        "title": "The Empire Trilogy",
+        "subtitle": "The Siege of Krishnapur, Troubles, and The Singapore Grip",
+        "authors": [
+          "J.G. Farrell"
+        ],
+        "publisher": "New York Review of Books",
+        "publishedDate": "2010-12-01",
+        "description": "The Empire Trilogy--consisting of the Lost Booker Prize-winning Troubles, the Booker Prize-winning The Siege of Krishnapur,and The Singapore Grip--is Farrell's re-examination of the legacy, and limits, of British imperial rule. The three volumes, connected by theme rather than character, and above all by their shared wit, brio, and daring, range in setting from the India of the Great Mutiny of 1857, to Ireland immediately after the Great War, to the besieged Singapore of World War II. Together the books constitute not only a spectacular entertainment but also an ambitious refashioning of the traditional historical novel to meet the tragic realities of the modern world. \u00b7 The Siege of Krishnapur - India, 1857--the year of the Great Mutiny, when Muslim soldiers turned in bloody rebellion on their British overlords. This time of convulsion is the subject of J. G. Farrell's The Siege of Krishnapur, widely considered one of the finest British novels of the last fifty years.Farrell's story is set in an isolated Victorian outpost on the subcontinent. Rumors of strife filter in from afar, and yet the members of the colonial community remain confident of their military and, above all, moral superiority. But when they find themselves under actual siege, the true character of their dominion--at once brutal, blundering, and wistful--is soon revealed. \u00b7 Troubles - 1919: After surviving the Great War, Major Brendan Archer makes his way to Ireland, hoping to discover whether he is indeed betrothed to Angela Spencer, whose Anglo-Irish family owns the once-aptly-named Majestic Hotel in Kilnalough. But his fianc\u00e9e is strangely altered and her family's fortunes have suffered a spectacular decline. The hotel's hundreds of rooms are disintegrating on a grand scale; its few remaining guests thrive on rumors and games of whist; herds of cats have taken over the Imperial Bar and the upper stories; bamboo shoots threaten the foundations; and piglets frolic in the squash court. Meanwhile, the Major is captivated by the beautiful and bitter Sarah Devlin. As housekeeping disasters force him from room to room, outside the order of the British Empire also totters: there is unrest in the East, and in Ireland itself the mounting violence of \"the troubles.\" \u00b7 The Singapore Grip - Singapore, 1939: life on the eve of World War II just isn't what it used to be for Walter Blackett, head of British Singapore's oldest and most powerful firm. No matter how forcefully the police break one strike, the natives go on strike somewhere else. His daughter keeps entangling herself with the most unsuitable beaus, while her intended match, the son of Blackett's partner, is an idealistic sympathizer with the League of Nations and a vegetarian. Business may be booming--what with the war in Europe, the Allies are desperate for rubber and helpless to resist Blackett's price-fixing and market manipulation--but something is wrong. No one suspects that the world of the British Empire, of fixed boundaries between classes and nations, is about to come to a terrible end.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590174760"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1590174763"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 921,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oFaJP7Q5GU0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oFaJP7Q5GU0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oFaJP7Q5GU0C&printsec=frontcover&dq=intitle:%22The+Singapore+Grip%22+inauthor:%22J.G.+Farrell%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oFaJP7Q5GU0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oFaJP7Q5GU0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oFaJP7Q5GU0C&rdid=book-oFaJP7Q5GU0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Empire_Trilogy-sample-epub.acsm?id=oFaJP7Q5GU0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Empire_Trilogy-sample-pdf.acsm?id=oFaJP7Q5GU0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oFaJP7Q5GU0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This time of convulsion is the subject of J. G. Farrell&#39;s The Siege of Krishnapur, widely considered one of the finest British novels of the last fifty years.Farrell&#39;s story is set in an isolated Victorian outpost on the subcontinent."
+      }
+    }
+  ]
+}

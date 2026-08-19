@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "R. F. Kuang",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">R. F. Kuang</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q53411010",
+  "titles": {
+    "canonical": "R._F._Kuang",
+    "normalized": "R. F. Kuang",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">R. F. Kuang</span></span>"
+  },
+  "pageid": 57401831,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rf_kuang_2023_1.jpg/330px-Rf_kuang_2023_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 432
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rf_kuang_2023_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 728,
+    "height": 954
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367458079",
+  "tid": "86d1e169-8efc-11f1-82a5-0ee8460b0ebb",
+  "timestamp": "2026-08-03T05:31:07Z",
+  "description": "American fantasy writer (born 1996)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/R._F._Kuang",
+      "revisions": "https://en.wikipedia.org/wiki/R._F._Kuang?action=history",
+      "edit": "https://en.wikipedia.org/wiki/R._F._Kuang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:R._F._Kuang"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/R._F._Kuang",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/R._F._Kuang",
+      "edit": "https://en.wikipedia.org/wiki/R._F._Kuang?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:R._F._Kuang"
+    }
+  },
+  "extract": "Rebecca F. Kuang is a Chinese-American novelist and short-story writer. She is known for her fantasy novels, which includes The Poppy War trilogy and her 2022 novel Babel, or the Necessity of Violence, which placed first on The New York Times Best Seller list and won the 2022 Nebula Award for Best Novel. She is currently the inaugural Millard Distinguished Writer in Residence at the College of the Holy Cross.",
+  "extract_html": "<p><b>Rebecca F. Kuang</b> is a Chinese-American novelist and short-story writer. She is known for her fantasy novels, which includes <i>The Poppy War</i> trilogy and her 2022 novel <i>Babel, or the Necessity of Violence</i>, which placed first on <span><i>The New York Times</i> Best Seller list</span> and won the 2022 Nebula Award for Best Novel. She is currently the inaugural Millard Distinguished Writer in Residence at the College of the Holy Cross.</p>"
+}

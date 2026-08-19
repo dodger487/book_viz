@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ryka Aoki",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ryka Aoki</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q22087901",
+  "titles": {
+    "canonical": "Ryka_Aoki",
+    "normalized": "Ryka Aoki",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ryka Aoki</span></span>"
+  },
+  "pageid": 48016142,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ryka_Aoki_by_Gage_Skidmore.jpg/330px-Ryka_Aoki_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 420
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ryka_Aoki_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2808,
+    "height": 3570
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1352357244",
+  "tid": "d698e361-4722-11f1-8b0f-4cc7206b5975",
+  "timestamp": "2026-05-03T19:03:58Z",
+  "description": "American author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ryka_Aoki",
+      "revisions": "https://en.wikipedia.org/wiki/Ryka_Aoki?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ryka_Aoki?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ryka_Aoki"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ryka_Aoki",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ryka_Aoki",
+      "edit": "https://en.wikipedia.org/wiki/Ryka_Aoki?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ryka_Aoki"
+    }
+  },
+  "extract": "Ryka Aoki is an American author of novels, poetry, and essays. She teaches English at Santa Monica College and gender studies at Antioch University.",
+  "extract_html": "<p><b>Ryka Aoki</b> is an American author of novels, poetry, and essays. She teaches English at Santa Monica College and gender studies at Antioch University.</p>"
+}

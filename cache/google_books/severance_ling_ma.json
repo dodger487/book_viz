@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pIhhDwAAQBAJ",
+      "etag": "FUWoWpfwbx8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pIhhDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Severance",
+        "subtitle": "A Novel",
+        "authors": [
+          "Ling Ma"
+        ],
+        "publisher": "Farrar Straus and Giroux",
+        "publishedDate": "2018-08-14",
+        "description": "\"Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. With the recent passing of her Chinese immigrant parents, she's had her fill of uncertainty. She's content just to carry on, ... so Candace barely notices when a plague of biblical proportions sweeps New York. Then Shen Fever spreads. Families flee. Companies cease operations. The subways screech to a halt. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost\"--Publisher marketing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780374261597"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0374261598"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pIhhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pIhhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pIhhDwAAQBAJ&printsec=frontcover&dq=intitle:%22Severance%22+inauthor:%22Ling+Ma%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pIhhDwAAQBAJ&dq=intitle:%22Severance%22+inauthor:%22Ling+Ma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Severance.html?hl=&id=pIhhDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pIhhDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine."
+      }
+    }
+  ]
+}

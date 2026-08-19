@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ben Lerner",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ben Lerner</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1836356",
+  "titles": {
+    "canonical": "Ben_Lerner",
+    "normalized": "Ben Lerner",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ben Lerner</span></span>"
+  },
+  "pageid": 4356259,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ben_Lerner_reads_from_%2710.04%27.jpg/330px-Ben_Lerner_reads_from_%2710.04%27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ben_Lerner_reads_from_%2710.04%27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 860,
+    "height": 1146
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367681283",
+  "tid": "57ae91e2-9014-11f1-83b4-d2991151be7d",
+  "timestamp": "2026-08-04T14:54:07Z",
+  "description": "American writer (born 1979)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ben_Lerner",
+      "revisions": "https://en.wikipedia.org/wiki/Ben_Lerner?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ben_Lerner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ben_Lerner"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ben_Lerner",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ben_Lerner",
+      "edit": "https://en.wikipedia.org/wiki/Ben_Lerner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ben_Lerner"
+    }
+  },
+  "extract": "Benjamin S. Lerner is an American poet, novelist, essayist, and critic. The recipient of fellowships from the Fulbright, Guggenheim, and MacArthur Foundations, Lerner's work has been a finalist for the National Book Award for Poetry, the National Book Critics Circle Award in fiction, and the Pulitzer Prize for Fiction. Lerner teaches at Brooklyn College, where he was named a Distinguished Professor of English in 2016.",
+  "extract_html": "<p><b>Benjamin S. Lerner</b> is an American poet, novelist, essayist, and critic. The recipient of fellowships from the Fulbright, Guggenheim, and MacArthur Foundations, Lerner's work has been a finalist for the National Book Award for Poetry, the National Book Critics Circle Award in fiction, and the Pulitzer Prize for Fiction. Lerner teaches at Brooklyn College, where he was named a Distinguished Professor of English in 2016.</p>"
+}

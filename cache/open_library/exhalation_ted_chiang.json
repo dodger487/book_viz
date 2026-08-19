@@ -1,0 +1,36 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1604887A"
+      ],
+      "author_name": [
+        "Ted Chiang"
+      ],
+      "cover_edition_key": "OL27329035M",
+      "cover_i": 8793546,
+      "ebook_access": "no_ebook",
+      "edition_count": 17,
+      "first_publish_year": 2014,
+      "has_fulltext": false,
+      "key": "/works/OL20149336W",
+      "language": [
+        "heb",
+        "swe",
+        "spa",
+        "tur",
+        "eng",
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "Exhalation"
+    }
+  ]
+}

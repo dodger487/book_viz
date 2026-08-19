@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Nnedi Okorafor",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nnedi Okorafor</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q3877423",
+  "titles": {
+    "canonical": "Nnedi_Okorafor",
+    "normalized": "Nnedi Okorafor",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nnedi Okorafor</span></span>"
+  },
+  "pageid": 2384550,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nnedi_Okorafor_by_Gage_Skidmore.jpg/330px-Nnedi_Okorafor_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 463
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Nnedi_Okorafor_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3192,
+    "height": 4480
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367752334",
+  "tid": "ba2f7f34-9064-11f1-a1a1-7617c8995336",
+  "timestamp": "2026-08-05T00:29:32Z",
+  "description": "Nigerian American writer of science fiction and fantasy (born 1974)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nnedi_Okorafor",
+      "revisions": "https://en.wikipedia.org/wiki/Nnedi_Okorafor?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nnedi_Okorafor?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nnedi_Okorafor"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Nnedi_Okorafor",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Nnedi_Okorafor",
+      "edit": "https://en.wikipedia.org/wiki/Nnedi_Okorafor?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nnedi_Okorafor"
+    }
+  },
+  "extract": "Nnedimma Nkemdili \"Nnedi\" Okorafor is a Nigerian American writer of science fiction and fantasy for both children and adults. She is best known for her Binti Series and her novels Who Fears Death, Zahrah the Windseeker, Akata Witch, Akata Warrior, Lagoon and Remote Control. She has also written for comics and film.",
+  "extract_html": "<p><b>Nnedimma Nkemdili</b> \"<b>Nnedi</b>\" <b>Okorafor</b> is a Nigerian American writer of science fiction and fantasy for both children and adults. She is best known for her <span><i>Binti Series</i></span> and her novels <i>Who Fears Death</i>, <i>Zahrah the Windseeker</i>, <i>Akata Witch</i>, <i>Akata Warrior</i>, <i>Lagoon</i> and <i>Remote Control.</i> She has also written for comics and film.</p>"
+}

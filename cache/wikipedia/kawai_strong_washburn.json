@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Kawai Strong Washburn",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kawai Strong Washburn</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q116453640",
+  "titles": {
+    "canonical": "Kawai_Strong_Washburn",
+    "normalized": "Kawai Strong Washburn",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kawai Strong Washburn</span></span>"
+  },
+  "pageid": 74785301,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1311158313",
+  "tid": "6a0c9e50-90d9-11f0-9aef-aa04bba35e9d",
+  "timestamp": "2025-09-13T19:39:51Z",
+  "description": "American writer and novelist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Kawai_Strong_Washburn",
+      "revisions": "https://en.wikipedia.org/wiki/Kawai_Strong_Washburn?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Kawai_Strong_Washburn?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kawai_Strong_Washburn"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Kawai_Strong_Washburn",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Kawai_Strong_Washburn",
+      "edit": "https://en.wikipedia.org/wiki/Kawai_Strong_Washburn?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Kawai_Strong_Washburn"
+    }
+  },
+  "extract": "Kawai Strong Washburn is an American writer and novelist, best known for his debut novel Sharks in the Time of Saviors (2020) which won the Hemingway Foundation/PEN Award and the Minnesota Book Award in 2021.",
+  "extract_html": "<p><b>Kawai Strong Washburn</b> is an American writer and novelist, best known for his debut novel <i>Sharks in the Time of Saviors</i> (2020) which won the Hemingway Foundation/PEN Award and the Minnesota Book Award in 2021.</p>"
+}

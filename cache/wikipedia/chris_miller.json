@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Chris Miller",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chris Miller</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5107464",
+  "titles": {
+    "canonical": "Chris_Miller",
+    "normalized": "Chris Miller",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chris Miller</span></span>"
+  },
+  "pageid": 2223074,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1345877127",
+  "tid": "b7c881da-2ad4-11f1-b54d-96b6bd6f6c25",
+  "timestamp": "2026-03-28T18:34:13Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Chris_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Chris_Miller?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Chris_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chris_Miller"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Chris_Miller",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Chris_Miller",
+      "edit": "https://en.wikipedia.org/wiki/Chris_Miller?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chris_Miller"
+    }
+  },
+  "extract": "Chris or Christopher Miller may refer to:",
+  "extract_html": "<p><b>Chris</b> or <b>Christopher Miller</b> may refer to:</p>"
+}

@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Why Buddhism Is True",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2757469A"
+      }
+    }
+  ],
+  "key": "/works/OL27730617W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-04-29T03:26:53.446597"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-29T03:26:53.446597"
+  }
+}

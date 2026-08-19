@@ -1,0 +1,122 @@
+{
+  "description": "'You have talked so often of going to the dogs \u2013 and well, here are the dogs, and you have reached them.' George Orwell's vivid memoir of his time among the desperately poor and destitute in London and Paris is a moving tour of the underworld of society. Here he painstakingly documents a world of unrelenting drudgery and squalor \u2013 sleeping in bug-infested hostels and doss houses, working as a dishwasher in the vile 'Hotel X', living alongside tramps, surviving on scraps and cigarette butts \u2013 in an unforgettable account of what being down and out is really like.",
+  "title": "Down and Out in Paris and London",
+  "covers": [
+    5539329,
+    100502,
+    106259,
+    6805796,
+    9022975,
+    978914,
+    998676,
+    979118,
+    -1,
+    10862975,
+    10851460,
+    10856461,
+    12323493,
+    12254284,
+    12296120,
+    14216042,
+    13767042
+  ],
+  "subject_places": [
+    "London (England)",
+    "Paris (France)",
+    "England",
+    "Paris",
+    "London",
+    "France",
+    "Europe",
+    "Par\u00eds (Francia)",
+    "Londres (Inglaterra)",
+    "Francia",
+    "Inglaterra",
+    "Londres",
+    "Europa"
+  ],
+  "subjects": [
+    "Poor",
+    "Literature",
+    "Fiction",
+    "Homelessness",
+    "Social conditions",
+    "History",
+    "British and irish fiction (fictional works by one author)",
+    "Orwell, george, 1903-1950",
+    "Poor, france",
+    "Poor, great britain",
+    "London (england), social conditions",
+    "Paris (france), social conditions",
+    "Authors, english",
+    "Authors, biography",
+    "Condiciones sociales",
+    "Unemployed",
+    "Pobres",
+    "Desempleo",
+    "Authors",
+    "Ficci\u00f3n",
+    "Autores",
+    "Sociology",
+    "Social history",
+    "Social classes",
+    "History, modern, 20th century",
+    "Personal memoirs",
+    "1903-1950",
+    "Homes and haunts"
+  ],
+  "subject_people": [
+    "George Orwell (1903-1950)",
+    "George Orwell"
+  ],
+  "key": "/works/OL1168030W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL118077A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "Critique de Dans la d\u00e8che \u00e0 Paris et \u00e0 Londres de George Orwell (Love Books Review)",
+      "url": "https://love-books-review.com/fr/dans-la-deche-a-paris-et-a-londres-de-george-orwell/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Na Pior em Paris e Londres, de George Orwell (Love Books Review)",
+      "url": "https://love-books-review.com/br-pt/na-pior-em-paris-e-londres-de-george-orwell/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Down and Out in Paris and London-Ebookzy",
+      "url": "https://ebookzy.com/down-and-out-in-paris-and-london/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 22,
+  "revision": 22,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:37:56.502212"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-13T18:07:45.865264"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SEcdDgAAQBAJ",
+      "etag": "NSQEUF1rQYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SEcdDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Evicted",
+        "subtitle": "Poverty and Profit in the American City",
+        "authors": [
+          "Matthew Desmond"
+        ],
+        "publisher": "Crown",
+        "publishedDate": "2017-02-28",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 WINNER OF THE PULITZER PRIZE \u2022 ONE OF TIME\u2019S TEN BEST NONFICTION BOOKS OF THE DECADE \u2022 ONE OF THE NEW YORK TIMES\u2019S 100 BEST BOOKS OF THE 21ST CENTURY One of the most acclaimed books of our time, this modern classic \u201chas set a new standard for reporting on poverty\u201d (Barbara Ehrenreich, The New York Times Book Review). In Evicted, Princeton sociologist and MacArthur \u201cGenius\u201d Matthew Desmond follows eight families in Milwaukee as they each struggle to keep a roof over their heads. Hailed as \u201cwrenching and revelatory\u201d (The Nation), \u201cvivid and unsettling\u201d (New York Review of Books), Evicted transforms our understanding of poverty and economic exploitation while providing fresh ideas for solving one of twenty-first-century America\u2019s most devastating problems. Its unforgettable scenes of hope and loss remind us of the centrality of home, without which nothing else is possible. A BEST BOOK OF THE YEAR: President Barack Obama, The New York Times Book Review, The Boston Globe, The Washington Post, NPR, Entertainment Weekly, The New Yorker, Bloomberg, Esquire, BuzzFeed, Fortune, San Francisco Chronicle, Milwaukee Journal Sentinel, St. Louis Post-Dispatch, Politico, The Week, Chicago Public Library, BookPage, Kirkus Reviews, Library Journal, Publishers Weekly, Booklist, Shelf Awareness WINNER OF: The National Book Critics Circle Award for Nonfiction \u2022 The PEN/John Kenneth Galbraith Award for Nonfiction \u2022 The Andrew Carnegie Medal for Excellence in Nonfiction \u2022 The Hillman Prize for Book Journalism \u2022 The PEN/New England Award \u2022 The Chicago Tribune Heartland Prize FINALIST FOR THE LOS ANGELES TIMES BOOK PRIZE AND THE KIRKUS PRIZE \u201cEvicted stands among the very best of the social justice books.\u201d\u2014Ann Patchett, author of Bel Canto and Commonwealth \u201cGripping and moving\u2014tragic, too.\u201d\u2014Jesmyn Ward, author of Salvage the Bones \u201cEvicted is that rare work that has something genuinely new to say about poverty.\u201d\u2014San Francisco Chronicle",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553447453"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0553447459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SEcdDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SEcdDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SEcdDgAAQBAJ&printsec=frontcover&dq=intitle:%22Evicted%22+inauthor:%22Matthew+Desmond%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SEcdDgAAQBAJ&dq=intitle:%22Evicted%22+inauthor:%22Matthew+Desmond%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evicted.html?hl=&id=SEcdDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SEcdDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 WINNER OF THE PULITZER PRIZE \u2022 ONE OF TIME\u2019S TEN BEST NONFICTION BOOKS OF THE DECADE \u2022 ONE OF THE NEW YORK TIMES\u2019S 100 BEST BOOKS OF THE 21ST CENTURY \u2022 A KIRKUS REVIEWS BEST NONFICTION BOOK OF THE ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b-260AEACAAJ",
+      "etag": "V4vRjBmhXQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b-260AEACAAJ",
+      "volumeInfo": {
+        "title": "Evicted",
+        "authors": [
+          "Matthew Desmond"
+        ],
+        "publisher": "Broadway Books",
+        "publishedDate": "2017-03-07",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1524758949"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524758943"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b-260AEACAAJ&dq=intitle:%22Evicted%22+inauthor:%22Matthew+Desmond%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=b-260AEACAAJ&dq=intitle:%22Evicted%22+inauthor:%22Matthew+Desmond%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evicted.html?hl=&id=b-260AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b-260AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oqqMzQEACAAJ",
+      "etag": "hbfVM494HQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oqqMzQEACAAJ",
+      "volumeInfo": {
+        "title": "SUMMARY OF EVICTED",
+        "subtitle": "By Matthew Desmond - Includesanalysis",
+        "authors": [
+          "INSTAREAD. SUMMARIES",
+          "Matthew Desmond"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1683780167"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781683780168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oqqMzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oqqMzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oqqMzQEACAAJ&dq=intitle:%22Evicted%22+inauthor:%22Matthew+Desmond%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oqqMzQEACAAJ&dq=intitle:%22Evicted%22+inauthor:%22Matthew+Desmond%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SUMMARY_OF_EVICTED.html?hl=&id=oqqMzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oqqMzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

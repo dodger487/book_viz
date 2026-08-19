@@ -1,0 +1,91 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1479024A"
+      ],
+      "author_name": [
+        "Adam Johnson"
+      ],
+      "cover_i": 7387219,
+      "ebook_access": "borrowable",
+      "edition_count": 8,
+      "first_publish_year": 2015,
+      "has_fulltext": true,
+      "ia": [
+        "alshetlotlacht0000john",
+        "fortunesmilessto00john",
+        "fortunesmilessto0000john",
+        "fortunesmilessto0000john_m2o8",
+        "fortunesmilessto0000john_p9m3",
+        "fortunesmilessto0000john_v6x4"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL17308309W",
+      "language": [
+        "dut",
+        "eng",
+        "spa"
+      ],
+      "lending_edition_s": "OL32702065M",
+      "lending_identifier_s": "alshetlotlacht0000john",
+      "public_scan_b": false,
+      "title": "Fortune Smiles"
+    },
+    {
+      "author_key": [
+        "OL9297573A"
+      ],
+      "author_name": [
+        "Adam Johnson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL25181283W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Fortune Smiles"
+    }
+  ]
+}

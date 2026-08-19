@@ -1,0 +1,89 @@
+{
+  "numFound": 7,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 7,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7422948A"
+      ],
+      "author_name": [
+        "James Clear"
+      ],
+      "cover_edition_key": "OL36647151M",
+      "cover_i": 12539702,
+      "ebook_access": "printdisabled",
+      "edition_count": 40,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "hbitosatmicos0000jame",
+        "hbitosatmicosumm0000jona",
+        "die1methodeminim0000clea",
+        "atomichabitseasy0000clea"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17930368W",
+      "language": [
+        "eng",
+        "por",
+        "ind",
+        "ger",
+        "tur",
+        "spa",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "Atomic Habits"
+    },
+    {
+      "author_key": [
+        "OL7422948A",
+        "OL3119395A",
+        "OL13496324A"
+      ],
+      "author_name": [
+        "James Clear",
+        "Ramit Sethi",
+        "Gary Keller Dr Carol Dweck"
+      ],
+      "cover_edition_key": "OL50511899M",
+      "cover_i": 15105773,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2020,
+      "has_fulltext": false,
+      "key": "/works/OL37490159W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Atomic Habits, I Will Teach You To Be Rich, Mindset, The One Thing 4 Books Collection Set"
+    },
+    {
+      "author_key": [
+        "OL7422948A"
+      ],
+      "author_name": [
+        "James Clear"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL44544274W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Atomic Habits Workbook"
+    }
+  ]
+}

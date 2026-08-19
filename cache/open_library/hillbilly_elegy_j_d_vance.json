@@ -1,0 +1,73 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7290426A"
+      ],
+      "author_name": [
+        "J. D. Vance"
+      ],
+      "cover_edition_key": "OL26416941M",
+      "cover_i": 14846900,
+      "ebook_access": "printdisabled",
+      "edition_count": 28,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "hillbillyelegyme0000vanc_l3h0",
+        "hillbillyelegypb00unse",
+        "hillbillyelegyme0000vanc_u8g7",
+        "hillbillyelegyau0000jdva",
+        "hillbillyelegyme0000vanc_h8i1",
+        "hillbillyelegie0000jdva",
+        "hillbillyelegyme0000vanc_x8w5",
+        "hillbillyelegyme0000vanc_c5b3",
+        "hillbillyelegyme0000jdva",
+        "hillbillyelegy0000vanc",
+        "hillbillyelegyme0000vanc_y2q9",
+        "hillbillyelegyme0000vanc"
+      ],
+      "ia_collection": [
+        "americana",
+        "booksforukraine",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17357665W",
+      "language": [
+        "chi",
+        "eng",
+        "ger",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "Hillbilly Elegy"
+    },
+    {
+      "author_key": [
+        "OL9091734A",
+        "OL832711A",
+        "OL7290426A"
+      ],
+      "author_name": [
+        "Vance",
+        "Delia Owens",
+        "J. D. Vance"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL27741818W",
+      "public_scan_b": false,
+      "title": "Hillbilly Elegy by Vance, Where the Crawdads Sing by Delia Owens 2 Books Collection Set"
+    }
+  ]
+}

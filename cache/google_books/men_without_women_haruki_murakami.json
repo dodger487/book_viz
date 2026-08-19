@@ -1,0 +1,144 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "e2WPEAAAQBAJ",
+      "etag": "PhfzvqHcHhc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e2WPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Men Without Women",
+        "subtitle": "Stories",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2018-05-01",
+        "description": "NATIONAL BESTSELLER \u2022 Including the story \"Drive My Car\u201d\u2014now an Academy Award\u2013nominated film\u2014this collection from the internationally acclaimed author \"examines what happens to characters without important women in their lives; it'll move you and confuse you and sometimes leave you with more questions than answers\" (Barack Obama). Across seven tales, Haruki Murakami brings his powers of observation to bear on the lives of men who, in their own ways, find themselves alone. Here are lovesick doctors, students, ex-boyfriends, actors, bartenders, and even Kafka\u2019s Gregor Samsa, brought together to tell stories that speak to us all. In Men Without Women Murakami has crafted another contemporary classic, marked by the same wry humor and pathos that have defined his entire body of work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101974520"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101974524"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e2WPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e2WPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=e2WPEAAAQBAJ&dq=intitle:%22Men+Without+Women%22+inauthor:%22Haruki+Murakami%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=e2WPEAAAQBAJ&dq=intitle:%22Men+Without+Women%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Men_Without_Women.html?hl=&id=e2WPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e2WPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NATIONAL BESTSELLER \u2022 Including the story &quot;Drive My Car\u201d\u2014now an Academy Award\u2013nominated film\u2014this collection from the internationally acclaimed author &quot;examines what happens to characters without important women in their lives; it ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RFqOzgEACAAJ",
+      "etag": "HtnNE98m38I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RFqOzgEACAAJ",
+      "volumeInfo": {
+        "title": "Men Without Women",
+        "authors": [
+          "Haruki Murakami"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1510059164"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781510059160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RFqOzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RFqOzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RFqOzgEACAAJ&dq=intitle:%22Men+Without+Women%22+inauthor:%22Haruki+Murakami%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RFqOzgEACAAJ&dq=intitle:%22Men+Without+Women%22+inauthor:%22Haruki+Murakami%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Men_Without_Women.html?hl=&id=RFqOzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RFqOzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

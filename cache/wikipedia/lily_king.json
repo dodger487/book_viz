@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Lily King",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lily King</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6548507",
+  "titles": {
+    "canonical": "Lily_King",
+    "normalized": "Lily King",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lily King</span></span>"
+  },
+  "pageid": 25749339,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lily_King_%2826173579493%29.jpg/330px-Lily_King_%2826173579493%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 355
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lily_King_%2826173579493%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 885,
+    "height": 953
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366863108",
+  "tid": "cf0eaed8-8c3b-11f1-a4f8-b42bec208d0e",
+  "timestamp": "2026-07-30T17:26:33Z",
+  "description": "American writer (born 1963)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Lily_King",
+      "revisions": "https://en.wikipedia.org/wiki/Lily_King?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Lily_King?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lily_King"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Lily_King",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Lily_King",
+      "edit": "https://en.wikipedia.org/wiki/Lily_King?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Lily_King"
+    }
+  },
+  "extract": "Lily King is an American novelist.",
+  "extract_html": "<p><b>Lily King</b> is an American novelist.</p>"
+}

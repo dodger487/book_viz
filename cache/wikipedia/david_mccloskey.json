@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David McCloskey",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David McCloskey</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q120615523",
+  "titles": {
+    "canonical": "David_McCloskey",
+    "normalized": "David McCloskey",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David McCloskey</span></span>"
+  },
+  "pageid": 81038724,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/David_McCloskey_in_the_video_%27David_McCloskey_-_Moscou_X%27.png/330px-David_McCloskey_in_the_video_%27David_McCloskey_-_Moscou_X%27.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 294
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/David_McCloskey_in_the_video_%27David_McCloskey_-_Moscou_X%27.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 673,
+    "height": 599
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363389803",
+  "tid": "acade882-7be5-11f1-abfb-98744d7e1810",
+  "timestamp": "2026-07-09T22:29:40Z",
+  "description": "American author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_McCloskey",
+      "revisions": "https://en.wikipedia.org/wiki/David_McCloskey?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_McCloskey?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_McCloskey"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_McCloskey",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_McCloskey",
+      "edit": "https://en.wikipedia.org/wiki/David_McCloskey?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_McCloskey"
+    }
+  },
+  "extract": "David McCloskey is an American writer of spy fiction and podcast host. He is a former staff member of the Central Intelligence Agency.",
+  "extract_html": "<p><b>David McCloskey</b> is an American writer of spy fiction and podcast host. He is a former staff member of the Central Intelligence Agency.</p>"
+}

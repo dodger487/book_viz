@@ -1,0 +1,154 @@
+{
+  "description": "Hermann Hesse wrote Siddhartha after he traveled to India in the 1910s. It tells the story of a young boy who travels the country in a quest for spiritual enlightenment in the time of Guatama Buddha. It is a compact, lyrical work, which reads like an allegory about the finding of wisdom.",
+  "title": "Siddhartha",
+  "covers": [
+    6562535,
+    6456720,
+    6562532,
+    368387,
+    765597,
+    107711,
+    2889842,
+    1055889,
+    5080735,
+    741716,
+    5277570,
+    1921871,
+    7894434,
+    1015750,
+    5158474,
+    5161067,
+    1260565,
+    3207635,
+    3281188,
+    7768288,
+    8020990,
+    8412039,
+    8719503,
+    8719504,
+    8776068,
+    9053631,
+    9216592,
+    9920820,
+    10510464,
+    10806677,
+    10806678,
+    8339980,
+    8762797,
+    12795179,
+    12867356
+  ],
+  "subject_places": [
+    "India",
+    "Inde"
+  ],
+  "subjects": [
+    "Alegor\u00edas",
+    "Buddha (The concept)",
+    "Buddha and Buddhism",
+    "Buddhism",
+    "Buddhist Philosophy",
+    "Budismo",
+    "Chrestomathies and readers",
+    "Classic Literature",
+    "Enlightenment (Buddhism)",
+    "Ficci\u00f3n",
+    "Fiction",
+    "Gautama Buddha",
+    "German language",
+    "History",
+    "Iluminaci\u00f3n (Budismo)",
+    "Literature",
+    "Mythology",
+    "Readers",
+    "Religion",
+    "Social life and customs",
+    "Spiritual life",
+    "Teachings",
+    "Bouddhisme",
+    "Fictional Works",
+    "Mysticism",
+    "Literary",
+    "Sk\u00f6nlitteratur",
+    "Classics",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 12",
+    "German fiction",
+    "Manners and customs",
+    "Fiction, visionary & metaphysical",
+    "Continental european fiction (fictional works by one author)",
+    "India, fiction",
+    "Fiction, general",
+    "Dictionaries",
+    "English language",
+    "Spanish",
+    "French",
+    "Religious fiction",
+    "Historical fiction",
+    "German",
+    "Fiction, religious",
+    "Germanic literature",
+    "Fiction, classics",
+    "Novela alemana",
+    "Literatura alemana",
+    "Romans, nouvelles",
+    "M\u0153urs et coutumes",
+    "Philosophie bouddhique",
+    "General",
+    "Buddhism--fiction",
+    "Buddhist philosophy--fiction",
+    "Pt2617.e85 s513 2009",
+    "Brahmans",
+    "German language materials",
+    "Lumber trade"
+  ],
+  "subject_people": [
+    "Gautama Buda",
+    "Gautama Buddha",
+    "Hermann Hesse (1877-1962)",
+    "Buddha"
+  ],
+  "key": "/works/OL872932W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL76437A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "Early period, to ca. 250 B.C."
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "Hesses Siddhartha",
+      "url": "https://love-books-review.com/de/siddhartha-von-hermann-hesse/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Booksdata.org",
+      "url": "https://worldcat.booksdata.org/book/BD00055540/siddhartha-hermann-hesse-9788172343682",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 51,
+  "revision": 51,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T06:15:45.554010"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-06T14:35:11.952803"
+  }
+}

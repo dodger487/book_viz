@@ -1,0 +1,58 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6468921A"
+      ],
+      "author_name": [
+        "Carol (Carol Elaine) Anderson"
+      ],
+      "cover_i": 12564126,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2016,
+      "has_fulltext": true,
+      "ia": [
+        "whiterageunspoke0000ande"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "udc-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL20827669W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "White Rage"
+    }
+  ]
+}

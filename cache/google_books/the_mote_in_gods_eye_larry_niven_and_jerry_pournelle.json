@@ -1,0 +1,194 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lKt5laoj1coC",
+      "etag": "Mpv+CudJvV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lKt5laoj1coC",
+      "volumeInfo": {
+        "title": "The Mote in God's Eye",
+        "authors": [
+          "Larry Niven",
+          "Jerry Pournelle"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "1974",
+        "description": "Science fiction-roman.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671741921"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0671741926"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 596,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lKt5laoj1coC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lKt5laoj1coC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lKt5laoj1coC&printsec=frontcover&dq=intitle:%22The+Mote+in+God%27s+Eye%22+inauthor:%22Larry+Niven%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lKt5laoj1coC&dq=intitle:%22The+Mote+in+God%27s+Eye%22+inauthor:%22Larry+Niven%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mote_in_God_s_Eye.html?hl=&id=lKt5laoj1coC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lKt5laoj1coC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Science fiction-roman."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aSOWPwAACAAJ",
+      "etag": "7awu6sqnRIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aSOWPwAACAAJ",
+      "volumeInfo": {
+        "title": "The Mote in God's Eye",
+        "authors": [
+          "Larry Niven"
+        ],
+        "publishedDate": "1986-10-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0671640747"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780671640743"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aSOWPwAACAAJ&dq=intitle:%22The+Mote+in+God%27s+Eye%22+inauthor:%22Larry+Niven%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aSOWPwAACAAJ&dq=intitle:%22The+Mote+in+God%27s+Eye%22+inauthor:%22Larry+Niven%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mote_in_God_s_Eye.html?hl=&id=aSOWPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aSOWPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "re49YAAACAAJ",
+      "etag": "2jgg82Z2oek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/re49YAAACAAJ",
+      "volumeInfo": {
+        "title": "The Mote in God's Eye",
+        "authors": [
+          "Larry Niven",
+          "Jerry Pournelle",
+          "Easton Press"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:36869593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 537,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=re49YAAACAAJ&dq=intitle:%22The+Mote+in+God%27s+Eye%22+inauthor:%22Larry+Niven%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=re49YAAACAAJ&dq=intitle:%22The+Mote+in+God%27s+Eye%22+inauthor:%22Larry+Niven%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mote_in_God_s_Eye.html?hl=&id=re49YAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=re49YAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

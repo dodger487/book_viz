@@ -1,0 +1,69 @@
+{
+  "lc_classifications": [
+    "HQ281 .K44 2009"
+  ],
+  "key": "/works/OL13655645W",
+  "title": "The snakehead",
+  "subject_places": [
+    "United States"
+  ],
+  "first_publish_date": "2009",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6511583A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "364.1/370973"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Illegal aliens",
+    "Emigration and immigration",
+    "Human trafficking",
+    "Human smuggling",
+    "Current Events",
+    "Nonfiction",
+    "United states, emigration and immigration",
+    "Smuggling",
+    "Crimes against humanity",
+    "New York Times reviewed",
+    "Noncitizens",
+    "Illegal immigration",
+    "Undocumented Immigrants",
+    "Aliens"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "A mesmerizing narrative about the rise and fall of an unlikely international crime bossIn the 1980s, a wave of Chinese from Fujian province began arriving in America. Like other immigrant groups before them, they showed up with little money but with an intense work ethic and an unshakeable belief in the promise of the United States.  Many of them lived in a world outside the law, working in a shadow economy overseen by the ruthless gangs that ruled the narrow streets of New York's Chinatown.The figure who came to dominate this Chinese underworld was a middle-aged grandmother known as Sister Ping.  Her path to the American dream began with an unusual business run out of a tiny noodle store on Hester Street. From her perch above the shop, Sister Ping ran a full-service underground bank for illegal Chinese immigrants.  But her real business-a business that earned an estimated $40 million-was smuggling people.  As a \"snakehead,\" she built a complex--and often vicious--global conglomerate, relying heavily on familial ties, and employing one of Chinatown's most violent gangs to protect her power and profits. Like an underworld CEO, Sister Ping created an intricate smuggling network that stretched from Fujian Province to Hong Kong to Burma to Thailand to Kenya to Guatemala to Mexico.  Her ingenuity and drive were awe-inspiring both to the Chinatown community--where she was revered as a homegrown Don Corleone--and to the law enforcement officials who could never quite catch her. Indeed, Sister Ping's empire only came to light in 1993 when the Golden Venture, a ship loaded with 300 undocumented immigrants, ran aground off a Queens beach. It took New York's fabled \"Jade Squad\" and the FBI nearly ten years to untangle the criminal network and home in on its unusual mastermind.THE SNAKEHEAD is a panoramic tale of international intrigue and a dramatic portrait of the underground economy in which America's twelve million illegal immigrants live.  Based on hundreds of interviews, Patrick Radden Keefe's sweeping narrative tells the story not only of Sister Ping, but of the gangland gunslingers who worked for her, the immigration and law enforcement officials who pursued her, and the generation of penniless immigrants who risked death and braved a 17,000 mile odyssey so that they could realize their own version of the American dream.  The Snakehead offers an intimate tour of life on the mean streets of Chinatown, a vivid blueprint of organized crime in an age of globalization and a masterful exploration of the ways in which illegal immigration affects us all.www.doubleday.com"
+  },
+  "covers": [
+    6302340
+  ],
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2009/08/16/books/review/Freedman-t.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-11T10:13:44.401359"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-14T11:09:59.128731"
+  }
+}

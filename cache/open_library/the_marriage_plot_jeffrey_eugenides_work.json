@@ -1,0 +1,88 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The story concerns three college friends from Brown University\u2014Madeleine, Leonard, and Mitchell\u2014beginning in their senior year, 1982, and follows them during their first year post-graduation."
+  },
+  "covers": [
+    10117650,
+    6935562,
+    10575910,
+    8120441,
+    11555328,
+    -1,
+    8170290,
+    11078642,
+    12638671,
+    13883000,
+    12825016,
+    13926860,
+    12212410
+  ],
+  "key": "/works/OL16099125W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL720924A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Marriage Plot",
+  "subjects": [
+    "Appreciation",
+    "Triangles (Interpersonal relations)",
+    "Literature",
+    "Self-actualization",
+    "Fiction",
+    "New York Times bestseller",
+    "nyt:hardcover_fiction=2012-01-07",
+    "Self-actualization (Psychology)",
+    "Litt\u00e9rature",
+    "Triangle (Relations humaines)",
+    "Self-realization",
+    "Actualisation de soi",
+    "Fate and fatalism",
+    "Interpersonal relations",
+    "Romans, nouvelles",
+    "Friendship",
+    "Appr\u00e9ciation",
+    "Fiction, psychological",
+    "Fiction, romance, contemporary",
+    "Man-woman relationships, fiction",
+    "Large type books",
+    "nyt:trade-fiction-paperback=2012-09-23",
+    "New York Times reviewed",
+    "Women college students"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2011/10/07/books/the-marriage-plot-by-jeffrey-eugenides-review.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2011/10/16/books/review/the-marriage-plot-by-jeffrey-eugenides-book-review.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 38,
+  "revision": 38,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-10-03T05:14:01.027389"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-05T23:54:25.406627"
+  }
+}

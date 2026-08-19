@@ -1,0 +1,131 @@
+{
+  "description": "At thirty-six, Quoyle, a third-rate newspaperman, is wrenched violently out of his workaday life when his two-timing wife meets her just deserts. He retreats with his two daughters to his ancestral home on the starkly beautiful Newfoundland coast, where a rich cast of local characters all play a part in Quoyle's struggle to reclaim his life. As three generations of his family cobble up new lives, Quoyle confronts his private demons--and the unpredictable forces of nature and society--and begins to see the possibility of love without pain or misery.\r\n\r\nA vigorous, darkly comic, and at times magical portrait of the contemporary American family, The Shipping News shows why E. Annie Proulx is recognized as one of the most gifted and original writers in America today.",
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Shipping_News",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Shipping News - Wikipedia"
+    },
+    {
+      "url": "https://www.publishersweekly.com/978-0-684-19337-3",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Fiction Book Review: Shipping News by E. Annie Proulx, Author, B ..."
+    },
+    {
+      "url": "https://www.theguardian.com/books/2011/dec/08/shipping-news-annie-proulx-reading-group",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Shipping News: Moderate or good?"
+    },
+    {
+      "url": "http://www.curledup.com/shipping.htm",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Shipping News -- book review - Curled Up With A Good Book"
+    },
+    {
+      "url": "https://www.sparknotes.com/lit/shipping/",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "SparkNotes: The Shipping News"
+    }
+  ],
+  "title": "The Shipping News",
+  "covers": [
+    10522593,
+    8384606,
+    2272132,
+    10448159,
+    11267874,
+    10723844,
+    12820418,
+    13953012
+  ],
+  "subject_places": [
+    "Newfoundland",
+    "Newfoundland and Labrador",
+    "upstate",
+    "New York",
+    "Killick-Claw",
+    "Brooklyn"
+  ],
+  "subjects": [
+    "Domestic fiction",
+    "Family",
+    "Fiction",
+    "American literature",
+    "Families",
+    "National Book Award Winner",
+    "Women authors",
+    "award:national_book_award=1993",
+    "award:national_book_award=fiction",
+    "United States",
+    "English fiction",
+    "Newfoundland and Labrador -- Fiction.",
+    "Livres en gros caract\u00e8res",
+    "Large type books",
+    "Counselors",
+    "Supervision of",
+    "Psychotherapy",
+    "Education",
+    "POLITICAL SCIENCE",
+    "Public Policy",
+    "Social Services & Welfare",
+    "SOCIAL SCIENCE",
+    "Human Services",
+    "Supervision",
+    "Beratung",
+    "Fiction, family life",
+    "Newfoundland and labrador, fiction",
+    "Fiction, family life, general",
+    "Journalists, fiction"
+  ],
+  "subject_people": [
+    "Quoyle",
+    "Petal Bear",
+    "Bunny",
+    "Sunshine",
+    "Agnis Hamm",
+    "Wavey Prowse"
+  ],
+  "key": "/works/OL456089W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26736A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "comment": "first sentence",
+      "excerpt": "Here is an account of a few years in the life of Quoyle, born in Brooklyn and raised in a shuffle of dreary upstate towns.",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 34,
+  "revision": 34,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:27:57.446968"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-26T18:12:02.120495"
+  }
+}

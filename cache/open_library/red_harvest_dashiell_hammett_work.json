@@ -1,0 +1,56 @@
+{
+  "title": "Red Harvest",
+  "covers": [
+    968508,
+    2269603,
+    419810,
+    419811,
+    499205
+  ],
+  "key": "/works/OL47269W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL28314A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "When the last honest citizen of Poisonville was murdered, the Continental Op stayed on to punish the guilty--even if that meant taking on an entire town. Red Harvest is more than a superb crime novel: it is a classic exploration of corruption and violence in the American grain."
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Fiction",
+    "Private investigators",
+    "Continental Op (Fictitious character)",
+    "Fiction in English",
+    "Gangs",
+    "Large type books",
+    "Fiction, mystery & detective, hard-boiled",
+    "Continental op (fictitious character), fiction",
+    "Private investigators, fiction",
+    "United states, fiction",
+    "Fiction, mystery & detective, general",
+    "Fiction, crime",
+    "Fiction, thrillers, suspense"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:48:36.911709"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-09T22:06:54.404157"
+  }
+}

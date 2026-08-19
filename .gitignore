@@ -5,15 +5,22 @@ venv/
 .env
 .DS_Store
 
-# Raw API caches - large, regenerable from scripts/01_fetch_metadata.py
-cache/
+# Raw API caches and generated metadata/tags/embeddings are regenerable
+# from scripts, but ARE tracked for the CI sync workflow (see
+# .github/workflows/sync-books.yml): each run only fetches/tags/embeds
+# books not already present in these files, so they must persist across
+# runs. GitHub Actions runners are ephemeral with no other shared disk, so
+# "regenerable" here means "committed" -- untracking these would force a
+# full (paid) re-fetch/re-tag/re-embed of every book on every sync.
+# CI only maintains the openai/v2 embeddings; other provider/variant
+# combos stay untracked and are a local-only, manual thing.
+data/embedding_input_v1.json
+data/embeddings_local_v1.npz
+data/embeddings_local_v2.npz
+data/embeddings_openai_v1.npz
 
-# Generated metadata/tags/embeddings - regenerable from scripts
-data/book_metadata.json
-data/book_tags.json
-data/embedding_input*.json
-data/embeddings*.npy
-data/embeddings*.npz
+# Local Netlify folder
+.netlify
 
 # Local Netlify folder
 .netlify

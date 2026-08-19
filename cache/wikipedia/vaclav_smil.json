@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Vaclav Smil",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Vaclav Smil</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q528111",
+  "titles": {
+    "canonical": "Vaclav_Smil",
+    "normalized": "Vaclav Smil",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Vaclav Smil</span></span>"
+  },
+  "pageid": 25580107,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vaclav-smil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 204,
+    "height": 286
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vaclav-smil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 204,
+    "height": 286
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1350627232",
+  "tid": "7ba9f50b-3eb3-11f1-8fb5-4cea5ac42032",
+  "timestamp": "2026-04-23T01:26:42Z",
+  "description": "Czech-Canadian scientist and policy analyst (born 1943)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Vaclav_Smil",
+      "revisions": "https://en.wikipedia.org/wiki/Vaclav_Smil?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Vaclav_Smil?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Vaclav_Smil"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Vaclav_Smil",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Vaclav_Smil",
+      "edit": "https://en.wikipedia.org/wiki/Vaclav_Smil?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Vaclav_Smil"
+    }
+  },
+  "extract": "Vaclav Smil is a Czech-Canadian scientist and policy analyst. He is Distinguished Professor Emeritus in the Faculty of Environment at the University of Manitoba in Winnipeg, Manitoba, Canada. His interdisciplinary research interests encompass energy, environmental, food, population, economic, historical and public policy studies. He has also applied these approaches to energy, food and environmental affairs of China.",
+  "extract_html": "<p><b>Vaclav Smil</b> is a Czech-Canadian scientist and policy analyst. He is Distinguished Professor Emeritus in the Faculty of Environment at the University of Manitoba in Winnipeg, Manitoba, Canada. His interdisciplinary research interests encompass energy, environmental, food, population, economic, historical and public policy studies. He has also applied these approaches to energy, food and environmental affairs of China.</p>"
+}

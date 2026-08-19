@@ -1,0 +1,80 @@
+{
+  "numFound": 8,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 8,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3279480A"
+      ],
+      "author_name": [
+        "Kevin Kwan"
+      ],
+      "cover_edition_key": "OL26497848M",
+      "cover_i": 8251889,
+      "ebook_access": "public",
+      "edition_count": 21,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "log1950cadi",
+        "crazyrichasians0000kwan_f4l9",
+        "crazyrichasians0000kwan_c2o6",
+        "isbn_9780385536974",
+        "crazyrichasians0000kwan"
+      ],
+      "ia_collection": [
+        "allen_county",
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17924837W",
+      "language": [
+        "spa",
+        "eng",
+        "chi"
+      ],
+      "lending_edition_s": "OL26802869M",
+      "lending_identifier_s": "log1950cadi",
+      "public_scan_b": true,
+      "title": "Crazy Rich Asians"
+    },
+    {
+      "author_key": [
+        "OL3279480A"
+      ],
+      "author_name": [
+        "Kevin Kwan"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL17929114W",
+      "public_scan_b": false,
+      "title": "Rich People Problems (Crazy Rich Asians Trilogy)"
+    },
+    {
+      "author_key": [
+        "OL3279480A"
+      ],
+      "author_name": [
+        "Kevin Kwan"
+      ],
+      "cover_edition_key": "OL37798227M",
+      "cover_i": 13291616,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL27708911W",
+      "public_scan_b": false,
+      "title": "Kevin Kwan Crazy Rich Asians Trilogy Collection 3 Books Set Pack"
+    }
+  ]
+}

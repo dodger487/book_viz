@@ -1,0 +1,209 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7GJi0fsSmUoC",
+      "etag": "Gas2to0HRro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7GJi0fsSmUoC",
+      "volumeInfo": {
+        "title": "The Checklist Manifesto",
+        "subtitle": "How To Get Things Right",
+        "authors": [
+          "Atul Gawande"
+        ],
+        "publisher": "Profile Books",
+        "publishedDate": "2010-07-09",
+        "description": "THE GAME-CHANGING BOOK FROM THE BESTSELLING AUTHOR OF BEING MORTAL Today we find ourselves in possession of stupendous know-how, which we willingly place in the hands of the most highly skilled people. But avoidable failures are common, and the reason is simple: the volume and complexity of our knowledge has exceeded our ability to consistently deliver it - correctly, safely or efficiently. In this groundbreaking book, Atul Gawande makes a compelling argument for the checklist, which he believes to be the most promising method available in surmounting failure. Whether you're following a recipe, investing millions of dollars in a company or building a skyscraper, the checklist is an essential tool in virtually every area of our lives, and Gawande explains how breaking down complex, high pressure tasks into small steps can radically improve everything from airline safety to heart surgery survival rates. Fascinating and enlightening, The Checklist Manifesto shows how the simplest of ideas could transform how we operate in almost any field.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781847651877"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1847651879"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.31.26.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7GJi0fsSmUoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7GJi0fsSmUoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7GJi0fsSmUoC&printsec=frontcover&dq=intitle:%22The+Checklist+Manifesto%22+inauthor:%22Atul+Gawande%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7GJi0fsSmUoC&dq=intitle:%22The+Checklist+Manifesto%22+inauthor:%22Atul+Gawande%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Checklist_Manifesto.html?hl=&id=7GJi0fsSmUoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Checklist_Manifesto-sample-epub.acsm?id=7GJi0fsSmUoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Checklist_Manifesto-sample-pdf.acsm?id=7GJi0fsSmUoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7GJi0fsSmUoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this groundbreaking book, Atul Gawande makes a compelling argument for the checklist, which he believes to be the most promising method available in surmounting failure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zd__zgEACAAJ",
+      "etag": "aHm2ZnXTs9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zd__zgEACAAJ",
+      "volumeInfo": {
+        "title": "COLLECTED WORKS OF ATUL GAWANDE",
+        "subtitle": "The Checklist Manifesto + Better + Being Mortal + Complications",
+        "authors": [
+          "GAWANDE ATUL"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0143456814"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143456810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zd__zgEACAAJ&dq=intitle:%22The+Checklist+Manifesto%22+inauthor:%22Atul+Gawande%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Zd__zgEACAAJ&dq=intitle:%22The+Checklist+Manifesto%22+inauthor:%22Atul+Gawande%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/COLLECTED_WORKS_OF_ATUL_GAWANDE.html?hl=&id=Zd__zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zd__zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qQv6xQEACAAJ",
+      "etag": "dsuR6V/1E7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qQv6xQEACAAJ",
+      "volumeInfo": {
+        "title": "The Checklist Manifesto",
+        "authors": [
+          "Atul Gawande"
+        ],
+        "publishedDate": "2018-09-28",
+        "description": "Traditional Chinese edition of The Checklist Manifesto: How to Get Things Right",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "986479552X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789864795529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "zh-CN",
+        "previewLink": "http://books.google.com/books?id=qQv6xQEACAAJ&dq=intitle:%22The+Checklist+Manifesto%22+inauthor:%22Atul+Gawande%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qQv6xQEACAAJ&dq=intitle:%22The+Checklist+Manifesto%22+inauthor:%22Atul+Gawande%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Checklist_Manifesto.html?hl=&id=qQv6xQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qQv6xQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Traditional Chinese edition of The Checklist Manifesto: How to Get Things Right"
+      }
+    }
+  ]
+}

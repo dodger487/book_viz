@@ -1,0 +1,66 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7755962A"
+      ],
+      "author_name": [
+        "Marina Keegan"
+      ],
+      "cover_edition_key": "OL25631024M",
+      "cover_i": 7305680,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "oppositeofloneli0000keeg"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17061742W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Opposite of Loneliness"
+    },
+    {
+      "author_key": [
+        "OL9936120A"
+      ],
+      "author_name": [
+        "Marina Keegan"
+      ],
+      "cover_edition_key": "OL35593571M",
+      "cover_i": 12299245,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2014,
+      "has_fulltext": true,
+      "ia": [
+        "oppositeofloneli0000keeg_e4p2"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL26357173W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The opposite of loneliness"
+    }
+  ]
+}

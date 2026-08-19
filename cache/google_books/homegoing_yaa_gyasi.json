@@ -1,0 +1,252 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fh-eCgAAQBAJ",
+      "etag": "+XpPtBMTkEI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fh-eCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Homegoing",
+        "subtitle": "A novel",
+        "authors": [
+          "Yaa Gyasi"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2016-06-07",
+        "description": "INTERNATIONAL BESTSELLER \u2022 WINNER OF THE NATIONAL BOOK CRITICS CIRCLE'S JOHN LEONARD PRIZE \u2022 WINNER OF THE PEN / HEMINGWAY AWARD FOR DEBUT FICTION \u2022 Ghana, eighteenth century: two half sisters are born into different villages, each unaware of the other. One will marry an Englishman and lead a life of comfort in the palatial rooms of the Cape Coast Castle. The other will be captured in a raid on her village, imprisoned in the very same castle, and sold into slavery. One of Oprah\u2019s Best Books of the Year, Homegoing follows the parallel paths of these sisters and their descendants through eight generations: from the Gold Coast to the plantations of Mississippi, from the American Civil War to Jazz Age Harlem. Yaa Gyasi\u2019s extraordinary novel illuminates slavery\u2019s troubled legacy both for those who were taken and those who stayed\u2014and shows how the memory of captivity has been inscribed on the soul of our nation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101947142"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101947144"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.13.14.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fh-eCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fh-eCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fh-eCgAAQBAJ&printsec=frontcover&dq=intitle:%22Homegoing%22+inauthor:%22Yaa+Gyasi%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fh-eCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fh-eCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fh-eCgAAQBAJ&rdid=book-fh-eCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Homegoing-sample-epub.acsm?id=fh-eCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fh-eCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "INTERNATIONAL BESTSELLER \u2022 WINNER OF THE NATIONAL BOOK CRITICS CIRCLE&#39;S JOHN LEONARD PRIZE \u2022 WINNER OF THE PEN / HEMINGWAY AWARD FOR DEBUT FICTION \u2022 Ghana, eighteenth century: two half sisters are born into different villages, each ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7keNEAAAQBAJ",
+      "etag": "FVBev7nw6MM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7keNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Homegoing",
+        "authors": [
+          "Yaa Gyasi"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2017-05-02",
+        "description": "A PENGUIN BOOK CLUB PICK \"Homegoing is an inspiration.\" \u2014Ta-Nehisi Coates An unforgettable New York Times bestseller of exceptional scope and sweeping vision that traces the descendants of two sisters across three hundred years in Ghana and America. A riveting kaleidoscopic debut novel and the beginning of a major career: Yaa Gyasi's Homegoing is a novel about race, history, ancestry, love and time, charting the course of two sisters torn apart in 18th century Africa through to the present day. Two half sisters, Effia and Esi, unknown to each other, are born into two different tribal villages in 18th century Ghana. Effia will be married off to an English colonist, and will live in comfort in the sprawling, palatial rooms of Cape Coast Castle, raising \"half-caste\" children who will be sent abroad to be educated in England before returning to the Gold Coast to serve as administrators of the Empire. Her sister, Esi, will be imprisoned beneath Effia in the Castle's women's dungeon, before being shipped off on a boat bound for America, where she will be sold into slavery. Stretching from the tribal wars of Ghana to slavery and Civil War in America, from the coal mines in the north to the Great Migration to the streets of 20th century Harlem, Yaa Gyasi has written a modern masterpiece, a novel that moves through histories and geographies and\u2014with outstanding economy and force\u2014captures the intricacies of the troubled yet hopeful human spirit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385686150"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385686153"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7keNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7keNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7keNEAAAQBAJ&dq=intitle:%22Homegoing%22+inauthor:%22Yaa+Gyasi%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7keNEAAAQBAJ&dq=intitle:%22Homegoing%22+inauthor:%22Yaa+Gyasi%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Homegoing.html?hl=&id=7keNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7keNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A riveting kaleidoscopic debut novel and the beginning of a major career: Yaa Gyasi&#39;s Homegoing is a novel about race, history, ancestry, love and time, charting the course of two sisters torn apart in 18th century Africa through to the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oNmOzgEACAAJ",
+      "etag": "JGgiLtjbizU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oNmOzgEACAAJ",
+      "volumeInfo": {
+        "title": "Homegoing",
+        "authors": [
+          "Yaa Gyasi"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022",
+        "description": "With carefully adapted text, new illustrations, language practise activities and additional online resources, the Penguin Readers series introduces language learners to bestselling authors and compelling content. Titles include popular classics, exciting contemporary fiction, and thought-provoking non-fiction. Homegoing, a Level 7 Reader, is B2 in the CEFR framework. The longer text is made up of sentences with up to four clauses, introducing future perfect simple, mixed conditionals, past perfect continuous, mixed conditionals, more complex passive forms and modals for deduction in the past. Half-sisters Effia and Esi are born into different villages in Ghana. The sisters' lives follow different paths- Effi marries a wealthy Englishman, while Esi is captured and sold into slavery.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0241542626"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241542620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oNmOzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oNmOzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oNmOzgEACAAJ&dq=intitle:%22Homegoing%22+inauthor:%22Yaa+Gyasi%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oNmOzgEACAAJ&dq=intitle:%22Homegoing%22+inauthor:%22Yaa+Gyasi%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Homegoing.html?hl=&id=oNmOzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oNmOzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The longer text is made up of sentences with up to four clauses, introducing future perfect simple, mixed conditionals, past perfect continuous, mixed conditionals, more complex passive forms and modals for deduction in the past."
+      }
+    }
+  ]
+}

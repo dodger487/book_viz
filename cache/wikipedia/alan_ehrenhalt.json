@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Alan Ehrenhalt",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alan Ehrenhalt</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q22277668",
+  "titles": {
+    "canonical": "Alan_Ehrenhalt",
+    "normalized": "Alan Ehrenhalt",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alan Ehrenhalt</span></span>"
+  },
+  "pageid": 49165845,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353553802",
+  "tid": "614f86d7-4cc7-11f1-b958-1aced6a4e3f9",
+  "timestamp": "2026-05-10T23:24:24Z",
+  "description": "American journalist and non-fiction author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alan_Ehrenhalt",
+      "revisions": "https://en.wikipedia.org/wiki/Alan_Ehrenhalt?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alan_Ehrenhalt?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alan_Ehrenhalt"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Alan_Ehrenhalt",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Alan_Ehrenhalt",
+      "edit": "https://en.wikipedia.org/wiki/Alan_Ehrenhalt?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alan_Ehrenhalt"
+    }
+  },
+  "extract": "Alan Ehrenhalt is an American journalist and non-fiction author.",
+  "extract_html": "<p><b>Alan Ehrenhalt</b> is an American journalist and non-fiction author.</p>"
+}

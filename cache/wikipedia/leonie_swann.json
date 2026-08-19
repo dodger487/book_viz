@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Leonie Swann",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Leonie Swann</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q64587",
+  "titles": {
+    "canonical": "Leonie_Swann",
+    "normalized": "Leonie Swann",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Leonie Swann</span></span>"
+  },
+  "pageid": 5999298,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Leonie_Swann_%28cropped%29.jpg/330px-Leonie_Swann_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 412
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Leonie_Swann_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 377,
+    "height": 471
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365673741",
+  "tid": "0fb57701-86d2-11f1-9f45-e46faf8532e1",
+  "timestamp": "2026-07-23T20:06:59Z",
+  "description": "German writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Leonie_Swann",
+      "revisions": "https://en.wikipedia.org/wiki/Leonie_Swann?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Leonie_Swann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Leonie_Swann"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Leonie_Swann",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Leonie_Swann",
+      "edit": "https://en.wikipedia.org/wiki/Leonie_Swann?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Leonie_Swann"
+    }
+  },
+  "extract": "Leonie Swann is a pseudonymous German crime writer.",
+  "extract_html": "<p><b>Leonie Swann</b> is a pseudonymous German crime writer.</p>"
+}

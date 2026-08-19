@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Chabon",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Chabon</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313466",
+  "titles": {
+    "canonical": "Michael_Chabon",
+    "normalized": "Michael Chabon",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Chabon</span></span>"
+  },
+  "pageid": 98651,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Michael_Chabon_by_Gage_Skidmore.jpg/330px-Michael_Chabon_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 421
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Michael_Chabon_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1841,
+    "height": 2350
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1363875013",
+  "tid": "138603c3-7e57-11f1-ac52-5bf83a4be918",
+  "timestamp": "2026-07-13T01:06:28Z",
+  "description": "American author and Pulitzer Prize winner (born 1963)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Chabon",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Chabon?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Chabon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Chabon"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Chabon",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Michael_Chabon",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Chabon?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Chabon"
+    }
+  },
+  "extract": "Michael Chabon is an American novelist, screenwriter, columnist, and short story writer. Born in Washington, D.C., he studied at Carnegie Mellon University for one year before transferring to the University of Pittsburgh, graduating in 1984. He subsequently received a Master of Fine Arts in creative writing from the University of California, Irvine.",
+  "extract_html": "<p><b>Michael Chabon</b> is an American novelist, screenwriter, columnist, and short story writer. Born in Washington, D.C., he studied at Carnegie Mellon University for one year before transferring to the University of Pittsburgh, graduating in 1984. He subsequently received a Master of Fine Arts in creative writing from the University of California, Irvine.</p>"
+}

@@ -1,0 +1,104 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4zRbCwAAQBAJ",
+      "etag": "A66PQazqTUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4zRbCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Unbanking Of America",
+        "subtitle": "How the New Middle Class Survives",
+        "authors": [
+          "Lisa Servon"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2017-01-10",
+        "description": "\u201c[A] startling and absorbing expos\u00e9 . . . Required reading for fans of muckraking authors like Barbara Ehrenreich.\u201d\u2014Publishers Weekly, starred review \u201cExceptional . . . thorough, and even gut-wrenching. A significant contribution.\u201d\u2014American Prospect Why Americans are fleeing our broken banking system in growing numbers, and how alternatives are rushing in to do what banks once did What do an undocumented immigrant in the South Bronx, a high-net-worth entrepreneur, and a twenty-something graduate student have in common? All three are victims of our dysfunctional mainstream bank and credit system. Nearly half of all Americans live from paycheck to paycheck, and income volatility has doubled over the past thirty years. Banks, with their high monthly fees and overdraft charges, are gouging their lower- and middle-income customers while serving only the wealthiest Americans. Lisa Servon delivers a stunning indictment of America\u2019s banks, together with eye-opening dispatches from inside a range of banking alternatives that have sprung up to fill the void. She works as a teller at RiteCheck, a check-cashing business in the South Bronx, and as a payday lender in Oakland. She looks closely at the workings of a tanda, an informal lending club. And she delivers engaging, hopeful portraits of the entrepreneurs reacting to the unbanking of America by designing systems to creatively serve many of us.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544611184"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0544611187"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4zRbCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4zRbCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4zRbCwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Unbanking+of+America%22+inauthor:%22Lisa+Servon%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4zRbCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4zRbCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4zRbCwAAQBAJ&rdid=book-4zRbCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Unbanking_Of_America-sample-epub.acsm?id=4zRbCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4zRbCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lisa Servon delivers a stunning indictment of America\u2019s banks, together with eye-opening dispatches from inside a range of banking alternatives that have sprung up to fill the void."
+      }
+    }
+  ]
+}

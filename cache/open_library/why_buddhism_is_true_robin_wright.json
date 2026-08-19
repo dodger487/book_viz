@@ -1,0 +1,74 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2757469A"
+      ],
+      "author_name": [
+        "Robert Wright"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL27730617W",
+      "public_scan_b": false,
+      "title": "Why Buddhism Is True"
+    },
+    {
+      "author_key": [
+        "OL2757469A"
+      ],
+      "author_name": [
+        "Robert Wright"
+      ],
+      "cover_edition_key": "OL28337738M",
+      "cover_i": 10286374,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2017,
+      "has_fulltext": false,
+      "key": "/works/OL20917487W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Why Buddhism is True"
+    },
+    {
+      "author_key": [
+        "OL29336A"
+      ],
+      "author_name": [
+        "Wright, Robert"
+      ],
+      "cover_edition_key": "OL26424912M",
+      "cover_i": 8133029,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "whybuddhismistru0000wrig"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL17838031W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Science and Philosophy of Meditation and Enlightenment",
+      "title": "Why Buddhism Is True"
+    }
+  ]
+}

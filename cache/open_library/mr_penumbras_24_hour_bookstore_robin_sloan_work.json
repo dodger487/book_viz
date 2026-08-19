@@ -1,0 +1,103 @@
+{
+  "description": "The Great Recession has shuffled Clay Jannon away from life as a San Francisco web-design drone and into the aisles of Mr. Penumbra's 24-Hour Bookstore, but after a few days on the job, Clay discovers that the store is more curious than either its name or its gnomic owner might suggest. The customers are few, and they never seem to buy anything; instead, they \"check out\" large, obscure volumes from strange corners of the store. Suspicious, Clay engineers an analysis of the clientele's behavior, seeking help from his variously talented friends, but when they bring their findings to Mr. Penumbra, they discover the bookstore's secrets extend far beyond its walls.",
+  "covers": [
+    7241549,
+    8511234,
+    8571211,
+    10073786
+  ],
+  "key": "/works/OL16585786W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7106874A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7925291A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7850410A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL13681919A"
+      }
+    }
+  ],
+  "title": "Mr. Penumbra's 24-hour bookstore",
+  "subjects": [
+    "Fiction",
+    "contemporary",
+    "fantasy",
+    "Employees",
+    "Bookstores",
+    "Amerikanisches Englisch",
+    "Booksellers and bookselling",
+    "action & adventure\"\"\"\"",
+    "nyt:trade-fiction-paperback=2013-10-13",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Fantasy, contemporary",
+    "San francisco (calif.), action & adventure",
+    "Fiction, fantasy, contemporary",
+    "Booksellers and bookselling, fiction",
+    "San francisco (calif.), fiction",
+    "Fiction, thrillers, suspense",
+    "Fiction, action & adventure",
+    "Fiction, suspense",
+    "Large type books",
+    "Fiction, fantasy, general"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2012/12/16/books/review/mr-penumbras-24-hour-bookstore-by-robin-sloan.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_people": [
+    "Clay Jannon",
+    "Mr. Penumbra"
+  ],
+  "subject_times": [
+    "Contemporary",
+    "2012"
+  ],
+  "subject_places": [
+    "San Francisco",
+    "California",
+    "New York City"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2012-04-13T06:57:15.438012"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-06T21:50:51.211249"
+  }
+}

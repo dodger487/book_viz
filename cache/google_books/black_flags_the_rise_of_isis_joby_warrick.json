@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "x2reDAAAQBAJ",
+      "etag": "WeqayenP8OQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x2reDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Black Flags",
+        "subtitle": "The Rise of ISIS",
+        "authors": [
+          "Joby Warrick"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2016-09-06",
+        "description": "WINNER OF THE PULITZER PRIZE \u2022 In a thrilling dramatic narrative, the award-winning reporter traces how the strain of militant Islam behind ISIS first arose in a remote Jordanian prison and spread with the unwitting aid of two American presidents. \u201cGripping. . . . For readers interested in the roots of the Islamic State and the evil genius of its godfather, there is no better book to begin with than Black Flags.\u201d \u2014Michiko Kakutani, The New York Times Drawing on unique high-level access to CIA and Jordanian sources, Warrick weaves gripping, moment-by-moment operational details with the perspectives of diplomats and spies, generals and heads of state, many of whom foresaw a menace worse than al Qaeda and tried desperately to stop it. Black Flags is a brilliant and definitive history that reveals the long arc of today\u2019s most dangerous extremist threat.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804168939"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0804168938"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x2reDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x2reDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x2reDAAAQBAJ&printsec=frontcover&dq=intitle:%22Black+Flags:+The+Rise+of+ISIS%22+inauthor:%22Joby+Warrick%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x2reDAAAQBAJ&dq=intitle:%22Black+Flags:+The+Rise+of+ISIS%22+inauthor:%22Joby+Warrick%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Black_Flags.html?hl=&id=x2reDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x2reDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". For readers interested in the roots of the Islamic State and the evil genius of its godfather, there is no better book to begin with than Black Flags.\u201d \u2014Michiko Kakutani, The New York Times Drawing on unique high-level access to CIA ..."
+      }
+    }
+  ]
+}

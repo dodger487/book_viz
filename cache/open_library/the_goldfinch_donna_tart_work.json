@@ -1,0 +1,115 @@
+{
+  "description": "\"The Goldfinch is a rarity that comes along perhaps half a dozen times per decade, a smartly written literary novel that connects with the heart as well as the mind....Donna Tartt has delivered an extraordinary work of fiction.\"--Stephen King, The New York Times Book Review\r\n\r\nComposed with the skills of a master, The Goldfinch is a haunted odyssey through present day America and a drama of enthralling force and acuity.\r\n\r\nIt begins with a boy. Theo Decker, a thirteen-year-old New Yorker, miraculously survives an accident that kills his mother. Abandoned by his father, Theo is taken in by the family of a wealthy friend. Bewildered by his strange new home on Park Avenue, disturbed by schoolmates who don't know how to talk to him, and tormented above all by his unbearable longing for his mother, he clings to one thing that reminds him of her: a small, mysteriously captivating painting that ultimately draws Theo into the underworld of art. \r\n\r\nAs an adult, Theo moves silkily between the drawing rooms of the rich and the dusty labyrinth of an antiques store where he works. He is alienated and in love-and at the center of a narrowing, ever more dangerous circle. \r\n\r\nThe Goldfinch is a novel of shocking narrative energy and power. It combines unforgettably vivid characters, mesmerizing language, and breathtaking suspense, while plumbing with a philosopher's calm the deepest mysteries of love, identity, and art. It is a beautiful, stay-up-all-night and tell-all-your-friends triumph, an old-fashioned story of loss and obsession, survival and self-invention, and the ruthless machinations of fate.",
+  "title": "The Goldfinch",
+  "covers": [
+    8771366,
+    7267111,
+    10339307,
+    11429910,
+    8954260,
+    12755133,
+    12999274,
+    7278047,
+    8921188,
+    12224366,
+    12370415,
+    13613680,
+    13613678,
+    13613679,
+    13940806,
+    9206236,
+    15099932
+  ],
+  "subject_places": [
+    "Amsterdam (Netherlands)",
+    "Las Vegas",
+    "Nevada (United States)",
+    "New York City",
+    "New York (United States)",
+    "Upper East Side",
+    "New York (N.Y.)"
+  ],
+  "subjects": [
+    "goldfinch",
+    "Fiction",
+    "Self-realization",
+    "Loss (Psychology)",
+    "Artists",
+    "Young men",
+    "Fiction, coming of age",
+    "New york (n.y.), fiction",
+    "Artists, fiction",
+    "Fiction, psychological",
+    "FICTION / Literary",
+    "Self-acceptance",
+    "Survival",
+    "Friendship",
+    "Family life",
+    "Art",
+    "Literary",
+    "Roman",
+    "Amerikanisches Englisch",
+    "Suspense fiction",
+    "Bildungsromans",
+    "nyt:combined-print-and-e-book-fiction=2013-11-10",
+    "New York Times bestseller",
+    "Large type books",
+    "collectionid:nyt2010s",
+    "Rich people",
+    "Transitional objects (Psychology)",
+    "Jeunes hommes",
+    "Romans, nouvelles",
+    "Perte (Psychologie)",
+    "Artistes",
+    "R\u00e9alisation de soi",
+    "Chang pian xiao shuo",
+    "P\u00e9rdida (Psicolog\u00eda)",
+    "J\u00f3venes (Varones)",
+    "Ficci\u00f3n",
+    "Artistas",
+    "Spanish language materials",
+    "Novela",
+    "FICTION / Coming of Age",
+    "FICTION / Psychological",
+    "Pintores",
+    "Auto-realizaci\u00f3n"
+  ],
+  "subject_people": [
+    "Boris Pavlikovsky (The Goldfinch)",
+    "Theo Decker",
+    "Pippa",
+    "Hobie"
+  ],
+  "key": "/works/OL16809803W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL841112A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL15020935A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2013-12-06T16:48:49.115011"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-29T17:54:52.103747"
+  }
+}

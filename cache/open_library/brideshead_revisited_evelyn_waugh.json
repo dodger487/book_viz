@@ -1,0 +1,115 @@
+{
+  "numFound": 25,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 25,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1391432A"
+      ],
+      "author_name": [
+        "Evelyn Waugh"
+      ],
+      "cover_edition_key": "OL10601329M",
+      "cover_i": 2560441,
+      "ebook_access": "borrowable",
+      "edition_count": 88,
+      "first_publish_year": 1945,
+      "has_fulltext": true,
+      "ia": [
+        "powrotdobrideshe0000waug",
+        "bridesheadrevisi0000waug_y3b8",
+        "bridesheadrevisi00waug_0",
+        "bridesheadrevisi0000waug_f7k0",
+        "bridesheadrevisi0000waug_w4n7",
+        "bridesheadrevisi0000evel_l1c3",
+        "bridesheadrevisi00waug",
+        "bridesheadrevisi0000waug_v2z9",
+        "bridesheadrevisi00waug_4",
+        "bridesheadrevisi0000unse",
+        "bridesheadrevisi0000waug_k9n1",
+        "bridesheadrevisi0000waug"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "bannedbooks",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "library_of_atlantis",
+        "marygrovecollege",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL5721394W",
+      "language": [
+        "pol",
+        "nor",
+        "fre",
+        "eng",
+        "rus"
+      ],
+      "lending_edition_s": "OL32134699M",
+      "lending_identifier_s": "powrotdobrideshe0000waug",
+      "public_scan_b": false,
+      "title": "Brideshead Revisited"
+    },
+    {
+      "author_key": [
+        "OL1391432A"
+      ],
+      "author_name": [
+        "Evelyn Waugh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 8,
+      "first_publish_year": 1973,
+      "has_fulltext": false,
+      "key": "/works/OL30515975W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Brideshead Revisited"
+    },
+    {
+      "author_key": [
+        "OL1391432A"
+      ],
+      "author_name": [
+        "Evelyn Waugh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL28706724W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Brideshead Revisited"
+    }
+  ]
+}

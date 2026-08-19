@@ -1,0 +1,65 @@
+{
+  "covers": [
+    9286143,
+    10135825
+  ],
+  "key": "/works/OL20649931W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL24473A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Writers & Lovers",
+  "subjects": [
+    "Fiction, romance, contemporary",
+    "Massachusetts, fiction",
+    "American literature",
+    "nyt:combined-print-and-e-book-fiction=2020-03-22",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Waitresses",
+    "Fiction",
+    "Triangles (Interpersonal relations)",
+    "Life change events",
+    "Women authors",
+    "FICTION / Literary",
+    "FICTION / Small Town & Rural",
+    "FICTION / Women",
+    "Authors",
+    "Romance fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "links": [
+    {
+      "url": "https://www.nytimes.com/2020/03/03/books/review/writers-lovers-by-lily-king-an-excerpt.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://www.nytimes.com/2020/03/10/books/review-writers-lovers-lily-king.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-03-02T15:00:54.339377"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-16T14:33:41.829168"
+  }
+}

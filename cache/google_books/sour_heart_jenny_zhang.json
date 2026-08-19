@@ -1,0 +1,154 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VOpUDwAAQBAJ",
+      "etag": "TI3JAlYBJr8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VOpUDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sour Heart",
+        "subtitle": "Stories",
+        "authors": [
+          "Jenny Zhang"
+        ],
+        "publisher": "Lenny",
+        "publishedDate": "2018-05-01",
+        "description": "A sly debut story collection that conjures the experience of adolescence through the eyes of Chinese American girls growing up in New York City\u2014for readers of Zadie Smith and Helen Oyeyemi. Winner of the Los Angeles Times Book Prize \u2022 Winner of the PEN/Robert W. Bingham Prize for Debut Fiction \u2022 Finalist for the New York Public Library\u2019s Young Lions Fiction Award NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New Yorker \u2022 NPR \u2022 O: The Oprah Magazine \u2022 The Guardian \u2022 Esquire \u2022 New York \u2022 BuzzFeed A fresh new voice emerges with the arrival of Sour Heart, establishing Jenny Zhang as a frank and subversive interpreter of the immigrant experience in America. Her stories cut across generations and continents, moving from the fraught halls of a public school in Flushing, Queens, to the tumultuous streets of Shanghai, China, during the Cultural Revolution of the 1960s. In the absence of grown-ups, latchkey kids experiment on each other until one day the experiments turn violent; an overbearing mother abandons her artistic aspirations to come to America but relives her glory days through karaoke; and a shy loner struggles to master English so she can speak to God. Narrated by the daughters of Chinese immigrants who fled imperiled lives as artists back home only to struggle to stay afloat\u2014dumpster diving for food and scamming Atlantic City casino buses to make a buck\u2014these seven stories showcase Zhang\u2019s compassion, moral courage, and a perverse sense of humor reminiscent of Portnoy\u2019s Complaint. A darkly funny and intimate rendering of girlhood, Sour Heart examines what it means to belong to a family, to find your home, leave it, reject it, and return again. Praise for Sour Heart \u201c[Jenny Zhang\u2019s] coming-of-age tales are coarse and funny, sweet and sour, told in language that\u2019s rough-hewn yet pulsating with energy.\u201d\u2014USA Today \u201cOne of the knockout fiction debuts of the year.\u201d\u2014New York \u201cCompelling writing about what it means to be a teenager . . . It\u2019s brilliant, it\u2019s dark, but it\u2019s also humorous and filled with love.\u201d\u2014Isaac Fitzgerald, Today \u201c[A] combustible collection . . . in a class of its own.\u201d\u2014Booklist (starred review) \u201cGorgeous and grotesque . . . [a] tremendous debut.\u201d\u2014Slate",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780399589409"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0399589406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VOpUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VOpUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VOpUDwAAQBAJ&printsec=frontcover&dq=intitle:%22Sour+Heart%22+inauthor:%22Jenny+Zhang%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VOpUDwAAQBAJ&dq=intitle:%22Sour+Heart%22+inauthor:%22Jenny+Zhang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sour_Heart.html?hl=&id=VOpUDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VOpUDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Winner of the Los Angeles Times Book Prize \u2022 Winner of the PEN/Robert W. Bingham Prize for Debut Fiction \u2022 Finalist for the New York Public Library\u2019s Young Lions Fiction Award NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New Yorker ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d1l7tAEACAAJ",
+      "etag": "UV6/NdevQwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d1l7tAEACAAJ",
+      "volumeInfo": {
+        "title": "Sour Heart",
+        "subtitle": "Stories",
+        "authors": [
+          "Jenny Zhang"
+        ],
+        "publisher": "Bloomsbury Circus",
+        "publishedDate": "2017-08",
+        "description": "'Relegate anything else you're reading - there is no other book to be seen with now' The Times'Obscene, beautiful, moving' New YorkerThese seven startling stories of family, femininity, sexuality and otherness will plunge you into the tender and chaotic hearts of narrators you won't easily forget.Centred on a community of immigrants who have traded their endangered lives as artists in China and Taiwan for the constant struggle of life on the poverty line in 1990s New York City, the stories that make up Sour Heart examine the many ways that family and history can weigh us down, but also lift us up. From the young woman coming to terms with her grandmother's role in the Cultural Revolution, to the daughter struggling to understand where her family ends and she begins, to the girl discovering the power of her body to inspire and destroy, these vibrant, raw and powerful stories illuminate the complex and messy inner lives of girls struggling to define themselves. Fuelled by Jenny Zhang's singular voice and sly humour, Sour Heart introduces a bright new force in literary fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1408892405"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408892404"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "Bildungsromans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d1l7tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d1l7tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d1l7tAEACAAJ&dq=intitle:%22Sour+Heart%22+inauthor:%22Jenny+Zhang%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=d1l7tAEACAAJ&dq=intitle:%22Sour+Heart%22+inauthor:%22Jenny+Zhang%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sour_Heart.html?hl=&id=d1l7tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d1l7tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Relegate anything else you&#39;re reading - there is no other book to be seen with now&#39; The Times&#39;Obscene, beautiful, moving&#39; New YorkerThese seven startling stories of family, femininity, sexuality and otherness will plunge you into the ..."
+      }
+    }
+  ]
+}

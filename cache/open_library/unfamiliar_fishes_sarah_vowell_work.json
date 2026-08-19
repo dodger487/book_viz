@@ -1,0 +1,51 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "From the bestselling author of *The Wordy Shipmates*, comes an examination of Hawaii, the place where Manifest Destiny got a sunburn. \r\n\r\nMany think of 1776 as the defining year of American history, when we became a nation devoted to the pursuit of happiness through self-government. In *Unfamiliar Fishes*, Sarah Vowell argues that 1898 might be a year just as defining, when, in an orgy of imperialism, the United States annexed Hawaii, Puerto Rico, and Guam, and invaded first Cuba, then the Philippines, becoming an international superpower practically overnight. \r\n\r\nAmong the developments in these outposts of 1898, Vowell considers the Americanization of Hawaii the most intriguing. From the arrival of New England missionaries in 1820, their goal to Christianize the local heathen, to the coup d'\u00e9tat of the missionaries' sons in 1893, which overthrew the Hawaiian queen, the events leading up to American annexation feature a cast of beguiling, and often appealing or tragic, characters: whalers who fired cannons at the Bible-thumpers denying them their God-given right to whores, an incestuous princess pulled between her new god and her brother-husband, sugar barons, lepers, con men, Theodore Roosevelt, and the last Hawaiian queen, a songwriter whose sentimental ode \"Aloha 'Oe\" serenaded the first Hawaiian president of the United States during his 2009 inaugural parade. \r\n\r\nWith her trademark smart-alecky insights and reporting, Vowell lights out to discover the off, emblematic, and exceptional history of the fiftieth state, and in so doing finds America, warts and all."
+  },
+  "title": "Unfamiliar Fishes",
+  "covers": [
+    6713590
+  ],
+  "subject_places": [
+    "Hawaii"
+  ],
+  "subjects": [
+    "History",
+    "Annexation to the United States",
+    "Territorial expansion",
+    "Imperialism",
+    "Americanization",
+    "Foreign relations",
+    "Colonization",
+    "nyt:combined-print-and-e-book-nonfiction=2011-04-10",
+    "New York Times bestseller",
+    "Hawaii, history",
+    "United states, territorial expansion",
+    "United states, foreign relations, 1897-1901"
+  ],
+  "key": "/works/OL15690936W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL33595A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-03-17T20:15:14.929898"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T18:44:59.144346"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Martha Wells",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Martha Wells</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6774606",
+  "titles": {
+    "canonical": "Martha_Wells",
+    "normalized": "Martha Wells",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Martha Wells</span></span>"
+  },
+  "pageid": 2701354,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Martha_Wells_2018.jpg/330px-Martha_Wells_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Martha_Wells_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1059,
+    "height": 1590
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1362597355",
+  "tid": "8cf574f2-780d-11f1-8e6a-593aba052529",
+  "timestamp": "2026-07-05T01:05:02Z",
+  "description": "American speculative fiction writer (born 1964)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Martha_Wells",
+      "revisions": "https://en.wikipedia.org/wiki/Martha_Wells?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Martha_Wells?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Martha_Wells"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Martha_Wells",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Martha_Wells",
+      "edit": "https://en.wikipedia.org/wiki/Martha_Wells?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Martha_Wells"
+    }
+  },
+  "extract": "Martha Wells is an American writer of speculative fiction. She has published a number of science fiction and fantasy (SF/F) novels, young adult novels, media tie-ins, short stories, and nonfiction essays on SF/F subjects. Her novels have been translated into twelve languages. Wells credits her academic background in anthropology for her interest in designing complex, realistically detailed societies within her novels.",
+  "extract_html": "<p><b>Martha Wells</b> is an American writer of speculative fiction. She has published a number of science fiction and fantasy (SF/F) novels, young adult novels, media tie-ins, short stories, and nonfiction essays on SF/F subjects. Her novels have been translated into twelve languages. Wells credits her academic background in anthropology for her interest in designing complex, realistically detailed societies within her novels.</p>"
+}

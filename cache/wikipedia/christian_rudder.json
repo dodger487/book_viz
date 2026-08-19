@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Christian Rudder",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Christian Rudder</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5110087",
+  "titles": {
+    "canonical": "Christian_Rudder",
+    "normalized": "Christian Rudder",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Christian Rudder</span></span>"
+  },
+  "pageid": 4841993,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Christian-rudder-headshot.jpg/330px-Christian-rudder-headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Christian-rudder-headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 682,
+    "height": 1024
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1360557566",
+  "tid": "d86b549f-6e05-11f1-b3ce-247a3f49b7f4",
+  "timestamp": "2026-06-22T06:44:41Z",
+  "description": "American entrepreneur",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Christian_Rudder",
+      "revisions": "https://en.wikipedia.org/wiki/Christian_Rudder?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Christian_Rudder?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Christian_Rudder"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Christian_Rudder",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Christian_Rudder",
+      "edit": "https://en.wikipedia.org/wiki/Christian_Rudder?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Christian_Rudder"
+    }
+  },
+  "extract": "Christian Rudder is an American technology entrepreneur and writer known for co-founding the online dating service OkCupid and publishing the site's popular blog posts, which offered insights on dating based on data of user behavior. Following OkCupid's sale to the owner of Match.com in 2011, Rudder remained at the company for four years, and in 2014 published the book Dataclysm with further analysis of online dating statistics. He left OkCupid in 2015.",
+  "extract_html": "<p><b>Christian Rudder</b> is an American technology entrepreneur and writer known for co-founding the online dating service OkCupid and publishing the site's popular blog posts, which offered insights on dating based on data of user behavior. Following OkCupid's sale to the owner of Match.com in 2011, Rudder remained at the company for four years, and in 2014 published the book <i>Dataclysm</i> with further analysis of online dating statistics. He left OkCupid in 2015.</p>"
+}

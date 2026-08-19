@@ -1,0 +1,89 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL26283A"
+      ],
+      "author_name": [
+        "William Gibson"
+      ],
+      "cover_edition_key": "OL1399468M",
+      "cover_i": 3932422,
+      "ebook_access": "borrowable",
+      "edition_count": 26,
+      "first_publish_year": 1743,
+      "has_fulltext": true,
+      "ia": [
+        "virtuelleslichtr0000gibs",
+        "virtuallight0000gibs_l3h9",
+        "virtuallight00gibs_0",
+        "virtuallight00gibs",
+        "lumierevirtuelle0000gibs",
+        "virtuallight0000unse"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "drakeuniversity-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "phillipsacademy-preview",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "the-claremont-colleges-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "uslprototype",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL27257W",
+      "language": [
+        "nor",
+        "fre",
+        "spa",
+        "eng",
+        "rus",
+        "swe",
+        "ger"
+      ],
+      "lending_edition_s": "OL16972756M",
+      "lending_identifier_s": "virtuelleslichtr0000gibs",
+      "public_scan_b": false,
+      "title": "Virtual light"
+    },
+    {
+      "author_key": [
+        "OL26283A",
+        "OL2659522A"
+      ],
+      "author_name": [
+        "William Gibson",
+        "Frank Muller"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1994,
+      "has_fulltext": false,
+      "key": "/works/OL34954289W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Virtual Light"
+    }
+  ]
+}

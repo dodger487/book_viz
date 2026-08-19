@@ -1,0 +1,254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dyikEAAAQBAJ",
+      "etag": "rTq3vs1dsnM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dyikEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Circe",
+        "authors": [
+          "Madeline Miller"
+        ],
+        "publisher": "Gramedia Pustaka Utama",
+        "publishedDate": "2022-12-23",
+        "description": "Di istana Helios, dewa matahari, lahir seorang anak perempuan. Tetapi Circe anak yang aneh\u2014tidak berkuasa seperti ayahnya, juga tidak memikat seperti ibunya. Karena tak punya teman, Circe mencarinya di dunia manusia, dan mengembangkan kemampuannya sebagai penyihir. Zeus, yang merasa terancam, mengasingkannya ke pulau terpencil. Circe mengasah bakatnya dan bertemu banyak tokoh paling termasyhur dalam mitologi, di antaranya Minotaur, Daedalus dan Icarus, Medea, dan Odysseus yang lihai. Tetapi wanita yang hanya sendirian akan menghadapi banyak bahaya, dan Circe tanpa sengaja membangkitkan murka manusia dan dewa-dewa, sehingga mesti berhadapan dengan dewa Olympus yang paling menakutkan dan pendendam. Untuk melindungi apa yang paling dicintainya, Circe harus mengerahkan seluruh kekuatannya dan memilih dengan tegas, apakah hendak berpihak kepada dewa-dewa yang telah melahirkannya, atau manusia yang telanjur disayanginya.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786020665931"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6020665933"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 409,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dyikEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dyikEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=dyikEAAAQBAJ&printsec=frontcover&dq=intitle:%22Circe%22+inauthor:%22Madeline+Miller%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dyikEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dyikEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.19,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.54,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dyikEAAAQBAJ&rdid=book-dyikEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7190000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5540000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Circe-sample-epub.acsm?id=dyikEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Circe-sample-pdf.acsm?id=dyikEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dyikEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tetapi Circe anak yang aneh\u2014tidak berkuasa seperti ayahnya, juga tidak memikat seperti ibunya. Karena tak punya teman, Circe mencarinya di dunia manusia, dan mengembangkan kemampuannya sebagai penyihir."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qZRODwAAQBAJ",
+      "etag": "2d+g7ldhKJI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qZRODwAAQBAJ",
+      "volumeInfo": {
+        "title": "Circe -- Free Preview -- The First 3 Chapters",
+        "authors": [
+          "Madeline Miller"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2018-02-20",
+        "description": "\"A bold and subversive retelling of the goddess's story,\" this #1 New York Times bestseller is \"both epic and intimate in its scope, recasting the most infamous female figure from the Odyssey as a hero in her own right\" (Alexandra Alter, The New York Times). In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child -- not powerful, like her father, nor viciously alluring like her mother. Turning to the world of mortals for companionship, she discovers that she does possess power -- the power of witchcraft, which can transform rivals into monsters and menace the gods themselves. Threatened, Zeus banishes her to a deserted island, where she hones her occult craft, tames wild beasts and crosses paths with many of the most famous figures in all of mythology, including the Minotaur, Daedalus and his doomed son Icarus, the murderous Medea, and, of course, wily Odysseus. But there is danger, too, for a woman who stands alone, and Circe unwittingly draws the wrath of both men and gods, ultimately finding herself pitted against one of the most terrifying and vengeful of the Olympians. To protect what she loves most, Circe must summon all her strength and choose, once and for all, whether she belongs with the gods she is born from, or the mortals she has come to love. With unforgettably vivid characters, mesmerizing language, and page-turning suspense, Circe is a triumph of storytelling, an intoxicating epic of family rivalry, palace intrigue, love and loss, as well as a celebration of indomitable female strength in a man's world. #1 New York Times Bestseller -- named one of the Best Books of the Year by NPR, the Washington Post, People, Time, Amazon, Entertainment Weekly, Bustle, Newsweek, the A.V. Club, Christian Science Monitor, Refinery 29, Buzzfeed, Paste, Audible, Kirkus, Publishers Weekly, Thrillist, NYPL, Self, Real Simple, Goodreads, Boston Globe, Electric Literature, BookPage, the Guardian, Book Riot, Seattle Times, and Business Insider.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316421140"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316421146"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qZRODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qZRODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qZRODwAAQBAJ&printsec=frontcover&dq=intitle:%22Circe%22+inauthor:%22Madeline+Miller%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qZRODwAAQBAJ&dq=intitle:%22Circe%22+inauthor:%22Madeline+Miller%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Circe_Free_Preview_The_First_3_Chapters.html?hl=&id=qZRODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Circe_Free_Preview_The_First_3_Chapters-sample-epub.acsm?id=qZRODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qZRODwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A bold and subversive retelling of the goddess&#39;s story,&quot; this #1 New York Times bestseller is &quot;both epic and intimate in its scope, recasting the most infamous female figure from the Odyssey as a hero in her own right&quot; (Alexandra Alter, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZQ48DwAAQBAJ",
+      "etag": "HXosFcKVpvU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQ48DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Circe",
+        "subtitle": "The stunning new anniversary edition from the author of international bestseller The Song of Achilles",
+        "authors": [
+          "Madeline Miller"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2018-04-19",
+        "description": "The international Number One bestseller from the author of The Song of Achilles, shortlisted for the Women's Prize for Fiction Woman. Witch. Myth. Mortal. Outcast. Lover. Destroyer. Survivor. CIRCE. In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. Circe is a strange child \u2013 not powerful and terrible, like her father, nor gorgeous and mercenary like her mother. Scorned and rejected, Circe grows up in the shadows, at home in neither the world of gods or mortals. But Circe has a dark power of her own: witchcraft. When her gift threatens the gods, she is banished to the island of Aiaia where she hones her occult craft, casting spells, gathering strange herbs and taming wild beasts. Yet a woman who stands alone will never be left in peace for long \u2013 and among her island's guests is an unexpected visitor: the mortal Odysseus, for whom Circe will risk everything. So Circe sets forth her tale, a vivid, mesmerizing epic of family rivalry, love and loss \u2013 the defiant, inextinguishable song of woman burning hot and bright through the darkness of a man's world. THE NUMBER ONE INTERNATIONAL BESTSELLER CHOSEN AS A BOOK OF THE YEAR BY THE GUARDIAN, TELEGRAPH, SUNDAY TELEGRAPH, I PAPER, SUNDAY EXPRESS, IRISH TIMES, TIMES LITERARY SUPPLEMENT, AMAZON, AUDIBLE, BUZZFEED, REFINERY 29, WASHINGTON POST, BOSTON GLOBE, SEATTLE TIMES, TIME MAGAZINE, NEWSWEEK, PEOPLE, ENTERTAINMENT WEEKLY, KIRKUS, PUBLISHERS WEEKLY AND GOODREADS",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408890066"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408890062"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.25.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZQ48DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZQ48DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZQ48DwAAQBAJ&dq=intitle:%22Circe%22+inauthor:%22Madeline+Miller%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZQ48DwAAQBAJ&dq=intitle:%22Circe%22+inauthor:%22Madeline+Miller%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Circe.html?hl=&id=ZQ48DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZQ48DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "SHORTLISTED FOR THE WOMEN&#39;S PRIZE FOR FICTION 2019 The captivating Sunday Times top ten and New York Times number one bestseller by the Orange Prize-winning author of The Song of Achilles; &#39;spellbinding ... a thrilling tour de force&#39; (Mail ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "description": "A vivid historical account of the social world of Rome as it moved from republic to empire. In 49 B.C., the seven hundred fifth year since the founding of Rome, Julius Caesar crossed a small border river called the Rubicon and plunged Rome into cataclysmic civil war. Tom Holland\u2019s enthralling account tells the story of Caesar\u2019s generation, witness to the twilight of the Republic and its bloody transformation into an empire. From Cicero, Spartacus, and Brutus, to Cleopatra, Virgil, and Augustus, here are some of the most legendary figures in history brought thrillingly to life. Combining verve and freshness with scrupulous scholarship, Rubicon is not only an engrossing history of this pivotal era but a uniquely resonant portrait of a great civilization in all its extremes of self-sacrifice and rivalry, decadence and catastrophe, intrigue, war, and world-shaking ambition.",
+  "title": "Rubicon",
+  "covers": [
+    2380298,
+    746976
+  ],
+  "subject_places": [
+    "Rome",
+    "Rubicon River",
+    "Sicily",
+    "Greece",
+    "Macedon",
+    "Carthage",
+    "Egypt",
+    "Alexandria",
+    "North Africa",
+    "Gaul",
+    "Spain",
+    "Britain",
+    "Syria",
+    "Cyprus",
+    "Pontus",
+    "Asia Minor"
+  ],
+  "subjects": [
+    "series:History of Rome",
+    "genre:non-fiction",
+    "genre:history",
+    "History",
+    "Ancient History",
+    "Antiquity",
+    "Rome",
+    "Roman Empire",
+    "Politics",
+    "Social conditions",
+    "Rome, history, republic, 510-30 b.c.",
+    "Rome, social conditions",
+    "Nonfiction"
+  ],
+  "subject_people": [
+    "Julius Caesar",
+    "Pompey",
+    "Crassus",
+    "Sulla",
+    "Cicero",
+    "Cato the Younger",
+    "Brutus",
+    "Cassius",
+    "Mark Antony",
+    "Augustus",
+    "Cleopatra",
+    "Spartacus",
+    "Virgil"
+  ],
+  "key": "/works/OL5188679W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL1157403A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "49 B.C.",
+    "Antiquity",
+    "Roman Republic 500-27 BC"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "identifiers": {
+    "wikidata": [
+      "Q1917079"
+    ],
+    "librarything": [
+      "8752"
+    ],
+    "goodreads": [
+      "87825"
+    ],
+    "musicbrainz": [
+      "56869c9b-bc81-477a-8b6b-5e57ad3e3fd1"
+    ],
+    "bookbrainz": [
+      "f006f4cd-472e-4182-a9b1-d332ad56a583"
+    ]
+  },
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T08:58:18.775422"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-17T15:51:42.821394"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Janet Julian",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Janet Julian</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q6153419",
+  "titles": {
+    "canonical": "Janet_Julian",
+    "normalized": "Janet Julian",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Janet Julian</span></span>"
+  },
+  "pageid": 2276597,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364078455",
+  "tid": "4a4e4186-7f6d-11f1-9a13-00694d05f45c",
+  "timestamp": "2026-07-14T10:18:00Z",
+  "description": "American actress",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Janet_Julian",
+      "revisions": "https://en.wikipedia.org/wiki/Janet_Julian?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Janet_Julian?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Janet_Julian"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Janet_Julian",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Janet_Julian",
+      "edit": "https://en.wikipedia.org/wiki/Janet_Julian?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Janet_Julian"
+    }
+  },
+  "extract": "Janet Lansbury is an American educator and former actress, credited as Janet Julian for much of her career.",
+  "extract_html": "<p><b>Janet Lansbury</b> is an American educator and former actress, credited as <b>Janet Julian</b> for much of her career.</p>"
+}

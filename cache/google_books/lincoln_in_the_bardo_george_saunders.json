@@ -1,0 +1,218 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xRVHDwAAQBAJ",
+      "etag": "8n3b0NpC+6Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xRVHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lincoln in the Bardo",
+        "subtitle": "A Novel",
+        "authors": [
+          "George Saunders"
+        ],
+        "publisher": "Random House Trade Paperbacks",
+        "publishedDate": "2018-02-06",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 WINNER OF THE MAN BOOKER PRIZE The \u201cdevastatingly moving\u201d (People) first novel from the author of Tenth of December: a moving and original father-son story featuring none other than Abraham Lincoln, as well as an unforgettable cast of supporting characters, living and dead, historical and invented One of The New York Times\u2019s 100 Best Books of the 21st Century \u2022 One of The Atlantic\u2019s Great American Novels of the Past 100 Years \u2022 One of Paste\u2019s Best Novels of the Decade Named One of the Ten Best Books of the Year by The Washington Post, USA Today, and Maureen Corrigan, NPR \u2022 One of Time\u2019s Ten Best Novels of the Year \u2022 A New York Times Notable Book \u2022 One of O: The Oprah Magazine\u2019s Best Books of the Year February 1862. The Civil War is less than one year old. The fighting has begun in earnest, and the nation has begun to realize it is in for a long, bloody struggle. Meanwhile, President Lincoln\u2019s beloved eleven-year-old son, Willie, lies upstairs in the White House, gravely ill. In a matter of days, despite predictions of a recovery, Willie dies and is laid to rest in a Georgetown cemetery. \u201cMy poor boy, he was too good for this earth,\u201d the president says at the time. \u201cGod has called him home.\u201d Newspapers report that a grief-stricken Lincoln returns, alone, to the crypt several times to hold his boy\u2019s body. From that seed of historical truth, George Saunders spins an unforgettable story of familial love and loss that breaks free of its realistic, historical framework into a supernatural realm both hilarious and terrifying. Willie Lincoln finds himself in a strange purgatory where ghosts mingle, gripe, commiserate, quarrel, and enact bizarre acts of penance. Within this transitional state\u2014called, in the Tibetan tradition, the bardo\u2014a monumental struggle erupts over young Willie\u2019s soul. Lincoln in the Bardo is an astonishing feat of imagination and a bold step forward from one of the most important and influential writers of his generation. Formally daring, generous in spirit, deeply concerned with matters of the heart, it is a testament to fiction\u2019s ability to speak honestly and powerfully to the things that really matter to us. Saunders has invented a thrilling new form that deploys a kaleidoscopic, theatrical panorama of voices to ask a timeless, profound question: How do we live and love when we know that everything we love must end? \u201cA luminous feat of generosity and humanism.\u201d\u2014Colson Whitehead, The New York Times Book Review \u201cA masterpiece.\u201d\u2014Zadie Smith",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812985405"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812985400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xRVHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xRVHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xRVHDwAAQBAJ&printsec=frontcover&dq=intitle:%22Lincoln+in+the+Bardo%22+inauthor:%22George+Saunders%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xRVHDwAAQBAJ&dq=intitle:%22Lincoln+in+the+Bardo%22+inauthor:%22George+Saunders%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lincoln_in_the_Bardo.html?hl=&id=xRVHDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xRVHDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Named One of the Ten Best Books of the Year by The Washington Post, USA Today, and Maureen Corrigan, NPR \u2022 One of Time\u2019s Ten Best Novels of the Year \u2022 One of O: The Oprah Magazine\u2019s Best Books of the Year"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMxR0AEACAAJ",
+      "etag": "vXZR4CY27WE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMxR0AEACAAJ",
+      "volumeInfo": {
+        "title": "Lincoln in the Bardo",
+        "authors": [
+          "George Saunders"
+        ],
+        "publishedDate": "2017",
+        "description": "Traces a night of solitary mourning and reflection as experienced by the sixteenth president after the death of his eleven-year-old son at the dawn of the Civil War.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1408896281"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408896280"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Grief"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EMxR0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EMxR0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EMxR0AEACAAJ&dq=intitle:%22Lincoln+in+the+Bardo%22+inauthor:%22George+Saunders%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EMxR0AEACAAJ&dq=intitle:%22Lincoln+in+the+Bardo%22+inauthor:%22George+Saunders%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lincoln_in_the_Bardo.html?hl=&id=EMxR0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMxR0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Traces a night of solitary mourning and reflection as experienced by the sixteenth president after the death of his eleven-year-old son at the dawn of the Civil War."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "phl90AEACAAJ",
+      "etag": "ny55ZFa1lIQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/phl90AEACAAJ",
+      "volumeInfo": {
+        "title": "Brother",
+        "authors": [
+          "David Chariandy"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1408897253"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408897256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=phl90AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=phl90AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=phl90AEACAAJ&dq=intitle:%22Lincoln+in+the+Bardo%22+inauthor:%22George+Saunders%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=phl90AEACAAJ&dq=intitle:%22Lincoln+in+the+Bardo%22+inauthor:%22George+Saunders%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brother.html?hl=&id=phl90AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=phl90AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

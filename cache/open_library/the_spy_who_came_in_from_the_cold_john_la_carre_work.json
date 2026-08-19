@@ -1,0 +1,127 @@
+{
+  "description": "*The Spy Who Came in from the Cold* is a 1963 Cold War spy novel by the British author John le Carr\u00e9. It depicts Alec Leamas, a British intelligence officer, being sent to East Germany as a faux defector to sow disinformation about a powerful East German intelligence officer. It serves as a sequel to le Carr\u00e9's previous novels *Call for the Dead* and *A Murder of Quality,* which also featured the fictitious British intelligence organisation, \"The Circus\", and its agents George Smiley and Peter Guillam.",
+  "title": "The Spy Who Came in from the Cold",
+  "covers": [
+    7013626,
+    13276583,
+    8356628,
+    11318371,
+    13971719,
+    13971718,
+    203923,
+    12818205,
+    9022775,
+    10418777,
+    10579431,
+    14599724,
+    13902241,
+    13537188,
+    10582324,
+    11958142,
+    12135131,
+    12509767,
+    12908564,
+    8636997,
+    8764986,
+    10092747,
+    12930247
+  ],
+  "subject_places": [
+    "Great Britain",
+    "Berlin (Germany)",
+    "Ying guo",
+    "England",
+    "Angleterre",
+    "Germany",
+    "Berlin",
+    "Berl\u00edn (Alemania)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Cold War",
+    "Intelligence officers",
+    "Intelligence service",
+    "English Spy stories",
+    "Spies",
+    "George Smiley (Fictitious character)",
+    "Cold War (1945-1989) fast (OCoLC)fst01754978",
+    "Spy stories",
+    "Smiley, george (fictitious character), fiction",
+    "Fiction, thrillers, espionage",
+    "Large type books",
+    "Literature and fiction, mystery and suspense",
+    "Library finance",
+    "Periodicals",
+    "English literature",
+    "Fiction, espionage",
+    "Fiction, thrillers",
+    "England, fiction",
+    "English language",
+    "Tui li xiao shuo",
+    "Chang pian xiao shuo",
+    "Ying guo wen xue",
+    "Xiao shuo",
+    "Officiers de renseignements",
+    "Romans, nouvelles",
+    "Guerre froide",
+    "Gro\u00dfbritannien Secret Service",
+    "Gro\u00dfbritannien",
+    "Spionageabwehr",
+    "Cuentos de esp\u00edas",
+    "Guerra fr\u00eda",
+    "Ficci\u00f3n",
+    "Espionaje",
+    "Smiley, george",
+    "Smiley, george (fictitious character)",
+    "Smiley, george (fictitious character)--fiction",
+    "Intelligence officers--england--fiction",
+    "Cold war--fiction",
+    "Pr6062.e33 s69 2013",
+    "823/.914",
+    "English fiction"
+  ],
+  "subject_people": [
+    "George Smiley (Fictitious character)"
+  ],
+  "key": "/works/OL15723140W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2101074A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "1960s",
+    "Xian dai ."
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "identifiers": {
+    "librarything": [
+      "4819"
+    ],
+    "wikidata": [
+      "Q468071"
+    ]
+  },
+  "first_publish_date": "1964",
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The American handed Leamas another cup of coffee and said, \"Why don't you go back and sleep?"
+  },
+  "latest_revision": 25,
+  "revision": 25,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-05-04T04:58:07.888110"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-11-12T14:35:32.270224"
+  }
+}

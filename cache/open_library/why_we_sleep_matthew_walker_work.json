@@ -1,0 +1,115 @@
+{
+  "description": "With two appearances on CBS This Morning and Fresh Air's most popular interview of 2017, Matthew Walker has made abundantly clear that sleep is one of the most important but least understood aspects of our life. Until very recently, science had no answer to the question of why we sleep, or what good it served, or why we suffer such devastating health consequences when it is absent. Compared to the other basic drives in life\u2014eating, drinking, and reproducing\u2014the purpose of sleep remains more elusive.\r\n\r\nWithin the brain, sleep enriches a diversity of functions, including our ability to learn, memorize, and make logical decisions. It recalibrates our emotions, restocks our immune system, fine-tunes our metabolism, and regulates our appetite. Dreaming creates a virtual reality space in which the brain melds past and present knowledge, inspiring creativity.\r\n\r\nIn this \u201ccompelling and utterly convincing\u201d (The Sunday Times) book, preeminent neuroscientist and sleep expert Matthew Walker provides a revolutionary exploration of sleep, examining how it affects every aspect of our physical and mental well-being. Charting the most cutting-edge scientific breakthroughs, and marshalling his decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood and energy levels, regulate hormones, prevent cancer, Alzheimer\u2019s and diabetes, slow the effects of aging, and increase longevity. He also provides actionable steps towards getting a better night\u2019s sleep every night.",
+  "links": [
+    {
+      "title": "sleepdiplomat.com/author",
+      "url": "https://www.sleepdiplomat.com/author",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "VIAF ID: 110154387264630970003 (Work)",
+      "url": "http://viaf.org/viaf/110154387264630970003",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Why We Sleep by Matthew Walker review \u2013 how more sleep can save your life",
+      "url": "https://www.theguardian.com/books/2017/sep/21/why-we-sleep-by-matthew-walker-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "'Sleep should be prescribed': what those late nights out could be costing you",
+      "url": "https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Everything you need to know about sleep, but are too tired to ask",
+      "url": "https://news.berkeley.edu/2017/10/17/whywesleep/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Sleep expert Matthew Walker on the secret to a good night's rest",
+      "url": "https://www.ft.com/content/e6ccdcac-133d-11e9-a581-4ff78404524e",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Why We Sleep",
+  "covers": [
+    8814155,
+    10308777,
+    10500928,
+    12219358
+  ],
+  "subjects": [
+    "sleep",
+    "health & fitness",
+    "sleep & sleep disorders",
+    "science",
+    "life sciences",
+    "Human Anatomy & Physiology",
+    "psychology",
+    "mental health",
+    "Sleep, psychological aspects",
+    "Dreams",
+    "nyt:science=2017-11-12",
+    "New York Times bestseller",
+    "Physiological aspects",
+    "Physiology",
+    "Health and Wellbeing"
+  ],
+  "subject_people": [
+    "Matthew P. Walker"
+  ],
+  "key": "/works/OL20168133W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL7147517A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7015462A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "Do you think you got enough sleep this past week?",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-10-05T15:23:10.111434"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-31T20:56:40.337000"
+  }
+}

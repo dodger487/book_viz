@@ -1,0 +1,229 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MSurBex2xcUC",
+      "etag": "hIOINolhnjc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MSurBex2xcUC",
+      "volumeInfo": {
+        "title": "The Remains of the Day",
+        "authors": [
+          "Kazuo Ishiguro"
+        ],
+        "publisher": "Faber & Faber",
+        "publishedDate": "2009-01-08",
+        "description": "*Kazuo Ishiguro's new novel Klara and the Sun is now available* WINNER OF THE BOOKER PRIZE A contemporary classic, The Remains of the Day is Kazuo Ishiguro's beautiful and haunting evocation of life between the wars in a Great English House. In the summer of 1956, Stevens, the ageing butler of Darlington Hall, embarks on a leisurely holiday that will take him deep into the countryside and into his past. 'A triumph . . . This wholly convincing portrait of a human life unweaving before your eyes is inventive and absorbing, by turns funny, absurd and ultimately very moving.' Sunday Times 'A dream of a book: a beguiling comedy of manners that evolves almost magically into a profound and heart-rending study of personality, class and culture.' New York TImes Book Review",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780571249350"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0571249353"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 281,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.30.27.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MSurBex2xcUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MSurBex2xcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MSurBex2xcUC&printsec=frontcover&dq=intitle:%22The+Remains+of+the+Day%22+inauthor:%22Kazuo+Ishiguro%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MSurBex2xcUC&dq=intitle:%22The+Remains+of+the+Day%22+inauthor:%22Kazuo+Ishiguro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Remains_of_the_Day.html?hl=&id=MSurBex2xcUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Remains_of_the_Day-sample-epub.acsm?id=MSurBex2xcUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Remains_of_the_Day-sample-pdf.acsm?id=MSurBex2xcUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MSurBex2xcUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "*Kazuo Ishiguro&#39;s new novel Klara and the Sun is now available* WINNER OF THE BOOKER PRIZE A contemporary classic, The Remains of the Day is Kazuo Ishiguro&#39;s beautiful and haunting evocation of life between the wars in a Great English House ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PwGNEAAAQBAJ",
+      "etag": "UwISepfueBs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PwGNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Remains of the Day",
+        "subtitle": "Introduction by Salman Rushdie",
+        "authors": [
+          "Kazuo Ishiguro"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2012-10-02",
+        "description": "From the Nobel Prize\u2013winning author, here is an elegant Everyman's Library hardcover edition of the universally acclaimed novel\u2014winner of the Booker Prize, a bestseller, and the basis for an award-winning film\u2014with full-cloth binding, a silk ribbon marker, a chronology, and an introduction by Salman Rushdie. Here is Kazuo Ishiguro's profoundly compelling portrait of Stevens, the perfect butler, and of his fading, insular world in post-World War II England. Stevens, at the end of three decades of service at Darlington Hall, spending a day on a country drive, embarks as well on a journey through the past in an effort to reassure himself that he has served humanity by serving the \"great gentleman,\" Lord Darlington. But lurking in his memory are doubts about the true nature of Lord Darlington's \"greatness,\" and much graver doubts about the nature of his own life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307961440"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307961443"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PwGNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PwGNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PwGNEAAAQBAJ&dq=intitle:%22The+Remains+of+the+Day%22+inauthor:%22Kazuo+Ishiguro%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PwGNEAAAQBAJ&dq=intitle:%22The+Remains+of+the+Day%22+inauthor:%22Kazuo+Ishiguro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Remains_of_the_Day.html?hl=&id=PwGNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PwGNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here is Kazuo Ishiguro&#39;s profoundly compelling portrait of Stevens, the perfect butler, and of his fading, insular world in post-World War II England."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PUXoAgAAQBAJ",
+      "etag": "Lurab1k5wWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PUXoAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Remains of the Day",
+        "subtitle": "A Novel",
+        "authors": [
+          "Kazuo Ishiguro"
+        ],
+        "publisher": "Vintage Canada",
+        "publishedDate": "2014-03-18",
+        "description": "Kazuo Ishiguro's Booker Prize-winning masterpiece became an international bestseller on publication, was adapted into an award-winning film, and has since come to be regarded as a modern classic. The Remains of the Day is a spellbinding portrayal of a vanished way of life and a haunting meditation on the high cost of duty. It is also one of the most subtle, sad and humorous love stories ever written. It is the summer of 1956, when Stevens, a man who has dedicated himself to his career as a perfect butler in the one-time great house of Darlington Hall, sets off on a holiday that will take him deep into the English countryside and, unexpectedly, into his own past, especially his friendship with the housekeeper, Miss Kenton. As memories surface of his lifetime \"in service\" to Lord Darlington, and of his life between the wars, when the fate of the continent seemed to lie in the hands of a few men, he finds himself confronting the dark undercurrent beneath the carefully run world of his employer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345809339"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345809335"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PUXoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PUXoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PUXoAgAAQBAJ&dq=intitle:%22The+Remains+of+the+Day%22+inauthor:%22Kazuo+Ishiguro%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PUXoAgAAQBAJ&dq=intitle:%22The+Remains+of+the+Day%22+inauthor:%22Kazuo+Ishiguro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Remains_of_the_Day.html?hl=&id=PUXoAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PUXoAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kazuo Ishiguro&#39;s Booker Prize-winning masterpiece became an international bestseller on publication, was adapted into an award-winning film, and has since come to be regarded as a modern classic."
+      }
+    }
+  ]
+}

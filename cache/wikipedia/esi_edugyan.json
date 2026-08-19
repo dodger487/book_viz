@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Esi Edugyan",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Esi Edugyan</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q542425",
+  "titles": {
+    "canonical": "Esi_Edugyan",
+    "normalized": "Esi Edugyan",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Esi Edugyan</span></span>"
+  },
+  "pageid": 33000626,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Esi_Edugyan_-_EMWF_2018_-_DanH-7118_%28cropped%29.jpg/330px-Esi_Edugyan_-_EMWF_2018_-_DanH-7118_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 472
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Esi_Edugyan_-_EMWF_2018_-_DanH-7118_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1332,
+    "height": 1905
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1340228181",
+  "tid": "9dc71baf-1197-11f1-a555-5d350457aad0",
+  "timestamp": "2026-02-24T15:43:51Z",
+  "description": "Canadian novelist (born 1978)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Esi_Edugyan",
+      "revisions": "https://en.wikipedia.org/wiki/Esi_Edugyan?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Esi_Edugyan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Esi_Edugyan"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Esi_Edugyan",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Esi_Edugyan",
+      "edit": "https://en.wikipedia.org/wiki/Esi_Edugyan?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Esi_Edugyan"
+    }
+  },
+  "extract": "Esi Edugyan is a Canadian novelist. She has twice won the Giller Prize, for her novels Half-Blood Blues (2011) and Washington Black (2018).",
+  "extract_html": "<p><b>Esi Edugyan</b> is a Canadian novelist. She has twice won the Giller Prize, for her novels <i>Half-Blood Blues</i> (2011) and <i>Washington Black</i> (2018).</p>"
+}

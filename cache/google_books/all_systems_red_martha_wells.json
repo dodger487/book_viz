@@ -1,0 +1,251 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZSu2DQAAQBAJ",
+      "etag": "lpK/D8/+66Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZSu2DQAAQBAJ",
+      "volumeInfo": {
+        "title": "All Systems Red",
+        "subtitle": "The Murderbot Diaries",
+        "authors": [
+          "Martha Wells"
+        ],
+        "publisher": "Tordotcom",
+        "publishedDate": "2017-05-02",
+        "description": "Winner of the Hugo, Nebula, and Locus Award for Best Novella Winner of the Alex Award A New York Times and USA Today Bestseller Now an Apple Original series from Academy Award nominees Paul Weitz and Chris Weitz and starring Emmy Award winner Alexander Skarsg\u00e5rd. A murderous android discovers itself in All Systems Red, a tense science fiction adventure by Martha Wells that interrogates the roots of consciousness through Artificial Intelligence. \u201cAs a heartless killing machine, I was a complete failure.\u201d In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn\u2019t a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied \u2018droid\u2014a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as \u201cMurderbot.\u201d Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth. The Murderbot Diaries All Systems Red Artificial Condition Rogue Protocol Exit Strategy Network Effect Fugitive Telemetry System Collapse At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765397522"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0765397528"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.16.20.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZSu2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZSu2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZSu2DQAAQBAJ&printsec=frontcover&dq=intitle:%22All+Systems+Red%22+inauthor:%22Martha+Wells%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZSu2DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZSu2DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZSu2DQAAQBAJ&rdid=book-ZSu2DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZSu2DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A murderous android discovers itself in All Systems Red, a tense science fiction adventure by Martha Wells that interrogates the roots of consciousness through Artificial Intelligence. \u201cAs a heartless killing machine, I was a complete ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nY8hEQAAQBAJ",
+      "etag": "vXRgcfwstME",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nY8hEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Murderbot Diaries Vol. 1",
+        "subtitle": "All Systems Red, Artificial Condition",
+        "authors": [
+          "Martha Wells"
+        ],
+        "publisher": "Tordotcom",
+        "publishedDate": "2025-01-07",
+        "description": "The Murderbot Diaries vol 1 contains part 1-2 of The Murderbot Diaries; All Systems Red (1) and Artificial Condition (2).[Bokinfo].",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250389824"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250389828"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nY8hEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nY8hEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nY8hEQAAQBAJ&dq=intitle:%22All+Systems+Red%22+inauthor:%22Martha+Wells%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nY8hEQAAQBAJ&dq=intitle:%22All+Systems+Red%22+inauthor:%22Martha+Wells%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murderbot_Diaries_Vol_1.html?hl=&id=nY8hEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nY8hEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book contains &quot;All systems red&quot; and &quot;Artificial condition&quot;. Sci-Fi&#39;s favorite antisocial AI is ready for a mission."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x1FXzQEACAAJ",
+      "etag": "XnZjfc2bTok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x1FXzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Murderbot Diaries",
+        "authors": [
+          "Martha Wells"
+        ],
+        "publisher": "Tor.com",
+        "publishedDate": "2020-09-22",
+        "description": "\"We are all a little bit Murderbot.\" - NPR on Martha Wells's The Murderbot Diaries...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1250784271"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250784278"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x1FXzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x1FXzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x1FXzQEACAAJ&dq=intitle:%22All+Systems+Red%22+inauthor:%22Martha+Wells%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x1FXzQEACAAJ&dq=intitle:%22All+Systems+Red%22+inauthor:%22Martha+Wells%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Murderbot_Diaries.html?hl=&id=x1FXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x1FXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here begins the award-winning and instantly beloved series The Murderbot Diaries, in which Murderbot investigates its own past and present, and ultimately rises to meet a threat to its former owner--and possibly friend--Dr. Mensah."
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 300,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TShokNWOGy8C",
+      "etag": "+eTcJufkW2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TShokNWOGy8C",
+      "volumeInfo": {
+        "title": "The House of God",
+        "authors": [
+          "Samuel Shem"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2010-09-07",
+        "description": "By turns heartbreaking, hilarious, and utterly human, The House of God is a mesmerizing and provocative novel about what it really takes to become a doctor. \u201cThe raunchy, troubling, and hilarious novel that turned into a cult phenomenon. Singularly compelling\u2026brutally honest.\u201d\u2014The New York Times Struggling with grueling hours and sudden life-and-death responsibilities, Basch and his colleagues, under the leadership of their rule-breaking senior resident known only as the Fat Man, must learn not only how to be fine doctors but, eventually, good human beings. A phenomenon ever since it was published, The House of God was the first unvarnished, unglorified, and uncensored portrait of what training to become a doctor is truly like, in all its terror, exhaustion and black comedy. With more than two million copies sold worldwide, it has been hailed as one of the most important medical novels ever written. With an introduction by John Updike",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101460887"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101460881"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TShokNWOGy8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TShokNWOGy8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TShokNWOGy8C&printsec=frontcover&dq=intitle:%22The+House+of+God%22+inauthor:%22Samuel+Shem%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TShokNWOGy8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TShokNWOGy8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 13.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TShokNWOGy8C&rdid=book-TShokNWOGy8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_House_of_God-sample-epub.acsm?id=TShokNWOGy8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TShokNWOGy8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By turns heartbreaking, hilarious, and utterly human, The House of God is a mesmerizing and provocative novel about what it really takes to become a doctor. \u201cThe raunchy, troubling, and hilarious novel that turned into a cult phenomenon."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AUpLAQAACAAJ",
+      "etag": "7nm/w02HTwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AUpLAQAACAAJ",
+      "volumeInfo": {
+        "title": "The House of God",
+        "subtitle": "A Novel",
+        "authors": [
+          "Samuel Shem"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0440133688"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780440133681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Interns (Medicine)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AUpLAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AUpLAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AUpLAQAACAAJ&dq=intitle:%22The+House+of+God%22+inauthor:%22Samuel+Shem%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AUpLAQAACAAJ&dq=intitle:%22The+House+of+God%22+inauthor:%22Samuel+Shem%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_House_of_God.html?hl=&id=AUpLAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AUpLAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_ZQAoQEACAAJ",
+      "etag": "u5GToViDG9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_ZQAoQEACAAJ",
+      "volumeInfo": {
+        "title": "The House of God",
+        "authors": [
+          "Samuel Shem",
+          "John Updike"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:441133546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_ZQAoQEACAAJ&dq=intitle:%22The+House+of+God%22+inauthor:%22Samuel+Shem%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_ZQAoQEACAAJ&dq=intitle:%22The+House+of+God%22+inauthor:%22Samuel+Shem%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_House_of_God.html?hl=&id=_ZQAoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_ZQAoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "description": "Childhood's End is a 1953 science fiction novel by British author Arthur C. Clarke. The story follows the peaceful alien invasion of Earth by the mysterious Overlords, whose arrival ends all war, helps form a world government, and turns the planet into a near-utopia. Many questions are asked about the origins and mission of the aliens, but they avoid answering, preferring to remain in their ships, governing through indirect rule. Decades later, the Overlords eventually show themselves, and their impact on human culture leads to a Golden Age. However, the last generation of children on Earth begin to display powerful psychic abilities, heralding their evolution into a group mind, a transcendent form of life.",
+  "title": "Childhood\u2019s End",
+  "covers": [
+    210200,
+    4524228,
+    380044,
+    6906029,
+    8435549,
+    8540395,
+    8709062,
+    8709129,
+    8709201,
+    8709238,
+    8709248,
+    8709257,
+    8709260,
+    10306378,
+    10648650,
+    10902535,
+    1047596,
+    982244,
+    8600486,
+    8709244,
+    14119888,
+    8356146,
+    14919555,
+    15001032
+  ],
+  "first_publish_date": "1953",
+  "subject_people": [
+    "Rikki Stormgren",
+    "Karellen",
+    "George Greggson",
+    "Jan Rodricks"
+  ],
+  "key": "/works/OL17415W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2623461A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "823/.914"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Human-alien encounters",
+    "Fiction",
+    "Science fiction",
+    "Long Now Manual for Civilization",
+    "Human evolution",
+    "Fiction, science fiction, general",
+    "Human-Alien encounter",
+    "Reading Level-Grade 7",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 8",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "English Science fiction",
+    "Extraterrestrial beings"
+  ],
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Childhood%27s_End",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "inventaire.io",
+      "url": "https://inventaire.io/entity/wd:Q466057",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "identifiers": {
+    "wikidata": [
+      "Q466057"
+    ],
+    "bookbrainz": [
+      "2fa399b6-9ca0-4be9-846f-2c170db59a05"
+    ],
+    "musicbrainz": [
+      "1c2a51d1-a691-489a-858c-a2dc4c98360f"
+    ],
+    "librarything": [
+      "3362"
+    ],
+    "goodreads": [
+      "209414"
+    ],
+    "isfdb": [
+      "2248"
+    ]
+  },
+  "latest_revision": 26,
+  "revision": 26,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-08T18:30:11.514899"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-03T17:05:59.455948"
+  }
+}

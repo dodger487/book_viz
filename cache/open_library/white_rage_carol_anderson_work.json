@@ -1,0 +1,133 @@
+{
+  "subjects": [
+    "African Americans",
+    "White backlash",
+    "white identity politics",
+    "Washington Post",
+    "nonfiction",
+    "Equality",
+    "United states, race relations",
+    "Whites, history",
+    "Opposition (political science)",
+    "Racism",
+    "African americans, politics and government",
+    "African americans, social conditions",
+    "African americans, civil rights",
+    "History",
+    "Discrimination",
+    "State & Provincial",
+    "Attitudes",
+    "POLITICAL SCIENCE",
+    "Politics and government",
+    "Race relations",
+    "SOCIAL SCIENCE",
+    "Government",
+    "Whites",
+    "Civil rights",
+    "History & Theory",
+    "General",
+    "Social conditions",
+    "LAW",
+    "Discrimination & Race Relations",
+    "National",
+    "United states, history",
+    "nyt:race-and-civil-rights=2016-08-07",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "Opposition (Political science)",
+    "HISTORY / United States / General",
+    "SOCIAL SCIENCE / Discrimination & Race Relations",
+    "LAW / Discrimination",
+    "POLITICAL SCIENCE / Government / National",
+    "POLITICAL SCIENCE / Government / State & Provincial",
+    "POLITICAL SCIENCE / History & Theory"
+  ],
+  "key": "/works/OL20827669W",
+  "title": "White Rage",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6468921A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12564126,
+    10132009,
+    8434266
+  ],
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2016/06/26/books/review/white-rage-by-carol-anderson.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "professorcarolanderson.org/white-rage",
+      "url": "https://www.professorcarolanderson.org/white-rage",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "White Rage - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_Rage",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "White Rage: The Unspoken Truth of Our Racial Divide youtube.com/watch?v=6WVX_Nw9I4w",
+      "url": "https://www.youtube.com/watch?v=6WVX_Nw9I4w",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "Emory University",
+    "Ferguson",
+    "Missouri",
+    "United States"
+  ],
+  "subject_people": [
+    "Carol Anderson",
+    "African Americans",
+    "Michael Brown"
+  ],
+  "subject_times": [
+    "2014",
+    "1865",
+    "1954",
+    "1964",
+    "1965"
+  ],
+  "description": "White Rage: The Unspoken Truth of Our Racial Divide is a 2016 nonfiction book by Emory University professor Carol Anderson. Anderson was contracted to write the book following the reaction to an op-ed she wrote for The Washington Post in 2014.\r\n\r\nWhite Rage became a New York Times Best Seller, and was listed as a notable book of 2016 by The New York Times, The Washington Post, The Boston Globe, and the Chicago Review of Books. White Rage was also listed by The New York Times as an Editors' Choice, and won the 2016 National Book Critics Circle Award for Criticism.",
+  "excerpts": [
+    {
+      "excerpt": "Although I first wrote about \"white rage\" in a Washington Post op-ed following the killing of Michael Brown and the subsequent uprising in Ferguson, Missouri, the concept started to germinate much earlier.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-06-04T20:26:07.524049"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-18T21:54:08.499487"
+  }
+}

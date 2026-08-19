@@ -1,0 +1,83 @@
+{
+  "kind": "books#volume",
+  "id": "p01LDwAAQBAJ",
+  "etag": "ki0b/fqrbFk",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/p01LDwAAQBAJ",
+  "volumeInfo": {
+    "title": "Binti",
+    "authors": [
+      "Nnedi Okorafor"
+    ],
+    "publisher": "Tor Publishing Group",
+    "publishedDate": "2015-09-22",
+    "description": "<p><b>Nnedi Okorafor's <i>Binti </i>is the winner of the Hugo Award and the Nebula Award for Best Novella!<br></b><br>Her name is Binti, and she is the first of the Himba people ever to be offered a place at Oomza University, the finest institution of higher learning in the galaxy. But to accept the offer will mean giving up her place in her family to travel between the stars among strangers who do not share her ways or respect her customs.<br><br>Knowledge comes at a cost, one that Binti is willing to pay, but her journey will not be easy. The world she seeks to enter has long warred with the Meduse, an alien race that has become the stuff of nightmares. Oomza University has wronged the Meduse, and Binti's stellar travel will bring her within their deadly reach.<br><br>If Binti hopes to survive the legacy of a war not of her making, she will need both the gifts of her people and the wisdom enshrined within the University, itself \u2014 but first she has to make it there, alive.<br><br><b>The Binti Series</b><br>Book 1: <i>Binti<br></i>Book 2: <i>Binti: Home</i><br>Book 3: <i>Binti: The Night Masquerade</i><br><br>PRAISE FOR <i>BINTI</i><br><br>\"Binti is a supreme read about a sexy, edgy Afropolitan in space! It's a wondrous combination of extra-terrestrial adventure and age-old African diplomacy. Unforgettable!\" \u2014 Wanuri Kahiu, award-winning Kenyan film director of <i>Punzi</i> and <i>From a Whisper</i></p>",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0765385252"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780765385253"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 90,
+    "printedPageCount": 96,
+    "dimensions": {
+      "height": "21.00 cm",
+      "width": "12.70 cm",
+      "thickness": "0.70 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Science Fiction / General",
+      "Fiction / Science Fiction / Action & Adventure",
+      "Fiction / Science Fiction / Space Opera",
+      "Fiction / Science Fiction / Alien Contact"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=p01LDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70Uzfb0vJiEGMoxSuutVBDRe0lmIU9BDbLkZHApaPJ92iEzc828j8LZr4meMX_mM3BtR8UsG2XIwTvzn2t3qlrTJ9tSifS4B6dOCV93e9-FwKV1iveLCb_OJ-5WyF0XUVM-v8Ve&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=p01LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72vto9Cj_7kFt4KhUyXs-8StKxyQZhvepgvLvxOTXbPwZMScfY3cAnUe3qXB5Wm7Snnak1UR_8SdObXoWrpFE5_dtknL8LjoTWpSfYIj9Say9-HYRAd0HZkPYhn50bp4pBVWX01&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=p01LDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72w7Mdjwoq6ykoXmTsWvSVe4pXkK7hGWkh6yUpaXHUmgiNYedgsayq4PoMZW9J0xQuOG4dmJHjo-a82PCx0d67Zpr8HwNfzw_VgRI2tPsNVdR4zdsmJr5T-VTKOKQPI559j9Gc7&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=p01LDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73vlSB5Wget3OSvzSUvg-ngPMNgvsyPezya3OCK0gA2y5slnxv4YMMNYVelUYRF0cFTQtL5-6M5iT_RwyZyUGzJ_v_i-DNhhLxtcA1Du4iuUEtdd2h4kRMq92jis-uO2Bcy0IO3&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=p01LDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73yaPihxNiSvc0dgy_qVaaEXUkY2FVuj6IaVw044RP4CHcbNgmqFdzRSFBPpnBb6JPOkZzAFzZmm2uMIjtPLtW9P34ANoDyirMQYnJbh6kRE-jJdPr0nvz3JjE_RdK8u-FFTLhd&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=p01LDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73R49s7PtwRMhKMqXMql6vrpWzXJNlXMIa5MJ1HRgmuz0U7ISo8MecY0NFB0tE1UAponsGTLSeAunN6TBtJEtJeuDKqTRZcpVj1_ufCasipdQKKmvUj2I_0TuUHPW6VuzW3ClhS&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=p01LDwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=p01LDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p01LDwAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p01LDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
