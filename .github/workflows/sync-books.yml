@@ -7,10 +7,15 @@ name: Sync new books
 # already cached) for all 4 provider/text-variant combinations the site
 # ships, and rebuilds the plot, then commits the result.
 #
-# This workflow itself only commits to `main` -- it never deploys.
-# .github/workflows/deploy-pages.yml triggers separately on every push
-# to main (including this workflow's commits) and republishes the site
-# via GitHub Pages.
+# This workflow itself only commits to `main` -- deploying is
+# .github/workflows/deploy-pages.yml's job. That workflow triggers on
+# `push: branches: [main]`, but GitHub deliberately does NOT fire other
+# workflows' push triggers for a push made with a workflow's own
+# built-in GITHUB_TOKEN (anti-recursion safeguard) -- so this workflow's
+# own commits would silently never deploy without the explicit
+# `gh workflow run deploy-pages.yml` below. Invoking it via the API like
+# this is a different code path (workflow_dispatch) that isn't subject
+# to that restriction.
 
 on:
   schedule:
@@ -26,6 +31,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write # needed to trigger deploy-pages.yml, see note above
 
 jobs:
   sync:
@@ -97,3 +103,9 @@ jobs:
                   cache/ output/
           git commit -m "Sync new books from reading list"
           git push
+
+      - name: Trigger the Pages deploy
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --repo "${{ github.repository }}"
