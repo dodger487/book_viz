@@ -14,7 +14,7 @@ name: Sync new books
 
 on:
   schedule:
-    - cron: "0 13 * * 1" # every Monday, 13:00 UTC
+    - cron: "0 * * * *" # every hour, on the hour
   workflow_dispatch: {}
 
 # Only one sync should ever be mutating data/books.csv and pushing at a

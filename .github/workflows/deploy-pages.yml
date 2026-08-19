@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 # Publishes output/ (the pre-built plot -- see scripts/05_visualize.py)
 # to GitHub Pages on every push to main. Unlike the old Netlify setup,
 # Pages deploys aren't metered/credited, so there's no need to throttle
-# this -- it can just run on every push, including the weekly book-sync
+# this -- it can just run on every push, including the hourly book-sync
 # workflow's commits.
 
 on:
