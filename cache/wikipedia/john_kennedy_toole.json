@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "John Kennedy Toole",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Kennedy Toole</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313739",
+  "titles": {
+    "canonical": "John_Kennedy_Toole",
+    "normalized": "John Kennedy Toole",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Kennedy Toole</span></span>"
+  },
+  "pageid": 102405,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1954_Yearbook_photo_of_John_Kennedy_Toole.jpg/330px-1954_Yearbook_photo_of_John_Kennedy_Toole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 451
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/1954_Yearbook_photo_of_John_Kennedy_Toole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 419,
+    "height": 573
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368146881",
+  "tid": "be5ec6a9-9235-11f1-9f83-c645a394b913",
+  "timestamp": "2026-08-07T07:58:15Z",
+  "description": "American novelist (1937\u20131969)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/John_Kennedy_Toole",
+      "revisions": "https://en.wikipedia.org/wiki/John_Kennedy_Toole?action=history",
+      "edit": "https://en.wikipedia.org/wiki/John_Kennedy_Toole?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Kennedy_Toole"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/John_Kennedy_Toole",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/John_Kennedy_Toole",
+      "edit": "https://en.wikipedia.org/wiki/John_Kennedy_Toole?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:John_Kennedy_Toole"
+    }
+  },
+  "extract": "John Kennedy Toole was an American novelist from New Orleans, Louisiana, whose posthumously published novel, A Confederacy of Dunces, won the Pulitzer Prize for Fiction in 1981. At 16 in 1954, he wrote his first novel, The Neon Bible, which he shelved in the same year, not finding a willing publisher; he later dismissed it as \"adolescent\". Toole was a successful and popular professor, first at University of Southwestern Louisiana, then Hunter College, and finally St. Mary's Dominican College in New Orleans. Having persuaded Simon & Schuster \nto accept A Confederacy of Dunces, he was unable to resolve editorial disputes. Due in part to the novel's failure, he suffered from paranoia and depression, dying by suicide at the age of 31.",
+  "extract_html": "<p><b>John Kennedy Toole</b> was an American novelist from New Orleans, Louisiana, whose posthumously published novel, <i>A Confederacy of Dunces</i>, won the Pulitzer Prize for Fiction in 1981. At 16 in 1954, he wrote his first novel, <i>The Neon Bible</i>, which he shelved in the same year, not finding a willing publisher; he later dismissed it as \"adolescent\". Toole was a successful and popular professor, first at University of Southwestern Louisiana, then Hunter College, and finally St. Mary's Dominican College in New Orleans. Having persuaded Simon &amp; Schuster \nto accept <i>A Confederacy of Dunces</i>, he was unable to resolve editorial disputes. Due in part to the novel's failure, he suffered from paranoia and depression, dying by suicide at the age of 31.</p>"
+}

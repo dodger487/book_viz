@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Stephen Covey",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Stephen Covey</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313482",
+  "titles": {
+    "canonical": "Stephen_Covey",
+    "normalized": "Stephen Covey",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Stephen Covey</span></span>"
+  },
+  "pageid": 240017,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Stephen_Covey_174-CD-L05-03-02A-002_%28cropped%29.jpg/330px-Stephen_Covey_174-CD-L05-03-02A-002_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Stephen_Covey_174-CD-L05-03-02A-002_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 506,
+    "height": 674
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1356429101",
+  "tid": "797a10a2-59f8-11f1-aba6-ae1f45a086ac",
+  "timestamp": "2026-05-27T18:18:35Z",
+  "description": "American educator, author, businessman and motivational speaker",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Stephen_Covey",
+      "revisions": "https://en.wikipedia.org/wiki/Stephen_Covey?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Stephen_Covey?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Stephen_Covey"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Stephen_Covey",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Stephen_Covey",
+      "edit": "https://en.wikipedia.org/wiki/Stephen_Covey?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Stephen_Covey"
+    }
+  },
+  "extract": "Stephen Richards Covey was an American educator, author, businessman, and speaker. His most popular book is The 7 Habits of Highly Effective People. His other books include First Things First, Principle-Centered Leadership, The 7 Habits of Highly Effective Families, The 8th Habit, and The Leader In Me: How Schools and Parents Around the World Are Inspiring Greatness, One Child at a Time. In 1996, Time magazine named him one of the 25 most influential people. He was a professor at the Jon M. Huntsman School of Business at Utah State University (USU) at the time of his death.",
+  "extract_html": "<p><b>Stephen Richards Covey</b> was an American educator, author, businessman, and speaker. His most popular book is <i><span><span class=\"nowrap\">The 7 Habits</span> of Highly Effective People</span></i>. His other books include <i>First Things First</i>, <i>Principle-Centered Leadership</i>, <i>The 7 Habits of Highly Effective Families</i>, <span class=\"nowrap\"><i>The 8th Habit</i></span>, and <i>The Leader In Me: How Schools and Parents Around the World Are Inspiring Greatness, One Child at a Time</i>. In 1996, <i>Time</i> magazine named him one of the 25 most influential people. He was a professor at the Jon M. Huntsman School of Business at Utah State University (USU) at the time of his death.</p>"
+}

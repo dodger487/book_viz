@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michael Bloomberg",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Bloomberg</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q607",
+  "titles": {
+    "canonical": "Michael_Bloomberg",
+    "normalized": "Michael Bloomberg",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michael Bloomberg</span></span>"
+  },
+  "pageid": 38828,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MichaelBloomberg-byPhilipRomano_%28cropped_2%29.jpg/330px-MichaelBloomberg-byPhilipRomano_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/MichaelBloomberg-byPhilipRomano_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3323,
+    "height": 4427
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368703959",
+  "tid": "7cee4820-94d9-11f1-ba83-114a34e1d569",
+  "timestamp": "2026-08-10T16:35:25Z",
+  "description": "American businessman and politician (born 1942)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Bloomberg",
+      "revisions": "https://en.wikipedia.org/wiki/Michael_Bloomberg?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Bloomberg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Bloomberg"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Michael_Bloomberg",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Michael_Bloomberg",
+      "edit": "https://en.wikipedia.org/wiki/Michael_Bloomberg?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michael_Bloomberg"
+    }
+  },
+  "extract": "Michael Rubens Bloomberg is an American businessman and politician. He is the majority owner and co-founder of Bloomberg L.P., and was its CEO from 1981 to 2001, and again from 2014 to 2023. He served as the 109th mayor of New York City from 2002 to 2013. He was a lifelong Democrat until 2001, when he switched to the Republican Party to run for mayor, and later becoming an Independent in 2007. Bloomberg is the most recent mayor of New York City to serve as a Republican or Independent. In 2018, he rejoined the Democratic Party, after which he ran an unsuccessful campaign for the 2020 Democratic nomination for president of the United States. Bloomberg is a centibillionaire, worth $109.4 billion as of March 2026, making him the 18th richest person in the world.",
+  "extract_html": "<p><b>Michael Rubens Bloomberg</b> is an American businessman and politician. He is the majority owner and co-founder of Bloomberg L.P., and was its CEO from 1981 to 2001, and again from 2014 to 2023. He served as the 109th mayor of New York City from 2002 to 2013. He was a lifelong Democrat until 2001, when he switched to the Republican Party to run for mayor, and later becoming an Independent in 2007. Bloomberg is the most recent mayor of New York City to serve as a Republican or Independent. In 2018, he rejoined the Democratic Party, after which he ran an unsuccessful campaign for the 2020 Democratic nomination for president of the United States. Bloomberg is a centibillionaire, worth $109.4 billion as of March 2026, making him the 18th richest person in the world.</p>"
+}

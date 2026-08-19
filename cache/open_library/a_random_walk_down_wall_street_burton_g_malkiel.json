@@ -1,0 +1,101 @@
+{
+  "numFound": 10,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 10,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL240888A"
+      ],
+      "author_name": [
+        "Burton Gordon Malkiel"
+      ],
+      "cover_edition_key": "OL1276515M",
+      "cover_i": 246978,
+      "ebook_access": "printdisabled",
+      "edition_count": 25,
+      "first_publish_year": 1973,
+      "has_fulltext": true,
+      "ia": [
+        "randomwalkdownwa00malk_3",
+        "randomwalkdownwa0000malk",
+        "randomwalkdownwa00malk_2",
+        "randomwalkdownwa0000malk_n2b5",
+        "randomwalkdownwa00malk",
+        "randomwalkdownw100malk",
+        "randomwalkdownw000malk",
+        "isbn_9780393330335",
+        "randomwalkdownwa00malk_1",
+        "randomwalkdownwa0000malk_y6n1",
+        "randomwalkdownwa00malk_0",
+        "randomwalkdownwa0000malk_c2r5"
+      ],
+      "ia_collection": [
+        "americana",
+        "belmont-ol",
+        "binghamton-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "kalamazoocollege-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "unb-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wrlc-ol"
+      ],
+      "key": "/works/OL2000283W",
+      "language": [
+        "eng",
+        "chi"
+      ],
+      "public_scan_b": false,
+      "title": "A Random Walk Down Wall Street"
+    },
+    {
+      "author_key": [
+        "OL240888A"
+      ],
+      "author_name": [
+        "Burton Gordon Malkiel"
+      ],
+      "cover_edition_key": "OL7453696M",
+      "cover_i": 249923,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL8062007W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Random Walk Down Wall Street"
+    },
+    {
+      "author_key": [
+        "OL7557024A"
+      ],
+      "author_name": [
+        "Burton G. Malkiel"
+      ],
+      "cover_edition_key": "OL28616973M",
+      "cover_i": 10328035,
+      "ebook_access": "no_ebook",
+      "edition_count": 9,
+      "first_publish_year": 2003,
+      "has_fulltext": false,
+      "key": "/works/OL21139737W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Random Walk Down Wall Street"
+    }
+  ]
+}

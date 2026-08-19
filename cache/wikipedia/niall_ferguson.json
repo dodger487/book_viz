@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Niall Ferguson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Niall Ferguson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q377638",
+  "titles": {
+    "canonical": "Niall_Ferguson",
+    "normalized": "Niall Ferguson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Niall Ferguson</span></span>"
+  },
+  "pageid": 697242,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Niall_Ferguson_addresses_delegates_at_the_ARC_Forum%2C_30_October_2023.jpg/330px-Niall_Ferguson_addresses_delegates_at_the_ARC_Forum%2C_30_October_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 220
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Niall_Ferguson_addresses_delegates_at_the_ARC_Forum%2C_30_October_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3000,
+    "height": 2000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366276449",
+  "tid": "ba948ecf-896b-11f1-a795-3c1aa06b8a65",
+  "timestamp": "2026-07-27T03:32:01Z",
+  "description": "Scottish historian (born 1964)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Niall_Ferguson",
+      "revisions": "https://en.wikipedia.org/wiki/Niall_Ferguson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Niall_Ferguson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Niall_Ferguson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Niall_Ferguson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Niall_Ferguson",
+      "edit": "https://en.wikipedia.org/wiki/Niall_Ferguson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Niall_Ferguson"
+    }
+  },
+  "extract": "Sir Niall Campbell Ferguson is a British and American historian who is the Milbank Family Senior Fellow at the Hoover Institution and a senior fellow at the Belfer Center for Science and International Affairs at Harvard University. Previously, he was a professor at Harvard University, the London School of Economics, New York University, a visiting professor at the New College of the Humanities, and a senior research fellow at Jesus College, Oxford. He was a visiting lecturer at the London School of Economics for the 2023/2024 academic year and at Tsinghua University in China from 2019 to 2020.",
+  "extract_html": "<p><b>Sir Niall Campbell Ferguson</b> is a British and American historian who is the Milbank Family Senior Fellow at the Hoover Institution and a senior fellow at the Belfer Center for Science and International Affairs at Harvard University. Previously, he was a professor at Harvard University, the London School of Economics, New York University, a visiting professor at the New College of the Humanities, and a senior research fellow at Jesus College, Oxford. He was a visiting lecturer at the London School of Economics for the 2023/2024 academic year and at Tsinghua University in China from 2019 to 2020.</p>"
+}

@@ -1,0 +1,88 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL19430A"
+      ],
+      "author_name": [
+        "Neal Stephenson"
+      ],
+      "cover_edition_key": "OL24087232M",
+      "cover_i": 6304233,
+      "ebook_access": "borrowable",
+      "edition_count": 18,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9788466641135",
+        "anathem0000step_n3b0",
+        "anathem00step",
+        "anathem0000step_p4d2",
+        "anathem0000step"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "rochester-ol",
+        "schroederlibrary-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "tulsacc-ol",
+        "universityofarizona-ol",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL14911626W",
+      "language": [
+        "eng",
+        "tur",
+        "ger"
+      ],
+      "lending_edition_s": "OL26280310M",
+      "lending_identifier_s": "isbn_9788466641135",
+      "public_scan_b": false,
+      "title": "Anathem"
+    },
+    {
+      "author_key": [
+        "OL19430A"
+      ],
+      "author_name": [
+        "Neal Stephenson"
+      ],
+      "cover_edition_key": "OL62379300M",
+      "cover_i": 15242494,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL45837235W",
+      "language": [
+        "rum"
+      ],
+      "public_scan_b": false,
+      "title": "Anathem"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "The Brothers Karamazov",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL22242A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9271534A"
+      }
+    }
+  ],
+  "covers": [
+    11263774
+  ],
+  "key": "/works/OL24600223W",
+  "subjects": [
+    "Continental european fiction (fictional works by one author)",
+    "Fiction, psychological",
+    "Fathers and sons, fiction",
+    "Brothers, fiction",
+    "Fiction, family life, general"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-06-14T00:36:05.805070"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-09-27T10:28:59.633590"
+  }
+}

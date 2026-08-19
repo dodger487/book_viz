@@ -1,0 +1,99 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL30802A",
+        "OL2964716A"
+      ],
+      "author_name": [
+        "Octavia E. Butler",
+        "SparkNotes"
+      ],
+      "cover_edition_key": "OL24284992M",
+      "cover_i": 8745330,
+      "ebook_access": "printdisabled",
+      "edition_count": 29,
+      "first_publish_year": 1979,
+      "has_fulltext": true,
+      "ia": [
+        "kindred00butl",
+        "kindred00butl"
+      ],
+      "ia_collection": [
+        "365-Books-by-Women-Authors",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL35616W",
+      "language": [
+        "eng",
+        "ger",
+        "ita",
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "Kindred"
+    },
+    {
+      "author_key": [
+        "OL30802A",
+        "OL3761722A",
+        "OL126932A",
+        "OL8258386A"
+      ],
+      "author_name": [
+        "Octavia E. Butler",
+        "Damian Duffy",
+        "John Jennings",
+        "Mar\u00eda Barbado Mujica"
+      ],
+      "cover_edition_key": "OL26224646M",
+      "cover_i": 7899091,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2017,
+      "has_fulltext": true,
+      "ia": [
+        "kindredgraphicno0000duff"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17620025W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Graphic Novel Adaptation",
+      "title": "Kindred"
+    },
+    {
+      "author_key": [
+        "OL13535911A",
+        "OL7511248A"
+      ],
+      "author_name": [
+        "Octavia Butler",
+        "Tomi Adeyemi"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2024,
+      "has_fulltext": false,
+      "key": "/works/OL37620555W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Kindred"
+    }
+  ]
+}

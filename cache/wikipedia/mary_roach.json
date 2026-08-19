@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Mary Roach",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mary Roach</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q444136",
+  "titles": {
+    "canonical": "Mary_Roach",
+    "normalized": "Mary Roach",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mary Roach</span></span>"
+  },
+  "pageid": 3060060,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2025_Mary_Roach_at_the_Library_of_Congress_on_25_September_%28cropped%29.jpg/330px-2025_Mary_Roach_at_the_Library_of_Congress_on_25_September_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/2025_Mary_Roach_at_the_Library_of_Congress_on_25_September_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2477,
+    "height": 3304
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1358054799",
+  "tid": "c42924b7-617e-11f1-b3ff-d793d42269f2",
+  "timestamp": "2026-06-06T08:07:31Z",
+  "description": "American author (born 1959)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Mary_Roach",
+      "revisions": "https://en.wikipedia.org/wiki/Mary_Roach?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Mary_Roach?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Roach"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Mary_Roach",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Mary_Roach",
+      "edit": "https://en.wikipedia.org/wiki/Mary_Roach?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Roach"
+    }
+  },
+  "extract": "Mary Roach is an American author specializing in popular science and humor. She has published eight New York Times bestsellers: Stiff: The Curious Lives of Human Cadavers (2003), Spook: Science Tackles the Afterlife (2005), Bonk: The Curious Coupling of Science and Sex (2008), Packing for Mars: The Curious Science of Life in the Void (2010), Gulp: Adventures on the Alimentary Canal (2013), Grunt: The Curious Science of Humans at War (2016), Fuzz: When Nature Breaks the Law (2021), and Replaceable You: Adventures in Human Anatomy (2025).",
+  "extract_html": "<p><b>Mary Roach</b> is an American author specializing in popular science and humor. She has published eight <span><i>New York Times</i> bestsellers</span>: <i>Stiff: The Curious Lives of Human Cadavers</i> (2003), <i>Spook: Science Tackles the Afterlife</i> (2005), <i>Bonk: The Curious Coupling of Science and Sex</i> (2008), <i>Packing for Mars: The Curious Science of Life in the Void</i> (2010), <i>Gulp: Adventures on the Alimentary Canal</i> (2013), <i>Grunt: The Curious Science of Humans at War</i> (2016), <i>Fuzz: When Nature Breaks the Law</i> (2021), and <i>Replaceable You: Adventures in Human Anatomy</i> (2025).</p>"
+}

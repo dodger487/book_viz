@@ -1,0 +1,70 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3906694A"
+      ],
+      "author_name": [
+        "Ben H. Winters"
+      ],
+      "cover_edition_key": "OL25421635M",
+      "cover_i": 7249125,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2012,
+      "has_fulltext": false,
+      "key": "/works/OL16799662W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Novel",
+      "title": "The Last Policeman"
+    },
+    {
+      "author_key": [
+        "OL3906694A",
+        "OL7876206A"
+      ],
+      "author_name": [
+        "Ben H. Winters",
+        "Peter Berkrot"
+      ],
+      "cover_edition_key": "OL32070444M",
+      "cover_i": 10723905,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL24244285W",
+      "public_scan_b": false,
+      "title": "Last Policeman, The"
+    },
+    {
+      "author_key": [
+        "OL3906694A",
+        "OL7876206A"
+      ],
+      "author_name": [
+        "Ben H. Winters",
+        "Peter Berkrot"
+      ],
+      "cover_edition_key": "OL40214778M",
+      "cover_i": 13305233,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL29237991W",
+      "public_scan_b": false,
+      "title": "The Last Policeman"
+    }
+  ]
+}

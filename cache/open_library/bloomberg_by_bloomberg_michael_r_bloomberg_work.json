@@ -1,0 +1,50 @@
+{
+  "subjects": [
+    "Capitalists and financiers",
+    "Investments",
+    "Businesspeople, biography",
+    "Telecommunication",
+    "Mayors, biography",
+    "New york (n.y.), politics and government",
+    "Biography",
+    "Businessmen",
+    "Mayors",
+    "Politics and government",
+    "Investissements",
+    "Hommes d'affaires",
+    "Biographies",
+    "T\u00e9l\u00e9communications",
+    "Administration",
+    "BIOGRAPHY & AUTOBIOGRAPHY / General",
+    "BUSINESS & ECONOMICS / Industries / Media & Communications",
+    "TECHNOLOGY & ENGINEERING / Telecommunications"
+  ],
+  "key": "/works/OL20771770W",
+  "title": "Bloomberg by Bloomberg, Revised and Updated",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL5000714A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    9712900
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-05-18T19:39:03.526525"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-18T10:05:36.435553"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "numFound": 21,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 21,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL53305A"
+      ],
+      "author_name": [
+        "Neil Gaiman"
+      ],
+      "cover_edition_key": "OL3945760M",
+      "cover_i": 8494659,
+      "ebook_access": "printdisabled",
+      "edition_count": 72,
+      "first_publish_year": 2001,
+      "has_fulltext": true,
+      "ia": [
+        "americangods0000gaim",
+        "americangodsnove0000gaim",
+        "americangods0000gaim_c0t6",
+        "americangodsnove0000gaim_i6q1",
+        "americangodsnove0000gaim_s4p5",
+        "americangodsnove0000gaim_x2u0",
+        "americangodsnove00gaim",
+        "americangods0000gaim_j8c6",
+        "americangods0000gaim_v7w7",
+        "americangodsnove00gaim_0",
+        "americangodsnove00gaim_1",
+        "americangods0000gaim_g3x6"
+      ],
+      "ia_collection": [
+        "americana",
+        "claremont_school_of_theology",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL679360W",
+      "language": [
+        "eng",
+        "fre",
+        "por",
+        "cze",
+        "spa",
+        "chi",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "American Gods"
+    },
+    {
+      "author_key": [
+        "OL53305A"
+      ],
+      "author_name": [
+        "Neil Gaiman"
+      ],
+      "cover_edition_key": "OL27444483M",
+      "cover_i": 8904272,
+      "ebook_access": "borrowable",
+      "edition_count": 4,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "americangodsanan0000gaim_j2z3",
+        "americangodsanan0000gaim"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20078177W",
+      "lending_edition_s": "OL27258190M",
+      "lending_identifier_s": "americangodsanan0000gaim_j2z3",
+      "public_scan_b": false,
+      "title": "Novels (American Gods / Anansi Boys)"
+    },
+    {
+      "author_key": [
+        "OL53305A",
+        "OL282954A",
+        "OL1398733A",
+        "OL2864328A",
+        "OL1075218A",
+        "OL1520572A"
+      ],
+      "author_name": [
+        "Neil Gaiman",
+        "P. Craig Russell",
+        "Scott Hampton",
+        "Walt Simonson",
+        "Colleen Doran",
+        "Glenn Fabry"
+      ],
+      "cover_edition_key": "OL31949352M",
+      "cover_i": 10630506,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2021,
+      "has_fulltext": false,
+      "key": "/works/OL24196318W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "The Graphic Novel",
+      "title": "The Complete American Gods"
+    }
+  ]
+}

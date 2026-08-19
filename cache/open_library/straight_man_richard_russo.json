@@ -1,0 +1,78 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL544180A"
+      ],
+      "author_name": [
+        "Richard Russo"
+      ],
+      "cover_edition_key": "OL8889529M",
+      "cover_i": 979045,
+      "ebook_access": "printdisabled",
+      "edition_count": 14,
+      "first_publish_year": 1997,
+      "has_fulltext": true,
+      "ia": [
+        "straightman00russ",
+        "straightman00rich"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL3351632W",
+      "language": [
+        "eng",
+        "fre",
+        "tur"
+      ],
+      "public_scan_b": false,
+      "title": "Straight Man"
+    },
+    {
+      "author_key": [
+        "OL544180A"
+      ],
+      "author_name": [
+        "Richard Russo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL3351629W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Straight Man Poster"
+    },
+    {
+      "author_key": [
+        "OL544180A"
+      ],
+      "author_name": [
+        "Richard Russo"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL3351630W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Straight Man Reading Group Guide"
+    }
+  ]
+}

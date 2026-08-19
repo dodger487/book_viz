@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robert A. Heinlein",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert A. Heinlein</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q123078",
+  "titles": {
+    "canonical": "Robert_A._Heinlein",
+    "normalized": "Robert A. Heinlein",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert A. Heinlein</span></span>"
+  },
+  "pageid": 25389,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Robert_A._Heinlein_%28Doubleday_photo%29_%28retouched%29.jpg/330px-Robert_A._Heinlein_%28Doubleday_photo%29_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 459
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Robert_A._Heinlein_%28Doubleday_photo%29_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 775,
+    "height": 1077
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368956554",
+  "tid": "861f049b-95f2-11f1-9322-5158882ba28d",
+  "timestamp": "2026-08-12T02:07:09Z",
+  "description": "American author and engineer (1907\u20131988)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robert_A._Heinlein",
+      "revisions": "https://en.wikipedia.org/wiki/Robert_A._Heinlein?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robert_A._Heinlein?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_A._Heinlein"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Robert_A._Heinlein",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Robert_A._Heinlein",
+      "edit": "https://en.wikipedia.org/wiki/Robert_A._Heinlein?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_A._Heinlein"
+    }
+  },
+  "extract": "Robert Anson Heinlein was an American science fiction author, engineer, and naval officer. Sometimes called the \"dean of science fiction writers\", he was among the first to emphasize scientific accuracy in his fiction and was thus a pioneer of the subgenre of hard science fiction. His published works, both fiction and non-fiction, express admiration for competence and emphasize the value of critical thinking. His plots often presented provocative situations which challenged conventional social mores. His work continues to have an influence on the science fiction genre and on modern culture more generally.",
+  "extract_html": "<p><b>Robert Anson Heinlein</b> was an American science fiction author, engineer, and naval officer. Sometimes called the \"dean of science fiction writers\", he was among the first to emphasize scientific accuracy in his fiction and was thus a pioneer of the subgenre of hard science fiction. His published works, both fiction and non-fiction, express admiration for competence and emphasize the value of critical thinking. His plots often presented provocative situations which challenged conventional social mores. His work continues to have an influence on the science fiction genre and on modern culture more generally.</p>"
+}

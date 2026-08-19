@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Burton Malkiel",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Burton Malkiel</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1072872",
+  "titles": {
+    "canonical": "Burton_Malkiel",
+    "normalized": "Burton Malkiel",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Burton Malkiel</span></span>"
+  },
+  "pageid": 695839,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368806645",
+  "tid": "81514aeb-9547-11f1-9656-1ca219743ed1",
+  "timestamp": "2026-08-11T05:42:57Z",
+  "description": "American economist (born 1932)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Burton_Malkiel",
+      "revisions": "https://en.wikipedia.org/wiki/Burton_Malkiel?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Burton_Malkiel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Burton_Malkiel"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Burton_Malkiel",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Burton_Malkiel",
+      "edit": "https://en.wikipedia.org/wiki/Burton_Malkiel?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Burton_Malkiel"
+    }
+  },
+  "extract": "Burton Gordon Malkiel is an American economist, financial executive, and writer most noted for his classic finance book A Random Walk Down Wall Street.",
+  "extract_html": "<p><b>Burton Gordon Malkiel</b> is an American economist, financial executive, and writer most noted for his classic finance book <i>A Random Walk Down Wall Street</i>.</p>"
+}

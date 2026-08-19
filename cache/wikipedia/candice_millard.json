@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Candice Millard",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Candice Millard</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5031695",
+  "titles": {
+    "canonical": "Candice_Millard",
+    "normalized": "Candice Millard",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Candice Millard</span></span>"
+  },
+  "pageid": 32578001,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Candice_millard_9033350.jpg/330px-Candice_millard_9033350.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 465
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Candice_millard_9033350.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1419,
+    "height": 2001
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1334833829",
+  "tid": "410ff974-fa3d-11f0-87f3-0bd04a75f5f8",
+  "timestamp": "2026-01-25T22:29:04Z",
+  "description": "American journalist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Candice_Millard",
+      "revisions": "https://en.wikipedia.org/wiki/Candice_Millard?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Candice_Millard?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Candice_Millard"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Candice_Millard",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Candice_Millard",
+      "edit": "https://en.wikipedia.org/wiki/Candice_Millard?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Candice_Millard"
+    }
+  },
+  "extract": "Candice Sue Millard is an American writer and journalist. She is a former writer and editor for National Geographic and the author of four books: The River of Doubt, a history of the Roosevelt\u2013Rondon Scientific Expedition of the Amazon rainforest in 1913\u201314; Destiny of the Republic, about the life and assassination of United States President James A. Garfield; Hero of the Empire, about Winston Churchill's activities during the Boer War; and River of the Gods, about the search for the source of the Nile River.",
+  "extract_html": "<p><b>Candice Sue Millard</b> is an American writer and journalist. She is a former writer and editor for <i>National Geographic</i> and the author of four books: <i>The River of Doubt</i>, a history of the Roosevelt\u2013Rondon Scientific Expedition of the Amazon rainforest in 1913\u201314; <i>Destiny of the Republic</i>, about the life and assassination of United States President James A. Garfield; <i>Hero of the Empire</i>, about Winston Churchill's activities during the Boer War; and <i>River of the Gods</i>, about the search for the source of the Nile River.</p>"
+}

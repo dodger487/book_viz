@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Ben H. Winters",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ben H. Winters</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q4885768",
+  "titles": {
+    "canonical": "Ben_H._Winters",
+    "normalized": "Ben H. Winters",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ben H. Winters</span></span>"
+  },
+  "pageid": 24948888,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ben_H_Winters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 300,
+    "height": 375
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ben_H_Winters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 300,
+    "height": 375
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1357451732",
+  "tid": "81cdc1b9-5eb6-11f1-a6bd-d7ab1a200610",
+  "timestamp": "2026-06-02T19:08:58Z",
+  "description": "American author (born 1976)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Ben_H._Winters",
+      "revisions": "https://en.wikipedia.org/wiki/Ben_H._Winters?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Ben_H._Winters?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ben_H._Winters"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Ben_H._Winters",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Ben_H._Winters",
+      "edit": "https://en.wikipedia.org/wiki/Ben_H._Winters?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Ben_H._Winters"
+    }
+  },
+  "extract": "Benjamin Allen \"Ben\" H. Winters is an American author. He is best known for mystery/sci-fi novels such as The Last Policeman and Underground Airlines, and for creating the CBS show Tracker.",
+  "extract_html": "<p><b>Benjamin Allen \"Ben\" H. Winters</b> is an American author. He is best known for mystery/sci-fi novels such as <i>The Last Policeman</i> and <i>Underground Airlines</i>, and for creating the CBS show <i>Tracker</i>.</p>"
+}

@@ -1,0 +1,115 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL229685A"
+      ],
+      "author_name": [
+        "Nick Hornby"
+      ],
+      "cover_edition_key": "OL8737925M",
+      "cover_i": 824359,
+      "ebook_access": "borrowable",
+      "edition_count": 66,
+      "first_publish_year": 1995,
+      "has_fulltext": true,
+      "ia": [
+        "altafedelta0000horn",
+        "altafidelidad0000horn",
+        "hautefidelite0000horn_i9l2",
+        "hautefidelite0000horn",
+        "highfidelity0000horn_e2d5",
+        "highfidelity0000horn_t5y5",
+        "highfidelity00horn",
+        "highfidelity00nick",
+        "highfidelity0000horn_h3m4",
+        "highfidelity000horn",
+        "highfidelity0000horn",
+        "highfidelity0000horn_v6j5",
+        "highfidelity00horn_0"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "spokanepubliclibrary-ol",
+        "udc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL1916907W",
+      "language": [
+        "cze",
+        "und",
+        "ger",
+        "dut",
+        "ita",
+        "rus",
+        "fre",
+        "por",
+        "spa",
+        "eng"
+      ],
+      "lending_edition_s": "OL37737485M",
+      "lending_identifier_s": "altafedelta0000horn",
+      "public_scan_b": false,
+      "title": "High Fidelity"
+    },
+    {
+      "author_key": [
+        "OL229685A"
+      ],
+      "author_name": [
+        "Nick Hornby"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1999,
+      "has_fulltext": false,
+      "key": "/works/OL36872375W",
+      "public_scan_b": false,
+      "title": "Fever Pitch : High Fidelity"
+    },
+    {
+      "author_key": [
+        "OL229685A"
+      ],
+      "author_name": [
+        "Nick Hornby"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL35684383W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "High Fidelity 36 copy Film Dumpbin"
+    }
+  ]
+}

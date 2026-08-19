@@ -1,0 +1,27 @@
+{
+  "title": "Veins",
+  "key": "/works/OL28598287W",
+  "type": {
+    "key": "/type/work"
+  },
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL10601377A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-07-31T12:00:35.367023"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-07-31T12:07:03.018278"
+  }
+}

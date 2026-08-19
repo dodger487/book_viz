@@ -1,0 +1,106 @@
+{
+  "title": "High Fidelity",
+  "covers": [
+    824359,
+    380585,
+    872510,
+    2152769,
+    1923059,
+    6982417,
+    8889136,
+    10762338,
+    5266755,
+    978830,
+    13235135,
+    12627784,
+    9400882,
+    12370413,
+    12653903,
+    12936901,
+    14194455,
+    13766799
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "These were the ones that really hurt."
+  },
+  "first_publish_date": "March 1, 2000",
+  "key": "/works/OL1916907W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL229685A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Sound recordings",
+    "Man-woman relationships",
+    "Fiction",
+    "Man-woman relationships, fiction",
+    "England, fiction",
+    "Fiction, coming of age",
+    "Fiction, humorous, general",
+    "Young men",
+    "Popular music fans",
+    "Literature",
+    "English fiction",
+    "Relaciones hombre-mujer",
+    "J\u00f3venes (Varones)",
+    "Ficci\u00f3n",
+    "Popular music",
+    "English literature",
+    "Fiction, humorous",
+    "Fiction, women",
+    "Men",
+    "Psychology",
+    "Social life and customs",
+    "Manners and customs",
+    "Alleinstehender",
+    "music",
+    "romance",
+    "relationships",
+    "Fiction in English",
+    "Narrativa"
+  ],
+  "lc_classifications": [
+    "PR6058.O689 H54 1995"
+  ],
+  "description": "Nick Hornby's first novel, an international bestseller and instantly recognized by critics and readers alike as a classic, helps to explain men to women, and men to men. Rob is good on music: he owns a small record shop and has strong views on what's decent and what isn't. But he's much less good on relationships. In fact, he's not at all sure that he wants to commit himself to anyone. So it's hardly surprising that his girlfriend decides that enough is enough.",
+  "subject_places": [
+    "England",
+    "London (England)",
+    "Great Britain",
+    "London"
+  ],
+  "dewey_number": [
+    "823/.914"
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "identifiers": {
+    "librarything": [
+      "2110"
+    ],
+    "wikidata": [
+      "Q748075"
+    ]
+  },
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:34:06.258063"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-18T19:32:14.699385"
+  }
+}

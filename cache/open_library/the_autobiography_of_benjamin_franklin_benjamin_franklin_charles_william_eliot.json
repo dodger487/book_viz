@@ -1,0 +1,41 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL11487617A"
+      ],
+      "author_name": [
+        "FRANKLIN, BENJAMIN; WOOLMAN, JOHN; PENN, WILLIAM; ELIOT, CHARLES (EDITOR)."
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1909,
+      "has_fulltext": false,
+      "key": "/works/OL31548460W",
+      "public_scan_b": false,
+      "title": "The Autobiography Of Benjamin Franklin, The Journal Of John Woolman, Fruits Of S"
+    },
+    {
+      "author_key": [
+        "OL12293447A"
+      ],
+      "author_name": [
+        "Franklin, Benjamin; Woolman, John; Penn, William; Eliot, Charles W. (Series editor)"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1988,
+      "has_fulltext": false,
+      "key": "/works/OL33971950W",
+      "public_scan_b": false,
+      "title": "THE AUTOBIOGRAPHY OF BENJAMIN FRANKLIN / THE JOURNAL OF JOHN WOOLMAN / FRUITS OF SOLITUDE"
+    }
+  ]
+}

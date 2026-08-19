@@ -1,0 +1,61 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL3008623A"
+      ],
+      "author_name": [
+        "Scott Patterson"
+      ],
+      "cover_edition_key": "OL24265294M",
+      "cover_i": 6413966,
+      "ebook_access": "printdisabled",
+      "edition_count": 13,
+      "first_publish_year": 2000,
+      "has_fulltext": true,
+      "ia": [
+        "quantshowsmallba0000patt",
+        "quantshownewbree00patt"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "marygrovecollege",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL13841383W",
+      "language": [
+        "kor",
+        "por",
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It",
+      "title": "The Quants"
+    }
+  ]
+}

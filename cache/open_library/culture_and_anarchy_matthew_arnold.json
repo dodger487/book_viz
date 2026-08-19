@@ -1,0 +1,148 @@
+{
+  "numFound": 17,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 17,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL136194A",
+        "OL7548755A",
+        "OL11540815A",
+        "OL12778340A",
+        "OL2075544A",
+        "OL1097416A",
+        "OL2723240A"
+      ],
+      "author_name": [
+        "Matthew Arnold",
+        "Matthew Arnold",
+        "M Arnold",
+        "Matthew (Edited with an Introduction By J. Dover Wilson) Arnold",
+        "George Saintsbury",
+        "George William Erskine Russell",
+        "Marciano Guerrero"
+      ],
+      "cover_edition_key": "OL22343257M",
+      "cover_i": 8242946,
+      "ebook_access": "public",
+      "edition_count": 138,
+      "first_publish_year": 1869,
+      "has_fulltext": true,
+      "ia": [
+        "cultureanarchyes0000arno",
+        "cu31924012529768",
+        "cultureanarchyes00arno",
+        "cultureanarchyes00arnouoft",
+        "cultureanarchy00arno",
+        "cultureanarchyes00arno_4",
+        "cultureanarchyes00arnoiala",
+        "cultureanarchy0000marn",
+        "cultureandanarc00arnogoog",
+        "cultureanarchy0000unse",
+        "matthewarnoldcul0000unse",
+        "cultureanarchy0000arno_x4c6",
+        "cultureanarchydo0000matt",
+        "cultureanarchy0000arno_o8a2",
+        "cultureanarchye00arno",
+        "cultureanarchy0000arno",
+        "cultureanarchy0000arno_i7m5"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "barryuniversity-ol",
+        "brigham_young_university",
+        "cdl",
+        "claremont_school_of_theology",
+        "cornell",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "marygrovecollege",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "robarts",
+        "rochester-ol",
+        "toronto",
+        "trent_university",
+        "ubclibrary",
+        "unb-ol",
+        "university_of_toronto",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL1336695W",
+      "language": [
+        "chi",
+        "und",
+        "eng"
+      ],
+      "lending_edition_s": "OL28395075M",
+      "lending_identifier_s": "cultureanarchyes0000arno",
+      "public_scan_b": true,
+      "title": "Culture and anarchy; an essay in political and social criticism",
+      "id_standard_ebooks": [
+        "matthew-arnold/culture-and-anarchy"
+      ]
+    },
+    {
+      "author_key": [
+        "OL6001050A"
+      ],
+      "author_name": [
+        "Matthew Arnold"
+      ],
+      "cover_edition_key": "OL61421286M",
+      "cover_i": 15188683,
+      "ebook_access": "borrowable",
+      "edition_count": 5,
+      "first_publish_year": 1960,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_2901848301602",
+        "bwb_KT-244-016",
+        "cultureanarchy0000matt_j6q4"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43038452W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL61421286M",
+      "lending_identifier_s": "isbn_2901848301602",
+      "public_scan_b": false,
+      "title": "Culture and Anarchy"
+    },
+    {
+      "author_key": [
+        "OL136194A"
+      ],
+      "author_name": [
+        "Matthew Arnold"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1916,
+      "has_fulltext": false,
+      "key": "/works/OL42752057W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Culture and anarchy"
+    }
+  ]
+}

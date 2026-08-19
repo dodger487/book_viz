@@ -1,0 +1,27 @@
+{
+  "title": "Total Recall: My Unbelievably True Life Story",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL13698884A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL45421930W",
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2026-05-12T16:03:39.207957"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-12T16:03:39.207957"
+  }
+}

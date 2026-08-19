@@ -1,0 +1,176 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL37079404M",
+      "cover_i": 12646537,
+      "ebook_access": "borrowable",
+      "edition_count": 142,
+      "first_publish_year": 2008,
+      "has_fulltext": true,
+      "ia": [
+        "jieyouxi0000coll",
+        "hungergamessamsu0000suza",
+        "dehongerspelende0000suza",
+        "jieyouxii0001coll",
+        "losjuegosdelhamb0000coll",
+        "aclikoyunlari10000suza",
+        "elsjocsdelafami0001suza",
+        "losjuegosdelhamb0000coll_h5v5",
+        "hungergamesmovie0000suza",
+        "golodnyeigryknig0000coll",
+        "igrzyskasmierci0000coll",
+        "isbn_9781590272558",
+        "isbn_9789606665806",
+        "hungergames3volu0000unse",
+        "hungergames0000unse_o0u1",
+        "hungergames0000coll_v3w2",
+        "hungergames0000coll_u4y6",
+        "isbn_8935235200814",
+        "losjuegosdelhamb0000suza_w6g2",
+        "hungergamesitali0000suza",
+        "losjuegosdelhamb0000suza",
+        "hungergames0000suza",
+        "dietributevonpan0000coll_q0l4",
+        "hungergames0000coll_h4z0",
+        "hungergames0000coll_h3b7",
+        "hungergames0000coll_b7x9",
+        "hungergames0000coll_x4i0",
+        "hungergames0000coll_j2i9",
+        "hungergames0000coll_k5p0",
+        "hungergames0000coll_w3l3",
+        "hungergames0000coll_j6r4",
+        "isbn_9781407192239",
+        "hungergames0000coll_s7r6",
+        "hungergames0000coll_s1w4",
+        "catchingfire0000coll_m5h2",
+        "hungergames0000coll",
+        "hungergames0000unse",
+        "hungergamesthe0000suza",
+        "hungergames0000coll_q6d9",
+        "hungergames0000coll_w5z0",
+        "hungergames0000coll_z4i1",
+        "hungergames0000coll_l0b0",
+        "igrzyskamierci0000unse",
+        "hungergames0001coll",
+        "hungergames0000coll_z3q0",
+        "hungergamesfoile0000suza",
+        "hungergames0000coll_o6h5",
+        "hungergames0000coll_k1c1",
+        "hungergames0000coll_s8z6",
+        "hungergames00coll",
+        "hungergames0000coll_f3a8",
+        "hungergames00suza_3",
+        "hungergames00coll_0"
+      ],
+      "ia_collection": [
+        "aceportal",
+        "americana",
+        "bannedbooks",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled",
+        "toronto"
+      ],
+      "key": "/works/OL5735363W",
+      "language": [
+        "heb",
+        "tgl",
+        "ger",
+        "ita",
+        "swe",
+        "eng",
+        "dut",
+        "chi",
+        "jpn",
+        "pol",
+        "tur",
+        "dan",
+        "spa",
+        "rus",
+        "fre",
+        "gre",
+        "vie",
+        "cat",
+        "por"
+      ],
+      "lending_edition_s": "OL61277346M",
+      "lending_identifier_s": "jieyouxi0000coll",
+      "public_scan_b": false,
+      "title": "The Hunger Games"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL39475965M",
+      "cover_i": 12878880,
+      "ebook_access": "borrowable",
+      "edition_count": 29,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "dietributevonpan0000suza_u1a0",
+        "dietributevonpan0000suza_j0n9",
+        "suzannecollinshu0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15518787W",
+      "language": [
+        "eng",
+        "spa",
+        "pol",
+        "ger",
+        "ita",
+        "cat"
+      ],
+      "lending_edition_s": "OL48579294M",
+      "lending_identifier_s": "dietributevonpan0000suza_u1a0",
+      "public_scan_b": false,
+      "title": "The Hunger Games Trilogy (Hunger Games / Catching Fire / Mockingjay)"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL34118379M",
+      "cover_i": 12024298,
+      "ebook_access": "no_ebook",
+      "edition_count": 11,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL35756566W",
+      "language": [
+        "fre",
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games / Catching Fire / Mockingjay / The Ballad of Songbirds and Snakes"
+    }
+  ]
+}

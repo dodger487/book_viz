@@ -1,0 +1,56 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1603833A"
+      ],
+      "author_name": [
+        "Nina Munk"
+      ],
+      "cover_edition_key": "OL26769454M",
+      "cover_i": 8420418,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL19111151W",
+      "public_scan_b": false,
+      "title": "The Idealist: Jeffrey Sachs and the Quest to End Poverty"
+    },
+    {
+      "author_key": [
+        "OL1603833A"
+      ],
+      "author_name": [
+        "Nina Munk"
+      ],
+      "cover_edition_key": "OL26797930M",
+      "cover_i": 8453482,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "idealistjeffreys0000munk_d1u3"
+      ],
+      "ia_collection": [
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "unb-ol"
+      ],
+      "key": "/works/OL19340508W",
+      "public_scan_b": false,
+      "title": "The Idealist: Jeffrey Sachs and the Quest to End Poverty"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Niccol\u00f2 Machiavelli",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Niccol\u00f2 Machiavelli</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1399",
+  "titles": {
+    "canonical": "Niccol\u00f2_Machiavelli",
+    "normalized": "Niccol\u00f2 Machiavelli",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Niccol\u00f2 Machiavelli</span></span>"
+  },
+  "pageid": 21444,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/330px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 424
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1244,
+    "height": 1600
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1369494631",
+  "tid": "67886c7b-988d-11f1-8603-52cc45d3bab4",
+  "timestamp": "2026-08-15T09:40:52Z",
+  "description": "Florentine statesman, diplomat, and political theorist (1469\u20131527)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+      "revisions": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Niccol%C3%B2_Machiavelli"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Niccol%C3%B2_Machiavelli",
+      "edit": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Niccol%C3%B2_Machiavelli"
+    }
+  },
+  "extract": "Niccol\u00f2 di Bernardo dei Machiavelli was a Florentine diplomat, author, philosopher, and historian who lived during the Italian Renaissance. He is best known for his political treatise The Prince, written around 1513 but not published until 1532, five years after his death. He has often been called the father of modern political philosophy and political science.",
+  "extract_html": "<p><b>Niccol\u00f2 di Bernardo dei Machiavelli</b> was a Florentine diplomat, author, philosopher, and historian who lived during the Italian Renaissance. He is best known for his political treatise <i>The Prince</i>, written around 1513 but not published until 1532, five years after his death. He has often been called the father of modern political philosophy and political science.</p>"
+}

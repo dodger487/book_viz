@@ -1,0 +1,122 @@
+{
+  "lc_classifications": [
+    "HN389 A72 1903"
+  ],
+  "key": "/works/OL1336695W",
+  "title": "Culture and anarchy; an essay in political and social criticism",
+  "subject_places": [
+    "Great Britain",
+    "Grande-Bretagne"
+  ],
+  "first_publish_date": "1903",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL136194A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL7548755A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL11540815A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL12778340A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2075544A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL1097416A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2723240A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Social conditions",
+    "Culture",
+    "open_syllabus_project",
+    "Kulturkritik",
+    "Maatschappijkritiek",
+    "Conditions sociales",
+    "Cultuur",
+    "Great britain, social conditions",
+    "Great Britain -- Social conditions -- 19th century",
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "covers": [
+    8242946,
+    118032,
+    11702945,
+    13306636,
+    13306634,
+    14634030,
+    12467200,
+    6483948,
+    6330369,
+    8765836,
+    8766300,
+    10976490,
+    12069114
+  ],
+  "subject_times": [
+    "19th century"
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "IN one of his speeches a year or two ago, that fine speaker and famous Liberal, Mr Bright, took occasion to have a fling at the friends and preachers of culture."
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "\"Matthew Arnold's famous series of essays, which were first published in book form under the title Culture and Anarchy in 1869, debate important questions about the nature of culture and society. Arnold seeks to find out what culture really is, what good it can do, and if it is really necessary. He contrasts culture, which he calls the study of perfection, with anarchy, the mood of unrest and uncertainty that pervaded mid-Victorian England.\" \"This edition reproduces the original book version, revealing the immediate historical context and controversy of the piece. The introduction and notes broaden out the interpretative approach to Arnold's text, elaborating on the complexities of the religious context. The book also reinforces the continued importance of Arnold's ideas its influences in the face of the challenges of multi-culturalism and post-modernism.\"--Jacket."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T21:07:40.218723"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-27T12:24:56.861498"
+  }
+}

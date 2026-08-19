@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Richard Russo",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Richard Russo</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q558430",
+  "titles": {
+    "canonical": "Richard_Russo",
+    "normalized": "Richard Russo",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Richard Russo</span></span>"
+  },
+  "pageid": 1759602,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Richard_Russo.jpg/330px-Richard_Russo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 505
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Richard_Russo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 818,
+    "height": 1251
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368388438",
+  "tid": "39250022-9362-11f1-9ad1-64ec371ffbf2",
+  "timestamp": "2026-08-08T19:49:10Z",
+  "description": "American writer and teacher",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Richard_Russo",
+      "revisions": "https://en.wikipedia.org/wiki/Richard_Russo?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Richard_Russo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Richard_Russo"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Richard_Russo",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Richard_Russo",
+      "edit": "https://en.wikipedia.org/wiki/Richard_Russo?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Richard_Russo"
+    }
+  },
+  "extract": "Richard Russo is an American novelist, short story writer, screenwriter, and teacher. In 2002, he was awarded a Pulitzer Prize in Fiction for his novel Empire Falls. Several of his works have been adapted into television series and movies. He is known for his realistic depictions of rural, small-town life in the Northeastern United States, particularly in Maine, Pennsylvania, and Russo's native Upstate New York.",
+  "extract_html": "<p><b>Richard Russo</b> is an American novelist, short story writer, screenwriter, and teacher. In 2002, he was awarded a Pulitzer Prize in Fiction for his novel <i>Empire Falls</i>. Several of his works have been adapted into television series and movies. He is known for his realistic depictions of rural, small-town life in the Northeastern United States, particularly in Maine, Pennsylvania, and Russo's native Upstate New York.</p>"
+}

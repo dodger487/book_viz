@@ -1,0 +1,64 @@
+{
+  "subjects": [
+    "Garfield, james a. (james abram), 1831-1881",
+    "Guiteau, charles julius, 1841-1882",
+    "Bell, alexander graham, 1847-1922",
+    "Presidents, united states",
+    "Medicine, united states",
+    "Medical instruments and apparatus",
+    "Political culture",
+    "Power (social sciences)",
+    "United states, politics and government, 1865-1933",
+    "nyt:paperback-nonfiction=2012-07-01",
+    "New York Times bestseller",
+    "New York Times reviewed",
+    "United states history - 19th century - general & miscellaneous",
+    "Executive branch",
+    "U.s. - political biography",
+    "U.s. politics - history"
+  ],
+  "key": "/works/OL19340261W",
+  "title": "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1434583A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8453193
+  ],
+  "links": [
+    {
+      "url": "http://www.nytimes.com/2011/09/12/books/destiny-of-the-republic-on-garfield-by-candice-millard-review.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "http://www.nytimes.com/2011/10/02/books/review/destiny-of-the-republic-by-candice-millard-book-review.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-20T22:29:49.443229"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-12-19T23:51:03.007481"
+  }
+}

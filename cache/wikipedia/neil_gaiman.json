@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Neil Gaiman",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Neil Gaiman</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q210059",
+  "titles": {
+    "canonical": "Neil_Gaiman",
+    "normalized": "Neil Gaiman",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Neil Gaiman</span></span>"
+  },
+  "pageid": 22055,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kyle-cassidy-neil-gaiman-April-2013.jpg/330px-Kyle-cassidy-neil-gaiman-April-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 439
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kyle-cassidy-neil-gaiman-April-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1878,
+    "height": 2500
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1369565012",
+  "tid": "481a3008-98df-11f1-a723-3f1ac5512b11",
+  "timestamp": "2026-08-15T19:26:58Z",
+  "description": "English writer (born 1960)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Neil_Gaiman",
+      "revisions": "https://en.wikipedia.org/wiki/Neil_Gaiman?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Neil_Gaiman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Neil_Gaiman"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Neil_Gaiman",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Neil_Gaiman",
+      "edit": "https://en.wikipedia.org/wiki/Neil_Gaiman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Neil_Gaiman"
+    }
+  },
+  "extract": "Neil Richard MacKinnon Gaiman is an English author of short fiction, novels, comic books, audio theatre, and screenplays. His works include the comic series The Sandman (1989\u20131996) and the novels Good Omens (1990), Stardust (1999), American Gods (2001), Coraline (2002), Anansi Boys (2005), The Graveyard Book (2008) and The Ocean at the End of the Lane (2013). He co-created the TV adaptations of Good Omens and The Sandman.",
+  "extract_html": "<p><b>Neil Richard MacKinnon Gaiman</b> is an English author of short fiction, novels, comic books, audio theatre, and screenplays. His works include the comic series <i>The Sandman</i> (1989\u20131996) and the novels <i>Good Omens</i> (1990), <i>Stardust</i> (1999), <i>American Gods</i> (2001), <i>Coraline</i> (2002), <i>Anansi Boys</i> (2005), <i>The Graveyard Book</i> (2008) and <i>The Ocean at the End of the Lane</i> (2013). He co-created the TV adaptations of <i>Good Omens</i> and <i>The Sandman</i>.</p>"
+}

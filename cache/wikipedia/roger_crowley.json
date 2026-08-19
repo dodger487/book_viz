@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Roger Crowley",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roger Crowley</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q20028608",
+  "titles": {
+    "canonical": "Roger_Crowley",
+    "normalized": "Roger Crowley",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roger Crowley</span></span>"
+  },
+  "pageid": 55162020,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1281331105",
+  "tid": "6addc1a0-04f2-11f0-9bbd-58c72eea1bd7",
+  "timestamp": "2025-03-19T18:46:07Z",
+  "description": "British historian and author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Roger_Crowley",
+      "revisions": "https://en.wikipedia.org/wiki/Roger_Crowley?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Roger_Crowley?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roger_Crowley"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Roger_Crowley",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Roger_Crowley",
+      "edit": "https://en.wikipedia.org/wiki/Roger_Crowley?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roger_Crowley"
+    }
+  },
+  "extract": "Roger Crowley is a British historian and author known for his books on maritime and Mediterranean history.",
+  "extract_html": "<p><b>Roger Crowley</b> is a British historian and author known for his books on <span class=\"extiw\">maritime</span> and Mediterranean history.</p>"
+}

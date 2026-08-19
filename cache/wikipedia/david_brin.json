@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David Brin",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Brin</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q315069",
+  "titles": {
+    "canonical": "David_Brin",
+    "normalized": "David Brin",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Brin</span></span>"
+  },
+  "pageid": 74155,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/David_Brin_at_ACM_CFP_2005dsc278c.jpg/330px-David_Brin_at_ACM_CFP_2005dsc278c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 450
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/David_Brin_at_ACM_CFP_2005dsc278c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 726,
+    "height": 990
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368349171",
+  "tid": "4b8b446e-933a-11f1-8751-2cccde560407",
+  "timestamp": "2026-08-08T15:03:21Z",
+  "description": "American scientist and science fiction author (born 1950)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_Brin",
+      "revisions": "https://en.wikipedia.org/wiki/David_Brin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_Brin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Brin"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_Brin",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Brin",
+      "edit": "https://en.wikipedia.org/wiki/David_Brin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Brin"
+    }
+  },
+  "extract": "Glen David Brin is an American science fiction author. He has won the Hugo, Locus, Campbell and Nebula Awards. His novel The Postman was adapted into a 1997 feature film starring Kevin Costner.",
+  "extract_html": "<p><b>Glen David Brin</b> is an American science fiction author. He has won the Hugo, Locus, Campbell and Nebula Awards. His novel <i>The Postman</i> was adapted into a 1997 feature film starring Kevin Costner.</p>"
+}

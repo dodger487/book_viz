@@ -1,0 +1,201 @@
+{
+  "numFound": 28,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 28,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL107569A"
+      ],
+      "author_name": [
+        "Dale Carnegie"
+      ],
+      "cover_edition_key": "OL38563878M",
+      "cover_i": 13314878,
+      "ebook_access": "borrowable",
+      "edition_count": 188,
+      "first_publish_year": 1936,
+      "has_fulltext": true,
+      "ia": [
+        "comoganaramigose0000dale_e9l0",
+        "bwb_W9-AED-143",
+        "renxingderuodian0000kane_h0y9",
+        "renxingderuodian0000carn_j6u2",
+        "renxingderuodian0000meik",
+        "commentsefairede0000carn",
+        "renxingderuodian0000unse_k6x9",
+        "renxingderuodian0000carn_f1r3",
+        "renxingderuodian0002carn",
+        "renxingderuodian0000kane",
+        "renxingderuodian0002kane",
+        "renxingderuodian0000kana",
+        "kanaijichenggong0000carn_s8q2",
+        "yingzaiyingxiang0000carn",
+        "hitoougokasuhowt0000carn",
+        "comoganaramigose0000carn",
+        "isbn_9781501188640",
+        "bwb_C0-ANZ-238",
+        "bwb_S0-ALI-633",
+        "bwb_S0-AIL-202",
+        "howtowinfriendsi0000carn_i0d7",
+        "bwb_KS-365-216",
+        "isbn_9781443455619",
+        "isbn_9789387873209",
+        "howtowinfriendsi0000carn_b2r3",
+        "howtowinfriendsi0000unse_x7f7",
+        "howtowinfriendsi0000carn_x2s0",
+        "howtowinfriendsi0000unse_z9y6",
+        "howtowinfriendsi0000dale_v1p2",
+        "howtowinfriendsi00carn",
+        "howtowinfriendsi0000unse_s3h2",
+        "howtowinfriendsi0000carn_q9t6",
+        "isbn_0671752847",
+        "howtowinfriendsi0000unse",
+        "howtowinfriendsi0000carn_k4n5",
+        "howtowinfriendsi00carn_2",
+        "bwb_S0-DGF-343",
+        "howtowinfriendscarni00carn",
+        "howtowinfriendsi00dale",
+        "howtowinfriendsinfl00dale",
+        "howtowinfriendsi0000carn",
+        "howtowinfriendsi0000unse_a5a6",
+        "howtowinfriendsi0000dale",
+        "jerusallamahaled0000dhir",
+        "howtowinfriendsi0000dale_s0y4",
+        "howtowinfriendsi0000dale_s5t3",
+        "isbn_9787546301907",
+        "bwb_P8-APW-395",
+        "comoganaramigos00dale"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "bpljordan-ol",
+        "claremont_school_of_theology",
+        "cmsbschool-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "library_of_atlantis",
+        "marymount-ol",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "pendinglending",
+        "popularchinesebooks",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "schroederlibrary-ol",
+        "stmaryscountylibrary",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL1063267W",
+      "language": [
+        "chi",
+        "pan",
+        "eng",
+        "kor",
+        "por",
+        "spa",
+        "jpn",
+        "vie",
+        "ita",
+        "rus",
+        "fre"
+      ],
+      "lending_edition_s": "OL48116212M",
+      "lending_identifier_s": "comoganaramigose0000dale_e9l0",
+      "public_scan_b": false,
+      "title": "How to Win Friends and Influence People"
+    },
+    {
+      "author_key": [
+        "OL2821251A"
+      ],
+      "author_name": [
+        "The Dale Carnegie Organization"
+      ],
+      "cover_edition_key": "OL27651253M",
+      "cover_i": 9095869,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "howtowinfriendsi0000unse_h6g2"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20429311W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "How to Win Friends and Influence People in the Digital Age"
+    },
+    {
+      "author_key": [
+        "OL107569A"
+      ],
+      "author_name": [
+        "Dale Carnegie"
+      ],
+      "cover_edition_key": "OL24216338M",
+      "cover_i": 6549931,
+      "ebook_access": "borrowable",
+      "edition_count": 14,
+      "first_publish_year": 1948,
+      "has_fulltext": true,
+      "ia": [
+        "howtowinfriendsi0000carn_a4x0",
+        "renxingderuodian0000carn_x6e1",
+        "renxingderuodian0000kane_w3n0",
+        "pathwaystosucces00carn",
+        "bwb_W8-AAD-632"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "popularchinesebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15148777W",
+      "language": [
+        "eng",
+        "chi"
+      ],
+      "lending_edition_s": "OL30535582M",
+      "lending_identifier_s": "howtowinfriendsi0000carn_a4x0",
+      "public_scan_b": false,
+      "title": "How to Win Friends and Influence People / How to stop worrying and start living"
+    }
+  ]
+}

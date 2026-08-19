@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Matthew Arnold",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Matthew Arnold</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q271032",
+  "titles": {
+    "canonical": "Matthew_Arnold",
+    "normalized": "Matthew Arnold",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Matthew Arnold</span></span>"
+  },
+  "pageid": 114057,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Matthew_Arnold.jpg/330px-Matthew_Arnold.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 419
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Matthew_Arnold.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 592,
+    "height": 751
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1357277922",
+  "tid": "d4dd42af-5df0-11f1-8415-72949d9799d1",
+  "timestamp": "2026-06-01T19:33:57Z",
+  "description": "English poet and cultural critic (1822\u20131888)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Matthew_Arnold",
+      "revisions": "https://en.wikipedia.org/wiki/Matthew_Arnold?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Matthew_Arnold?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Matthew_Arnold"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Matthew_Arnold",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Matthew_Arnold",
+      "edit": "https://en.wikipedia.org/wiki/Matthew_Arnold?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Matthew_Arnold"
+    }
+  },
+  "extract": "Matthew Arnold was an English poet and cultural critic. He was the son of Thomas Arnold, the headmaster of Rugby School, and brother of both Tom Arnold, literary professor, and William Delafield Arnold, novelist and colonial administrator. He has been characterised as a sage writer, a type of writer who chastises and instructs the reader on contemporary social issues. He was also an inspector of schools for thirty-five years, and supported the concept of state-regulated secondary education.",
+  "extract_html": "<p><b>Matthew Arnold</b> was an English poet and cultural critic. He was the son of Thomas Arnold, the headmaster of Rugby School, and brother of both Tom Arnold, literary professor, and William Delafield Arnold, novelist and colonial administrator. He has been characterised as a sage writer, a type of writer who chastises and instructs the reader on contemporary social issues. He was also an inspector of schools for thirty-five years, and supported the concept of state-regulated secondary education.</p>"
+}

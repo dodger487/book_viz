@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Erik Larson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Erik Larson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5388681",
+  "titles": {
+    "canonical": "Erik_Larson",
+    "normalized": "Erik Larson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Erik Larson</span></span>"
+  },
+  "pageid": 7867169,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1272715959",
+  "tid": "70773e26-de99-11ef-be1f-4732eb2051c4",
+  "timestamp": "2025-01-29T23:33:27Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Erik_Larson",
+      "revisions": "https://en.wikipedia.org/wiki/Erik_Larson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Erik_Larson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Erik_Larson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Erik_Larson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Erik_Larson",
+      "edit": "https://en.wikipedia.org/wiki/Erik_Larson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Erik_Larson"
+    }
+  },
+  "extract": "Erik or Eric Larson may refer to:Eric Larson (1905\u20131988), Disney animator\nErik Larson (author), American author\nErik Larson, former American figure skater\nErik J. Larson, American computer scientist\nErik Larson, guitarist in Alabama Thunderpussy",
+  "extract_html": "<p><b>Erik</b> or <b>Eric Larson</b> may refer to:</p><ul><li>Eric Larson (1905\u20131988), Disney animator</li>\n<li>Erik Larson (author), American author</li>\n<li>Erik Larson, former American figure skater</li>\n<li>Erik J. Larson, American computer scientist</li>\n<li>Erik Larson, guitarist in Alabama Thunderpussy</li></ul>"
+}

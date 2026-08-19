@@ -1,0 +1,139 @@
+{
+  "key": "/works/OL2629977W",
+  "title": "The 7 Habits of Highly Effective People",
+  "first_publish_date": "June 2001",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL383159A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL30179A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    10079937,
+    10858579,
+    2129975,
+    513288,
+    7239071,
+    7348927,
+    6632059,
+    6193158,
+    1385844,
+    929653,
+    9195821,
+    9195831,
+    1056186,
+    392161,
+    7348926,
+    6879281,
+    7101521,
+    8672563,
+    8179279,
+    8566857,
+    8612374,
+    8738107,
+    8756228,
+    8763945,
+    8784259,
+    9321181,
+    10478305,
+    10357721,
+    10531715,
+    10836458
+  ],
+  "subjects": [
+    "Success- Psychological aspects",
+    "Character",
+    "Success",
+    "Psychological aspects",
+    "Aspectos psicol\u00f3gicos",
+    "Car\u00e1cter",
+    "Exito",
+    "Psychological aspects of Success",
+    "Self-actualization",
+    "Self-management",
+    "\u00c9xito",
+    "Achievement",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 12",
+    "Miniature books",
+    "Specimens",
+    "Success, psychological aspects",
+    "Motivational",
+    "Cheng gong fa",
+    "Self-actualization (Psychology)",
+    "Psychologie du travail",
+    "Ethique",
+    "D\u00e9ontologie professionnelle",
+    "D\u00e9veloppement personnel",
+    "Successful people",
+    "Logro",
+    "Exito en los negocios",
+    "Autoadministraci\u00f3n (Psicolog\u00eda)",
+    "Leadership",
+    "Personality",
+    "Self-evaluation",
+    "Efficiency",
+    "Comportement social",
+    "Aspects psychologiques",
+    "Comp\u00e9tences",
+    "Attitudes",
+    "Ontwikkelingspsychologie",
+    "Management",
+    "Leidinggeven",
+    "Zelfontwikkeling",
+    "Effectiviteit",
+    "Psychology",
+    "Erfolg",
+    "F\u00fchrungskraft",
+    "Karriereplanung",
+    "Lebensf\u00fchrung",
+    "Ratgeber",
+    "Selbsterziehung",
+    "Caract\u00e8re",
+    "Succ\u00e8s",
+    "Guides, manuels",
+    "Success--psychological aspects",
+    "Bf637.s8 c68 1989",
+    "Bf 637.s8 c873 1989",
+    "158",
+    "Family",
+    "Child rearing",
+    "Conduct of life",
+    "Business"
+  ],
+  "dewey_number": [
+    "158"
+  ],
+  "lc_classifications": [
+    "BF'637'S8'C68'1989"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "*New York Times bestseller\u2014over 40 million copies sold*\r\n*The #1 Most Influential Business Book of the Twentieth Century*\r\n\r\nOne of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for nearly three decades. It has transformed the lives of presidents and CEOs, educators and parents\u2014millions of people of all ages and occupations. Now, this 30th anniversary edition of the timeless classic commemorates the wisdom of the 7 Habits with modern additions from Sean Covey.\r\n\r\nThe 7 Habits have become famous and are integrated into everyday thinking by millions and millions of people. Why? Because they work!\r\n\r\nWith Sean Covey\u2019s added takeaways on how the habits can be used in our modern age, the wisdom of the 7 Habits will be refreshed for a new generation of leaders."
+  },
+  "latest_revision": 25,
+  "revision": 25,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T00:07:26.667749"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-29T15:58:47.623799"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Alan Lightman",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alan Lightman</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2664403",
+  "titles": {
+    "canonical": "Alan_Lightman",
+    "normalized": "Alan Lightman",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alan Lightman</span></span>"
+  },
+  "pageid": 170415,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Alan_by_Michael_Lionstar.jpg/330px-Alan_by_Michael_Lionstar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 220
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Alan_by_Michael_Lionstar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3000,
+    "height": 2000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361862775",
+  "tid": "34cc14d5-7493-11f1-86f7-5def502a17e3",
+  "timestamp": "2026-06-30T14:51:42Z",
+  "description": "American physicist, writer, and novelist (born 1948)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Alan_Lightman",
+      "revisions": "https://en.wikipedia.org/wiki/Alan_Lightman?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Alan_Lightman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alan_Lightman"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Alan_Lightman",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Alan_Lightman",
+      "edit": "https://en.wikipedia.org/wiki/Alan_Lightman?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Alan_Lightman"
+    }
+  },
+  "extract": "Alan Paige Lightman is an American physicist, writer, and social entrepreneur. He has served on the faculties of Harvard University and Massachusetts Institute of Technology (MIT) and is currently a professor of the practice of the humanities at MIT. He is a contributing writer for The Atlantic magazine.",
+  "extract_html": "<p><b>Alan Paige Lightman</b> is an American physicist, writer, and social entrepreneur. He has served on the faculties of Harvard University and Massachusetts Institute of Technology (MIT) and is currently a professor of the practice of the humanities at MIT. He is a contributing writer for The Atlantic magazine.</p>"
+}

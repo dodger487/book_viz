@@ -1,0 +1,165 @@
+{
+  "description": "American Gods (2001) is a fantasy novel by British author Neil Gaiman. The novel is a blend of Americana, fantasy, and various strands of ancient and modern mythology, all centering on the mysterious and taciturn Shadow.",
+  "links": [
+    {
+      "title": "Neil Gaiman | Neil's Work | Books | American Gods",
+      "url": "http://www.neilgaiman.com/works/Books/American+Gods/ed/102/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "American Gods - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_Gods",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "publishersweekly.com/978-0-380-97365-1",
+      "url": "https://www.publishersweekly.com/978-0-380-97365-1",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Neil Gaiman, \u201cAmerican Gods: The Tenth Anniversary Edition\u201d",
+      "url": "https://www.newyorker.com/recommends/listen/american-gods-the-tenth-anniversary-edition",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2001/07/29/books/books-in-brief-fiction-poetry-319619.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "American Gods",
+  "covers": [
+    8494659,
+    10211195,
+    9327686,
+    10289649,
+    10504245,
+    10708158,
+    10942037,
+    11351969,
+    12366417,
+    12370553,
+    12126280,
+    13449462,
+    13921325
+  ],
+  "subject_places": [
+    "Chicago",
+    "Illinois (United States)",
+    "Chattanooga",
+    "Tennessee (United States)",
+    "Minnesota (United States)",
+    "Wisconsin (United States)",
+    "Rock City"
+  ],
+  "subjects": [
+    "science fiction",
+    "fantasy fiction",
+    "Americana",
+    "fantasy",
+    "mythology",
+    "Spiritual warfare",
+    "Literature",
+    "award:hugo_award=2002",
+    "Ex-convicts",
+    "Fiction",
+    "Hugo Award Winner",
+    "New York Times bestseller",
+    "American National characteristics",
+    "Urban Fantasy",
+    "nyt:e-book_fiction=2012-01-14",
+    "award:hugo_award=novel",
+    "Widowers",
+    "Bodyguards",
+    "Roman",
+    "Amerikanisches Englisch",
+    "Fiction, fantasy, contemporary",
+    "Widowers, fiction",
+    "Widows, fiction",
+    "Coloring books",
+    "English fiction",
+    "Demonology",
+    "Spiritual life",
+    "New York Times reviewed",
+    "award:nebula_award=novel",
+    "Comics & graphic novels, fantasy",
+    "English literature",
+    "Caracter\u00edsticas nacionales",
+    "Novela",
+    "Ex-d\u00e9tenus",
+    "Romans, nouvelles",
+    "Veufs",
+    "Gardes du corps",
+    "Combat spirituel",
+    "Gods"
+  ],
+  "subject_people": [
+    "Shadow Moon",
+    "Mr. Wednesday",
+    "Spider",
+    "Anansi",
+    "Laura Moon",
+    "Hinzelmann",
+    "Easter",
+    "Whiskey Jack",
+    "Loki",
+    "Odin",
+    "Mr. Ibis",
+    "Samantha Black Crow",
+    "Bilquis",
+    "Media",
+    "Mad Sweeney",
+    "Czernobog",
+    "Mr. Jacquel",
+    "Mr. Nancy",
+    "Chad Mulligan",
+    "Margaret Black Crow",
+    "Mr. Town",
+    "Mr. World",
+    "Technical Boy"
+  ],
+  "key": "/works/OL679360W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL53305A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "Shadow had done three years in prison.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "location": "/works/OL679360W",
+  "latest_revision": 72,
+  "revision": 72,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T01:11:34.644230"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-03-19T17:37:10.245974"
+  }
+}

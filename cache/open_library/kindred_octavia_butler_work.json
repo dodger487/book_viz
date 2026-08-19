@@ -1,0 +1,90 @@
+{
+  "description": "Dana, a modern black woman, is celebrating her twenty-sixth birthday with her new husband when she is snatched abruptly from her home in California and transported to the antebellum South. Rufus, the white son of a plantation owner, is drowning, and Dana has been summoned to save him. Dana is drawn back repeatedly through time to the slave quarters, and each time the stay grows longer, more arduous, and more dangerous until it is uncertain whether or not Dana\u2019s life will end, long before it has a chance to begin.",
+  "title": "Kindred",
+  "covers": [
+    8745330,
+    588480,
+    10207152,
+    8165521,
+    11238740,
+    11754022,
+    12375925,
+    12523910,
+    13771892,
+    10852487
+  ],
+  "subject_places": [
+    "Los Angeles (Calif.)",
+    "Southern States"
+  ],
+  "first_publish_date": "1979",
+  "subject_people": [
+    "Edana (Dana)",
+    "Rufus Weylin",
+    "Kevin Franklin"
+  ],
+  "key": "/works/OL35616W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL30802A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2964716A"
+      }
+    }
+  ],
+  "subject_times": [
+    "1815",
+    "1976"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Slaves",
+    "African American women",
+    "Slaveholders",
+    "Slavery",
+    "Time travel",
+    "Literature",
+    "open_syllabus_project",
+    "Historical",
+    "Science Fiction",
+    "African American",
+    "Contemporary Women",
+    "Fiction, science fiction, general",
+    "Slaves, fiction",
+    "African americans, fiction",
+    "Los angeles (calif.), fiction",
+    "Southern states, fiction",
+    "Fiction, psychological",
+    "Fiction, african american & black, general",
+    "Fourth dimension",
+    "Popular reading",
+    "Enslaved persons, fiction",
+    "American literature",
+    "Teen fiction",
+    "Fiction subjects",
+    "Science fiction & fantasy"
+  ],
+  "latest_revision": 28,
+  "revision": 28,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T07:53:00.378256"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-10T23:24:41.191862"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Vernor Vinge",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Vernor Vinge</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q312405",
+  "titles": {
+    "canonical": "Vernor_Vinge",
+    "normalized": "Vernor Vinge",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Vernor Vinge</span></span>"
+  },
+  "pageid": 32493,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Vernor_Vinge_%28cropped%29.jpg/330px-Vernor_Vinge_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 368
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vernor_Vinge_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 589,
+    "height": 656
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1362111865",
+  "tid": "9e8d1165-75ae-11f1-9579-e2839757898b",
+  "timestamp": "2026-07-02T00:40:27Z",
+  "description": "American computer scientist and writer (1944\u20132024)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Vernor_Vinge",
+      "revisions": "https://en.wikipedia.org/wiki/Vernor_Vinge?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Vernor_Vinge?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Vernor_Vinge"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Vernor_Vinge",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Vernor_Vinge",
+      "edit": "https://en.wikipedia.org/wiki/Vernor_Vinge?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Vernor_Vinge"
+    }
+  },
+  "extract": "Vernor Steffen Vinge was an American science fiction author and professor. He taught mathematics and computer science at San Diego State University. He was the first wide-scale popularizer of the technological singularity concept and among the first authors to present a fictional \"cyberspace\". He won the Hugo Award for his novels A Fire Upon the Deep (1992), A\u00a0Deepness in the Sky (1999), and Rainbows End (2006), and novellas Fast Times at Fairmont High (2001) and The Cookie Monster (2004).",
+  "extract_html": "<p><b>Vernor Steffen Vinge</b> was an American science fiction author and professor. He taught mathematics and computer science at San Diego State University. He was the first wide-scale popularizer of the technological singularity concept and among the first authors to present a fictional \"cyberspace\". He won the Hugo Award for his novels <i>A Fire Upon the Deep</i> (1992), <i>A\u00a0Deepness in the Sky</i> (1999), and <i>Rainbows End</i> (2006), and novellas <i>Fast Times at Fairmont High</i> (2001) and <i>The Cookie Monster</i> (2004).</p>"
+}

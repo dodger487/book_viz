@@ -1,0 +1,148 @@
+{
+  "title": "A Confederacy of Dunces",
+  "covers": [
+    2195715,
+    1002899,
+    8363519,
+    1047238,
+    -1,
+    10223034,
+    10223035,
+    10773697,
+    11146619,
+    12231409,
+    12332550,
+    14220707,
+    13776536,
+    13855141
+  ],
+  "first_publish_date": "January 1, 1982",
+  "key": "/works/OL3501723W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL585131A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "A Confederacy of Dunces is an American comic masterpiece. John Kennedy Toole's hero is one Ignatius J. Reilly, \"huge, obese, fractious, fastidious, a latter-day Gargantua, a Don Quixote of the French Quarter. His story bursts with wholly original characters, denizens of New Orleans' lower depths, incredibly true-to-life dialogue, and the zaniest series of high and low comic adventures.\"",
+  "links": [
+    {
+      "title": "EXCERPT: \u2018Confederacy of Dunces\u2019 Author John Kennedy Toole\u2019s Inspiration For Ignatius J. Reilly",
+      "url": "https://www.huffingtonpost.com/2012/03/26/author-inspiration_n_1379520.html",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "A Confederacy of Dunces - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/books/booksblog/2017/jun/13/a-confederacy-of-dunces-a-pulitzer-winners-struggle-to-find-a-publisher",
+      "title": "A Confederacy of Dunces: a Pulitzer winner's struggle to find a publisher",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "A Confederacy of Dunces doesn't need to 'develop' \u2013 but it does",
+      "url": "https://www.theguardian.com/books/booksblog/2017/jun/20/a-confederacy-of-dunces-doesnt-need-to-develop-but-it-does",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "A green hunting cap squeezed the top of the fleshy balloon of a head."
+  },
+  "subject_places": [
+    "New Orleans (La.)",
+    "New Orleans",
+    "Louisiana",
+    "French Quarter",
+    "Canal Street",
+    "Mississippi River",
+    "D.H. Holmes",
+    "Werlein's Music Store",
+    "Prytania Theater"
+  ],
+  "subject_people": [
+    "Ignatius J. Reilly",
+    "Myrna Minkoff",
+    "Irene Reilly",
+    "Santa Battaglia",
+    "Claude Robichaux",
+    "Angelo Mancuso",
+    "Lana Lee",
+    "George",
+    "Darlene",
+    "Burma Jones",
+    "Mr. Clyde",
+    "Gus Levy",
+    "Mrs. Levy",
+    "Miss Trixie",
+    "Mr. Gonzalez",
+    "Dorian Greene",
+    "Frieda Club",
+    "Dr. Talc",
+    "Miss Annie"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "A green hunting cap squeezed the top of the fleshy balloon of a head."
+    }
+  ],
+  "subjects": [
+    "mothers",
+    "travel",
+    "housing",
+    "character",
+    "sons",
+    "groups",
+    "loneliness",
+    "Young men",
+    "Mothers and sons",
+    "Fiction",
+    "Long Now Manual for Civilization",
+    "Reading Level-Grade 7",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 8",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "Fiction, humorous",
+    "Mothers and sons, fiction",
+    "New orleans (la.), fiction",
+    "American drama (dramatic works by one author)",
+    "Fiction, general",
+    "Fiction, humorous, general",
+    "Large type books",
+    "American literature",
+    "Madres e hijos",
+    "Novela",
+    "Hombres j\u00f3venes",
+    "Fictional Works [Publication Type]",
+    "Humorous stories"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:43:28.755739"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-15T06:45:06.490286"
+  }
+}

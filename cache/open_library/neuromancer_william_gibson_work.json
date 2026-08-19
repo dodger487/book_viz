@@ -1,0 +1,120 @@
+{
+  "description": "The first of William Gibson's Sprawl trilogy, *Neuromancer* is the classic cyberpunk novel. The winner of the Hugo, Nebula, and Philip K. Dick Awards, *Neuromancer* was the first fully-realized glimpse of humankind\u2019s digital future \u2014 a shocking vision that has challenged our assumptions about our technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.\r\n\r\nHenry Dorsett Case was the sharpest data-thief in the business, until vengeful former employees crippled his nervous system. But now a new and very mysterious employer recruits him for a last-chance run. The target: an unthinkably powerful artificial intelligence orbiting Earth in service of the sinister Tessier-Ashpool business clan. With a dead man riding shotgun and Molly, mirror-eyed street-samurai, to watch his back, Case embarks on an adventure that ups the ante on an entire genre of fiction.\r\n\r\nHotwired to the leading edges of art and technology, *Neuromancer* is a cyberpunk, science fiction masterpiece \u2014 a classic that ranks with *1984* and *Brave New World* as one of the twentieth century\u2019s most potent visions of the future.",
+  "title": "Neuromancer",
+  "covers": [
+    283860,
+    1008523,
+    8441822,
+    8231867,
+    283491,
+    284192,
+    1365084,
+    8423829,
+    8431443,
+    8445045,
+    8540759,
+    8597917,
+    9623907,
+    9863475,
+    -1,
+    1047612,
+    8753569,
+    12236619,
+    981903,
+    11643997,
+    12301888,
+    13766651,
+    13803749
+  ],
+  "subject_places": [
+    "Japan",
+    "Earth Orbit",
+    "Chiba",
+    "Istanbul",
+    "BAMA",
+    "Boston Atlanta Metropolitan Axis",
+    "Chiba City",
+    "Freeside"
+  ],
+  "first_publish_date": "1984",
+  "subject_people": [
+    "Case",
+    "Molly Millions",
+    "Henry Dorset Case",
+    "Armitage"
+  ],
+  "key": "/works/OL27258W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26283A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "pages": "1",
+      "excerpt": "The sky above the port was the color of television, tuned to a dead channel.",
+      "comment": "This is some of Gibson's best writing - compact, expressive, vivid."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Information superhighway",
+    "Computer hackers",
+    "Conspiracies",
+    "Open Library Staff Picks",
+    "Ciencia-ficci\u00f3n",
+    "Fiction",
+    "Science fiction",
+    "Business intelligence",
+    "Nervous system",
+    "Wounds and injuries",
+    "Long Now Manual for Civilization",
+    "Hackers",
+    "Cyberspace",
+    "Virtual reality",
+    "Reading Level-Grade 7",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 8",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "Hugo Award Winner",
+    "award:hugo_award=1985",
+    "award:hugo_award=novel",
+    "Fiction, science fiction, hard science fiction",
+    "award:nebula_award=novel",
+    "Sprawl Trilogy",
+    "Fiction, science fiction, cyberpunk",
+    "Japan, fiction",
+    "Fiction, science fiction, general",
+    "Hackers (fiction)",
+    "Business intelligence--fiction",
+    "Information superhighway--fiction",
+    "Nervous system--wounds and injuries",
+    "Nervous system--wounds and injuries--fiction",
+    "Conspiracies--fiction",
+    "Ps3557.i2264 n48 2000",
+    "813/.54",
+    "American Cyberpunk fiction",
+    "Specimens",
+    "Cyberpunk fiction",
+    "Matrix (Imaginary place)"
+  ],
+  "latest_revision": 47,
+  "revision": 47,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-12T22:31:17.033421"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-19T06:32:18.054042"
+  }
+}

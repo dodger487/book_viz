@@ -1,0 +1,138 @@
+{
+  "numFound": 13,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 13,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL383159A",
+        "OL30179A"
+      ],
+      "author_name": [
+        "Stephen R. Covey",
+        "Sean Covey"
+      ],
+      "cover_edition_key": "OL28136651M",
+      "cover_i": 10079937,
+      "ebook_access": "borrowable",
+      "edition_count": 77,
+      "first_publish_year": 1989,
+      "has_fulltext": true,
+      "ia": [
+        "gaoxiaonengrensh0000cove_a2i5",
+        "gaoxiaonengrensh0000step",
+        "gaoxiaonengrensh0007cove",
+        "yuchenggongyouyu0000cove",
+        "sevenhabitshigly00cove",
+        "sevenhabitsofhig00cove",
+        "los7habitosdelag0000cove_m9q0",
+        "sevenhabitsofhi00cove",
+        "os7hbitosdaspess0000inva",
+        "sevenhabitsofhig00cove_0",
+        "7habitsofhighlye0000cove_c0q4",
+        "7habitsofhighlye00cove_0",
+        "7habitsofhighlye00cove",
+        "7habitsofhighlye0000cove_q9q4",
+        "isbn_5961402517"
+      ],
+      "ia_collection": [
+        "ambslibrary-ol",
+        "americana",
+        "barryuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "georgetown-university-law-library-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "howard-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "schroederlibrary-ol",
+        "stmaryscountylibrary",
+        "udc-ol",
+        "uhmauicollege-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "uslprototype"
+      ],
+      "key": "/works/OL2629977W",
+      "language": [
+        "chi",
+        "por",
+        "cze",
+        "spa",
+        "jpn",
+        "vie",
+        "kor",
+        "eng",
+        "rus"
+      ],
+      "lending_edition_s": "OL27934042M",
+      "lending_identifier_s": "gaoxiaonengrensh0000cove_a2i5",
+      "public_scan_b": false,
+      "title": "The 7 Habits of Highly Effective People"
+    },
+    {
+      "author_key": [
+        "OL383159A"
+      ],
+      "author_name": [
+        "Stephen R. Covey"
+      ],
+      "cover_edition_key": "OL3326005M",
+      "cover_i": 473779,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2003,
+      "has_fulltext": true,
+      "ia": [
+        "7habitsofhighlye00step_2"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled"
+      ],
+      "key": "/works/OL2629980W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The 7 habits of highly effective people personal workbook"
+    },
+    {
+      "author_key": [
+        "OL383159A"
+      ],
+      "author_name": [
+        "Stephen R. Covey"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2013,
+      "has_fulltext": false,
+      "key": "/works/OL28183070W",
+      "public_scan_b": false,
+      "title": "The 7 Habits of Highly Effective People"
+    }
+  ]
+}

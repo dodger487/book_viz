@@ -1,0 +1,51 @@
+{
+  "title": "A mathematician's apology",
+  "key": "/works/OL11373174W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL20865A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Mathematics",
+    "Addresses, essays, lectures",
+    "Pure Mathematics",
+    "Philosophy",
+    "Wiskunde",
+    "Matematica",
+    "Qa7 .h3 1992",
+    "510.1",
+    "31.01"
+  ],
+  "covers": [
+    9753744,
+    338455,
+    9268976,
+    8618320,
+    9212418,
+    12310541
+  ],
+  "first_publish_date": "April 2000",
+  "description": "G. H. Hardy was one of this century's finest mathematical thinkers, renowned among his contemporaries as a 'real mathematician \u2026 the purest of the pure'. He was also (as C. P. Snow recounts in his Foreword to the 1967 edition) 'unorthodox, eccentric, radical, ready to talk about anything'. This 'apology', written in 1940 as his mathematical powers were declining, offers a brilliant and engaging account of mathematics as very much more than a science; when it was first published, Graham Greene hailed it alongside Henry James's notebooks as 'the best account of what it was like to be a creative artist'.\r\n\r\nC. P. Snow's Foreword gives sympathetic and witty insights into Hardy's life, with its rich store of anecdotes concerning his collaboration with the brilliant Indian mathematician Ramanujan, his aphorisms and idiosyncrasies, and his passion for cricket. This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times.",
+  "subject_people": [
+    "G. H. Hardy (1877-1947)"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-11T04:31:51.075235"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-12-19T22:56:13.132393"
+  }
+}

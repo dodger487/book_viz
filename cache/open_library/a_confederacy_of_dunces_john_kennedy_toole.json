@@ -1,0 +1,83 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL585131A"
+      ],
+      "author_name": [
+        "John Kennedy Toole"
+      ],
+      "cover_edition_key": "OL9827763M",
+      "cover_i": 2195715,
+      "ebook_access": "borrowable",
+      "edition_count": 69,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "laconjuradelosne0000tool",
+        "ignazoderdievers0000john",
+        "laconjuradelosne0000john",
+        "confederacyofdun0000tool_j7s1",
+        "confederacyofdun0000tool_d9d0",
+        "confederacyofdun00tool",
+        "laconjurationdes0000tool_e9i8",
+        "laconjurationdes0000tool"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL3501723W",
+      "language": [
+        "spa",
+        "fre",
+        "per",
+        "eng",
+        "ger"
+      ],
+      "lending_edition_s": "OL32113547M",
+      "lending_identifier_s": "laconjuradelosne0000tool",
+      "public_scan_b": false,
+      "title": "A Confederacy of Dunces"
+    },
+    {
+      "author_key": [
+        "OL14574493A"
+      ],
+      "author_name": [
+        "John Kennedy Toole"
+      ],
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 1980,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_P9-BWQ-348",
+        "bwb_KP-601-178"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL43030747W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL58668384M",
+      "lending_identifier_s": "bwb_P9-BWQ-348",
+      "public_scan_b": false,
+      "title": "A Confederacy of Dunces"
+    }
+  ]
+}

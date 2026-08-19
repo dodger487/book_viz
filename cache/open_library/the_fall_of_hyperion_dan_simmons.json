@@ -1,0 +1,123 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL235668A"
+      ],
+      "author_name": [
+        "Dan Simmons"
+      ],
+      "cover_edition_key": "OL7959658M",
+      "cover_i": 484900,
+      "ebook_access": "borrowable",
+      "edition_count": 29,
+      "first_publish_year": 1990,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9788498723144",
+        "fallofhyperion000simm",
+        "fallofhyperion00simm_0",
+        "fallofhyperion00simm",
+        "lachutedhyprionr0000dans"
+      ],
+      "ia_collection": [
+        "americana",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_atlantis",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol"
+      ],
+      "key": "/works/OL1963251W",
+      "language": [
+        "por",
+        "pol",
+        "eng",
+        "ita",
+        "fre",
+        "spa"
+      ],
+      "lending_edition_s": "OL26358120M",
+      "lending_identifier_s": "isbn_9788498723144",
+      "public_scan_b": false,
+      "series_key": [
+        "OL331215L"
+      ],
+      "series_name": [
+        "Hyperion Cantos"
+      ],
+      "series_position": [
+        "2"
+      ],
+      "title": "The Fall of Hyperion"
+    },
+    {
+      "author_key": [
+        "OL235668A"
+      ],
+      "author_name": [
+        "Dan Simmons"
+      ],
+      "cover_edition_key": "OL31391550M",
+      "cover_i": 10514350,
+      "ebook_access": "borrowable",
+      "edition_count": 2,
+      "first_publish_year": 1999,
+      "has_fulltext": true,
+      "ia": [
+        "lescantosdhyperi0000simm_g3d8"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL45114683W",
+      "language": [
+        "fre"
+      ],
+      "lending_edition_s": "OL31391550M",
+      "lending_identifier_s": "lescantosdhyperi0000simm_g3d8",
+      "public_scan_b": false,
+      "title": "The Fall of Hyperion [2/2]"
+    },
+    {
+      "author_key": [
+        "OL235668A"
+      ],
+      "author_name": [
+        "Dan Simmons"
+      ],
+      "cover_edition_key": "OL27293085M",
+      "cover_i": 8772217,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 1995,
+      "has_fulltext": true,
+      "ia": [
+        "lachutedhyperion0000simm"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL20113097W",
+      "language": [
+        "fre"
+      ],
+      "public_scan_b": false,
+      "title": "The Fall of Hyperion [1/2]"
+    }
+  ]
+}

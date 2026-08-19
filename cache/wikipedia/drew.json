@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Drew",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Drew</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q401847",
+  "titles": {
+    "canonical": "Drew",
+    "normalized": "Drew",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Drew</span></span>"
+  },
+  "pageid": 503336,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1242278742",
+  "tid": "fc10ff44-633a-11ef-a731-9e65f8bf4f8e",
+  "timestamp": "2024-08-25T23:37:26Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Drew",
+      "revisions": "https://en.wikipedia.org/wiki/Drew?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Drew?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Drew"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Drew",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Drew",
+      "edit": "https://en.wikipedia.org/wiki/Drew?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Drew"
+    }
+  },
+  "extract": "Drew may refer to:",
+  "extract_html": "<p><b>Drew</b> may refer to:</p>"
+}

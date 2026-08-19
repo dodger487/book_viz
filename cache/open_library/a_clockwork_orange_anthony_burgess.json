@@ -1,0 +1,145 @@
+{
+  "numFound": 8,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 8,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL142238A"
+      ],
+      "author_name": [
+        "Anthony Burgess"
+      ],
+      "cover_i": 13151224,
+      "ebook_access": "borrowable",
+      "edition_count": 136,
+      "first_publish_year": 1962,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9781856132664",
+        "isbn_9788937461125",
+        "isbn_0345243196",
+        "lorangemecanique0000burg",
+        "isbn_9788576574460",
+        "bwb_KO-883-926",
+        "isbn_9781856132664_j3t0",
+        "clockworkorange0000burg_e2u8",
+        "clockworkorange00burg",
+        "bwb_KR-427-373",
+        "clockworkorange0000anth_g3y2",
+        "isbn_9788445013243",
+        "clockworkorange0000anth_f1w4",
+        "clockworkorange20000anth",
+        "clockworkorange0000anth",
+        "lccn_345026241125",
+        "clockworkorange0000stan",
+        "clockworkorange0000burg",
+        "clockworkorange00",
+        "clockworkorange00anth",
+        "clockworkorange0000burg_m1o1",
+        "clockworkorangea0000burg",
+        "clockworkorange0000burg_g5d4",
+        "clockworkorange0000burg_g4d6",
+        "clockworkorange0000burg_m1r9",
+        "isbn_9780393089134",
+        "lp_anthony-burgess-reads-a-clockwork-orange_anthony-burgess"
+      ],
+      "ia_collection": [
+        "album_recordings",
+        "americana",
+        "americanuniversity-ol",
+        "audio_music",
+        "bannedbooks",
+        "binghamton-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "marymount-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "samples_only",
+        "spokanepubliclibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "udc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "vinyl_bostonpubliclibrary",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL261794W",
+      "language": [
+        "spa",
+        "ita",
+        "fre",
+        "tur",
+        "kor",
+        "cat",
+        "eng",
+        "rus",
+        "ger",
+        "por"
+      ],
+      "lending_edition_s": "OL27284158M",
+      "lending_identifier_s": "isbn_9781856132664",
+      "public_scan_b": false,
+      "title": "A Clockwork Orange"
+    },
+    {
+      "author_key": [
+        "OL142238A"
+      ],
+      "author_name": [
+        "Anthony Burgess"
+      ],
+      "cover_edition_key": "OL20986447M",
+      "cover_i": 4136314,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1987,
+      "has_fulltext": false,
+      "key": "/works/OL19669414W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Clockwork Orange - A play with music"
+    },
+    {
+      "author_key": [
+        "OL142238A"
+      ],
+      "author_name": [
+        "Anthony Burgess"
+      ],
+      "cover_edition_key": "OL43136825M",
+      "cover_i": 14605321,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1972,
+      "has_fulltext": false,
+      "key": "/works/OL31476467W",
+      "public_scan_b": false,
+      "title": "A Clockwork Orange"
+    }
+  ]
+}

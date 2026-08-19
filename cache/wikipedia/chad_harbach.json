@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Chad Harbach",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chad Harbach</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1058570",
+  "titles": {
+    "canonical": "Chad_Harbach",
+    "normalized": "Chad Harbach",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chad Harbach</span></span>"
+  },
+  "pageid": 33368253,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Chad_harbach_2011.jpg/330px-Chad_harbach_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chad_harbach_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 600,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1353841980",
+  "tid": "210b1769-4e2f-11f1-815a-3cc43e6dfd15",
+  "timestamp": "2026-05-12T18:19:35Z",
+  "description": "American writer (born 1975)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Chad_Harbach",
+      "revisions": "https://en.wikipedia.org/wiki/Chad_Harbach?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Chad_Harbach?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chad_Harbach"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Chad_Harbach",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Chad_Harbach",
+      "edit": "https://en.wikipedia.org/wiki/Chad_Harbach?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Chad_Harbach"
+    }
+  },
+  "extract": "Chad Harbach is an American writer. An editor at the journal n+1, he is the author of the 2011 novel The Art of Fielding.",
+  "extract_html": "<p><b>Chad Harbach</b> is an American writer. An editor at the journal <i>n+1</i>, he is the author of the 2011 novel <i>The Art of Fielding</i>.</p>"
+}

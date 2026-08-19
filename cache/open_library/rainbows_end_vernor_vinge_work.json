@@ -1,0 +1,58 @@
+{
+  "first_publish_date": "2006",
+  "subtitle": "A Novel With One Foot In The Future",
+  "title": "Rainbows End",
+  "covers": [
+    182444,
+    8579779,
+    8768601,
+    11568285
+  ],
+  "lc_classifications": [
+    "PS3572.I534 R35 2006"
+  ],
+  "key": "/works/OL1975712W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2751197A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Memory",
+    "Fiction",
+    "Hugo Award Winner",
+    "award:hugo_award=2007",
+    "Alzheimer",
+    "award:hugo_award=novel",
+    "Alzheimer's disease",
+    "Long Now Manual for Civilization",
+    "Fiction, science fiction, general",
+    "Fiction, science fiction, hard science fiction",
+    "San diego (calif.), fiction"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "From the back cover:\r\n\r\nWorld famous poet Robert Gu missed twenty years of progress while he nearly died from Alzheimer's.  Now, when he awakens in San Diego, in the year 2025, with his mind and health restored, reality's a shock.  Books are just about gone.  Computers are old news, replaced by \"smart\" contact lenses that connect him to the Internet via his clothes and wireless nodes just about everywhere.  Buildings look low rent -- unless you're wearing.  Then, they look like whatever you want.  Even he is different.  He's seventy-five, but his treatment has made him look almost a teen.  And that's just the tip of the iceberg in the new Digital Age.\r\n\r\nAs Gu tries to catch up with his future, a mysterious stranger draws him and other innocents into a conspiracy that could have disastrous consequences.  Before he knows it, he's in so deep that even his high-ranking military son and daughter-in-law are clueless.  His only hope -- the world's only hope -- is that his thirteen-year-old granddaughter Miri and her secret friend, Mr. Rabbit, might be able to keep the worst from happening...."
+  },
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:39:17.519107"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-04-17T05:13:13.105111"
+  }
+}

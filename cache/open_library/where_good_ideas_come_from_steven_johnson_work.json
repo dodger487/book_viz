@@ -1,0 +1,69 @@
+{
+  "description": "This work tracks the history of innovation in the form of the \"slow hunch\". The author discusses how new ideas form from the scaffolding of older ideas, a phenomenon he describes as the \"adjacent possible\". Includes delightful figures of how innovative ideas are shifting from one man with a plan for a profit to many minds working for the public good.",
+  "title": "Where good ideas come from",
+  "covers": [
+    6602963,
+    8047383,
+    8734604
+  ],
+  "subject_places": [
+    "Buffalo",
+    "Pacific Ocean",
+    "Indian Ocean",
+    "MIT",
+    "Seattle"
+  ],
+  "subjects": [
+    "invention",
+    "creativity",
+    "society",
+    "openness",
+    "innovation",
+    "vacuum tubes",
+    "evolution",
+    "the Beagle",
+    "coral reefs",
+    "Creativeness",
+    "Creative thinking",
+    "business",
+    "ideas",
+    "thinking",
+    "inventions",
+    "SCIENCE",
+    "Motivational",
+    "SOCIAL SCIENCE",
+    "BUSINESS & ECONOMICS",
+    "History",
+    "Creative ability",
+    "Long Now Manual for Civilization"
+  ],
+  "subject_people": [
+    "Charles Darwin",
+    "Charles Babbage (1791-1871)",
+    "Willis Haviland Carrier"
+  ],
+  "key": "/works/OL15392361W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL389304A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-09-30T20:19:39.250493"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-22T18:56:36.077523"
+  }
+}

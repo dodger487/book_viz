@@ -1,0 +1,214 @@
+{
+  "description": "Walden first published in 1854 as Walden; or, Life in the Woods) is a book by American transcendentalist writer Henry David Thoreau. The text is a reflection upon the author's simple living in natural surroundings. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and\u2014to some degree\u2014a manual for self-reliance.\r\n\r\nWalden details Thoreau's experiences over the course of two years, two months, and two days in a cabin he built near Walden Pond amidst woodland owned by his friend and mentor Ralph Waldo Emerson, near Concord, Massachusetts.\r\n\r\nThoreau makes precise scientific observations of nature as well as metaphorical and poetic uses of natural phenomena. He identifies many plants and animals by both their popular and scientific names, records in detail the color and clarity of different bodies of water, precisely dates and describes the freezing and thawing of the pond, and recounts his experiments to measure the depth and shape of the bottom of the supposedly \"bottomless\" Walden Pond.\r\n\r\n(Source: [Wikipedia](https://en.wikipedia.org/wiki/Walden))",
+  "links": [
+    {
+      "title": "Walden, de Henry David Thoreau, por Antonio Casado da Rocha (Buenos Aires Poetry)",
+      "url": "https://buenosairespoetry.com/2016/04/05/walden-de-henry-david-thoreau-por-antonio-casado-da-rocha/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walden",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "VIAF ID: 183060640",
+      "url": "https://viaf.org/viaf/183060640/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "inventaire.io",
+      "url": "https://inventaire.io/entity/wd:Q863534",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "Walden",
+  "covers": [
+    11248037,
+    10582002,
+    8236245,
+    162411,
+    417656,
+    6574146,
+    420236,
+    311710,
+    6891349,
+    6574176,
+    258109,
+    1260426,
+    4848882,
+    8023505,
+    8733365,
+    8733368,
+    9281552,
+    41940,
+    587794,
+    3242977,
+    2355539,
+    2937176,
+    8950219,
+    9182637,
+    3361329,
+    1003242,
+    7782846,
+    982991,
+    3348736,
+    8801350,
+    10673553,
+    10902935,
+    11220559,
+    12216736,
+    12349729,
+    10627760,
+    2294051,
+    8139405,
+    11655790,
+    11754123,
+    9050115,
+    9255121,
+    15059931
+  ],
+  "subject_places": [
+    "Massachusetts",
+    "Walden Woods",
+    "Walden Woods (Mass.)",
+    "Walden Pond Region (Middlesex County, Mass.)",
+    "Walden Pond Region (Middlesex County)",
+    "Walden"
+  ],
+  "subject_people": [
+    "Henry David Thoreau (1817-1862)"
+  ],
+  "key": "/works/OL55649W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL19690A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "19th century",
+    "1854",
+    "19e si\u00e8cle"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Biography",
+    "Homes and haunts",
+    "American Authors",
+    "Social life and customs",
+    "Solitude",
+    "Natural history",
+    "Wilderness areas",
+    "Philosophy",
+    "English essays",
+    "Wildnerness areas",
+    "Classic Literature",
+    "Fiction",
+    "Essays",
+    "Nonfiction",
+    "Homes",
+    "Manners and customs",
+    "Authors, biography",
+    "Philosophy, modern, 19th century",
+    "Conduct of life",
+    "Massachusetts, politics and government",
+    "Massachusetts, social life and customs",
+    "Natural history, united states",
+    "Philosophy of nature",
+    "Lakes",
+    "Aesthetic realism",
+    "Philosophy, american",
+    "Literature, collections",
+    "Authors, american",
+    "Literary",
+    "American",
+    "English language",
+    "Walden (Thoreau, Henry David)",
+    "Civil disobedience",
+    "Resistance to Government",
+    "American literature",
+    "Indexes",
+    "Juvenile literature",
+    "Large type books",
+    "R\u00e9sistance au gouvernement",
+    "Alternativbewegung",
+    "Gewaltloser Widerstand",
+    "On the duty of civil disobedience (Thoreau)",
+    "Civil disobedience (Thoreau, Henry David)",
+    "Massachusetts, description and travel",
+    "Fiction, general",
+    "Loneliness",
+    "M\u0153urs et coutumes",
+    "R\u00e9serves de la vie sauvage",
+    "Sciences naturelles",
+    "\u00c9crivains am\u00e9ricains",
+    "Biographies",
+    "BIOGRAPHY & AUTOBIOGRAPHY",
+    "LITERARY CRITICISM",
+    "Thoreau, henry david, 1817-1862",
+    "Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods",
+    "Natural history -- Massachusetts -- Walden Woods",
+    "Wilderness areas -- Massachusetts -- Walden Woods",
+    "Authors, American -- 19th century -- Biography",
+    "Walden Woods (Mass.) -- Biography",
+    "Walden Woods (Mass.) -- Social life and customs",
+    "Massachusetts -- Walden Woods",
+    "Nature",
+    "Long Now Manual for Civilization",
+    "Symbolism in literature",
+    "French poetry",
+    "History and criticism",
+    "R.R. Donnelley and Sons Company",
+    "Language arts",
+    "Children's fiction",
+    "United states, history",
+    "Transcendentalism (New England)",
+    "Walden Woods",
+    "Massachusetts",
+    "Readers",
+    "Criticism and interpretation"
+  ],
+  "identifiers": {
+    "wikidata": [
+      "Q863534"
+    ],
+    "bookbrainz": [
+      "bbc9bc62-963f-4bb7-8689-905307baaa5e"
+    ],
+    "librarything": [
+      "2470535"
+    ],
+    "goodreads": [
+      "2361393"
+    ],
+    "musicbrainz": [
+      "6d0fd241-bcb2-408e-bc48-cd995135c8ed"
+    ]
+  },
+  "subtitle": "And Other Writings",
+  "latest_revision": 81,
+  "revision": 81,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T19:26:30.023841"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-21T16:58:13.950746"
+  }
+}

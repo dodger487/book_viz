@@ -1,0 +1,44 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2751197A"
+      ],
+      "author_name": [
+        "Vernor Vinge"
+      ],
+      "cover_edition_key": "OL9420095M",
+      "cover_i": 182444,
+      "ebook_access": "printdisabled",
+      "edition_count": 10,
+      "first_publish_year": 2006,
+      "has_fulltext": true,
+      "ia": [
+        "rainbowsend00vern",
+        "rainbowsend00ving"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL1975712W",
+      "language": [
+        "eng",
+        "chi",
+        "fre"
+      ],
+      "public_scan_b": false,
+      "subtitle": "A Novel With One Foot In The Future",
+      "title": "Rainbows End"
+    }
+  ]
+}

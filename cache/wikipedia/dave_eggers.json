@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dave Eggers",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dave Eggers</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q589497",
+  "titles": {
+    "canonical": "Dave_Eggers",
+    "normalized": "Dave Eggers",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dave Eggers</span></span>"
+  },
+  "pageid": 246124,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dave_Eggers_%2811483%29.jpg/330px-Dave_Eggers_%2811483%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 308
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dave_Eggers_%2811483%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2988,
+    "height": 2787
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368400429",
+  "tid": "37613b39-936e-11f1-a00f-7279d95656b5",
+  "timestamp": "2026-08-08T21:15:01Z",
+  "description": "American writer, editor, and publisher (born 1970)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dave_Eggers",
+      "revisions": "https://en.wikipedia.org/wiki/Dave_Eggers?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dave_Eggers?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dave_Eggers"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Dave_Eggers",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Dave_Eggers",
+      "edit": "https://en.wikipedia.org/wiki/Dave_Eggers?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dave_Eggers"
+    }
+  },
+  "extract": "Dave Eggers is an American writer, editor, and publisher. As an author, he has written fiction, non-fiction, and children's books. His 2000 memoir, A Heartbreaking Work of Staggering Genius, became a bestseller and was a finalist for the Pulitzer Prize for General Nonfiction. Eggers is also the founder of several literary and philanthropic ventures, including the literary journal Timothy McSweeney's Quarterly Concern, the literacy project 826 Valencia, and the human rights non-profit organisation Voice of Witness. Additionally, he founded ScholarMatch, a program that connects donors with students needing funds for college tuition. His writing has appeared in publications including The New Yorker, Esquire, and The New York Times Magazine.",
+  "extract_html": "<p><b>Dave Eggers</b> is an American writer, editor, and publisher. As an author, he has written fiction, non-fiction, and children's books. His 2000 memoir, <i>A Heartbreaking Work of Staggering Genius</i>, became a bestseller and was a finalist for the Pulitzer Prize for General Nonfiction. Eggers is also the founder of several literary and philanthropic ventures, including the literary journal <i>Timothy McSweeney's Quarterly Concern</i>, the literacy project <i>826 Valencia</i>, and the human rights non-profit organisation <i>Voice of Witness</i>. Additionally, he founded <i>ScholarMatch</i>, a program that connects donors with students needing funds for college tuition. His writing has appeared in publications including <i>The New Yorker</i>, <i>Esquire</i>, and <i>The New York Times Magazine</i>.</p>"
+}

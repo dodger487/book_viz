@@ -1,0 +1,50 @@
+{
+  "title": "Einstein's dreams",
+  "covers": [
+    746912
+  ],
+  "first_publish_date": "1993",
+  "subject_people": [
+    "Albert Einstein (1879-1955)"
+  ],
+  "key": "/works/OL2937539W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL447892A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Physicists",
+    "Time",
+    "Dreams",
+    "Relativit\u00e4tstheorie",
+    "Belletristische Darstellung",
+    "Zeit",
+    "Scientists, fiction",
+    "Fiction, biographical",
+    "Fiction, psychological",
+    "Fiction, science fiction, general",
+    "Einstein, Albert,"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "A fictional work in which a twenty-six-year-old Albert Einstein, working in a patent office in Switzerland, imagines possible worlds in which time works differently as he formulates his theory of relativity."
+  },
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T01:08:37.956213"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-27T01:26:17.789004"
+  }
+}

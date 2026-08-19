@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Andy Weir",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Andy Weir</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q18590295",
+  "titles": {
+    "canonical": "Andy_Weir",
+    "normalized": "Andy Weir",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Andy Weir</span></span>"
+  },
+  "pageid": 44587183,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Andy_Weir_by_Gage_Skidmore.jpg/330px-Andy_Weir_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 438
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Andy_Weir_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3180,
+    "height": 4219
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366723806",
+  "tid": "18062871-8b8a-11f1-8026-bee8bcbf2069",
+  "timestamp": "2026-07-29T20:14:25Z",
+  "description": "American novelist (born 1972)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Andy_Weir",
+      "revisions": "https://en.wikipedia.org/wiki/Andy_Weir?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Andy_Weir?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andy_Weir"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Andy_Weir",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Andy_Weir",
+      "edit": "https://en.wikipedia.org/wiki/Andy_Weir?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Andy_Weir"
+    }
+  },
+  "extract": "Andy Weir is an American novelist. His 2011 novel The Martian was adapted into the 2015 film of the same name. He received the John W. Campbell Award for Best New Writer in 2016. His 2021 novel Project Hail Mary was a finalist for the 2022 Hugo Award for Best Novel, and was adapted into the 2026 film of the same name.",
+  "extract_html": "<p><b>Andy Weir</b> is an American novelist. His 2011 novel <i>The Martian</i> was adapted into the 2015 film of the same name. He received the John W. Campbell Award for Best New Writer in 2016. His 2021 novel <i>Project Hail Mary</i> was a finalist for the 2022 Hugo Award for Best Novel, and was adapted into the 2026 film of the same name.</p>"
+}

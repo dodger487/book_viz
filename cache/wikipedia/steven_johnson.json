@@ -1,0 +1,39 @@
+{
+  "type": "disambiguation",
+  "title": "Steven Johnson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Steven Johnson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q528193",
+  "titles": {
+    "canonical": "Steven_Johnson",
+    "normalized": "Steven Johnson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Steven Johnson</span></span>"
+  },
+  "pageid": 1595211,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1209110777",
+  "tid": "ba91496e-cfd9-11ee-9048-01b25453d45b",
+  "timestamp": "2024-02-20T10:20:54Z",
+  "description": "Topics referred to by the same term",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Steven_Johnson",
+      "revisions": "https://en.wikipedia.org/wiki/Steven_Johnson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Steven_Johnson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Steven_Johnson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Steven_Johnson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Steven_Johnson",
+      "edit": "https://en.wikipedia.org/wiki/Steven_Johnson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Steven_Johnson"
+    }
+  },
+  "extract": "Steven Johnson may refer to:",
+  "extract_html": "<p><b>Steven Johnson</b> may refer to:</p>"
+}

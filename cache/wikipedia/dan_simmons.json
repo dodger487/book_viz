@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dan Simmons",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dan Simmons</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q297538",
+  "titles": {
+    "canonical": "Dan_Simmons",
+    "normalized": "Dan Simmons",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dan Simmons</span></span>"
+  },
+  "pageid": 8875,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/e1/Dan_Simmons_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 208,
+    "height": 265
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/e/e1/Dan_Simmons_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 208,
+    "height": 265
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1366322700",
+  "tid": "a7051c13-89a3-11f1-8958-afca0ea88b51",
+  "timestamp": "2026-07-27T10:12:20Z",
+  "description": "American science fiction and horror writer (1948\u20132026)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dan_Simmons",
+      "revisions": "https://en.wikipedia.org/wiki/Dan_Simmons?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dan_Simmons?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dan_Simmons"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Dan_Simmons",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Dan_Simmons",
+      "edit": "https://en.wikipedia.org/wiki/Dan_Simmons?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dan_Simmons"
+    }
+  },
+  "extract": "Daniel Joseph Simmons was an American science fiction and horror writer. He was the author of the Hyperion Cantos and the Ilium/Olympos cycles, among other works that span the science fiction, horror, and fantasy genres, sometimes within a single novel. Simmons's genre-intermingling Song of Kali (1985) won the World Fantasy Award. He also wrote mysteries and thrillers, some of which feature the continuing character Joe Kurtz.",
+  "extract_html": "<p><b>Daniel Joseph Simmons</b> was an American science fiction and horror writer. He was the author of the Hyperion Cantos and the Ilium/Olympos cycles, among other works that span the science fiction, horror, and fantasy genres, sometimes within a single novel. Simmons's genre-intermingling<i> Song of Kali</i> (1985) won the World Fantasy Award. He also wrote mysteries and thrillers, some of which feature the continuing character Joe Kurtz.</p>"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Doris Kearns Goodwin",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Doris Kearns Goodwin</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q442008",
+  "titles": {
+    "canonical": "Doris_Kearns_Goodwin",
+    "normalized": "Doris Kearns Goodwin",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Doris Kearns Goodwin</span></span>"
+  },
+  "pageid": 1751849,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NBF2024-doris-kearns-goodwin.jpg/330px-NBF2024-doris-kearns-goodwin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/NBF2024-doris-kearns-goodwin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3228,
+    "height": 4842
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364012288",
+  "tid": "4392e003-7f13-11f1-af8d-77f6ebef2775",
+  "timestamp": "2026-07-13T23:33:34Z",
+  "description": "American biographer and historian (born 1943)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin",
+      "revisions": "https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Doris_Kearns_Goodwin"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Doris_Kearns_Goodwin",
+      "edit": "https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Doris_Kearns_Goodwin"
+    }
+  },
+  "extract": "Doris Helen Kearns Goodwin is an American biographer, historian, former sports journalist, and political commentator. She has written biographies of numerous U.S. presidents. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995. Goodwin produced the American television miniseries Washington. She was also executive producer of Abraham Lincoln, a 2022 docudrama on the History Channel. This latter series was based on Goodwin's Leadership in Turbulent Times.",
+  "extract_html": "<p><b>Doris Helen Kearns Goodwin</b> is an American biographer, historian, former sports journalist, and political commentator. She has written biographies of numerous U.S. presidents. Goodwin's book <i>No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II</i> won the Pulitzer Prize for History in 1995. Goodwin produced the American television miniseries <i>Washington</i>. She was also executive producer of <i>Abraham Lincoln</i>, a 2022 docudrama on the History Channel. This latter series was based on Goodwin's <i>Leadership in Turbulent Times.</i></p>"
+}

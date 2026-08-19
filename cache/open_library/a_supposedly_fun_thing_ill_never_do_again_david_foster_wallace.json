@@ -1,0 +1,77 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL448939A"
+      ],
+      "author_name": [
+        "David Foster Wallace"
+      ],
+      "cover_edition_key": "OL1003184M",
+      "cover_i": 191074,
+      "ebook_access": "printdisabled",
+      "edition_count": 4,
+      "first_publish_year": 1997,
+      "has_fulltext": true,
+      "ia": [
+        "supposedlyfunthi00wall"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL2943597W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A supposedly fun thing I'll never do again"
+    },
+    {
+      "author_key": [
+        "OL448939A"
+      ],
+      "author_name": [
+        "David Foster Wallace"
+      ],
+      "cover_edition_key": "OL27685810M",
+      "cover_i": 9125632,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL20459710W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Supposedly Fun Thing I'll Never Do Again"
+    },
+    {
+      "author_key": [
+        "OL448939A"
+      ],
+      "author_name": [
+        "David Foster Wallace"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 1998,
+      "has_fulltext": false,
+      "key": "/works/OL28953101W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Supposedly Fun Thing I'll Never Do Again"
+    }
+  ]
+}

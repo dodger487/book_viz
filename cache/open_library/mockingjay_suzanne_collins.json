@@ -1,0 +1,156 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL26332553M",
+      "cover_i": 12646459,
+      "ebook_access": "borrowable",
+      "edition_count": 98,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "ziyouhuanmeng0000coll",
+        "dietributevonpan0000coll",
+        "sokaperesmeshnit0000coll",
+        "jieyouxi3chaoxia0000coll",
+        "aclikoyunlari3al0000suza",
+        "isbn_9789953879857",
+        "agonespeinasmock0000unse",
+        "isbn_8935235200067",
+        "isbn_9788804716716",
+        "isbn_9782298079739",
+        "mockingjay0000coll_p7e2",
+        "mockingjay0000coll_p2m9",
+        "mockingjay0000coll_d1c4",
+        "mockingjay0000coll_z5u9",
+        "mockingjay00coll",
+        "mockingjay0000coll",
+        "mockingjay0000coll_o0o5",
+        "mockingjay0000coll_l5r0",
+        "isbn_9780545788298",
+        "mockingjay0000coll_s2k8",
+        "isbn_9781594135866_0",
+        "mockingjay0000coll_g6r1",
+        "mockingjay0000coll_u9q0",
+        "mockingjay0000coll_j1q9",
+        "mockingjay0000coll_p0h3",
+        "mockingjay0000coll_b8u8",
+        "hungergamesiiila0000coll",
+        "mockingjay0000coll_p6l9",
+        "mockingjay0000unse",
+        "larevolte0000coll",
+        "ilcantodellarivo0000suza",
+        "sinsajo0000coll",
+        "sinsajo0000coll_x4f6",
+        "sinsajo0000unse",
+        "sinsajo0000suza",
+        "elsjocsdelafamii0000suza",
+        "orvaniayan0000coll",
+        "flammenderzorndi0000suza"
+      ],
+      "ia_collection": [
+        "americana",
+        "bannedbooks",
+        "delawarecountydistrictlibrary",
+        "friendsofthesanfranciscopubliclibrary",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL14908941W",
+      "language": [
+        "chi",
+        "ger",
+        "pol",
+        "por",
+        "vie",
+        "tur",
+        "fre",
+        "spa",
+        "ita",
+        "rus",
+        "heb",
+        "gre",
+        "eng",
+        "ara"
+      ],
+      "lending_edition_s": "OL61304813M",
+      "lending_identifier_s": "ziyouhuanmeng0000coll",
+      "public_scan_b": false,
+      "title": "Mockingjay"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL39475965M",
+      "cover_i": 12878880,
+      "ebook_access": "borrowable",
+      "edition_count": 29,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "dietributevonpan0000suza_u1a0",
+        "dietributevonpan0000suza_j0n9",
+        "suzannecollinshu0000unse"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15518787W",
+      "language": [
+        "eng",
+        "spa",
+        "pol",
+        "ger",
+        "ita",
+        "cat"
+      ],
+      "lending_edition_s": "OL48579294M",
+      "lending_identifier_s": "dietributevonpan0000suza_u1a0",
+      "public_scan_b": false,
+      "title": "The Hunger Games Trilogy (Hunger Games / Catching Fire / Mockingjay)"
+    },
+    {
+      "author_key": [
+        "OL1394359A"
+      ],
+      "author_name": [
+        "Suzanne Collins"
+      ],
+      "cover_edition_key": "OL34118379M",
+      "cover_i": 12024298,
+      "ebook_access": "no_ebook",
+      "edition_count": 11,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL35756566W",
+      "language": [
+        "fre",
+        "eng",
+        "spa"
+      ],
+      "public_scan_b": false,
+      "title": "The Hunger Games / Catching Fire / Mockingjay / The Ballad of Songbirds and Snakes"
+    }
+  ]
+}

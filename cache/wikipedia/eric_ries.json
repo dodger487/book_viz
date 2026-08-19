@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Eric Ries",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eric Ries</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q1752858",
+  "titles": {
+    "canonical": "Eric_Ries",
+    "normalized": "Eric Ries",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eric Ries</span></span>"
+  },
+  "pageid": 32588047,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Eric_Ries2.jpg/330px-Eric_Ries2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 470
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Eric_Ries2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 562,
+    "height": 800
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364180489",
+  "tid": "0b1004d8-7fe6-11f1-8149-84da9d12f8b2",
+  "timestamp": "2026-07-15T00:42:23Z",
+  "description": "American entrepreneur",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Eric_Ries",
+      "revisions": "https://en.wikipedia.org/wiki/Eric_Ries?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Eric_Ries?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Eric_Ries"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Eric_Ries",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Eric_Ries",
+      "edit": "https://en.wikipedia.org/wiki/Eric_Ries?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Eric_Ries"
+    }
+  },
+  "extract": "Eric Ries is an American entrepreneur, blogger, and author of The Lean Startup, a book on the lean startup movement. He is also the author of The Startup Way, a book on modern entrepreneurial management.",
+  "extract_html": "<p><b>Eric Ries</b> is an American entrepreneur, blogger, and author of <i>The Lean Startup</i>, a book on the lean startup movement. He is also the author of <i>The Startup Way</i>, a book on modern entrepreneurial management.</p>"
+}

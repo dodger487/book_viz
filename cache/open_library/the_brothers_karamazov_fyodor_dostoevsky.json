@@ -1,0 +1,86 @@
+{
+  "numFound": 37,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 37,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL22242A",
+        "OL9271534A"
+      ],
+      "author_name": [
+        "\u0424\u0451\u0434\u043e\u0440 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447 \u0414\u043e\u0441\u0442\u043e\u0435\u0432\u0441\u043a\u0438\u0439",
+        "Constance Garrett"
+      ],
+      "cover_edition_key": "OL32629839M",
+      "cover_i": 11263774,
+      "ebook_access": "no_ebook",
+      "edition_count": 7,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL24600223W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Brothers Karamazov"
+    },
+    {
+      "author_key": [
+        "OL22242A"
+      ],
+      "author_name": [
+        "\u0424\u0451\u0434\u043e\u0440 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447 \u0414\u043e\u0441\u0442\u043e\u0435\u0432\u0441\u043a\u0438\u0439"
+      ],
+      "cover_edition_key": "OL37044481M",
+      "cover_i": 12621719,
+      "ebook_access": "public",
+      "edition_count": 2,
+      "first_publish_year": 2019,
+      "has_fulltext": true,
+      "key": "/works/OL27292213W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": true,
+      "title": "The Brothers Karamazov",
+      "id_standard_ebooks": [
+        "fyodor-dostoevsky/the-brothers-karamazov/constance-garnett"
+      ]
+    },
+    {
+      "author_key": [
+        "OL22242A"
+      ],
+      "author_name": [
+        "\u0424\u0451\u0434\u043e\u0440 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447 \u0414\u043e\u0441\u0442\u043e\u0435\u0432\u0441\u043a\u0438\u0439"
+      ],
+      "cover_edition_key": "OL46874327M",
+      "cover_i": 14889143,
+      "ebook_access": "borrowable",
+      "edition_count": 5,
+      "first_publish_year": 1958,
+      "has_fulltext": true,
+      "ia": [
+        "brotherskaramazo0000unse_e1m0"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL272063W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL46874327M",
+      "lending_identifier_s": "brotherskaramazo0000unse_e1m0",
+      "public_scan_b": false,
+      "title": "The Brothers Karamazov"
+    }
+  ]
+}

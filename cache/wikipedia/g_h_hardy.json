@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "G. H. Hardy",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">G. H. Hardy</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q184337",
+  "titles": {
+    "canonical": "G._H._Hardy",
+    "normalized": "G. H. Hardy",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">G. H. Hardy</span></span>"
+  },
+  "pageid": 87599,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ghhardy%4072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 312,
+    "height": 368
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ghhardy%4072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 312,
+    "height": 368
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367697329",
+  "tid": "9fd5b38d-9024-11f1-a90b-b555da940f88",
+  "timestamp": "2026-08-04T16:50:40Z",
+  "description": "British mathematician (1877\u20131947)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/G._H._Hardy",
+      "revisions": "https://en.wikipedia.org/wiki/G._H._Hardy?action=history",
+      "edit": "https://en.wikipedia.org/wiki/G._H._Hardy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:G._H._Hardy"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/G._H._Hardy",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/G._H._Hardy",
+      "edit": "https://en.wikipedia.org/wiki/G._H._Hardy?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:G._H._Hardy"
+    }
+  },
+  "extract": "Godfrey Harold Hardy was an English mathematician, known for his achievements in number theory and mathematical analysis. In biology, he is known for the Hardy\u2013Weinberg principle, a basic principle of population genetics.",
+  "extract_html": "<p><b>Godfrey Harold Hardy</b> was an English mathematician, known for his achievements in number theory and mathematical analysis. In biology, he is known for the Hardy\u2013Weinberg principle, a basic principle of population genetics.</p>"
+}

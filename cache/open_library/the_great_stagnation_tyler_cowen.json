@@ -1,0 +1,47 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL30602A"
+      ],
+      "author_name": [
+        "Tyler Cowen"
+      ],
+      "cover_i": 7839953,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": false,
+      "key": "/works/OL17569194W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Great Stagnation"
+    },
+    {
+      "author_key": [
+        "OL30602A"
+      ],
+      "author_name": [
+        "Tyler Cowen"
+      ],
+      "cover_edition_key": "OL27294768M",
+      "cover_i": 8773076,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2015,
+      "has_fulltext": false,
+      "key": "/works/OL20114798W",
+      "public_scan_b": false,
+      "title": "The Great Stagnation-The Economic Malaise at a Technological Plateau: Problems of the United States and Opportunities for China Hardcover) (Chinese Edition)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Suzanne Collins",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Suzanne Collins</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q228624",
+  "titles": {
+    "canonical": "Suzanne_Collins",
+    "normalized": "Suzanne Collins",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Suzanne Collins</span></span>"
+  },
+  "pageid": 4196525,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Suzanne_Collins_David_Shankbone_2010.jpg/330px-Suzanne_Collins_David_Shankbone_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 412
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Suzanne_Collins_David_Shankbone_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1719,
+    "height": 2145
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367917000",
+  "tid": "3c34ab51-9128-11f1-b10e-0af790eec7cc",
+  "timestamp": "2026-08-05T23:49:02Z",
+  "description": "American author and television writer (born 1962)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Suzanne_Collins",
+      "revisions": "https://en.wikipedia.org/wiki/Suzanne_Collins?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Suzanne_Collins?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Suzanne_Collins"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Suzanne_Collins",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Suzanne_Collins",
+      "edit": "https://en.wikipedia.org/wiki/Suzanne_Collins?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Suzanne_Collins"
+    }
+  },
+  "extract": "Suzanne Collins is an American author and television writer who is best known as the author of the young adult dystopian fiction book series The Hunger Games. She is also the author of the children's fantasy series The Underland Chronicles.",
+  "extract_html": "<p><b>Suzanne Collins</b> is an American author and television writer who is best known as the author of the young adult dystopian fiction book series <i>The Hunger Games</i>. She is also the author of the children's fantasy series <i>The Underland Chronicles</i>.</p>"
+}

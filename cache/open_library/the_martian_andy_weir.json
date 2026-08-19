@@ -1,0 +1,116 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL7234434A"
+      ],
+      "author_name": [
+        "Andy Weir"
+      ],
+      "cover_edition_key": "OL32815550M",
+      "cover_i": 11447888,
+      "ebook_access": "borrowable",
+      "edition_count": 74,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "marsjanin0000andy",
+        "seulsurmars0000weir_t8y0",
+        "seulsurmars0000weir",
+        "masynnkoetchakwa0000weir",
+        "huoxingjiuyuan0000weir",
+        "huoxingrenwumart0000weir",
+        "martiannovel0000weir_k2e9",
+        "martiannovel0000weir_o9f4",
+        "elmarciano0000weir",
+        "martiannovel0000weir_q8t8",
+        "martian0721weir_n589",
+        "martiannovel0000weir",
+        "martiannovel0000weir_q5d7",
+        "martian2011weir",
+        "martiannovel0000weir_z3l8",
+        "martiannovel0000weir_o7f5",
+        "isbn_9780553418026"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "bpljordan-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "rochester-ol",
+        "salisburyfreelibrary-ol",
+        "stmaryscountylibrary",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "universityofthewest-ol",
+        "uslprototype",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL17091839W",
+      "language": [
+        "fre",
+        "spa",
+        "eng",
+        "ger",
+        "rum",
+        "dut",
+        "pol",
+        "heb",
+        "chi",
+        "hun",
+        "ita",
+        "dan",
+        "bel",
+        "por",
+        "ind",
+        "ara",
+        "kor"
+      ],
+      "lending_edition_s": "OL47698466M",
+      "lending_identifier_s": "marsjanin0000andy",
+      "public_scan_b": false,
+      "title": "The Martian"
+    },
+    {
+      "author_key": [
+        "OL7234434A"
+      ],
+      "author_name": [
+        "Andy Weir"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2022,
+      "has_fulltext": false,
+      "key": "/works/OL36735881W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Martian / Artemis / Project Hail Mary"
+    }
+  ]
+}

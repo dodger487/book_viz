@@ -1,0 +1,73 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Using the dot-com crash as an object lesson in how not to manage your portfolio, this is an informative guide to navigating the turbulence of the market and managing investments with confidence. With its life-cycle guide to investing, this book matches the needs of investors at any age bracket."
+  },
+  "title": "A Random Walk Down Wall Street",
+  "covers": [
+    246978
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "In this book I will take you on a random walk down Wall Street, providing a guided tour of the complex world of finance and practical advice on investment opportunities and strategies."
+  },
+  "first_publish_date": "1973",
+  "key": "/works/OL2000283W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL240888A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Stocks",
+    "Investments",
+    "Random walks (Mathematics)",
+    "Gestion financi\u00e8re",
+    "Actions de soci\u00e9t\u00e9s",
+    "Valores",
+    "Actions (Titres de soci\u00e9t\u00e9)",
+    "Trayectoria aleatoria (Matem\u00e1ticas)",
+    "Beleggingen",
+    "Investissements",
+    "Marches al\u00e9atoires (Math\u00e9matiques)",
+    "Processus stochastiques",
+    "open_syllabus_project",
+    "Actions de societes",
+    "Marches aleatoires (mathematiques)",
+    "Energy policy",
+    "Energy conservation",
+    "Aktienanlage",
+    "Strategie",
+    "New York Stock Exchange",
+    "Investissement",
+    "Bourse des valeurs",
+    "Aktienanalyse",
+    "B\u00f6rsenspekulation",
+    "Irrfahrtsproblem",
+    "BUSINESS & ECONOMICS",
+    "Investments & Securities",
+    "General",
+    "Portfolio-theorie",
+    "Random walks (statistiek)",
+    "Hg4521 .m284 2007",
+    "332.6"
+  ],
+  "latest_revision": 22,
+  "revision": 22,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:41:37.543448"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-16T05:18:02.228887"
+  }
+}

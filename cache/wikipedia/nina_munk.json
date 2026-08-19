@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Nina Munk",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nina Munk</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q7038049",
+  "titles": {
+    "canonical": "Nina_Munk",
+    "normalized": "Nina Munk",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nina Munk</span></span>"
+  },
+  "pageid": 23616424,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367941631",
+  "tid": "149e1064-9141-11f1-b363-94ff5eff37ef",
+  "timestamp": "2026-08-06T02:46:53Z",
+  "description": "Canadian-American journalist and non-fiction author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nina_Munk",
+      "revisions": "https://en.wikipedia.org/wiki/Nina_Munk?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nina_Munk?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nina_Munk"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Nina_Munk",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Nina_Munk",
+      "edit": "https://en.wikipedia.org/wiki/Nina_Munk?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nina_Munk"
+    }
+  },
+  "extract": "Nina Munk is a Canadian-American journalist and non-fiction author. She is the author or co-author of four books, including The Idealist: Jeffrey Sachs and the Quest to End Poverty and Fools Rush In: Jerry Levin, Steve Case, and the Unmaking of Time Warner. She is also the editor of the critical English translation of How It Happened: Documenting the Tragedy of Hungarian Jewry, an influential account of the Holocaust in Hungary written by Ern\u0151 Munk\u00e1csi in 1947. According to Publishers Marketplace, Munk is working on a new book for Alfred A. Knopf titled In My Dreams, We Are Together about \"her family in Hungary during the Holocaust\".",
+  "extract_html": "<p><b>Nina Munk</b> is a Canadian-American journalist and non-fiction author. She is the author or co-author of four books, including <i>The Idealist: Jeffrey Sachs and the Quest to End Poverty</i> and <i>Fools Rush In: Jerry Levin, Steve Case, and the Unmaking of Time Warner</i>. She is also the editor of the critical English translation of <i>How It Happened: Documenting the Tragedy of Hungarian Jewry</i>, an influential account of the Holocaust in Hungary written by Ern\u0151 Munk\u00e1csi in 1947. According to Publishers Marketplace, Munk is working on a new book for Alfred A. Knopf titled <i>In My Dreams, We Are Together</i> about \"her family in Hungary during the Holocaust\".</p>"
+}

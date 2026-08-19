@@ -1,0 +1,63 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL34888A"
+      ],
+      "author_name": [
+        "David Brin"
+      ],
+      "cover_edition_key": "OL25434327M",
+      "cover_i": 7266687,
+      "ebook_access": "printdisabled",
+      "edition_count": 4,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9780765342621",
+        "existence00brin"
+      ],
+      "ia_collection": [
+        "americana",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "stmaryscountylibrary"
+      ],
+      "key": "/works/OL16637274W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Existence"
+    },
+    {
+      "author_key": [
+        "OL34888A",
+        "OL2859542A",
+        "OL7868356A"
+      ],
+      "author_name": [
+        "David Brin",
+        "Robin Miles",
+        "L.J. Ganser"
+      ],
+      "cover_edition_key": "OL32181562M",
+      "cover_i": 10837217,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL24319050W",
+      "public_scan_b": false,
+      "title": "Existence"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6941842A"
+      ],
+      "author_name": [
+        "Chad Harbach"
+      ],
+      "cover_edition_key": "OL26300221M",
+      "cover_i": 8330636,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "artoffielding0000harb",
+        "isbn_9780316126670",
+        "artoffieldingnov00harb"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL15936402W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Art of Fielding"
+    },
+    {
+      "author_key": [
+        "OL6941842A"
+      ],
+      "author_name": [
+        "Chad Harbach"
+      ],
+      "cover_edition_key": "OL27129783M",
+      "cover_i": 11332414,
+      "ebook_access": "printdisabled",
+      "edition_count": 10,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "artoffieldingnov0000harb_f0u1",
+        "artoffielding0000harb_h6h0"
+      ],
+      "ia_collection": [
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "uni-ol"
+      ],
+      "key": "/works/OL19949436W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The art of fielding"
+    },
+    {
+      "author_key": [
+        "OL6941842A"
+      ],
+      "author_name": [
+        "Chad Harbach"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL17698075W",
+      "public_scan_b": false,
+      "title": "The Art of Fielding"
+    }
+  ]
+}

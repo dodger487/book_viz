@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Tyler Cowen",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tyler Cowen</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q602278",
+  "titles": {
+    "canonical": "Tyler_Cowen",
+    "normalized": "Tyler Cowen",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tyler Cowen</span></span>"
+  },
+  "pageid": 2216379,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tyler_Cowen_1.jpg/330px-Tyler_Cowen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 496
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tyler_Cowen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2000,
+    "height": 3008
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1369747209",
+  "tid": "154866a9-99c1-11f1-a8ba-e1614678271e",
+  "timestamp": "2026-08-16T22:23:19Z",
+  "description": "American economist (born 1962)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Tyler_Cowen",
+      "revisions": "https://en.wikipedia.org/wiki/Tyler_Cowen?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Tyler_Cowen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tyler_Cowen"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Tyler_Cowen",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Tyler_Cowen",
+      "edit": "https://en.wikipedia.org/wiki/Tyler_Cowen?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Tyler_Cowen"
+    }
+  },
+  "extract": "Tyler Cowen is an American economist, author, and public intellectual. He is the Holbert L. Harris Professor of Economics at George Mason University and serves as chairman of the university\u2019s Mercatus Center. Cowen is widely known for his blog Marginal Revolution, which he has co-authored with Alex Tabarrok since 2003, and for hosting the interview podcast Conversations with Tyler.",
+  "extract_html": "<p><b>Tyler Cowen</b> is an American economist, author, and public intellectual. He is the Holbert L. Harris Professor of Economics at George Mason University and serves as chairman of the university\u2019s Mercatus Center. Cowen is widely known for his blog <span><i>Marginal Revolution</i></span>, which he has co-authored with Alex Tabarrok since 2003, and for hosting the interview podcast <i>Conversations with Tyler</i>.</p>"
+}

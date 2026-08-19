@@ -1,0 +1,92 @@
+{
+  "numFound": 7,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 7,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL240995A"
+      ],
+      "author_name": [
+        "Don Winslow"
+      ],
+      "cover_edition_key": "OL24328678M",
+      "cover_i": 6454395,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "savages00donw"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "printdisabled",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL15267415W",
+      "public_scan_b": false,
+      "title": "Savages"
+    },
+    {
+      "author_key": [
+        "OL5407295A"
+      ],
+      "author_name": [
+        "Don Winslow"
+      ],
+      "cover_edition_key": "OL32935872M",
+      "cover_i": 11555379,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL24793132W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Savages"
+    },
+    {
+      "author_key": [
+        "OL240995A"
+      ],
+      "author_name": [
+        "Don Winslow"
+      ],
+      "cover_edition_key": "OL26388481M",
+      "cover_i": 8082653,
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "savages0000wins_z1y6",
+        "isbn_9781451672534"
+      ],
+      "ia_collection": [
+        "delawarecountydistrictlibrary-ol",
+        "internetarchivebooks",
+        "printdisabled",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL17798923W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Savages"
+    }
+  ]
+}

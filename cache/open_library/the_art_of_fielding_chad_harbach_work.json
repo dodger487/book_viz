@@ -1,0 +1,118 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "At Westish College, a small school on the shore of Lake Michigan, baseball star Henry Skrimshander seems destined for big league stardom. But when a routine throw goes disastrously off course, the fates of five people are upended.\r\n\r\nHenry\u2019s fight against self-doubt threatens to ruin his future. College president Guert Affenlight, a longtime bachelor, has fallen unexpectedly and helplessly in love. Owen Dunne, Henry\u2019s gay roommate and teammate, becomes caught up in a dangerous affair. Mike Schwartz, the Harpooners\u2019 team captain and Henry\u2019s best friend, realizes he has guided Henry\u2019s career at the expense of his own. And Pella Affenlight, Guert\u2019s daughter, returns to Westish after escaping an ill-fated marriage, determined to start a new life.\r\n\r\nAs the season counts down to its climactic final game, these five are forced to confront their deepest hopes, anxieties, and secrets. In the process they forge new bonds, and help one another find their true paths. Written with boundless intelligence and filled with the tenderness of youth, The Art of Fielding is an expansive, warmhearted novel about ambition and its limits, about family and friendship and love, and about commitment\u2013to oneself and to others."
+  },
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Art_of_Fielding",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Art of Fielding - Wikipedia"
+    },
+    {
+      "url": "https://www.nytimes.com/2011/09/11/books/review/the-art-of-fielding-by-chad-harbach-book-review.html",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Big League Anxiety on the Baseball Diamond"
+    },
+    {
+      "url": "https://www.theguardian.com/books/2012/jan/29/art-fielding-chad-harbach-review",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Art of Fielding by Chad Harbach \u2013 review"
+    },
+    {
+      "url": "https://www.theguardian.com/books/2012/jan/12/art-fielding-chad-harbach-review",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Art of Fielding by Chad Harbach \u2013 review"
+    },
+    {
+      "url": "https://www.telegraph.co.uk/culture/books/bookreviews/9008357/The-Art-of-Fielding-by-Chad-Harbach-review.html",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Art of Fielding by Chad Harbach: review"
+    },
+    {
+      "url": "http://www.nytimes.com/2011/09/06/books/the-art-of-fielding-by-chad-harbach-review.html",
+      "title": "New York Times review",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Art of Fielding",
+  "covers": [
+    8330636
+  ],
+  "subject_places": [
+    "Region Michigan, Lake",
+    "Lake Michigan",
+    "Great Lakes Region (North America)",
+    "Michigan",
+    "Westish College"
+  ],
+  "subjects": [
+    "College students",
+    "Baseball players",
+    "Interpersonal relations",
+    "Fiction",
+    "nyt:hardcover_fiction=2011-10-22",
+    "New York Times bestseller",
+    "psychological fiction",
+    "college stories",
+    "Fiction, psychological",
+    "Baseball players, fiction",
+    "Wisconsin, fiction",
+    "New York Times reviewed",
+    "Baseball",
+    "Students"
+  ],
+  "subject_people": [
+    "Henry Skrimshander",
+    "Guert Affenlight",
+    "Owen Dunne",
+    "Mike Schwartz",
+    "the Harpooners",
+    "Pella Affenlight"
+  ],
+  "key": "/works/OL15936402W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6941842A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "comment": "first sentence",
+      "excerpt": "Schwartz didn't notice the kid during the game.",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 23,
+  "revision": 23,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-07-26T18:15:23.772447"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-06T19:07:21.272965"
+  }
+}

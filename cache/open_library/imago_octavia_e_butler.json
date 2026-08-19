@@ -1,0 +1,45 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL30802A"
+      ],
+      "author_name": [
+        "Octavia E. Butler"
+      ],
+      "cover_edition_key": "OL2050384M",
+      "cover_i": 8029475,
+      "ebook_access": "printdisabled",
+      "edition_count": 17,
+      "first_publish_year": 1989,
+      "has_fulltext": true,
+      "ia": [
+        "imago00octa",
+        "imago00butl",
+        "imago00butl_0"
+      ],
+      "ia_collection": [
+        "americana",
+        "delawarecountydistrictlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL35613W",
+      "language": [
+        "eng",
+        "fre",
+        "spa",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Imago"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "numFound": 2,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 2,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL13698884A"
+      ],
+      "author_name": [
+        "Arnold Schwarzenegger"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45421930W",
+      "public_scan_b": false,
+      "title": "Total Recall: My Unbelievably True Life Story"
+    },
+    {
+      "author_key": [
+        "OL79023A"
+      ],
+      "author_name": [
+        "Arnold Schwarzenegger"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL45398677W",
+      "public_scan_b": false,
+      "title": "Total Recall: My Unbelievably True Life Story"
+    }
+  ]
+}

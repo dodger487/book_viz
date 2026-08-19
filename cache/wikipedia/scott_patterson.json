@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Scott Patterson",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Scott Patterson</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q546119",
+  "titles": {
+    "canonical": "Scott_Patterson",
+    "normalized": "Scott Patterson",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Scott Patterson</span></span>"
+  },
+  "pageid": 976906,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Scott_Patterson_Photo_Op_GalaxyCon_Richmond_2020.jpg/330px-Scott_Patterson_Photo_Op_GalaxyCon_Richmond_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 421
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Scott_Patterson_Photo_Op_GalaxyCon_Richmond_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1268,
+    "height": 1619
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1361290477",
+  "tid": "b895b196-71b6-11f1-821a-746edc7494ed",
+  "timestamp": "2026-06-26T23:28:22Z",
+  "description": "American actor (born 1958)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Scott_Patterson",
+      "revisions": "https://en.wikipedia.org/wiki/Scott_Patterson?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Scott_Patterson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Scott_Patterson"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Scott_Patterson",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Scott_Patterson",
+      "edit": "https://en.wikipedia.org/wiki/Scott_Patterson?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Scott_Patterson"
+    }
+  },
+  "extract": "Scott Patterson is an American actor and former baseball player. He is known for his roles as Luke Danes in Gilmore Girls (2000\u20132007) and Peter Strahm in the Saw film series (2007\u20132009). He also starred as Michael Buchanan in the NBC drama series The Event and as a Tenctonese alien commander in the TV film Alien Nation: Dark Horizon. Since 2023, Patterson has played the recurring role of Harry 'Sully' Sullivan on the Canadian television series Sullivan's Crossing.",
+  "extract_html": "<p><b>Scott Patterson</b> is an American actor and former baseball player. He is known for his roles as Luke Danes in <i>Gilmore Girls</i> (2000\u20132007) and Peter Strahm in the <span><i>Saw</i> film series</span> (2007\u20132009). He also starred as Michael Buchanan in the NBC drama series <i>The Event</i> and as a Tenctonese alien commander in the TV film <i>Alien Nation: Dark Horizon</i>. Since 2023, Patterson has played the recurring role of Harry 'Sully' Sullivan on the Canadian television series <i>Sullivan's Crossing.</i></p>"
+}

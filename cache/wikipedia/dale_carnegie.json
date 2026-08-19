@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Dale Carnegie",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dale Carnegie</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q230762",
+  "titles": {
+    "canonical": "Dale_Carnegie",
+    "normalized": "Dale Carnegie",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dale Carnegie</span></span>"
+  },
+  "pageid": 254015,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dale_Carnegie_%281937%29.jpg/330px-Dale_Carnegie_%281937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 447
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dale_Carnegie_%281937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 384,
+    "height": 520
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368232842",
+  "tid": "8d69aa31-92a4-11f1-bf63-357dd681fdac",
+  "timestamp": "2026-08-07T21:11:27Z",
+  "description": "American writer and lecturer (1888\u20131955)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Dale_Carnegie",
+      "revisions": "https://en.wikipedia.org/wiki/Dale_Carnegie?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Dale_Carnegie?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dale_Carnegie"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Dale_Carnegie",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Dale_Carnegie",
+      "edit": "https://en.wikipedia.org/wiki/Dale_Carnegie?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Dale_Carnegie"
+    }
+  },
+  "extract": "Dale Carnegie was an American writer and teacher of courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills. Born into poverty on a farm in Missouri, he was the author of How to Win Friends and Influence People (1936), a bestseller that remains popular today. He also wrote How to Stop Worrying and Start Living (1948), Lincoln the Unknown (1932), and several other books.",
+  "extract_html": "<p><b>Dale Carnegie</b> was an American writer and teacher of courses in self-improvement, salesmanship, corporate training, public speaking, and interpersonal skills. Born into poverty on a farm in Missouri, he was the author of <i>How to Win Friends and Influence People</i> (1936), a bestseller that remains popular today. He also wrote <i>How to Stop Worrying and Start Living</i> (1948), <i>Lincoln the Unknown</i> (1932), and several other books.</p>"
+}

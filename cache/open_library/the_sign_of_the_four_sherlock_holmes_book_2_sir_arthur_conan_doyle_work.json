@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Sign of the Four Sherlock Holmes Book 2",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL161167A"
+      }
+    }
+  ],
+  "key": "/works/OL36165416W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-07-17T17:55:52.264128"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-06T08:57:43.265909"
+  }
+}

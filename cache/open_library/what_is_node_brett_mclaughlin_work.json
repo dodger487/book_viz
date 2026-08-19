@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "What Is Node?",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1437280A"
+      }
+    }
+  ],
+  "key": "/works/OL27069171W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-01-27T04:14:33.464819"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-01-27T04:14:33.464819"
+  }
+}

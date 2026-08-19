@@ -1,0 +1,74 @@
+{
+  "description": "Written by the authors of the 10 volume *The Story of Civilization*, this short (fewer than 120 pages) work notes \"events and comments that might illuminate present affairs, future probabilities, the nature of man, and the conduct of states.\" Its 13 chapters discuss historiography (what is history), history and the earth, history and biology, race, character, morals, religion, economics, socialism, government, war, growth and decay. The final chapter asks, \"Is progress real?\"",
+  "covers": [
+    7240225,
+    7240224,
+    6629386,
+    7381492,
+    10105603,
+    11289816,
+    809482,
+    14899723,
+    13731874,
+    10187599
+  ],
+  "key": "/works/OL1073956W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL109674A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2673403A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL7980366A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL7980367A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "The Lessons of History",
+  "subjects": [
+    "Philosophy",
+    "History",
+    "History, philosophy",
+    "World history",
+    "Histoire",
+    "Philosophie",
+    "Wen hua shi .",
+    "Shi jie shi"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:23:46.806100"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-28T11:24:54.216846"
+  }
+}

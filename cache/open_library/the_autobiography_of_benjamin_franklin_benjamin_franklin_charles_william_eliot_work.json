@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "The Autobiography Of Benjamin Franklin, The Journal Of John Woolman, Fruits Of S",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL11487617A"
+      }
+    }
+  ],
+  "key": "/works/OL31548460W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-12-07T20:42:29.249548"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-07T20:42:29.249548"
+  }
+}

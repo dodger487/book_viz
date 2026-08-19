@@ -1,0 +1,39 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL242268A",
+        "OL2685050A"
+      ],
+      "author_name": [
+        "Geraldine Brooks",
+        "Heidi Pitlor"
+      ],
+      "cover_i": 7616754,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "isbn_9780547242088"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL17457262W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Best American Short Stories 2011"
+    }
+  ]
+}

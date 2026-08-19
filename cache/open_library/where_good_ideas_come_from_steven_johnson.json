@@ -1,0 +1,73 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL389304A"
+      ],
+      "author_name": [
+        "Steven Johnson"
+      ],
+      "cover_edition_key": "OL24369699M",
+      "cover_i": 6602963,
+      "ebook_access": "printdisabled",
+      "edition_count": 5,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "wheregoodideasco00stev"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "stmaryscountylibrary"
+      ],
+      "key": "/works/OL15392361W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Where good ideas come from"
+    },
+    {
+      "author_key": [
+        "OL4869659A"
+      ],
+      "author_name": [
+        "Steven Johnson"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 0,
+      "has_fulltext": false,
+      "key": "/works/OL28356611W",
+      "public_scan_b": false,
+      "title": "Where Good Ideas Come From"
+    },
+    {
+      "author_key": [
+        "OL389304A"
+      ],
+      "author_name": [
+        "Steven Johnson"
+      ],
+      "cover_edition_key": "OL27095744M",
+      "cover_i": 8734604,
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL32948450W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Where Good Ideas Come From"
+    }
+  ]
+}

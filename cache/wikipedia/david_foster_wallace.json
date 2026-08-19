@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David Foster Wallace",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Foster Wallace</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313246",
+  "titles": {
+    "canonical": "David_Foster_Wallace",
+    "normalized": "David Foster Wallace",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Foster Wallace</span></span>"
+  },
+  "pageid": 45368,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/David_Foster_Wallace_in_2006.jpg/330px-David_Foster_Wallace_in_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 263
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/David_Foster_Wallace_in_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1113,
+    "height": 888
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368598866",
+  "tid": "eb3ef3bc-9458-11f1-8a3a-11fe91ec3de8",
+  "timestamp": "2026-08-10T01:15:05Z",
+  "description": "American writer (1962\u20132008)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_Foster_Wallace",
+      "revisions": "https://en.wikipedia.org/wiki/David_Foster_Wallace?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_Foster_Wallace?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Foster_Wallace"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_Foster_Wallace",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Foster_Wallace",
+      "edit": "https://en.wikipedia.org/wiki/David_Foster_Wallace?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Foster_Wallace"
+    }
+  },
+  "extract": "David Foster Wallace was an American writer and professor who published novels, short stories, and essays. He is most widely known for his 1996 novel Infinite Jest. In 2008, David Ulin wrote for the Los Angeles Times that Wallace was \"one of the most influential and innovative writers of the last twenty years\".",
+  "extract_html": "<p><b>David Foster Wallace</b> was an American writer and professor who published novels, short stories, and essays. He is most widely known for his 1996 novel <i>Infinite Jest</i>. In 2008, David Ulin wrote for the <i>Los Angeles Times</i> that Wallace was \"one of the most influential and innovative writers of the last twenty years\".</p>"
+}

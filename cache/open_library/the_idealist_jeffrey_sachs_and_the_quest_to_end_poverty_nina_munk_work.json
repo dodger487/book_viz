@@ -1,0 +1,37 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-10T06:18:41.297501"
+  },
+  "subjects": [
+    "Poverty",
+    "Economic development projects",
+    "International cooperation",
+    "Community development",
+    "Millennium Villages (Project)"
+  ],
+  "latest_revision": 2,
+  "key": "/works/OL19111151W",
+  "title": "The Idealist: Jeffrey Sachs and the Quest to End Poverty",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1603833A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-12T14:01:57.517669"
+  },
+  "covers": [
+    8420418
+  ],
+  "revision": 2
+}

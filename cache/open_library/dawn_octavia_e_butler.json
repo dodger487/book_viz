@@ -1,0 +1,44 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL30802A",
+        "OL7922775A"
+      ],
+      "author_name": [
+        "Octavia E. Butler",
+        "Aldrich Barrett"
+      ],
+      "cover_edition_key": "OL7534920M",
+      "cover_i": 285158,
+      "ebook_access": "printdisabled",
+      "edition_count": 20,
+      "first_publish_year": 1987,
+      "has_fulltext": true,
+      "ia": [
+        "dawn0000butl",
+        "dawn00butl",
+        "dawn00butl"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL35628W",
+      "language": [
+        "eng",
+        "fre",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Dawn"
+    }
+  ]
+}

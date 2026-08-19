@@ -1,0 +1,103 @@
+{
+  "numFound": 3,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 3,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL109674A",
+        "OL2673403A",
+        "OL7980366A",
+        "OL7980367A"
+      ],
+      "author_name": [
+        "Will Durant",
+        "Ariel Durant",
+        "Ni yu ping",
+        "Zhang kang"
+      ],
+      "cover_i": 7240225,
+      "ebook_access": "borrowable",
+      "edition_count": 25,
+      "first_publish_year": 1968,
+      "has_fulltext": true,
+      "ia": [
+        "lishidejiaoxun0000unse",
+        "bwb_O7-CSO-525",
+        "lessonsfromhisto0000will",
+        "lessonsofhistory0000will_m9b7",
+        "isbn_0671413333",
+        "lessonsofhistory00dura",
+        "lessonsofhistory0000dura"
+      ],
+      "ia_collection": [
+        "ambslibrary-ol",
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "drakeuniversity-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "marygrovecollege",
+        "openlibrary-d-ol",
+        "popularchinesebooks",
+        "printdisabled",
+        "the-claremont-colleges-ol",
+        "unb-ol",
+        "uni-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol",
+        "wrlc-ol"
+      ],
+      "key": "/works/OL1073956W",
+      "language": [
+        "chi",
+        "per",
+        "eng",
+        "fre"
+      ],
+      "lending_edition_s": "OL28258979M",
+      "lending_identifier_s": "lishidejiaoxun0000unse",
+      "public_scan_b": false,
+      "title": "The Lessons of History"
+    },
+    {
+      "author_key": [
+        "OL109674A",
+        "OL2673403A"
+      ],
+      "author_name": [
+        "Will Durant",
+        "Ariel Durant"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL31696046W",
+      "public_scan_b": false,
+      "title": "The Story of Civilization, including Lessons of History"
+    },
+    {
+      "author_key": [
+        "OL109674A",
+        "OL2673403A"
+      ],
+      "author_name": [
+        "Will Durant",
+        "Ariel Durant"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "has_fulltext": false,
+      "key": "/works/OL37803576W",
+      "public_scan_b": false,
+      "title": "The Story of Civilization ; 11 Volumes & Lesson of History"
+    }
+  ]
+}

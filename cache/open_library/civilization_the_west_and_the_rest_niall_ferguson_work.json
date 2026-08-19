@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Civilization, The West and the Rest",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10520073A"
+      }
+    }
+  ],
+  "key": "/works/OL43145694W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-04-29T00:14:55.017877"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-04-29T00:14:55.017877"
+  }
+}

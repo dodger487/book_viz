@@ -1,0 +1,133 @@
+{
+  "description": "The Circle is a 2013 dystopian novel written by American author Dave Eggers. The novel chronicles tech worker Mae Holland as she joins a powerful Internet company. Her initially rewarding experience turns darker.",
+  "links": [
+    {
+      "title": "The Circle (Eggers novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel)",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Circle by Dave Eggers \u2013 review",
+      "url": "https://www.theguardian.com/books/2013/oct/09/circle-dave-eggers-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "The Circle by Dave Eggers \u2013 review",
+      "url": "https://www.theguardian.com/books/2013/oct/12/the-circle-dave-eggers-review",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "DAVE EGGERS' THE CIRCLE: WHAT THE INTERNET LOOKS LIKE IF YOU DON'T UNDERSTAND IT",
+      "url": "https://www.wired.com/2013/10/the-circle-review-dave-eggers/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "The Circle",
+  "covers": [
+    8334682,
+    -1,
+    8739234,
+    8759608,
+    8933183,
+    10502270,
+    11571872,
+    8547675,
+    7346592,
+    12049254,
+    14451433
+  ],
+  "subject_places": [
+    "San Francisco",
+    "California"
+  ],
+  "subjects": [
+    "multiple sclerosis",
+    "internet phobia",
+    "dystopia",
+    "future",
+    "sci-fi",
+    "literary fiction",
+    "suspense",
+    "thriller",
+    "fiction",
+    "technology",
+    "social media",
+    "privacy",
+    "internet",
+    "literature",
+    "Memory",
+    "Internet industry",
+    "High technology industries",
+    "Technology and civilization",
+    "FICTION / Literary",
+    "FICTION / Technological",
+    "Online social networks",
+    "Right of Privacy",
+    "Information society",
+    "Large type books",
+    "Dystopias",
+    "Information technology",
+    "Fiction, suspense",
+    "Fiction, satire",
+    "Fiction, dystopian",
+    "nyt:combined-print-and-e-book-fiction=2013-10-27",
+    "New York Times bestseller",
+    "Drama",
+    "Employees",
+    "Fiction, thrillers, suspense",
+    "Social aspects",
+    "Romans, nouvelles",
+    "Industrie",
+    "M\u00e9dias sociaux",
+    "Literary",
+    "Technological",
+    "General"
+  ],
+  "subject_people": [
+    "Mae Holland"
+  ],
+  "key": "/works/OL16808654W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL32722A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "Near Future"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "excerpts": [
+    {
+      "excerpt": "My God, Mae thought.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "latest_revision": 45,
+  "revision": 45,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2013-11-05T20:04:09.187628"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-12-24T00:45:21.900204"
+  }
+}

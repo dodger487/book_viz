@@ -1,0 +1,116 @@
+{
+  "numFound": 11,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 11,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL1391432A"
+      ],
+      "author_name": [
+        "Evelyn Waugh"
+      ],
+      "cover_edition_key": "OL11999754M",
+      "cover_i": 3005656,
+      "ebook_access": "borrowable",
+      "edition_count": 80,
+      "first_publish_year": 1933,
+      "has_fulltext": true,
+      "ia": [
+        "scoopetcpenguinb0000evel",
+        "scoopnovel0000waug",
+        "scoopnovelaboutj0000unse_z8i3",
+        "bwb_S0-AJM-233",
+        "bwb_KT-182-139",
+        "bwb_KU-425-145",
+        "scooppenguinmode0000evel",
+        "scoop0000evel_s7g3",
+        "scoop0000evel_e8j7",
+        "scoopnovel0000evel",
+        "bwb_KR-254-300",
+        "scoopnovelaboutj0000waug",
+        "scoop0000waug_u0u4",
+        "scoopnovelaboutj0000waug_m8u4",
+        "scoop00waug"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "cua-ol",
+        "gwulibraries-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "johnshopkins-ol",
+        "marygrovecollege",
+        "occidentalcollegelibrary-ol",
+        "printdisabled",
+        "spokanepubliclibrary-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL5721472W",
+      "language": [
+        "eng",
+        "swe"
+      ],
+      "lending_edition_s": "OL47686372M",
+      "lending_identifier_s": "scoopetcpenguinb0000evel",
+      "public_scan_b": false,
+      "title": "Scoop"
+    },
+    {
+      "author_key": [
+        "OL1391432A"
+      ],
+      "author_name": [
+        "Evelyn Waugh"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 5,
+      "first_publish_year": 1961,
+      "has_fulltext": false,
+      "key": "/works/OL5721519W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Scoop / Put Out More Flags"
+    },
+    {
+      "author_key": [
+        "OL1391432A"
+      ],
+      "author_name": [
+        "Evelyn Waugh"
+      ],
+      "ebook_access": "borrowable",
+      "edition_count": 4,
+      "first_publish_year": 1977,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_KU-208-740"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL5721412W",
+      "language": [
+        "eng"
+      ],
+      "lending_edition_s": "OL58634119M",
+      "lending_identifier_s": "bwb_KU-208-740",
+      "public_scan_b": false,
+      "title": "Decline and Fall / Black Mischief / A Handful of Dust / Scoop /  Put Out More Flags / Brideshead Revisited"
+    }
+  ]
+}

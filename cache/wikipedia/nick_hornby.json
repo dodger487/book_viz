@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Nick Hornby",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nick Hornby</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q313007",
+  "titles": {
+    "canonical": "Nick_Hornby",
+    "normalized": "Nick Hornby",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nick Hornby</span></span>"
+  },
+  "pageid": 169873,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nick_Hornby_01_%28cropped%29.jpg/330px-Nick_Hornby_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 339
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nick_Hornby_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2497,
+    "height": 2563
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1369834505",
+  "tid": "766250f6-9a3e-11f1-9e71-139d84ed7ff5",
+  "timestamp": "2026-08-17T13:20:49Z",
+  "description": "English writer (born 1957)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Nick_Hornby",
+      "revisions": "https://en.wikipedia.org/wiki/Nick_Hornby?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Nick_Hornby?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nick_Hornby"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Nick_Hornby",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Nick_Hornby",
+      "edit": "https://en.wikipedia.org/wiki/Nick_Hornby?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Nick_Hornby"
+    }
+  },
+  "extract": "Nicholas Peter John Hornby is an English writer. He is best known for his memoir Fever Pitch (1992) and novels High Fidelity (1995) and About a Boy (1998), all of which were adapted into feature films. Hornby's work frequently touches upon music, sport, and the aimless and obsessive natures of his protagonists. His books have sold more than 5 million copies worldwide as of 2018. In a 2004 poll for the BBC, Hornby was named the 29th most influential person in British culture. He has received two Academy Award for Best Adapted Screenplay nominations for An Education (2009), and Brooklyn (2015).",
+  "extract_html": "<p><b>Nicholas Peter John Hornby</b> is an English writer. He is best known for his memoir <i>Fever Pitch</i> (1992) and novels <i>High Fidelity</i> (1995) and <i>About a Boy</i> (1998), all of which were adapted into feature films. Hornby's work frequently touches upon music, sport, and the aimless and obsessive natures of his protagonists. His books have sold more than 5 million copies worldwide as of 2018. In a 2004 poll for the BBC, Hornby was named the 29th most influential person in British culture. He has received two Academy Award for Best Adapted Screenplay nominations for <i>An Education</i> (2009), and <i>Brooklyn</i> (2015).</p>"
+}

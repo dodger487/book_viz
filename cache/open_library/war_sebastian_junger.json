@@ -1,0 +1,104 @@
+{
+  "numFound": 10,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 10,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL389527A"
+      ],
+      "author_name": [
+        "Sebastian Junger"
+      ],
+      "cover_edition_key": "OL24409181M",
+      "cover_i": 6717162,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL15441627W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "War"
+    },
+    {
+      "author_key": [
+        "OL389527A"
+      ],
+      "author_name": [
+        "Sebastian Junger"
+      ],
+      "cover_edition_key": "OL47209791M",
+      "cover_i": 13641370,
+      "ebook_access": "printdisabled",
+      "edition_count": 11,
+      "first_publish_year": 2010,
+      "has_fulltext": true,
+      "ia": [
+        "war00jung"
+      ],
+      "ia_collection": [
+        "americana",
+        "barryuniversity-ol",
+        "cua-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "goffstownlibrary-ol",
+        "gwulibraries-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "marymount-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "stmaryscountylibrary",
+        "udc-ol",
+        "uni-ol",
+        "universityofarizona-ol",
+        "universityofoklahoma-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL16465523W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "War"
+    },
+    {
+      "author_key": [
+        "OL389527A"
+      ],
+      "author_name": [
+        "Sebastian Junger"
+      ],
+      "cover_edition_key": "OL24227043M",
+      "cover_i": 6387380,
+      "ebook_access": "no_ebook",
+      "edition_count": 3,
+      "first_publish_year": 2010,
+      "has_fulltext": false,
+      "key": "/works/OL15158420W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "War"
+    }
+  ]
+}

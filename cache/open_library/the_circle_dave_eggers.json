@@ -1,0 +1,58 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL32722A"
+      ],
+      "author_name": [
+        "Dave Eggers"
+      ],
+      "cover_edition_key": "OL25433174M",
+      "cover_i": 8334682,
+      "ebook_access": "borrowable",
+      "edition_count": 38,
+      "first_publish_year": 2013,
+      "has_fulltext": true,
+      "ia": [
+        "circulocircle0000dave",
+        "elcirculo0000egge",
+        "decirkel0000egge",
+        "cember0000egge",
+        "dercircle0000dave",
+        "lecerclebestsell0000dave",
+        "circlenovelblack0000egge",
+        "circlenovel0000egge_u3n7",
+        "circlenovel0000egge_l4q1",
+        "circlenovel0000egge_k9i8",
+        "circlenovel0000egge_q0s3",
+        "circlenovel0000egge_l4b7",
+        "circle00dave"
+      ],
+      "ia_collection": [
+        "inlibrary",
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL16808654W",
+      "language": [
+        "eng",
+        "ger",
+        "tur",
+        "spa",
+        "chi",
+        "dut"
+      ],
+      "lending_edition_s": "OL44267919M",
+      "lending_identifier_s": "circulocircle0000dave",
+      "public_scan_b": false,
+      "title": "The Circle"
+    }
+  ]
+}

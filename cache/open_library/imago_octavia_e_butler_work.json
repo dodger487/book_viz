@@ -1,0 +1,62 @@
+{
+  "first_publish_date": "1989",
+  "description": "Die Oankali, reisende galaktische Genhaendler, haben die menschliche Spezies als genetische Fehlentwicklung und als Gefahr f\u00fcr die Entwicklung des Lebens im Kosmos erkannt und ihr die F\u00e4higkeit zur Fortpflanzung genommen. Die ersten \u00bbKonstruierten\u00ab, genetische Mischlinge aus Oankali und Menschen, versuchen zu vermitteln, doch vergeblich. Obwohl die Lage der Erdbewohner verzweifelt ist und die Reste ihrer Zivilisation in Barbarei zu versinken drohen, halten sie an ihrem Fremdenha\u00df fest und interpretieren ihre Paranoia als Patriotismus und Tapferkeit. \r\nDa tritt Jodahs auf, der erste konstruierte Ooloi, Mischling von Oankali und Mensch, der als Geschlechtloser \u00fcber die Gabe des Genheilens verf\u00fcgt. Durch seine Abstammung hat er ein menschen\u00e4hnliches Aussehen, und es gelingt ihm eher, das Vertrauen der Erdbewohner zu gewinnen und ihnen zu helfen, den Abscheu vor dem Fremden zu \u00fcberwinden. Und durch sein in Jahrmillionen biologisch trainiertes Oankali-Erbe setzt er die st\u00e4rkste Waffe ein, die es im Universum gibt: die sexuelle Attraktion",
+  "title": "Imago",
+  "covers": [
+    8029475,
+    286807,
+    -1,
+    10840554,
+    13934441
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "I slipped into my first metamorphosis so quietly that no one noticed."
+  },
+  "lc_classifications": [
+    "PS3552.U827 I44 1989"
+  ],
+  "key": "/works/OL35613W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL30802A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "excerpts": [
+    {
+      "excerpt": "I slipped into my first metamorphosis so quietly that no one noticed."
+    }
+  ],
+  "subjects": [
+    "Fiction, science fiction, general",
+    "Genetic engineering",
+    "Fiction",
+    "Persoonlijke integriteit",
+    "Genetisch materiaal",
+    "Menselijk lichaam",
+    "Science fiction",
+    "series:Xenogenesis",
+    "series:Lilith's Brood"
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T07:53:00.378256"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-20T21:51:33.829100"
+  }
+}

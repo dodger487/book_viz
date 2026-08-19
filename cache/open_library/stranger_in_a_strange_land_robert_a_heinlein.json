@@ -1,0 +1,128 @@
+{
+  "numFound": 6,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 6,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL28641A"
+      ],
+      "author_name": [
+        "Robert A. Heinlein"
+      ],
+      "cover_edition_key": "OL48575573M",
+      "cover_i": 14630668,
+      "ebook_access": "borrowable",
+      "edition_count": 80,
+      "first_publish_year": 1961,
+      "has_fulltext": true,
+      "ia": [
+        "strangerinstrang0000unse_y0p4",
+        "enterreetrangere0000hein",
+        "strangerinstrang00hein",
+        "strangerinstrang0000robe",
+        "strangerinstrang0000robe_m8r2",
+        "strangerinstrang0000hein",
+        "strangerinstrang00robe",
+        "strangerinstrang0000hein_c7h5",
+        "strangerinstran00hein",
+        "strangersinstran00robe",
+        "strangerinstrange0000robe",
+        "strangerinstrang0000hein_y2g9",
+        "strangerinstrang0000hein_o3n2",
+        "strangerinstrang0000hein_c8i6",
+        "isbn_0425037827",
+        "strangerinstrang0000hein_w9v2",
+        "strangerinstrang0000hein_e3d7"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "binghamton-ol",
+        "cnusd-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary",
+        "delawarecountydistrictlibrary-ol",
+        "drakeuniversity-ol",
+        "framingham-ol",
+        "georgetown-university-law-library-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "randolph-macon-college-ol",
+        "riceuniversity-ol",
+        "tulsacc-ol",
+        "unb-ol",
+        "universityofarizona-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL59688W",
+      "language": [
+        "fre",
+        "swe",
+        "eng",
+        "heb",
+        "spa",
+        "ger"
+      ],
+      "lending_edition_s": "OL7500396M",
+      "lending_identifier_s": "strangerinstrang0000unse_y0p4",
+      "public_scan_b": false,
+      "title": "Stranger in a Strange Land"
+    },
+    {
+      "author_key": [
+        "OL13681587A"
+      ],
+      "author_name": [
+        "Robert A. Heinlein"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 2,
+      "first_publish_year": 1991,
+      "has_fulltext": true,
+      "ia": [
+        "bwb_S0-BIW-822"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled"
+      ],
+      "key": "/works/OL39120931W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Stranger in a Strange Land"
+    },
+    {
+      "author_key": [
+        "OL2964716A",
+        "OL28641A"
+      ],
+      "author_name": [
+        "SparkNotes",
+        "Robert A. Heinlein"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2007,
+      "has_fulltext": false,
+      "key": "/works/OL29412213W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Stranger in a Strange Land (SparkNotes Literature Guide)"
+    }
+  ]
+}

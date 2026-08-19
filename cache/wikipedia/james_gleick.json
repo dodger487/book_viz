@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "James Gleick",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">James Gleick</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q113105",
+  "titles": {
+    "canonical": "James_Gleick",
+    "normalized": "James Gleick",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">James Gleick</span></span>"
+  },
+  "pageid": 312195,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/James_Gleick_color.jpg/330px-James_Gleick_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/James_Gleick_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2025,
+    "height": 2700
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1365214400",
+  "tid": "ae5a8edd-84a0-11f1-baba-de116c23634a",
+  "timestamp": "2026-07-21T01:08:28Z",
+  "description": "American author and historian of science (born 1954)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/James_Gleick",
+      "revisions": "https://en.wikipedia.org/wiki/James_Gleick?action=history",
+      "edit": "https://en.wikipedia.org/wiki/James_Gleick?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:James_Gleick"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/James_Gleick",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/James_Gleick",
+      "edit": "https://en.wikipedia.org/wiki/James_Gleick?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:James_Gleick"
+    }
+  },
+  "extract": "James Gleick is an American author and historian of science whose work has chronicled the cultural impact of modern technology. Recognized for his writing about complex subjects through the techniques of narrative nonfiction, he has been called \"one of the great science writers of all time\". He is part of the inspiration for Jurassic Park character Ian Malcolm.",
+  "extract_html": "<p><b>James Gleick</b> is an American author and historian of science whose work has chronicled the cultural impact of modern technology. Recognized for his writing about complex subjects through the techniques of narrative nonfiction, he has been called \"one of the great science writers of all time\". He is part of the inspiration for <i>Jurassic Park</i> character Ian Malcolm.</p>"
+}

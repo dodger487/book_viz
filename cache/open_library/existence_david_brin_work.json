@@ -1,0 +1,52 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Bestselling, award-winning futurist David Brin returns to globe-spanning, high concept SF with Existence. \r\n\r\nGerald Livingstone is an orbital garbage collector. For a hundred years, people have been abandoning things in space, and someone has to clean it up. But there\u2019s something spinning a little bit higher than he expects, something that isn\u2019t on the decades\u2019 old orbital maps. An hour after he grabs it and brings it in, rumors fill Earth\u2019s infomesh about an \u201calien artifact.\u201d \r\n\r\nThrown into the maelstrom of worldwide shared experience, the Artifact is a game-changer. A message in a bottle; an alien capsule that wants to communicate. The world reacts as humans always do: with fear and hope and selfishness and love and violence. And insatiable curiosity."
+  },
+  "title": "Existence",
+  "covers": [
+    7266687,
+    7996882
+  ],
+  "subjects": [
+    "Science Fiction",
+    "Antiquities",
+    "Fiction",
+    "World Wide Web",
+    "Amerikanisches Englisch",
+    "Extraterrestrial beings",
+    "Science fiction",
+    "Roman",
+    "Human-alien encounters",
+    "NEW LIST 20120630",
+    "Futurologie",
+    "Fiction, science fiction, general"
+  ],
+  "subject_people": [
+    "Gerald Livingstone"
+  ],
+  "key": "/works/OL16637274W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL34888A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2012-05-16T09:39:47.059450"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-01-31T16:48:57.276098"
+  }
+}

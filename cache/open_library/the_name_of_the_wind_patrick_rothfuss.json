@@ -1,0 +1,83 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL2830895A",
+        "OL9118672A"
+      ],
+      "author_name": [
+        "Patrick Rothfuss",
+        "Marc Simonetti"
+      ],
+      "cover_edition_key": "OL7993641M",
+      "cover_i": 11480483,
+      "ebook_access": "borrowable",
+      "edition_count": 76,
+      "first_publish_year": 2007,
+      "has_fulltext": true,
+      "ia": [
+        "nameofwind0000roth_q2a6",
+        "elnombredelvient0000roth_h5t4",
+        "nameofwindthekin00patr",
+        "elnombredelvient0000roth",
+        "nameofwind0000roth",
+        "nameofwind0000roth_u5m3"
+      ],
+      "ia_collection": [
+        "americanuniversity-ol",
+        "dartmouthlibrary-ol",
+        "delawarecountydistrictlibrary-ol",
+        "denverpubliclibrary-ol",
+        "goffstownlibrary-ol",
+        "hamiltonpubliclibrary-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "miltonpubliclibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "rochester-ol",
+        "spokanepubliclibrary-ol",
+        "unb-ol",
+        "universityofcoloradoboulder-ol",
+        "wilsoncollege-ol",
+        "worthingtonlibraries-ol"
+      ],
+      "key": "/works/OL8479867W",
+      "language": [
+        "rus",
+        "dan",
+        "tur",
+        "heb",
+        "gre",
+        "slo",
+        "ger",
+        "eng",
+        "spa",
+        "dut",
+        "ita",
+        "fre",
+        "por"
+      ],
+      "lending_edition_s": "OL35447857M",
+      "lending_identifier_s": "nameofwind0000roth_q2a6",
+      "public_scan_b": false,
+      "series_key": [
+        "OL337960L"
+      ],
+      "series_name": [
+        "The Kingkiller Chronicle"
+      ],
+      "series_position": [
+        "1"
+      ],
+      "title": "The Name of the Wind"
+    }
+  ]
+}

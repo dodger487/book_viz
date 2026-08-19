@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Sebastian Junger",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sebastian Junger</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q969298",
+  "titles": {
+    "canonical": "Sebastian_Junger",
+    "normalized": "Sebastian Junger",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sebastian Junger</span></span>"
+  },
+  "pageid": 1423758,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sebastian_Junger%2C_April_2013.jpg/330px-Sebastian_Junger%2C_April_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 394
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sebastian_Junger%2C_April_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2036,
+    "height": 2433
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367291939",
+  "tid": "3abb6b61-8e34-11f1-8cac-678f4486e176",
+  "timestamp": "2026-08-02T05:37:20Z",
+  "description": "American author, journalist and filmmaker (born 1962)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Sebastian_Junger",
+      "revisions": "https://en.wikipedia.org/wiki/Sebastian_Junger?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Sebastian_Junger?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sebastian_Junger"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Sebastian_Junger",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Sebastian_Junger",
+      "edit": "https://en.wikipedia.org/wiki/Sebastian_Junger?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Sebastian_Junger"
+    }
+  },
+  "extract": "Sebastian Junger is an American journalist, author and filmmaker.",
+  "extract_html": "<p><b>Sebastian Junger</b> is an American journalist, author and filmmaker.</p>"
+}

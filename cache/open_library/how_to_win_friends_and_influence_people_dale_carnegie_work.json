@@ -1,0 +1,88 @@
+{
+  "title": "How to Win Friends and Influence People",
+  "covers": [
+    -1,
+    13314878,
+    15098706,
+    13112610,
+    14830233,
+    14913521,
+    14921565
+  ],
+  "key": "/works/OL1063267W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL107569A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Succ\u00e8s",
+    "Psychologie appliqu\u00e9e",
+    "Psychologie applique e.",
+    "Applied Psychology",
+    "Succe  s.",
+    "Success",
+    "Conduct of life",
+    "Persuasion (Psychology)",
+    "Leadership",
+    "Interpersonal relations",
+    "Interpersonal communication",
+    "\u00c9xito",
+    "Conducta (\u00c9tica)",
+    "Cheng gong fa",
+    "Ren ji guan xi",
+    "Xiu shen",
+    "Succes",
+    "Psychologie appliquee",
+    "Relations humaines",
+    "Tong su du wu",
+    "Self-actualization (Psychology)",
+    "Framg\u00e5ng",
+    "M\u00e4nskliga relationer",
+    "Sj\u00e4lvf\u00f6rverkligande",
+    "Psychology, applied",
+    "Sociology",
+    "Achievement",
+    "Bf637.s8 c37 1998",
+    "Bf 637.s8 c289 1998",
+    "158/.1",
+    "Self-help techniques",
+    "Long Now Manual for Civilization",
+    "Philosophy"
+  ],
+  "description": "Available for the first time ever in trade paperback, Dale Carnegie's enduring classic, the inspirational personal development guide that shows how to achieve lifelong success. One of the top-selling books of all time, \"How to Win Friends & Influence People\" has sold more than 15 million copies in all its editions.",
+  "links": [
+    {
+      "title": "Amazon.com",
+      "url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/9354993400",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Booksdata.org",
+      "url": "https://catalog.booksdata.org/book/BD00055527/how-to-win-friends-and-influence-people-dale-carnegie-9781982171452",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 29,
+  "revision": 29,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:20:22.842213"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-06T14:45:44.504679"
+  }
+}

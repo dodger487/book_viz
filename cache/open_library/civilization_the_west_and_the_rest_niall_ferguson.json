@@ -1,0 +1,37 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL10520073A"
+      ],
+      "author_name": [
+        "Niall Ferguson"
+      ],
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2011,
+      "has_fulltext": true,
+      "ia": [
+        "civilizationwest00nial"
+      ],
+      "ia_collection": [
+        "PublicResource",
+        "americana",
+        "printdisabled"
+      ],
+      "key": "/works/OL43145694W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Civilization, The West and the Rest"
+    }
+  ]
+}

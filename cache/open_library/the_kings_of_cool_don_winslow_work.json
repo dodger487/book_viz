@@ -1,0 +1,39 @@
+{
+  "subjects": [
+    "Fiction, family life",
+    "Fiction, suspense",
+    "Friendship, fiction",
+    "California, fiction"
+  ],
+  "key": "/works/OL19330219W",
+  "title": "The Kings of Cool",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL5407295A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8441311
+  ],
+  "genres": [
+    "/tags/OL180T"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-03-15T16:08:53.208849"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-14T04:37:12.933161"
+  }
+}

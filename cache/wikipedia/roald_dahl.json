@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Roald Dahl",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roald Dahl</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q25161",
+  "titles": {
+    "canonical": "Roald_Dahl",
+    "normalized": "Roald Dahl",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roald Dahl</span></span>"
+  },
+  "pageid": 55490,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roald_Dahl.jpg/330px-Roald_Dahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 441
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Roald_Dahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2300,
+    "height": 3072
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368468353",
+  "tid": "67ccc591-93b6-11f1-8ceb-63374976290a",
+  "timestamp": "2026-08-09T05:51:46Z",
+  "description": "British writer and poet (1916\u20131990)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Roald_Dahl",
+      "revisions": "https://en.wikipedia.org/wiki/Roald_Dahl?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Roald_Dahl?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roald_Dahl"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Roald_Dahl",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Roald_Dahl",
+      "edit": "https://en.wikipedia.org/wiki/Roald_Dahl?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Roald_Dahl"
+    }
+  },
+  "extract": "Roald Dahl was a British author of popular children's literature and short stories, a poet, screenwriter and a wartime fighter ace. His books have sold more than 300\u00a0million copies worldwide. He has been called \"one of the greatest storytellers for children of the 20th century\".",
+  "extract_html": "<p><b>Roald Dahl</b> was a British author of popular children's literature and short stories, a poet, screenwriter and a wartime fighter ace. His books have sold more than 300\u00a0million copies worldwide. He has been called \"one of the greatest storytellers for children of the 20th century\".</p>"
+}

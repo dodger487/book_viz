@@ -1,0 +1,80 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL32722A",
+        "OL1390790A",
+        "OL23387A",
+        "OL30011A",
+        "OL9357048A",
+        "OL7235014A",
+        "OL7543520A",
+        "OL7126350A",
+        "OL1477651A",
+        "OL7480899A",
+        "OL2820593A",
+        "OL9357049A",
+        "OL9357050A",
+        "OL9357051A",
+        "OL1433728A",
+        "OL537475A",
+        "OL29081A",
+        "OL2674907A",
+        "OL2833358A",
+        "OL7525292A",
+        "OL6782940A",
+        "OL2939372A"
+      ],
+      "author_name": [
+        "Dave Eggers",
+        "Kevin Brockmeier",
+        "Judy Budnitz",
+        "Louise Erdrich",
+        "Olivia Hamilton",
+        "Phil Klay",
+        "Nora Krug",
+        "Anthony Marra",
+        "Julie Otsuka",
+        "Michael Poore",
+        "Eric Puchner",
+        "Mark Robert Rapacz",
+        "Chaz Reetz-Laiolo",
+        "Ryan Rivas",
+        "Jon Ronson",
+        "George Saunders",
+        "Mona Simpson",
+        "John Jeremiah Sullivan",
+        "Adrian Tomine",
+        "Jose Antonio Vargas",
+        "Jess Walter",
+        "Wesley Yang"
+      ],
+      "cover_i": 7466066,
+      "ebook_access": "printdisabled",
+      "edition_count": 3,
+      "first_publish_year": 2012,
+      "has_fulltext": true,
+      "ia": [
+        "bestamericannonr0000unse"
+      ],
+      "ia_collection": [
+        "internetarchivebooks",
+        "printdisabled",
+        "universityofarizona-ol"
+      ],
+      "key": "/works/OL17381576W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Best American Nonrequired Reading 2012"
+    }
+  ]
+}

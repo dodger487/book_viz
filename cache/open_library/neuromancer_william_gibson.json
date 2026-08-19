@@ -1,0 +1,125 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 4,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL26283A"
+      ],
+      "author_name": [
+        "William Gibson"
+      ],
+      "cover_i": 283860,
+      "ebook_access": "printdisabled",
+      "edition_count": 64,
+      "first_publish_year": 1984,
+      "has_fulltext": true,
+      "ia": [
+        "neuromancer0000gibs_b5r9",
+        "neuromancer0000gibs_t6z2",
+        "neuromancer00gibs_0",
+        "neuromancien00gibs",
+        "neuromancer00gibs",
+        "neuromancer0000gibs"
+      ],
+      "ia_collection": [
+        "americana",
+        "americanuniversity-ol",
+        "belmont-ol",
+        "binghamton-ol",
+        "bpljordan-ol",
+        "cnusd-ol",
+        "cua-ol",
+        "delawarecountydistrictlibrary",
+        "denverpubliclibrary-ol",
+        "drakeuniversity-ol",
+        "georgetown-university-law-library-ol",
+        "gwulibraries-ol",
+        "hamiltonpubliclibrary-ol",
+        "internetarchivebooks",
+        "ithacacollege-ol",
+        "johnshopkins-ol",
+        "kalamazoocollege-ol",
+        "library_of_atlantis",
+        "miltonpubliclibrary-ol",
+        "occidentalcollegelibrary-ol",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "riceuniversity-ol",
+        "rochester-ol",
+        "schroederlibrary-ol",
+        "the-claremont-colleges-ol",
+        "tulsacc-ol",
+        "uhmauicollege-ol",
+        "unb-ol",
+        "uni-ol",
+        "universityofcoloradoboulder-ol",
+        "universityofoklahoma-ol",
+        "uslprototype",
+        "wilsoncollege-ol"
+      ],
+      "key": "/works/OL27258W",
+      "language": [
+        "spa",
+        "fin",
+        "dan",
+        "ita",
+        "fre",
+        "dut",
+        "eng",
+        "chi",
+        "ger",
+        "por",
+        "nor"
+      ],
+      "public_scan_b": false,
+      "title": "Neuromancer"
+    },
+    {
+      "author_key": [
+        "OL26283A"
+      ],
+      "author_name": [
+        "William Gibson"
+      ],
+      "cover_edition_key": "OL47319053M",
+      "cover_i": 13838027,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2016,
+      "has_fulltext": false,
+      "key": "/works/OL34957568W",
+      "language": [
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "Neuromancer"
+    },
+    {
+      "author_key": [
+        "OL26283A"
+      ],
+      "author_name": [
+        "William Gibson"
+      ],
+      "cover_edition_key": "OL9041076M",
+      "cover_i": 1009245,
+      "ebook_access": "no_ebook",
+      "edition_count": 4,
+      "first_publish_year": 2000,
+      "has_fulltext": false,
+      "key": "/works/OL15000363W",
+      "language": [
+        "ita",
+        "ger"
+      ],
+      "public_scan_b": false,
+      "title": "Neuromancer Trilogy"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Daniel H. Pink",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel H. Pink</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q978171",
+  "titles": {
+    "canonical": "Daniel_H._Pink",
+    "normalized": "Daniel H. Pink",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel H. Pink</span></span>"
+  },
+  "pageid": 10936877,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Daniel_H._Pink_%28cropped%29.jpg/330px-Daniel_H._Pink_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 466
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Daniel_H._Pink_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2726,
+    "height": 3852
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1364408054",
+  "tid": "130d9711-80fb-11f1-8def-6a7891dcfaa6",
+  "timestamp": "2026-07-16T09:45:27Z",
+  "description": "American non-fiction writer (born 1964)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_H._Pink",
+      "revisions": "https://en.wikipedia.org/wiki/Daniel_H._Pink?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_H._Pink?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_H._Pink"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Daniel_H._Pink",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Daniel_H._Pink",
+      "edit": "https://en.wikipedia.org/wiki/Daniel_H._Pink?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_H._Pink"
+    }
+  },
+  "extract": "Daniel H. Pink is an American non-fiction writer who has authored seven New York Times bestsellers. He was host and a co-executive producer of the National Geographic Channel social science TV series Crowd Control. From 1995 to 1997, he was the chief speechwriter for Vice President Al Gore.",
+  "extract_html": "<p><b>Daniel H. Pink</b> is an American non-fiction writer who has authored seven <span><i>New York Times</i> bestsellers</span>. He was host and a co-executive producer of the National Geographic Channel social science TV series <i>Crowd Control</i>. From 1995 to 1997, he was the chief speechwriter for Vice President Al Gore.</p>"
+}

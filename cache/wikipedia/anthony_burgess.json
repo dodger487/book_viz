@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Anthony Burgess",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Anthony Burgess</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q217619",
+  "titles": {
+    "canonical": "Anthony_Burgess",
+    "normalized": "Anthony Burgess",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Anthony Burgess</span></span>"
+  },
+  "pageid": 49370,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Anthony_Burgess_appearing_on_%22After_Dark%22%2C_21_May_1988.jpg/330px-Anthony_Burgess_appearing_on_%22After_Dark%22%2C_21_May_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 295
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Anthony_Burgess_appearing_on_%22After_Dark%22%2C_21_May_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1929,
+    "height": 1724
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1370135606",
+  "tid": "45a02836-9bac-11f1-a687-2788434b2837",
+  "timestamp": "2026-08-19T08:59:23Z",
+  "description": "English writer and composer (1917\u20131993)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Anthony_Burgess",
+      "revisions": "https://en.wikipedia.org/wiki/Anthony_Burgess?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Anthony_Burgess?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Anthony_Burgess"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Anthony_Burgess",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Anthony_Burgess",
+      "edit": "https://en.wikipedia.org/wiki/Anthony_Burgess?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Anthony_Burgess"
+    }
+  },
+  "extract": "John Anthony Burgess Wilson, commonly known as Anthony Burgess, was an English writer, screenwriter, and composer.",
+  "extract_html": "<p><b>John Anthony Burgess Wilson</b>, commonly known as <b>Anthony Burgess</b>, was an English writer, screenwriter, and composer.</p>"
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Straight Man",
+  "covers": [
+    979045,
+    418039,
+    10468033,
+    12307935
+  ],
+  "first_publish_date": "August 29, 2002",
+  "key": "/works/OL3351632W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL544180A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "lc_classifications": [
+    "PS3568.U812 S77 1997"
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "When my nose finally stops bleeding and I've disposed of the bloody paper towels, Teddy Barnes insists on driving me home in his ancient Honda Civic, a car that refuses to die and that Teddy, cheap as he is, refuses to trade in."
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "When my nose finally stops bleeding and I've disposed of the bloody paper towels, Teddy Barnes insists on driving me home in his ancient Honda Civic, a car that refuses to die and that Teddy, cheap as he is, refuses to trade in."
+    }
+  ],
+  "subjects": [
+    "Fiction",
+    "College teachers",
+    "Midlife crisis",
+    "Middle aged men",
+    "College stories",
+    "Fiction, general",
+    "Fiction, humorous, general",
+    "College teachers, fiction"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "William Henry Devereaux, Jr., spiritually suited to playing left field but forced by a bad hamstring to try first base, is the unlikely chairman of the English department at West Central Pennsylvania University.\r\n\r\nOver the course of a single convoluted week, he threatens to execute a goose, has his nose slashed by a feminist poet, discovers that his secretary writes better fiction than he does, suspects his wife of having an affair with his dean, and finally confronts his philandering elderly father, the one-time king of American Literary Theory, at an abandoned amusement park."
+  },
+  "identifiers": {
+    "librarything": [
+      "5432184"
+    ]
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:21:18.290078"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-30T16:19:25.472155"
+  }
+}

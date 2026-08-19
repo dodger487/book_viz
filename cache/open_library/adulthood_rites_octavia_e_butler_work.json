@@ -1,0 +1,67 @@
+{
+  "first_publish_date": "1988",
+  "description": "The second book in the Lilith's Brood trilogy, this story takes place years after the arrival of Oankali aliens in the first book. Now, the Oankali have established some colonies on Earth, where they live and breed with humans. Other villages are populated by human resisters, who refuse to interact or breed with the Oankali but are frustrated because they can no longer reproduce on their own and feel they have no future. Akin, a boy \"construct\" born with mixed human and Oankali DNA, confronts these tensions between the two species and grapples with his own identity.",
+  "title": "Adulthood Rites",
+  "covers": [
+    5307026,
+    10512015,
+    11153396,
+    13766807,
+    13934449
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "He remembered much of his stay in the womb."
+  },
+  "lc_classifications": [
+    "PS3552.U827 A65 1988"
+  ],
+  "key": "/works/OL35625W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL30802A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "He remembered much of his stay in the womb."
+    }
+  ],
+  "subjects": [
+    "Genetic engineering",
+    "Fiction",
+    "Fiction, science fiction, general",
+    "Human-alien encounters",
+    "Persoonlijke integriteit",
+    "Genetisch materiaal",
+    "Menselijk lichaam",
+    "Fiction, science fiction, apocalyptic & post-apocalyptic",
+    "Fiction, dystopian",
+    "Fiction, science fiction, genetic engineering",
+    "Fiction, fantasy, epic",
+    "Fiction, science fiction, alien contact",
+    "series:Xenogenesis",
+    "series:Lilith's Brood"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "813/.54"
+  ],
+  "latest_revision": 23,
+  "revision": 23,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T07:53:00.378256"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-20T21:44:40.665125"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Henry David Thoreau",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Henry David Thoreau</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q131149",
+  "titles": {
+    "canonical": "Henry_David_Thoreau",
+    "normalized": "Henry David Thoreau",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Henry David Thoreau</span></span>"
+  },
+  "pageid": 43421,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg/330px-Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 442
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2484,
+    "height": 3327
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1367949625",
+  "tid": "86c71f62-914a-11f1-9484-ae4a6d53e24b",
+  "timestamp": "2026-08-06T03:54:30Z",
+  "description": "American philosopher (1817\u20131862)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+      "revisions": "https://en.wikipedia.org/wiki/Henry_David_Thoreau?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Henry_David_Thoreau?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Henry_David_Thoreau"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Henry_David_Thoreau",
+      "edit": "https://en.wikipedia.org/wiki/Henry_David_Thoreau?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Henry_David_Thoreau"
+    }
+  },
+  "extract": "Henry David Thoreau was an American naturalist, essayist, poet, and philosopher. A leading transcendentalist, he is best known for his book Walden, a reflection upon simple living in natural surroundings, and his essay \"Civil Disobedience\", an argument in favor of citizen disobedience against an unjust state.",
+  "extract_html": "<p><b>Henry David Thoreau</b> was an American naturalist, essayist, poet, and philosopher. A leading transcendentalist, he is best known for his book <i>Walden</i>, a reflection upon simple living in natural surroundings, and his essay \"Civil Disobedience\", an argument in favor of citizen disobedience against an unjust state.</p>"
+}

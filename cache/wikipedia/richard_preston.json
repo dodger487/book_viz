@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Richard Preston",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Richard Preston</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q320884",
+  "titles": {
+    "canonical": "Richard_Preston",
+    "normalized": "Richard Preston",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Richard Preston</span></span>"
+  },
+  "pageid": 640717,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1352640331",
+  "tid": "98add3ad-4878-11f1-b5ae-05bf70a06d75",
+  "timestamp": "2026-05-05T11:50:22Z",
+  "description": "American writer and author",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Richard_Preston",
+      "revisions": "https://en.wikipedia.org/wiki/Richard_Preston?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Richard_Preston?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Richard_Preston"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Richard_Preston",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Richard_Preston",
+      "edit": "https://en.wikipedia.org/wiki/Richard_Preston?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Richard_Preston"
+    }
+  },
+  "extract": "Richard Preston is a writer for The New Yorker and bestselling author who has written books about infectious disease, bioterrorism, redwoods and other subjects, as well as fiction.",
+  "extract_html": "<p><b>Richard Preston</b> is a writer for <i>The New Yorker</i> and bestselling author who has written books about infectious disease, bioterrorism, redwoods and other subjects, as well as fiction.</p>"
+}

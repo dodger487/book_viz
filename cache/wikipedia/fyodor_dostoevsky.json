@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Fyodor Dostoevsky",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fyodor Dostoevsky</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q991",
+  "titles": {
+    "canonical": "Fyodor_Dostoevsky",
+    "normalized": "Fyodor Dostoevsky",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fyodor Dostoevsky</span></span>"
+  },
+  "pageid": 11625,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/330px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 413
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 3200,
+    "height": 4000
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1370040725",
+  "tid": "5dda5e89-9b40-11f1-a35a-4b50d9d8db62",
+  "timestamp": "2026-08-18T20:06:58Z",
+  "description": "Russian novelist (1821\u20131881)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+      "revisions": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fyodor_Dostoevsky"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Fyodor_Dostoevsky",
+      "edit": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Fyodor_Dostoevsky"
+    }
+  },
+  "extract": "Fyodor Mikhailovich Dostoevsky was a Russian philosopher, novelist, short-story writer, essayist and journalist. He is regarded as one of the greatest novelists in both Russian and world literature, and many of his works are considered highly influential masterpieces. Dostoevsky's literary works explore the human condition in the troubled political, social and spiritual atmospheres of 19th-century Russia, and engage with a variety of philosophical and religious themes. His most acclaimed novels include Crime and Punishment (1866), The Idiot (1869), Demons (1872), The Adolescent (1875) and The Brothers Karamazov (1880). His Notes from Underground, a novella published in 1864, is considered one of the first works of existentialist literature.",
+  "extract_html": "<p><b>Fyodor Mikhailovich Dostoevsky</b> was a Russian philosopher, novelist, short-story writer, essayist and journalist. He is regarded as one of the greatest novelists in both Russian and world literature, and many of his works are considered highly influential masterpieces. Dostoevsky's literary works explore the human condition in the troubled political, social and spiritual atmospheres of 19th-century Russia, and engage with a variety of philosophical and religious themes. His most acclaimed novels include <i>Crime and Punishment</i> (1866), <i>The Idiot</i> (1869), <span><i>Demons</i></span> (1872), <i>The Adolescent</i> (1875) and <i>The Brothers Karamazov</i> (1880). His <i>Notes from Underground</i>, a novella published in 1864, is considered one of the first works of existentialist literature.</p>"
+}

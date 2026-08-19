@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arnold Schwarzenegger",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arnold Schwarzenegger</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2685",
+  "titles": {
+    "canonical": "Arnold_Schwarzenegger",
+    "normalized": "Arnold Schwarzenegger",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arnold Schwarzenegger</span></span>"
+  },
+  "pageid": 1806,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg/330px-Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1577,
+    "height": 2103
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368355633",
+  "tid": "990aafbd-9340-11f1-a33a-89dfde2578ec",
+  "timestamp": "2026-08-08T15:48:28Z",
+  "description": "Austrian and American bodybuilder, actor and politician (born 1947)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+      "revisions": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arnold_Schwarzenegger"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Arnold_Schwarzenegger",
+      "edit": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arnold_Schwarzenegger"
+    }
+  },
+  "extract": "Arnold Alois Schwarzenegger is an Austrian and American actor, businessman, film producer, politician, and former professional bodybuilder who served as the 38th governor of California from 2003 to 2011.",
+  "extract_html": "<p><b>Arnold Alois Schwarzenegger</b> is an Austrian and American actor, businessman, film producer, politician, and former professional bodybuilder who served as the 38th governor of California from 2003 to 2011.</p>"
+}

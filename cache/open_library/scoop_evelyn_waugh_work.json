@@ -1,0 +1,65 @@
+{
+  "title": "Scoop",
+  "covers": [
+    3005656,
+    107905,
+    191096,
+    7777888,
+    8249165,
+    9077289,
+    14893281,
+    15058068,
+    15058063,
+    15058064,
+    15058072
+  ],
+  "key": "/works/OL5721472W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1391432A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Africa, fiction",
+    "British and irish fiction (fictional works by one author)",
+    "Journalists",
+    "War correspondents",
+    "Novelists",
+    "Mistaken identity",
+    "British",
+    "Fiction",
+    "English fiction",
+    "Italo-Ethiopian War, 1935-1936",
+    "Press",
+    "Italo-Ethiopian War (1935-1936) fast (OCoLC)fst00980793",
+    "Television journalists",
+    "Television news anchors",
+    "English literature",
+    "Fiction, humorous, general"
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Lord Copper, newspaper magnate and proprietor of the Daily Beast, has always prided himself on his intuitive flair for spotting ace reporters. That is not to say he has not made the odd blunder, however, and may in a moment of weakness make another. Acting on a dinner party tip from Mrs. Algernon Stitch, Lord Copper feels convinced that he has hit on just the chap to cover a promising war in the African Republic of Ishmaelia. So begins Scoop, Waugh's exuberant comedy of mistaken identity and brilliantly irreverent satire of the hectic pursuit of hot news."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T11:08:58.244762"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-25T13:24:55.487330"
+  }
+}

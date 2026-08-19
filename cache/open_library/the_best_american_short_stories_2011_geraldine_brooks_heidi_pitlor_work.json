@@ -1,0 +1,53 @@
+{
+  "subjects": [
+    "The Best [American] Short Stories [click to find all works in series]",
+    "Short Stories",
+    "American Short stories",
+    "Bibliography",
+    "Periodicals",
+    "American Fiction",
+    "Anthology",
+    "Series",
+    "Annual Series",
+    "Short stories, american",
+    "American fiction (collections), 21st century",
+    "nyt:trade-fiction-paperback=2011-10-23",
+    "New York Times bestseller"
+  ],
+  "key": "/works/OL17457262W",
+  "title": "The Best American Short Stories 2011",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL242268A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2685050A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    7616754
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-10-14T09:45:47.272904"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-06-19T17:02:18.534887"
+  }
+}

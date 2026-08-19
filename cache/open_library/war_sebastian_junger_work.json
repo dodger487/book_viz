@@ -1,0 +1,37 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-11-09T04:58:10.251819"
+  },
+  "subject_places": [
+    "Afghanistan",
+    "Korangal Valley"
+  ],
+  "subjects": [
+    "Campaigns",
+    "United States",
+    "Afghan War, 2001-",
+    "United States. Army. Airborne Brigade, 173rd"
+  ],
+  "latest_revision": 2,
+  "key": "/works/OL15441627W",
+  "title": "War",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL389527A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2016-08-02T12:29:16.358213"
+  },
+  "revision": 2
+}

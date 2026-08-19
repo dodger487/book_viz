@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Arthur Conan Doyle",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arthur Conan Doyle</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q35610",
+  "titles": {
+    "canonical": "Arthur_Conan_Doyle",
+    "normalized": "Arthur Conan Doyle",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arthur Conan Doyle</span></span>"
+  },
+  "pageid": 18951335,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png/330px-Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 435
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 517,
+    "height": 682
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368701488",
+  "tid": "e91b7abd-94d6-11f1-b053-16edb168f963",
+  "timestamp": "2026-08-10T16:16:58Z",
+  "description": "British writer and physician (1859\u20131930)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+      "revisions": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arthur_Conan_Doyle"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Arthur_Conan_Doyle",
+      "edit": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Arthur_Conan_Doyle"
+    }
+  },
+  "extract": "Sir Arthur Ignatius Conan Doyle was a British writer and physician. He is best known for his four novels and fifty-six short stories about the fictional consulting detective Sherlock Holmes and his assistant Dr. Watson, which are milestones in crime fiction, and for his first work featuring Professor Challenger, The Lost World (1912), which gave its name to a subgenre of speculative fiction. He was a prolific writer who produced over 200 stories and articles, four volumes of poetry, and a number of works for the stage. He was knighted by King Edward VII in the 1902 Coronation Honours.",
+  "extract_html": "<p><b>Sir Arthur Ignatius Conan Doyle</b> was a British writer and physician. He is best known for his four novels and fifty-six short stories about the fictional consulting detective Sherlock Holmes and his assistant Dr. Watson, which are milestones in crime fiction, and for his first work featuring Professor Challenger, <i>The Lost World</i> (1912), which gave its name to a subgenre of speculative fiction. He was a prolific writer who produced over 200 stories and articles, four volumes of poetry, and a number of works for the stage. He was knighted by King Edward VII in the 1902 Coronation Honours.</p>"
+}

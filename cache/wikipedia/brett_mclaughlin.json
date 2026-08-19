@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Leland (musician)",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Leland (musician)</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q21066441",
+  "titles": {
+    "canonical": "Leland_(musician)",
+    "normalized": "Leland (musician)",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Leland (musician)</span></span>"
+  },
+  "pageid": 47704398,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1357770845",
+  "tid": "3807e718-602e-11f1-85fd-44cf719b3e43",
+  "timestamp": "2026-06-04T15:58:25Z",
+  "description": "American singer and songwriter (born 1987)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Leland_(musician)",
+      "revisions": "https://en.wikipedia.org/wiki/Leland_(musician)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Leland_(musician)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Leland_(musician)"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Leland_(musician)",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Leland_(musician)",
+      "edit": "https://en.wikipedia.org/wiki/Leland_(musician)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Leland_(musician)"
+    }
+  },
+  "extract": "Brett Leland McLaughlin is an American singer and songwriter. Based in Los Angeles, California, he has worked closely with a range of popular artists, including Selena Gomez, Troye Sivan, Daya, Andy Grammer, Kelsea Ballerini and Allie X. In December 2017, McLaughlin signed with Vertigo Berlin/Universal Music Germany for his career as a singer and is currently published by Sony/ATV Music Publishing. Since 2017, he has been the resident songwriter and producer for RuPaul's Drag Race and some of its spin-offs. McLaughlin graduated from Belmont University's School of Music in 2009 with a major in commercial voice.",
+  "extract_html": "<p><b>Brett Leland McLaughlin</b> is an American singer and songwriter. Based in Los Angeles, California, he has worked closely with a range of popular artists, including Selena Gomez, Troye Sivan, Daya, Andy Grammer, Kelsea Ballerini and Allie X. In December 2017, McLaughlin signed with Vertigo Berlin/Universal Music Germany for his career as a singer and is currently published by Sony/ATV Music Publishing. Since 2017, he has been the resident songwriter and producer for <i>RuPaul's Drag Race</i> and some of its spin-offs. McLaughlin graduated from Belmont University's School of Music in 2009 with a major in commercial voice.</p>"
+}

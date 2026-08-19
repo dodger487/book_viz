@@ -1,0 +1,43 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL20865A"
+      ],
+      "author_name": [
+        "G. H. Hardy"
+      ],
+      "cover_edition_key": "OL21520619M",
+      "cover_i": 9753744,
+      "ebook_access": "printdisabled",
+      "edition_count": 23,
+      "first_publish_year": 1940,
+      "has_fulltext": true,
+      "ia": [
+        "mathematiciansap0000hard_u4z4"
+      ],
+      "ia_collection": [
+        "americana",
+        "internetarchivebooks",
+        "marygrovecollege",
+        "printdisabled"
+      ],
+      "key": "/works/OL11373174W",
+      "language": [
+        "spa",
+        "eng",
+        "tur",
+        "ita"
+      ],
+      "public_scan_b": false,
+      "title": "A mathematician's apology"
+    }
+  ]
+}

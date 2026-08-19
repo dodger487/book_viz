@@ -1,0 +1,68 @@
+{
+  "subjects": [
+    "Hugo Award Winner",
+    "award:hugo_award=1962",
+    "award:hugo_award=novel",
+    "Fiction",
+    "Fiction in English",
+    "Science fiction",
+    "American Science fiction",
+    "Religion",
+    "Cults",
+    "Sects",
+    "Martians",
+    "Life on other planets",
+    "Fiction, science fiction, general",
+    "Long Now Manual for Civilization",
+    "Great powers",
+    "Human-alien encounters",
+    "Earth",
+    "FICTION / Science Fiction / General",
+    "FICTION / Classics"
+  ],
+  "key": "/works/OL59688W",
+  "title": "Stranger in a Strange Land",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL28641A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    14630668
+  ],
+  "description": "Stranger in a Strange Land is a 1961 science fiction novel by American author Robert A. Heinlein. It tells the story of Valentine Michael Smith, a human who comes to Earth in early adulthood after being born on the planet Mars and raised by Martians. The novel explores his interaction with\u2014and eventual transformation of\u2014terrestrial culture. The title is an allusion to the phrase in Exodus 2:22. According to Heinlein, the novel's working title was The Heretic. Several later editions of the book have promoted it as \"The most famous Science Fiction Novel ever written\".",
+  "subject_places": [
+    "Earth",
+    "Mars"
+  ],
+  "links": [
+    {
+      "title": "Goodreads",
+      "url": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land?ac=1&from_search=true&qid=kzbfCRtbr0&rank=1",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "genres": [
+    "/tags/OL179T"
+  ],
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T22:46:15.529792"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-18T05:45:45.603407"
+  }
+}

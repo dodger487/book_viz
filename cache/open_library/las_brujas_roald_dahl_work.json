@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Las brujas",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL34184A"
+      }
+    }
+  ],
+  "key": "/works/OL29497956W",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-11-20T01:57:41.629003"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-03-05T17:20:20.277886"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "description": "aliens reproducing with humans. they are mixing genes with humans because humans have destroyed earth basically because nuclear war. because they are stupid. credit to katsoda26",
+  "title": "Dawn",
+  "dewey_number": [
+    "813/.54"
+  ],
+  "covers": [
+    285158,
+    286816,
+    8664339,
+    9963474,
+    10839617
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Alive! Still alive."
+  },
+  "subject_places": [
+    "alien ship of some sort"
+  ],
+  "first_publish_date": "1987",
+  "subject_people": [
+    "lilith"
+  ],
+  "key": "/works/OL35628W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL30802A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "way in future"
+  ],
+  "subjects": [
+    "Genetic engineering",
+    "Fiction",
+    "Genetisch materiaal",
+    "Menselijk lichaam",
+    "Persoonlijke integriteit",
+    "Fiction, science fiction, general",
+    "Science fiction",
+    "American Science fiction",
+    "American literature",
+    "Space ships",
+    "Vaisseaux spatiaux",
+    "Romans, nouvelles",
+    "Fantasy",
+    "Contemporary",
+    "General",
+    "Fiction, science fiction, alien contact",
+    "Fiction, dystopian",
+    "Fiction, science fiction, genetic engineering",
+    "Fiction, african american & black, women",
+    "Fiction, science fiction, apocalyptic & post-apocalyptic",
+    "Human-alien encounters",
+    "series:Xenogenesis",
+    "series:Lilith's Brood"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "excerpts": [
+    {
+      "excerpt": "Alive! Still alive."
+    }
+  ],
+  "latest_revision": 24,
+  "revision": 24,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T07:53:00.378256"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-20T21:37:50.861141"
+  }
+}

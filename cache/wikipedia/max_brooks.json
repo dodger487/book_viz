@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Max Brooks",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Max Brooks</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q28170",
+  "titles": {
+    "canonical": "Max_Brooks",
+    "normalized": "Max Brooks",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Max Brooks</span></span>"
+  },
+  "pageid": 1334423,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Max_Brooks_at_BookExpo_%2815957%29.jpg/330px-Max_Brooks_at_BookExpo_%2815957%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 376
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Max_Brooks_at_BookExpo_%2815957%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2741,
+    "height": 3127
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1368405108",
+  "tid": "1bac6316-9373-11f1-84ae-50c869fd4da3",
+  "timestamp": "2026-08-08T21:50:02Z",
+  "description": "American writer (born 1972)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Max_Brooks",
+      "revisions": "https://en.wikipedia.org/wiki/Max_Brooks?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Max_Brooks?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Max_Brooks"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Max_Brooks",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Max_Brooks",
+      "edit": "https://en.wikipedia.org/wiki/Max_Brooks?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Max_Brooks"
+    }
+  },
+  "extract": "Maximilian Michael Brooks is an American writer and actor. He is the son of actors Mel Brooks and Anne Bancroft. Much of Brooks' writing focuses on zombie stories. He was a senior fellow at the Modern War Institute at West Point, New York.",
+  "extract_html": "<p><b>Maximilian Michael Brooks</b> is an American writer and actor. He is the son of actors Mel Brooks and Anne Bancroft. Much of Brooks' writing focuses on zombie stories. He was a senior fellow at the Modern War Institute at West Point, New York.</p>"
+}

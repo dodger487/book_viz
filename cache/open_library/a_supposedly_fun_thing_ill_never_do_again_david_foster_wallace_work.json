@@ -1,0 +1,65 @@
+{
+  "first_publish_date": "1997",
+  "description": {
+    "type": "/type/text",
+    "value": "A collection of stories from David Foster Wallace is occasion to celebrate. These stories -- which have been prominently serialized in Harper's, Esquire, the Paris Review, and elsewhere -- explore intensely immediate states of mind, with the attention to voice and the extraordinary creative daring that have won Wallace his reputation as one of the most talented fiction writer of his generation.Among the stories are \"The Depressed Person\", a dazzling portrayal of a woman's mental state; \"Adult World\", which reveals a woman's agonized consideration of her confusing sexual relationship with her husband; and \"Brief Interviews with Hideous Men\", a dark, hilarious series of portraits of men whose fear of women renders them grotesque."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-30T00:13:52.473587"
+  },
+  "title": "A supposedly fun thing I'll never do again",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T01:10:04.959273"
+  },
+  "covers": [
+    191074
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "When I left my boxed township of Illinois farmland to attend my dad's alma mater in the lurid jutting Berkshires of western Massachusetts, I all of a sudden developed a jones for mathematics."
+  },
+  "lc_classifications": [
+    "PS3573.A425635 S86 1997"
+  ],
+  "latest_revision": 16,
+  "key": "/works/OL2943597W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL448939A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "When I left my boxed township of Illinois farmland to attend my dad's alma mater in the lurid jutting Berkshires of western Massachusetts, I all of a sudden developed a jones for mathematics."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "subjects": [
+    "Fiction",
+    "Humor (Nonfiction)",
+    "Wit and humor",
+    "American Wit and humor",
+    "Essays",
+    "American wit and humor, travel",
+    "American essays, 20th century",
+    "American wit and humor, social life and customs",
+    "Essays (single author)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "814/.54"
+  ],
+  "revision": 16
+}
