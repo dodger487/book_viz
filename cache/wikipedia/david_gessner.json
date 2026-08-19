@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "David Gessner",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Gessner</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5234096",
+  "titles": {
+    "canonical": "David_Gessner",
+    "normalized": "David Gessner",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Gessner</span></span>"
+  },
+  "pageid": 25833407,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/David_gessner_1060146.jpg/330px-David_gessner_1060146.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 344
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/David_gessner_1060146.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2815,
+    "height": 2934
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1356310442",
+  "tid": "ffe51454-5964-11f1-9452-afbb45b2803f",
+  "timestamp": "2026-05-27T00:42:55Z",
+  "description": "American writer (born 1961)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/David_Gessner",
+      "revisions": "https://en.wikipedia.org/wiki/David_Gessner?action=history",
+      "edit": "https://en.wikipedia.org/wiki/David_Gessner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Gessner"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/David_Gessner",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Gessner",
+      "edit": "https://en.wikipedia.org/wiki/David_Gessner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:David_Gessner"
+    }
+  },
+  "extract": "David Gessner is an American essayist, memoirist, nature writer, editor, and cartoonist.",
+  "extract_html": "<p><b>David Gessner</b> is an American essayist, memoirist, nature writer, editor, and cartoonist.</p>"
+}

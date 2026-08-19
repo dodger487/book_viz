@@ -3102,5 +3102,21 @@
       "wikipedia_matched_page": "Lisa See"
     },
     "slug": "shanghai_girls_lisa_see"
+  },
+  {
+    "title": "Ultimate Obsession",
+    "author": "David Gessner",
+    "date_read": "8/18/2026",
+    "description": null,
+    "genre": "Unknown",
+    "categories": null,
+    "published_year": null,
+    "author_bio": "David Gessner is an American essayist, memoirist, nature writer, editor, and cartoonist.",
+    "sources": {
+      "google_books_matched_title": null,
+      "open_library_matched_title": null,
+      "wikipedia_matched_page": "David Gessner"
+    },
+    "slug": "ultimate_obsession_david_gessner"
   }
 ]

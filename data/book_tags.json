@@ -2074,5 +2074,17 @@
     "pacing": "measured, character-driven",
     "themes": "sisterhood, immigration, identity, resilience",
     "setting": "1930s Shanghai and Los Angeles"
+  },
+  {
+    "slug": "ultimate_obsession_david_gessner",
+    "title": "Ultimate Obsession",
+    "author": "David Gessner",
+    "familiarity": "low",
+    "clean_description": "Ultimate Obsession explores the author's deep engagement with nature and the environment, reflecting on personal experiences and broader ecological themes. It delves into the complexities of human relationships with the natural world, emphasizing the importance of conservation and awareness.",
+    "genre": "Biography & Memoir",
+    "tone_and_style": "reflective, personal, lyrical",
+    "pacing": "measured, contemplative",
+    "themes": "nature, obsession, conservation",
+    "setting": "contemporary environmental landscape"
   }
 ]
