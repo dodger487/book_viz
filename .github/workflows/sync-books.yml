@@ -7,14 +7,22 @@ name: Sync new books
 # already cached) for all 4 provider/text-variant combinations the site
 # ships, and rebuilds the plot, then commits the result.
 #
-# This never deploys to Netlify -- it only commits to `main`. Netlify's
-# auto-deploy-on-push is intentionally disabled for this repo (see
-# README), so the live site only updates when a deploy is run by hand.
+# This workflow itself only commits to `main` -- it never deploys.
+# .github/workflows/deploy-pages.yml triggers separately on every push
+# to main (including this workflow's commits) and republishes the site
+# via GitHub Pages.
 
 on:
   schedule:
     - cron: "0 13 * * 1" # every Monday, 13:00 UTC
   workflow_dispatch: {}
+
+# Only one sync should ever be mutating data/books.csv and pushing at a
+# time -- without this, two overlapping runs (more likely the tighter
+# the cron interval) could race to commit/push and one would fail.
+concurrency:
+  group: sync-books
+  cancel-in-progress: false
 
 permissions:
   contents: write
