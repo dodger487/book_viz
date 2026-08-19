@@ -1,6 +1,9 @@
 # Book Embedding Visualization
 
-Pipeline: book list → metadata+tags → embeddings → 2D plot.
+Pipeline: book list → metadata+tags → embeddings → 2D plot. The book list is
+synced automatically from a Google Sheet and the site redeploys itself on
+every change — see "Keeping it up to date automatically" below if you just
+want to know how that works or how to run it by hand.
 
 ## Structure
 
@@ -9,8 +12,14 @@ changing one never forces re-running an earlier, slower/costlier one:
 fetch (network) → extract (local) → tag (LLM) → embed (local or API) →
 visualize.
 
-- `data/books.csv` — your book list (Date, Type, Name, Author)
+- `data/books.csv` — your book list (Date, Type, Name, Author), kept in sync
+  with a Google Sheet by Script 0 (see below) but always safe to hand-edit too
 - `data/overrides.json` — manual fixes for mismatched auto-search results
+- `scripts/00_sync_books.py` — Script 0: Google Sheet → `data/books.csv`
+- `.github/workflows/sync-books.yml` — runs Script 0, and if it finds
+  changes, Scripts 1-5, on an hourly schedule (or on demand)
+- `.github/workflows/deploy-pages.yml` — republishes `output/` to GitHub
+  Pages on every push to `main`
 - `cache/google_books/`, `cache/open_library/` (+ `_work.json`),
   `cache/wikipedia/` — raw API responses, one JSON file per book per
   source, written by Script 1. Safe to delete individual files to force
@@ -38,6 +47,36 @@ visualize.
 - `output/interactive_plot.html` — Script 5 interactive output (plotly);
   open directly in a browser, no server needed
 - `scripts/05_visualize.py` — Script 5
+
+## Script 0: sync new books
+
+```bash
+pip install requests
+export BOOKS_SHEET_CSV_URL=your_published_csv_url_here   # see below
+python scripts/00_sync_books.py --dry-run   # show what would change, don't write
+python scripts/00_sync_books.py              # write the changes
+```
+
+Reads are added by hand to a Google Sheet I use as a general reading/watch
+tracker; this script pulls just the Books tab into `data/books.csv` so the
+rest of the pipeline never has to touch the sheet directly. It fetches one
+URL — the tab's **Publish to web** CSV export (File → Share → Publish to
+web, choose that one tab, format CSV) — which is a read-only link exposing
+only that tab's data, not the rest of the spreadsheet, and needs no OAuth
+or API key.
+
+Matching is by (title, author), case-insensitively:
+
+- A sheet row whose (title, author) isn't in `books.csv` yet is **appended**.
+- A sheet row whose (title, author) already exists but has a **different
+  Date** updates that row's Date in place (e.g. you go back and correct a
+  finish date) — Title/Author/Type on existing rows are never touched.
+- Existing rows are never removed or reordered, so re-running is always
+  idempotent and `overrides.json`'s exact `"title|author"` keys stay valid.
+- **Sheet deletions are not synced.** If you delete a row from the sheet,
+  nothing happens here — the book stays in `books.csv` (and the site)
+  until it's removed from `books.csv` directly. This is deliberate
+  (append-only, one-way), not a bug.
 
 ## Script 1: fetch metadata
 
@@ -361,6 +400,80 @@ explicitly on the Python-built layout *and* re-applied in the JS `update()`
 function — otherwise switching dropdowns would reset the chart back to
 Plotly's own default font. (There's no separate in-chart title anymore —
 it duplicated the page `<h1>`.)
+
+## Keeping it up to date automatically
+
+Two GitHub Actions workflows do the whole book → live site loop with no
+manual steps in the common case:
+
+1. **`.github/workflows/sync-books.yml`** runs Script 0 every hour
+   (`0 * * * *`, plus a manual trigger — see below). If Script 0 finds no
+   changes it exits in a few seconds and nothing else runs. If it finds a
+   new book or a date correction, it runs Scripts 1-4 (which each skip
+   anything already cached, so only the actual new/changed book incurs any
+   API cost) for all four provider/text-variant combinations, then Script
+   5, then commits everything — `data/books.csv`, the metadata/tags/
+   embeddings files, `cache/`, and `output/` — straight to `main`. It never
+   deploys anything itself.
+2. **`.github/workflows/deploy-pages.yml`** triggers on every push to
+   `main` (including the workflow above's own commits) and republishes
+   `output/` to GitHub Pages. GitHub Pages deploys aren't metered or
+   billed per-deploy, unlike the old Netlify setup this replaced, so this
+   workflow has no throttling and just runs on every push.
+
+The live site is at **https://www.relevantmisc.com/book_viz/** (GitHub
+Pages project sites inherit whatever custom domain is set on the account's
+user/root site — in this case the `dodger487.github.io` blog repo's
+`relevantmisc.com`). An older Netlify site (`bookviz.netlify.app`) still
+exists with its `build_settings.stop_builds` set so it never auto-deploys;
+it isn't kept in sync with anything and can be ignored or torn down.
+
+### Running the sync workflow by hand
+
+Useful if you don't want to wait for the next hourly tick, or want to
+watch a real run rather than a "found nothing" one:
+
+```bash
+# from the GitHub web UI: Actions tab -> "Sync new books" -> Run workflow
+
+# or via the gh CLI:
+gh workflow run sync-books.yml --repo dodger487/book_viz
+
+# then find and watch that run:
+gh run list --repo dodger487/book_viz --workflow=sync-books.yml --limit 1
+gh run watch <run-id> --repo dodger487/book_viz --exit-status
+```
+
+A successful run that found changes ends with a `git push`; pull it down
+locally (`git pull`) to inspect the result, or just open
+`https://www.relevantmisc.com/book_viz/` once `deploy-pages.yml` (triggered
+automatically by that push) finishes a minute or two later.
+
+### Secrets
+
+Both workflows read from repo secrets (Settings → Secrets and variables →
+Actions), set via `gh secret set <NAME> --repo dodger487/book_viz` (which
+prompts for the value in your terminal rather than taking it as a
+command-line argument, so it's never in shell history):
+
+- `BOOKS_SHEET_CSV_URL` — the Script 0 publish-to-web CSV link
+- `OPENAI_API_KEY` — for Script 3's tagging and the `openai` provider in
+  Script 4
+
+`deploy-pages.yml` needs no secrets — Pages deploys authenticate via
+GitHub's own `id-token`/`pages` permissions, already granted in the
+workflow file.
+
+### Why `cache/` and the generated `data/` files are committed
+
+Unlike a typical "regenerate from source" setup, `cache/`,
+`data/book_metadata.json`, `data/book_tags.json`,
+`data/embedding_input_*.json`, and `data/embeddings_*.npz` are all
+git-tracked, not gitignored. GitHub Actions runners are ephemeral — with
+nothing persisted between runs, every sync would have to re-fetch/re-tag/
+re-embed the entire library instead of just the new book. Committing them
+is what makes Scripts 1-4's per-book caching actually pay off across CI
+runs, not just on one person's laptop.
 
 ## Notes
 
