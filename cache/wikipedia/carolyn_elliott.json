@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Carolyn Elliott",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Carolyn Elliott</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q122388911",
+  "titles": {
+    "canonical": "Carolyn_Elliott",
+    "normalized": "Carolyn Elliott",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Carolyn Elliott</span></span>"
+  },
+  "pageid": 74791942,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Carolyn-Elliott.jpg/330px-Carolyn-Elliott.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 495
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Carolyn-Elliott.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2793,
+    "height": 4189
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1369339381",
+  "tid": "ea94bc23-97ca-11f1-8722-740d4baf7bc2",
+  "timestamp": "2026-08-14T10:28:40Z",
+  "description": "American scholar, author, and occultist",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Carolyn_Elliott",
+      "revisions": "https://en.wikipedia.org/wiki/Carolyn_Elliott?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Carolyn_Elliott?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carolyn_Elliott"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Carolyn_Elliott",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Carolyn_Elliott",
+      "edit": "https://en.wikipedia.org/wiki/Carolyn_Elliott?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Carolyn_Elliott"
+    }
+  },
+  "extract": "Carolyn Elliott was an American author and occultist. She was the author of the book Existential Kink which focuses on shadow integration as a means for creating positive change in the self. She held a doctorate in critical and cultural studies from the University of Pittsburgh. Elliott taught applied occult philosophy through writing, lectures, online coaching, and in her Sleep Over Mystery School.",
+  "extract_html": "<p><b>Carolyn Elliott</b> was an American author and occultist. She was the author of the book <i>Existential Kink</i> which focuses on shadow integration as a means for creating positive change in the self. She held a doctorate in critical and cultural studies from the University of Pittsburgh. Elliott taught applied occult philosophy through writing, lectures, online coaching, and in her Sleep Over Mystery School.</p>"
+}

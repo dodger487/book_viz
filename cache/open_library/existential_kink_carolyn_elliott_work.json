@@ -1,0 +1,27 @@
+{
+  "title": "Existential Kink",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-08-26T03:21:32.927409"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-26T03:21:32.927409"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL21664192W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3397263A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}
