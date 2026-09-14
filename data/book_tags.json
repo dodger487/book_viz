@@ -3046,5 +3046,17 @@
     "pacing": "reflective, methodical",
     "themes": "self-acceptance, transformation, shadow work",
     "setting": "contemporary self-help and personal growth context"
+  },
+  {
+    "slug": "shadow_empires_thomas_j_barfield",
+    "title": "Shadow Empires",
+    "author": "Thomas J. Barfield",
+    "familiarity": "low",
+    "clean_description": "Shadow Empires explores the dynamics of power and influence in the context of historical empires, focusing on the interactions between various cultures and societies. The book examines how these relationships shaped political landscapes and cultural exchanges throughout history.",
+    "genre": "History",
+    "tone_and_style": "analytical, scholarly",
+    "pacing": "methodical, detailed",
+    "themes": "power, cultural exchange, historical dynamics",
+    "setting": "historical empires and their interactions"
   }
 ]
