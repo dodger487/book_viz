@@ -4414,5 +4414,21 @@
       "wikipedia_matched_page": null
     },
     "slug": "shadow_empires_thomas_j_barfield"
+  },
+  {
+    "title": "Just So Stories",
+    "author": "Rudyard Kipling",
+    "date_read": "9/19/2026",
+    "description": "Seven tales that explain special things about animals, such as how the whale got his tiny throat, the camel his hump and the leopard his spots.",
+    "genre": "Short Stories",
+    "categories": null,
+    "published_year": 1922,
+    "author_bio": "Joseph Rudyard Kipling was an English journalist, novelist, poet and short-story writer. He was born in British India, which inspired much of his work.",
+    "sources": {
+      "google_books_matched_title": null,
+      "open_library_matched_title": "Just So Stories",
+      "wikipedia_matched_page": "Rudyard Kipling"
+    },
+    "slug": "just_so_stories_rudyard_kipling"
   }
 ]

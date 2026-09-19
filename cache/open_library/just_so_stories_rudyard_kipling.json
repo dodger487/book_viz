@@ -1,0 +1,138 @@
+{
+  "numFound": 232,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 232,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL24461A"
+      ],
+      "author_name": [
+        "Rudyard Kipling"
+      ],
+      "cover_edition_key": "OL7281792M",
+      "cover_height": 446,
+      "cover_i": 36215,
+      "cover_width": 500,
+      "ebook_access": "public",
+      "edition_count": 245,
+      "first_publish_year": 1922,
+      "has_fulltext": true,
+      "ia": [
+        "justsostories00kipl_2",
+        "justsostoriesrud0000kipl",
+        "justsostories0000kipl_v2w4",
+        "justsostorieswat00rudy",
+        "justsostoriesfor0000kipl_y8z4",
+        "justsostories0000kipl_o3c4",
+        "justsostoriesfor0000kipl_o6z4",
+        "newillustratedju0000kipl",
+        "justsostories0000kipl_b9w0"
+      ],
+      "ia_collection": [
+        "americana",
+        "bpljordan-ol",
+        "inlibrary",
+        "internetarchivebooks",
+        "library_of_congress",
+        "openlibrary-d-ol",
+        "printdisabled",
+        "stmaryscountylibrary",
+        "trent_university",
+        "universityofoklahoma-ol"
+      ],
+      "key": "/works/OL19899W",
+      "language": [
+        "spa",
+        "eng"
+      ],
+      "lending_edition_s": "OL26294684M",
+      "lending_identifier_s": "justsostories00kipl_2",
+      "public_scan_b": true,
+      "title": "Just So Stories",
+      "id_standard_ebooks": [
+        "rudyard-kipling/just-so-stories"
+      ]
+    },
+    {
+      "author_key": [
+        "OL24461A"
+      ],
+      "author_name": [
+        "Rudyard Kipling"
+      ],
+      "cover_edition_key": "OL6920547M",
+      "cover_height": 1388,
+      "cover_i": 8244430,
+      "cover_width": 993,
+      "ebook_access": "public",
+      "edition_count": 64,
+      "first_publish_year": 1902,
+      "has_fulltext": true,
+      "ia": [
+        "justsostoriesfor0000kipl",
+        "justsostoriesfor00kipl_0",
+        "justsostoriesfor00kipluoft",
+        "justsostoriesfor00kipl",
+        "justsostoriesforkipling",
+        "justsostoriesfo03kiplgoog",
+        "justsostoriesfo01kiplgoog",
+        "justsostories0000unse_u3g7",
+        "justsostoriesfor0000kipl_b6l8",
+        "justsostoriesfor00kip_37z",
+        "justsostoriesfor0000kipl_h4e2",
+        "justsostoriesfo000kipl",
+        "histoirescommeca0000kipl"
+      ],
+      "ia_collection": [
+        "americana",
+        "inlibrary",
+        "internetarchivebooks",
+        "juvenilehistoricalcollection",
+        "library_of_congress",
+        "newyorkpubliclibrary",
+        "printdisabled",
+        "robarts",
+        "toronto",
+        "trent_university",
+        "unclibraries",
+        "university_of_toronto"
+      ],
+      "key": "/works/OL19903W",
+      "language": [
+        "ita",
+        "dan",
+        "fre",
+        "und",
+        "spa",
+        "eng"
+      ],
+      "lending_edition_s": "OL33007993M",
+      "lending_identifier_s": "justsostoriesfor0000kipl",
+      "public_scan_b": true,
+      "title": "Just so stories for little children. Stalky & Co."
+    },
+    {
+      "author_key": [
+        "OL24461A"
+      ],
+      "author_name": [
+        "Rudyard Kipling"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 37,
+      "first_publish_year": 1952,
+      "has_fulltext": false,
+      "key": "/works/OL30689662W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Just So Stories"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Just So Stories",
+  "first_publish_date": "June 1986",
+  "key": "/works/OL19899W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL24461A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    36215,
+    2294057,
+    9253984,
+    11660259,
+    2111089,
+    11329870,
+    11660258,
+    893184,
+    7965884,
+    2757486,
+    5708392,
+    10886762,
+    11678579,
+    12384530,
+    12621726,
+    9060710,
+    10329713,
+    12242965,
+    10079877,
+    11103318,
+    10621339,
+    10772248,
+    12307869
+  ],
+  "subjects": [
+    "Animals",
+    "Children's stories, English",
+    "Short stories",
+    "Fiction",
+    "Fiction in English",
+    "British and irish fiction (fictional works by one author)",
+    "Fiction, short stories (single author)",
+    "Children's fiction",
+    "Animals, fiction",
+    "Juvenile fiction",
+    "English Short stories",
+    "Stories",
+    "Large type books",
+    "Adventure and adventurers, fiction",
+    "Animals -- Fiction",
+    "Fiction, action & adventure",
+    "Animals, legends",
+    "Animals -- Juvenile fiction"
+  ],
+  "description": "Seven tales that explain special things about animals, such as how the whale got his tiny throat, the camel his hump and the leopard his spots.",
+  "subject_people": [
+    "Rudyard Kipling"
+  ],
+  "location": "/works/OL15706615W",
+  "genres": [
+    "/tags/OL164T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-08T19:40:08.917933"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T14:59:52.810569"
+  }
+}

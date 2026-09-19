@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Rudyard Kipling",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rudyard Kipling</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q34743",
+  "titles": {
+    "canonical": "Rudyard_Kipling",
+    "normalized": "Rudyard Kipling",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rudyard Kipling</span></span>"
+  },
+  "pageid": 26308,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Rudyard_Kipling_%28portrait%29.jpg/330px-Rudyard_Kipling_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 439
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rudyard_Kipling_%28portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1269,
+    "height": 1689
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1373006798",
+  "tid": "53a09d16-a79b-11f1-bb0d-e0671b02c271",
+  "timestamp": "2026-09-03T13:28:19Z",
+  "description": "English writer and poet (1865\u20131936)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Rudyard_Kipling",
+      "revisions": "https://en.wikipedia.org/wiki/Rudyard_Kipling?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Rudyard_Kipling?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rudyard_Kipling"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Rudyard_Kipling",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Rudyard_Kipling",
+      "edit": "https://en.wikipedia.org/wiki/Rudyard_Kipling?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Rudyard_Kipling"
+    }
+  },
+  "extract": "Joseph Rudyard Kipling was an English journalist, novelist, poet and short-story writer. He was born in British India, which inspired much of his work.",
+  "extract_html": "<p><b>Joseph Rudyard Kipling</b> was an English journalist, novelist, poet and short-story writer. He was born in British India, which inspired much of his work.</p>"
+}
