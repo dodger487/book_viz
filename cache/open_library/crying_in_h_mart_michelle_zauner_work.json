@@ -1,0 +1,84 @@
+{
+  "title": "Crying in H Mart",
+  "covers": [
+    10462708,
+    10960189
+  ],
+  "key": "/works/OL22448002W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL8593997A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Singers",
+    "Rock musicians",
+    "Biography",
+    "Korean Americans",
+    "Autobiographies",
+    "Biography & Memoir",
+    "Food Memoir & Travel",
+    "nyt:combined-print-and-e-book-nonfiction=2021-05-09",
+    "New York Times bestseller",
+    "Koreans, united states",
+    "Rock musicians, biography",
+    "Singers, biography",
+    "Asian americans",
+    "Cooking, korean",
+    "Chanteurs",
+    "Biographies",
+    "Musiciens rock",
+    "Am\u00e9ricains d'origine cor\u00e9enne",
+    "Grief",
+    "Mothers and daughters",
+    "Group identity",
+    "Acculturation",
+    "Mother and child",
+    "Social Identification",
+    "Mother-Child Relations",
+    "Republic of Korea",
+    "United States",
+    "Humans",
+    "Chagrin",
+    "M\u00e8res et filles",
+    "Am\u00e9ricains d'origine asiatique",
+    "Identit\u00e9 collective",
+    "M\u00e8re et enfant",
+    "BIOGRAPHY & AUTOBIOGRAPHY",
+    "Cultural, Ethnic & Regional",
+    "Asian & Asian American",
+    "COOKING",
+    "Essays & Narratives",
+    "FAMILY & RELATIONSHIPS",
+    "Death, Grief, Bereavement",
+    "Japanese Breakfast (Musical group)"
+  ],
+  "subject_places": [
+    "United States",
+    "Eugene",
+    "Oregon",
+    "Seoul"
+  ],
+  "subject_people": [
+    "Michelle Zauner"
+  ],
+  "description": "In this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother\u2019s particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother\u2019s tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food.\r\n\r\nAs she grew up, moving to the East Coast for college, finding work in the restaurant industry, and performing gigs with her fledgling band\u2013and meeting the man who would become her husband\u2013her Koreanness began to feel ever more distant, even as she found the life she wanted to live. It was her mother\u2019s diagnosis of terminal cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her.\r\n\r\nVivacious and plainspoken, lyrical and honest, Zauner\u2019s voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, and complete with family photos, Crying in H Mart is a book to cherish, share, and reread.\r\n\r\n([source](https://www.penguinrandomhouse.com/books/612676/crying-in-h-mart-by-michelle-zauner/))",
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-09-30T16:46:52.096420"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-29T15:26:54.992860"
+  }
+}

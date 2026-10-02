@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Michelle Zauner",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michelle Zauner</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q44555381",
+  "titles": {
+    "canonical": "Michelle_Zauner",
+    "normalized": "Michelle Zauner",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michelle Zauner</span></span>"
+  },
+  "pageid": 54585525,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Michelle_Zauner_at_2025_National_Book_Awards_Readings_01_%28cropped_2%29.jpg/330px-Michelle_Zauner_at_2025_National_Book_Awards_Readings_01_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 488
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Michelle_Zauner_at_2025_National_Book_Awards_Readings_01_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1393,
+    "height": 2060
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1375927563",
+  "tid": "ce153e8f-b547-11f1-a714-7b27ff33ceec",
+  "timestamp": "2026-09-20T23:05:43Z",
+  "description": "American musician and author (born 1989)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Michelle_Zauner",
+      "revisions": "https://en.wikipedia.org/wiki/Michelle_Zauner?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Michelle_Zauner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michelle_Zauner"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Michelle_Zauner",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Michelle_Zauner",
+      "edit": "https://en.wikipedia.org/wiki/Michelle_Zauner?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Michelle_Zauner"
+    }
+  },
+  "extract": "Michelle Chongmi Zauner is an American musician, singer, songwriter, and author, known as the lead vocalist of the indie pop band Japanese Breakfast. Her 2021 memoir, Crying in H Mart, spent 60 weeks on The New York Times hardcover non-fiction bestseller list. In 2022, Time named her one of the 100 most influential people in the world under the category Innovators on their annual list.",
+  "extract_html": "<p><b>Michelle Chongmi Zauner</b> is an American musician, singer, songwriter, and author, known as the lead vocalist of the indie pop band Japanese Breakfast. Her 2021 memoir, <i>Crying in H Mart</i>, spent 60 weeks on <i>The New York Times</i> hardcover non-fiction bestseller list. In 2022, <i>Time</i> named her one of the 100 most influential people in the world under the category <i>Innovators</i> on their annual list.</p>"
+}
