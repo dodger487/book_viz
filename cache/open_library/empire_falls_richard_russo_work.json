@@ -1,0 +1,85 @@
+{
+  "dewey_number": [
+    "813/.54"
+  ],
+  "title": "Empire Falls",
+  "covers": [
+    418040,
+    994448,
+    8675372,
+    13528657,
+    11555718
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "THE EMPIRE GRILL was long and low-slung, with windows that ran its entire length, and since the building next door, a Rexall drugstore, had been condemned and razed, it was now possible to sit at the lunch counter and see straight down Empire Avenue all the way to the old textile mill and its adjacent shirt factory."
+  },
+  "subject_places": [
+    "Maine"
+  ],
+  "first_publish_date": "2001",
+  "key": "/works/OL3351636W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL544180A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "THE EMPIRE GRILL was long and low-slung, with windows that ran its entire length, and since the building next door, a Rexall drugstore, had been condemned and razed, it was now possible to sit at the lunch counter and see straight down Empire Avenue all the way to the old textile mill and its adjacent shirt factory."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Working class",
+    "Restaurateurs",
+    "Fathers and daughters",
+    "Restaurants",
+    "Social conditions",
+    "Blue collar workers",
+    "Large type books",
+    "Maine, fiction",
+    "Fiction, psychological",
+    "Fathers and daughters, fiction",
+    "Families",
+    "Diners (Restaurants)",
+    "City and town life",
+    "New York Times reviewed"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"Dexter County, Maine, and specifically the town of Empire Falls, has seen better days, and for decades, in fact, only a succession from bad to worse. One by one, its logging and textile enterprises have gone belly-up, and the once vast holdings of the Whiting clan (presided over by the last scion's widow) now mostly amount to decrepit real estate. The working classes, meanwhile, continue to eke out whatever meager promise isn't already boarded up.\".\r\n\r\n\"Miles Roby gazes over this ruined kingdom from the Empire Grill, an opportunity of his youth that has become the albatross of his daily and future life. Called back from college and set to work by family obligation - his mother ailing, his father a loose cannon - Miles never left home again. Even so, his own obligations are manifold: a pending divorce; a troubled younger brother; and, not least, a peculiar partnership in the failing grill with none other than Mrs. Whiting.\r\n\r\nAll of these, though, are offset by his daughter, Tick, whom he guides gently and proudly through the tribulations of adolescence.\" \"A decent man encircled by history and dreams, by echoing churches and abandoned mills, by the comforts and feuds provided by lifelong friends and neighbors, Miles is also a patient, knowing guide to the rich, hardscrabble nature of Empire Falls: fathers and sons and daughters, living and dead, rich and poor alike.\"--BOOK JACKET."
+  },
+  "identifiers": {
+    "librarything": [
+      "5758"
+    ]
+  },
+  "links": [
+    {
+      "title": "New York Times review",
+      "url": "http://www.nytimes.com/2001/06/24/books/townies.html",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:21:18.290078"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-30T16:19:10.907845"
+  }
+}
