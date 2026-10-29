@@ -3106,5 +3106,17 @@
     "pacing": "measured, introspective",
     "themes": "family, obligation, community, decline",
     "setting": "contemporary small-town Maine"
+  },
+  {
+    "slug": "the_concrete_blonde_michael_connelly",
+    "title": "The Concrete Blonde",
+    "author": "Michael Connelly",
+    "familiarity": "high",
+    "clean_description": "In 'The Concrete Blonde', Detective Harry Bosch faces the repercussions of killing a suspected serial killer known as the Dollmaker. When the widow of the deceased sues Bosch and the LAPD, doubts arise about whether they truly apprehended the right man. As new victims emerge bearing the Dollmaker's signature, Bosch must confront both the external threat and his internal struggles to stop the killer before more lives are lost.",
+    "genre": "Mystery",
+    "tone_and_style": "gritty, suspenseful, introspective",
+    "pacing": "fast-paced, tension-filled",
+    "themes": "justice, morality, obsession",
+    "setting": "Los Angeles, contemporary"
   }
 ]

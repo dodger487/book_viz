@@ -1,0 +1,55 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "They called him the Dollmaker-the serial killer who stalked Los Angeles and left a grisly calling card on the faces of his female victims. With a single faultless shot, Detective Harry Bosch thought he had ended the city's nightmare... But then the dead man's widow sues Harry and the LAPD for killing the wrong man-an accusation that rings terrifyingly true when a new victim is discovered with the Dollmaker's macabre signature... Now, for the second time, Harry must hunt down a death-dealer who is very much alive, before he strikes again. It's a blood-tracked quest that will take Harry from the hard edges of the L.A. night to the last place he ever wanted to go-the darkness of his own heart."
+  },
+  "title": "The Concrete Blonde (Harry Bosch)",
+  "covers": [
+    184142
+  ],
+  "subject_places": [
+    "Los Angeles"
+  ],
+  "subjects": [
+    "Harry Bosch",
+    "serial killers",
+    "crime",
+    "Fiction, mystery & detective, police procedural",
+    "Bosch, harry (fictitious character), fiction",
+    "California, fiction",
+    "Fiction, legal",
+    "Los angeles (calif.), fiction",
+    "Fiction, mystery & detective, general",
+    "Fiction",
+    "Police",
+    "Serial murders"
+  ],
+  "key": "/works/OL111751W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL18979A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL166T",
+    "/tags/OL175T"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T23:59:58.253545"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T10:26:35.883830"
+  }
+}
