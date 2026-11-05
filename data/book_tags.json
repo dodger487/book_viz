@@ -3118,5 +3118,17 @@
     "pacing": "fast-paced, tension-filled",
     "themes": "justice, morality, obsession",
     "setting": "Los Angeles, contemporary"
+  },
+  {
+    "slug": "the_tainted_cup_robert_jackson_bennett",
+    "title": "The Tainted Cup",
+    "author": "Robert Jackson Bennett",
+    "familiarity": "low",
+    "clean_description": "The Tainted Cup is a fantasy novel that explores themes of power, corruption, and the consequences of ambition. It follows characters navigating a world filled with magic and moral dilemmas, as they confront the impact of their choices on themselves and their society.",
+    "genre": "Fantasy",
+    "tone_and_style": "dark, intricate, lyrical",
+    "pacing": "measured, character-driven",
+    "themes": "power, corruption, ambition",
+    "setting": "a fantastical world with magical elements"
   }
 ]

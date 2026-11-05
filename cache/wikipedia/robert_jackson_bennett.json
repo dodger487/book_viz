@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Robert Jackson Bennett",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Jackson Bennett</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q16198845",
+  "titles": {
+    "canonical": "Robert_Jackson_Bennett",
+    "normalized": "Robert Jackson Bennett",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Jackson Bennett</span></span>"
+  },
+  "pageid": 40574257,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Worldcon_2026_%28LAcon_V%29_-_Robert_Jackson_Bennett_02_%28cropped%29.jpg/330px-Worldcon_2026_%28LAcon_V%29_-_Robert_Jackson_Bennett_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 492
+  },
+  "originalimage": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Worldcon_2026_%28LAcon_V%29_-_Robert_Jackson_Bennett_02_%28cropped%29.jpg/1920px-Worldcon_2026_%28LAcon_V%29_-_Robert_Jackson_Bennett_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 2701,
+    "height": 4030
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1382340575",
+  "tid": "68287f52-d28a-11f1-80b9-1dd50113fb9b",
+  "timestamp": "2026-10-28T04:45:32Z",
+  "description": "American writer (born 1984)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Robert_Jackson_Bennett",
+      "revisions": "https://en.wikipedia.org/wiki/Robert_Jackson_Bennett?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Robert_Jackson_Bennett?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Jackson_Bennett"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Robert_Jackson_Bennett",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Robert_Jackson_Bennett",
+      "edit": "https://en.wikipedia.org/wiki/Robert_Jackson_Bennett?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Jackson_Bennett"
+    }
+  },
+  "extract": "Robert Jackson Bennett is an American writer of speculative fiction. His fantasy novel The Tainted Cup won the 2025 Hugo Award for Best Novel and the World Fantasy Award for Best Novel.",
+  "extract_html": "<p><b>Robert Jackson Bennett</b> is an American writer of speculative fiction. His fantasy novel <i>The Tainted Cup</i> won the 2025 Hugo Award for Best Novel and the World Fantasy Award for Best Novel.</p>"
+}

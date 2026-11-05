@@ -1,0 +1,33 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "The Tainted Cup",
+  "subjects": [
+    "American literature",
+    "Hugo Award Winner",
+    "award:hugo_award=2025",
+    "award:hugo_award=novel"
+  ],
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6586893A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL37628730W",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-01-31T10:06:44.357732"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-13T21:18:29.183326"
+  }
+}

@@ -4494,5 +4494,21 @@
       "wikipedia_matched_page": "Michael Connelly"
     },
     "slug": "the_concrete_blonde_michael_connelly"
+  },
+  {
+    "title": "The Tainted Cup",
+    "author": "Robert Jackson Bennett",
+    "date_read": "11/4/2026",
+    "description": null,
+    "genre": "Unknown",
+    "categories": null,
+    "published_year": 2024,
+    "author_bio": "Robert Jackson Bennett is an American writer of speculative fiction. His fantasy novel The Tainted Cup won the 2025 Hugo Award for Best Novel and the World Fantasy Award for Best Novel.",
+    "sources": {
+      "google_books_matched_title": null,
+      "open_library_matched_title": "The Tainted Cup",
+      "wikipedia_matched_page": "Robert Jackson Bennett"
+    },
+    "slug": "the_tainted_cup_robert_jackson_bennett"
   }
 ]
