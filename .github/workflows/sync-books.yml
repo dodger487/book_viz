@@ -19,7 +19,10 @@ name: Sync new books
 
 on:
   schedule:
-    - cron: "0 * * * *" # every hour, on the hour
+    # Off the top of the hour on purpose: GitHub load-sheds scheduled runs
+    # (minute 0 is the busiest) and was only firing "0 * * * *" every
+    # ~5-9h. Even off-peak, schedule is best-effort, not guaranteed.
+    - cron: "23 * * * *" # hourly, at :23
   workflow_dispatch: {}
 
 # Only one sync should ever be mutating data/books.csv and pushing at a
