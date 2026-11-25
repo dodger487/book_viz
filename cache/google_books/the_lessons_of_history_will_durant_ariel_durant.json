@@ -1,0 +1,117 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2_w48-_eHwkC",
+      "etag": "99UVflBiPAE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2_w48-_eHwkC",
+      "volumeInfo": {
+        "title": "The Lessons of History",
+        "authors": [
+          "Will Durant, Ariel Durant"
+        ],
+        "publishedDate": "1968",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2_w48-_eHwkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2_w48-_eHwkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2_w48-_eHwkC&dq=intitle:%22The+Lessons+of+History%22+inauthor:%22Will+Durant,+Ariel+Durant%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2_w48-_eHwkC&dq=intitle:%22The+Lessons+of+History%22+inauthor:%22Will+Durant,+Ariel+Durant%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lessons_of_History.html?hl=&id=2_w48-_eHwkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2_w48-_eHwkC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zm5wnAEACAAJ",
+      "etag": "nuyl4x2GGiQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zm5wnAEACAAJ",
+      "volumeInfo": {
+        "title": "The Lessons of History [sound Recording]",
+        "authors": [
+          "Durant, Ariel",
+          "Will Durant",
+          "Gould, Gordon"
+        ],
+        "publisher": "CNIB, 197",
+        "publishedDate": "197?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558733387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 119,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zm5wnAEACAAJ&dq=intitle:%22The+Lessons+of+History%22+inauthor:%22Will+Durant,+Ariel+Durant%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Zm5wnAEACAAJ&dq=intitle:%22The+Lessons+of+History%22+inauthor:%22Will+Durant,+Ariel+Durant%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lessons_of_History_sound_Recording.html?hl=&id=Zm5wnAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zm5wnAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

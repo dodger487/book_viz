@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "T-vJDwAAQBAJ",
+      "etag": "7YC85pbHiHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T-vJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Existential Kink",
+        "subtitle": "Unmask Your Shadow and Embrace Your Power (a Method for Getting What You Want by Getting Off on What You Don't)",
+        "authors": [
+          "Carolyn Elliott"
+        ],
+        "publisher": "Weiser Books",
+        "publishedDate": "2020",
+        "description": "A smart, sexy guide to embracing the repressed, tabooed, and often unwanted aspects of ourselves so we can discover our inner power and finally live the life we deserve. \"We always get exactly what we want; but often, though we may not be aware of it, what we most want is dark--very dark.\" Each of us has a dual nature: we are light (conscious) and dark (unconscious). The dark side of our personality--the \"other,\" the shadow side--is made up of what we think is our primitive, primal, negative impulses--our \"existential kink.\" Our existential kink also drives the dark or negative repeating patterns in our life: always choosing the abusive partner or boss, settling for less, thinking that we're undeserving, not worthy. But it also is the source of our greatest power. In Existential Kink, Carolyn Elliott, PhD, offers a truth-telling guide for bringing our shadow into the light. Inviting us to make conscious the unconscious, Elliott asks us to own the subconscious pleasure we get from the stuck, painful patterns of our existence. Existential Kink provides practical advice and meditations so we truly see our shadow side's \"guilty pleasures,\" love and accept them, and integrate them into our whole being. By doing so, Elliott shows, we bring to life the raw, hot, glorious power we all have to get what we really want in our lives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781578636471"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1578636477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T-vJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T-vJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T-vJDwAAQBAJ&printsec=frontcover&dq=intitle:%22Existential+Kink%22+inauthor:%22Carolyn+Elliott%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=T-vJDwAAQBAJ&dq=intitle:%22Existential+Kink%22+inauthor:%22Carolyn+Elliott%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Existential_Kink.html?hl=&id=T-vJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Existential_Kink-sample-pdf.acsm?id=T-vJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T-vJDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But it also is the source of our greatest power. In Existential Kink, Carolyn Elliott, PhD, offers a truth-telling guide for bringing our shadow into the light."
+      }
+    }
+  ]
+}

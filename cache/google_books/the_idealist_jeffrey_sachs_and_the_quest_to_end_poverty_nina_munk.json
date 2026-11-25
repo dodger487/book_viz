@@ -1,0 +1,104 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lF8vezXqSawC",
+      "etag": "6kkfkEVSSE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lF8vezXqSawC",
+      "volumeInfo": {
+        "title": "The Idealist",
+        "subtitle": "Jeffrey Sachs and the Quest to End Poverty",
+        "authors": [
+          "Nina Munk"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2013-09-10",
+        "description": "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY Bloomberg \u2022 Forbes \u2022 The Spectator Recipient of Foreign Policy's 2013 Albie Award A powerful portrayal of Jeffrey Sachs's ambitious quest to end global poverty \"The poor you will always have with you,\" to cite the Gospel of Matthew 26:11. Jeffrey Sachs\u2014celebrated economist, special advisor to the Secretary General of the United Nations, and author of the influential bestseller The End of Poverty\u2014disagrees. In his view, poverty is a problem that can be solved. With single-minded determination he has attempted to put into practice his theories about ending extreme poverty, to prove that the world's most destitute people can be lifted onto \"the ladder of development.\" In 2006, Sachs launched the Millennium Villages Project, a daring five-year experiment designed to test his theories in Africa. The first Millennium village was in Sauri, a remote cluster of farming communities in western Kenya. The initial results were encouraging. With his first taste of success, and backed by one hundred twenty million dollars from George Soros and other likeminded donors, Sachs rolled out a dozen model villages in ten sub-Saharan countries. Once his approach was validated it would be scaled up across the entire continent. At least that was the idea. For the past six years, Nina Munk has reported deeply on the Millennium Villages Project, accompanying Sachs on his official trips to Africa and listening in on conversations with heads-of-state, humanitarian organizations, rival economists, and development experts. She has immersed herself in the lives of people in two Millennium villages: Ruhiira, in southwest Uganda, and Dertu, in the arid borderland between Kenya and Somalia. Accepting the hospitality of camel herders and small-hold farmers, and witnessing their struggle to survive, Munk came to understand the real-life issues that challenge Sachs's formula for ending global poverty. THE IDEALIST is the profound and moving story of what happens when the abstract theories of a brilliant, driven man meet the reality of human life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385537742"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385537743"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lF8vezXqSawC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lF8vezXqSawC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lF8vezXqSawC&printsec=frontcover&dq=intitle:%22The+Idealist:+Jeffrey+Sachs+and+the+Quest+to+End+Poverty%22+inauthor:%22Nina+Munk%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lF8vezXqSawC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lF8vezXqSawC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lF8vezXqSawC&rdid=book-lF8vezXqSawC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Idealist-sample-epub.acsm?id=lF8vezXqSawC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lF8vezXqSawC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY Bloomberg \u2022 Forbes \u2022 The Spectator Recipient of Foreign Policy&#39;s 2013 Albie Award A powerful portrayal of Jeffrey Sachs&#39;s ambitious quest to end global poverty &quot;The poor you will always have ..."
+      }
+    }
+  ]
+}

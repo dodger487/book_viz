@@ -1,0 +1,209 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 33,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "H10szgEACAAJ",
+      "etag": "y/cjCr2mijM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H10szgEACAAJ",
+      "volumeInfo": {
+        "title": "Scoop--",
+        "subtitle": "By Evelyn Waugh",
+        "authors": [
+          "Evelyn Waugh"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:863161652"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=H10szgEACAAJ&dq=intitle:%22Scoop%22+inauthor:%22Evelyn+Waugh%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=H10szgEACAAJ&dq=intitle:%22Scoop%22+inauthor:%22Evelyn+Waugh%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Scoop.html?hl=&id=H10szgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H10szgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "apiCEAAAQBAJ",
+      "etag": "3pHeicWMKa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/apiCEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Scoop",
+        "subtitle": "Enriched edition.",
+        "authors": [
+          "Evelyn Waugh"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-08-16",
+        "description": "In \"Scoop,\" Evelyn Waugh crafts a sharp satirical narrative that explores the absurdities and moral vacuity of the newspaper industry in the 1930s. The novel follows the misadventures of William Boot, an unassuming nature writer inadvertently sent to cover a war in the fictional African country of Ismailia. Waugh's incisive wit permeates the text, employing an ironic prose style reminiscent of both the Modernist period and the grand tradition of British satire. The novel's biting commentary on journalistic ethics and the quest for sensationalism reflects the author's acute awareness of the rapidly changing media landscape during his time, serving both as a critique and a reflection of the British society of the era. Evelyn Waugh, a prominent figure in 20th-century literature, often drew from his own experiences as a journalist and his fascination with the elite classes. His early career was marked by a series of travel writings and journalistic pursuits, which likely influenced the creation of \"Scoop.\" Additionally, Waugh's exposure to the tumult of World War I and the political climates of his day deepened his interest in themes of chaos, conflict, and the absurdity of human endeavors. \"Scoop\" is a must-read for anyone interested in the confluence of humor and social critique. Waugh's masterful blend of sharp dialogue and memorable characters invites readers to reflect on the paradox of truth in journalism and the nature of media sensationalism. This novel remains remarkably relevant today, making it an essential addition to any literary collection. In this enriched edition, we have carefully created added value for your reading experience: - A succinct Introduction situates the work's timeless appeal and themes. - The Synopsis outlines the central plot, highlighting key developments without spoiling critical twists. - A detailed Historical Context immerses you in the era's events and influences that shaped the writing. - An Author Biography reveals milestones in the author's life, illuminating the personal insights behind the text. - A thorough Analysis dissects symbols, motifs, and character arcs to unearth underlying meanings. - Reflection questions prompt you to engage personally with the work's messages, connecting them to modern life. - Hand\u2010picked Memorable Quotes shine a spotlight on moments of literary brilliance. - Interactive footnotes clarify unusual references, historical allusions, and archaic phrases for an effortless, more informed read.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547193432"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=apiCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=apiCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=apiCEAAAQBAJ&printsec=frontcover&dq=intitle:%22Scoop%22+inauthor:%22Evelyn+Waugh%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=apiCEAAAQBAJ&dq=intitle:%22Scoop%22+inauthor:%22Evelyn+Waugh%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Scoop.html?hl=&id=apiCEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Scoop-sample-epub.acsm?id=apiCEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Scoop-sample-pdf.acsm?id=apiCEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=apiCEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This novel remains remarkably relevant today, making it an essential addition to any literary collection."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zQ7CEAAAQBAJ",
+      "etag": "uOLmPorepKo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zQ7CEAAAQBAJ",
+      "volumeInfo": {
+        "title": "SCOOP",
+        "authors": [
+          "Evelyn Waugh"
+        ],
+        "publisher": "Alien Ebooks",
+        "publishedDate": "2023-06-01",
+        "description": "William Boot, a young man who lives in genteel poverty, far from the iniquities of London, contributes nature notes to Lord Copper\u2019s Daily Beast, a national daily newspaper. He is dragooned into becoming a foreign correspondent, when the editors mistake him for John Courtney Boot, a fashionable novelist and a remote cousin. He is sent to Ishmaelia, a fictional state in East Africa, to report on the crisis there. Lord Copper believes it \u201ca very promising little war\u201d and proposes \u201cto give it fullest publicity\u201d. Despite his total ineptitude, Boot accidentally gets the journalistic \u201cscoop\u201d of the title. When he returns, the credit goes to the other Boot and William is left to return to his bucolic pursuits, much to his relief.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781667623771"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "166762377X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zQ7CEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zQ7CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zQ7CEAAAQBAJ&printsec=frontcover&dq=intitle:%22Scoop%22+inauthor:%22Evelyn+Waugh%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zQ7CEAAAQBAJ&dq=intitle:%22Scoop%22+inauthor:%22Evelyn+Waugh%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SCOOP.html?hl=&id=zQ7CEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zQ7CEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Boot, a young man who lives in genteel poverty, far from the iniquities of London, contributes nature notes to Lord Copper\u2019s Daily Beast, a national daily newspaper."
+      }
+    }
+  ]
+}

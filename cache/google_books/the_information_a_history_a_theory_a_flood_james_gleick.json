@@ -1,0 +1,179 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "617JSFW0D2kC",
+      "etag": "YzbvCbQZN20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/617JSFW0D2kC",
+      "volumeInfo": {
+        "title": "The Information",
+        "subtitle": "A History, a Theory, a Flood",
+        "authors": [
+          "James Gleick"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2011-03-01",
+        "description": "From the bestselling author of the acclaimed Chaos and Genius comes a thoughtful and provocative exploration of the big ideas of the modern era: Information, communication, and information theory. Acclaimed science writer James Gleick presents an eye-opening vision of how our relationship to information has transformed the very nature of human consciousness. A fascinating intellectual journey through the history of communication and information, from the language of Africa\u2019s talking drums to the invention of written alphabets; from the electronic transmission of code to the origins of information theory, into the new information age and the current deluge of news, tweets, images, and blogs. Along the way, Gleick profiles key innovators, including Charles Babbage, Ada Lovelace, Samuel Morse, and Claude Shannon, and reveals how our understanding of information is transforming not only how we look at the world, but how we live. A New York Times Notable Book A Los Angeles Times and Cleveland Plain Dealer Best Book of the Year Winner of the PEN/E. O. Wilson Literary Science Writing Award",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307379573"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307379574"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=617JSFW0D2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=617JSFW0D2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=617JSFW0D2kC&printsec=frontcover&dq=intitle:%22The+Information:+A+History,+a+Theory,+a+Flood%22+inauthor:%22James+Gleick%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=617JSFW0D2kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=617JSFW0D2kC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=617JSFW0D2kC&rdid=book-617JSFW0D2kC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Information-sample-epub.acsm?id=617JSFW0D2kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=617JSFW0D2kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Acclaimed science writer James Gleick presents an eye-opening vision of how our relationship to information has transformed the very nature of human consciousness."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VhZIxnJgKtgC",
+      "etag": "lgW+sDc46II",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VhZIxnJgKtgC",
+      "volumeInfo": {
+        "title": "The Information: A History, a Theory, a Flood (Enhanced Edition)",
+        "authors": [
+          "James Gleick"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2011-03-31",
+        "description": "Winner of the Royal Society Winton Prize for Science Books 2012, the world's leading prize for popular science writing. This enhanced e-book version contains twelve animations created by graphic design students from the world renowned Central Saint Martins college of Art and Design.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007438990"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007438990"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VhZIxnJgKtgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VhZIxnJgKtgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VhZIxnJgKtgC&dq=intitle:%22The+Information:+A+History,+a+Theory,+a+Flood%22+inauthor:%22James+Gleick%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VhZIxnJgKtgC&dq=intitle:%22The+Information:+A+History,+a+Theory,+a+Flood%22+inauthor:%22James+Gleick%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Information_A_History_a_Theory_a_Flo.html?hl=&id=VhZIxnJgKtgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VhZIxnJgKtgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This enhanced e-book version contains twelve animations created by graphic design students from the world renowned Central Saint Martins college of Art and Design."
+      }
+    }
+  ]
+}

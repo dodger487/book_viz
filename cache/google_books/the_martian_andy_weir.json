@@ -1,0 +1,227 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 19,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "oGGMDQAAQBAJ",
+      "etag": "MPGcC83PhNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oGGMDQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Martian",
+        "subtitle": "A Novel",
+        "authors": [
+          "Andy Weir"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2014-02-11",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 \u201cBrilliant . . . a celebration of human ingenuity [and] the purest example of real-science sci-fi for many years . . . utterly compelling.\u201d\u2014The Wall Street Journal The inspiration for the major motion picture Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he\u2019s sure he\u2019ll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he\u2019s alive\u2014and even if he could get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won\u2019t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old \u201chuman error\u201d are much more likely to kill him first. But Mark isn\u2019t ready to give up yet. Drawing on his ingenuity, his engineering skills\u2014and a relentless, dogged refusal to quit\u2014he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him? NAMED ONE OF PASTE\u2019S BEST NOVELS OF THE DECADE \u201cA hugely entertaining novel [that] reads like a rocket ship afire . . . Weir has fashioned in Mark Watney one of the most appealing, funny, and resourceful characters in recent fiction.\u201d\u2014Chicago Tribune \u201cAs gripping as they come . . . You\u2019ll be rooting for Watney the whole way, groaning at every setback and laughing at his pitchblack humor. Utterly nail-biting and memorable.\u201d\u2014Financial Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804139021"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0804139024"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oGGMDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oGGMDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oGGMDQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Martian%22+inauthor:%22Andy+Weir%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oGGMDQAAQBAJ&dq=intitle:%22The+Martian%22+inauthor:%22Andy+Weir%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Martian.html?hl=&id=oGGMDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oGGMDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "#1 NEW YORK TIMES BESTSELLER \u2022 NOW A MAJOR MOTION PICTURE A mission to Mars."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BGDhCwAAQBAJ",
+      "etag": "g2gMZNo4/OM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BGDhCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Martian: Classroom Edition",
+        "subtitle": "A Novel",
+        "authors": [
+          "Andy Weir"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2016-05-03",
+        "description": "In the Classroom Edition of The Martian: Classroom-appropriate language Discussion questions and activities Q&A with Andy Weir Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he's sure he'll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he\u2019s alive\u2014and even if he could get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won't have time to starve to death. The damaged machinery, unforgiving environment, or plain-old \"human error\" are much more likely to kill him first. But Mark isn't ready to give up yet. Drawing on his ingenuity, his engineering skills\u2014and a relentless, dogged refusal to quit\u2014he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804189354"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0804189358"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BGDhCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BGDhCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BGDhCwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Martian%22+inauthor:%22Andy+Weir%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BGDhCwAAQBAJ&dq=intitle:%22The+Martian%22+inauthor:%22Andy+Weir%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Martian_Classroom_Edition.html?hl=&id=BGDhCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BGDhCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the Classroom Edition of The Martian: Classroom-appropriate language Discussion questions and activities Q&amp;A with Andy Weir Six days ago, astronaut Mark Watney became one of the first people to walk on Mars."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EbuPEQAAQBAJ",
+      "etag": "xztOUg0ND3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EbuPEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Martian (Deluxe Edition)",
+        "subtitle": "A Novel",
+        "authors": [
+          "Andy Weir"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2026-05-26",
+        "description": "This hardcover edition celebrates the #1 New York Times bestseller that set our sights on Mars and inspired the major motion picture starring Matt Damon and Jessica Chastain, with special features including: \u2022 Intricately designed sprayed edges \u2022 New cover art on a deluxe jacket \u2022 Full-color illustrated endpapers \u2022 A custom-stamped case A mission to Mars. A freak accident. One man\u2019s struggle to survive. From the author of Project Hail Mary comes \u201ca hugely entertaining novel that reads like a rocket ship afire\u201d (Chicago Tribune). \u201cBrilliant . . . a celebration of human ingenuity [and] the purest example of real-science sci-fi for many years . . . utterly compelling.\u201d\u2014The Wall Street Journal Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he\u2019s sure he\u2019ll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he\u2019s alive\u2014and even if he could get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won\u2019t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old \u201chuman error\u201d are much more likely to kill him first. But Mark isn\u2019t ready to give up yet. Drawing on his ingenuity, his engineering skills\u2014and a relentless, dogged refusal to quit\u2014he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him? NAMED ONE OF PASTE\u2019S BEST NOVELS OF THE DECADE \u201cA hugely entertaining novel [that] reads like a rocket ship afire . . . Weir has fashioned in Mark Watney one of the most appealing, funny, and resourceful characters in recent fiction.\u201d\u2014Chicago Tribune \u201cAs gripping as they come . . . You\u2019ll be rooting for Watney the whole way, groaning at every setback and laughing at his pitchblack humor. Utterly nail-biting and memorable.\u201d\u2014Financial Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798217300556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EbuPEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EbuPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EbuPEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Martian%22+inauthor:%22Andy+Weir%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EbuPEQAAQBAJ&dq=intitle:%22The+Martian%22+inauthor:%22Andy+Weir%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Martian_Deluxe_Edition.html?hl=&id=EbuPEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Martian_Deluxe_Edition-sample-pdf.acsm?id=EbuPEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EbuPEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This hardcover edition celebrates the #1 New York Times bestseller that set our sights on Mars and inspired the major motion picture starring Matt Damon and Jessica Chastain, with special features including: \u2022 Intricately designed sprayed ..."
+      }
+    }
+  ]
+}

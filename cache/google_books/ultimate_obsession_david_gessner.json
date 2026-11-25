@@ -1,0 +1,176 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "R6Je0AEACAAJ",
+      "etag": "k+HR3UPMhe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R6Je0AEACAAJ",
+      "volumeInfo": {
+        "title": "Obsession",
+        "authors": [
+          "David Goodis"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1409371534"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=R6Je0AEACAAJ&dq=intitle:%22Ultimate+Obsession%22+inauthor:%22David+Gessner%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=R6Je0AEACAAJ&dq=intitle:%22Ultimate+Obsession%22+inauthor:%22David+Gessner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obsession.html?hl=&id=R6Je0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R6Je0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pDrvGAAACAAJ",
+      "etag": "OeaZ39rcaYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pDrvGAAACAAJ",
+      "volumeInfo": {
+        "title": "Obsessive Love",
+        "authors": [
+          "Susan Forward"
+        ],
+        "publishedDate": "1992-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0593024389"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593024386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pDrvGAAACAAJ&dq=intitle:%22Ultimate+Obsession%22+inauthor:%22David+Gessner%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pDrvGAAACAAJ&dq=intitle:%22Ultimate+Obsession%22+inauthor:%22David+Gessner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obsessive_Love.html?hl=&id=pDrvGAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pDrvGAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vK9AAAAACAAJ",
+      "etag": "GacoQ+05fL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vK9AAAAACAAJ",
+      "volumeInfo": {
+        "title": "An Obsessive Love",
+        "authors": [
+          "Sarah Holland"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0263792676"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780263792676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vK9AAAAACAAJ&dq=intitle:%22Ultimate+Obsession%22+inauthor:%22David+Gessner%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vK9AAAAACAAJ&dq=intitle:%22Ultimate+Obsession%22+inauthor:%22David+Gessner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Obsessive_Love.html?hl=&id=vK9AAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vK9AAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

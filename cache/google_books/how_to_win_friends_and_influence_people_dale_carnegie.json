@@ -1,0 +1,221 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 55,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "c6chEgAAQBAJ",
+      "etag": "6HpPO7SvKyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c6chEgAAQBAJ",
+      "volumeInfo": {
+        "title": "How To Win Friends and Influence People",
+        "authors": [
+          "Dale Carnegie"
+        ],
+        "publisher": "Arkenza Books",
+        "publishedDate": "2026-10-26",
+        "description": "The most famous confidence-boosting book ever published, \"How To Win Friends and Influence People\" is a Self Help book written by Dale Carnegie. Over 15 Million Copies have been sold world-wide, making it one of the Best Selling Books of all time. In 2011, it was number 19 on TIME Magazine's List of the 100 most Influential Books. Author's advice has stood the test of time and will teach you how to: \"Make friends quickly and easily\", \" Increase your popularity\", \"Persuade people to follow your way of thinking\", \"Enable you to win new clients and customers\", \"Become a better speaker\" and \"Boost enthusiasm among your colleagues\". This classic book will turn your relationships around and improve your interactions with everyone in your life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782291640967"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2291640968"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c6chEgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c6chEgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=c6chEgAAQBAJ&printsec=frontcover&dq=intitle:%22How+To+Win+Friends+and+Influence+People%22+inauthor:%22Dale+Carnegie%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=c6chEgAAQBAJ&dq=intitle:%22How+To+Win+Friends+and+Influence+People%22+inauthor:%22Dale+Carnegie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_To_Win_Friends_and_Influence_People.html?hl=&id=c6chEgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/How_To_Win_Friends_and_Influence_People-sample-epub.acsm?id=c6chEgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/How_To_Win_Friends_and_Influence_People-sample-pdf.acsm?id=c6chEgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c6chEgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This classic book will turn your relationships around and improve your interactions with everyone in your life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LcJrEAAAQBAJ",
+      "etag": "AZJq/dYetpI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LcJrEAAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Win Friends and Influence People",
+        "subtitle": "Updated For the Next Generation of Leaders",
+        "authors": [
+          "Dale Carnegie"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2022-05-17",
+        "description": "This new edition of the most influential self-help book of the last century features updated information from the author's daughter, with timeless advice on topics such as effective communication and navigating social situations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982171452"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982171456"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LcJrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LcJrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LcJrEAAAQBAJ&printsec=frontcover&dq=intitle:%22How+To+Win+Friends+and+Influence+People%22+inauthor:%22Dale+Carnegie%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LcJrEAAAQBAJ&dq=intitle:%22How+To+Win+Friends+and+Influence+People%22+inauthor:%22Dale+Carnegie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Win_Friends_and_Influence_People.html?hl=&id=LcJrEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LcJrEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new edition of the most influential self-help book of the last century features updated information from the author&#39;s daughter, with timeless advice on topics such as effective communication and navigating social situations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zw3asgEACAAJ",
+      "etag": "OEu2gkJeyCk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zw3asgEACAAJ",
+      "volumeInfo": {
+        "title": "How to Win Friends & Influence People",
+        "subtitle": "Large Print Edition",
+        "authors": [
+          "Dale Carnegie"
+        ],
+        "publishedDate": "2015-06-23",
+        "description": "This edition is cleanly formatted for easy reading. 16 point Garamond, 1.25 spacing. Since its initial publication eighty years ago, How to Win Friends & Influence People has sold over fifteen million copies worldwide. In his book, Carnegie explains that success comes from the ability to communicate effectively with others. He provides relatable analogies and examples, and teaches you skills to make people want to be in your company, see things your way, and feel wonderful about it. For more than eighty years his advice has helped thousands of successful people in their business and personal lives. First published by Simon and Schuster in October 1936.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1897384297"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781897384299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zw3asgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zw3asgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Zw3asgEACAAJ&dq=intitle:%22How+To+Win+Friends+and+Influence+People%22+inauthor:%22Dale+Carnegie%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Zw3asgEACAAJ&dq=intitle:%22How+To+Win+Friends+and+Influence+People%22+inauthor:%22Dale+Carnegie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Win_Friends_Influence_People.html?hl=&id=Zw3asgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zw3asgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You can take any situation you&#39;re in and make it work for you! For over 50 years the rock-solid, time-tested advice in this book has carried thousands of now famous people up the ladder of success in their business and personal lives."
+      }
+    }
+  ]
+}

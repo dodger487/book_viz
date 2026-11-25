@@ -1,0 +1,237 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 35,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "E6BKpf2tSkoC",
+      "etag": "1h4Do8chCiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E6BKpf2tSkoC",
+      "volumeInfo": {
+        "title": "The Hot Zone",
+        "subtitle": "The Terrifying True Story of the Origins of the Ebola Virus",
+        "authors": [
+          "Richard Preston"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2012-03-14",
+        "description": "The bestselling landmark account of the first emergence of the Ebola virus. Now a mini-series drama starring Julianna Margulies, Topher Grace, Liam Cunningham, James D'Arcy, and Noah Emmerich on National Geographic. A highly infectious, deadly virus from the central African rain forest suddenly appears in the suburbs of Washington, D.C. There is no cure. In a few days 90 percent of its victims are dead. A secret military SWAT team of soldiers and scientists is mobilized to stop the outbreak of this exotic \"hot\" virus. The Hot Zone tells this dramatic story, giving a hair-raising account of the appearance of rare and lethal viruses and their \"crashes\" into the human race. Shocking, frightening, and impossible to ignore, The Hot Zone proves that truth really is scarier than fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307817655"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307817652"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.25.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E6BKpf2tSkoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E6BKpf2tSkoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=E6BKpf2tSkoC&printsec=frontcover&dq=intitle:%22The+Hot+Zone:+The+Terrifying+True+Story+of+the+Origins+of+the+Ebola+Virus%22+inauthor:%22Richard+Preston%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=E6BKpf2tSkoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=E6BKpf2tSkoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=E6BKpf2tSkoC&rdid=book-E6BKpf2tSkoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Hot_Zone-sample-epub.acsm?id=E6BKpf2tSkoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E6BKpf2tSkoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Hot Zone tells this dramatic story, giving a hair-raising account of the appearance of rare and lethal viruses and their &quot;crashes&quot; into the human race."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T6izoQEACAAJ",
+      "etag": "91fi2Fa0QH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T6izoQEACAAJ",
+      "volumeInfo": {
+        "title": "The Hot Zone",
+        "authors": [
+          "Richard Preston"
+        ],
+        "publisher": "Corgi",
+        "publishedDate": "2014",
+        "description": "In March 2014, the Ebola outbreak in West Africa was first reported. By October 2014, it had become the largest and deadliest occurrence of the disease. Almost 10,000 cases have been reported, across Liberia, Guinea, Sierra Leone, Nigeria and the US. This book offers a true-life account of this highly infectious virus.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0552171646"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780552171649"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T6izoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T6izoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T6izoQEACAAJ&dq=intitle:%22The+Hot+Zone:+The+Terrifying+True+Story+of+the+Origins+of+the+Ebola+Virus%22+inauthor:%22Richard+Preston%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=T6izoQEACAAJ&dq=intitle:%22The+Hot+Zone:+The+Terrifying+True+Story+of+the+Origins+of+the+Ebola+Virus%22+inauthor:%22Richard+Preston%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hot_Zone.html?hl=&id=T6izoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T6izoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Almost 10,000 cases have been reported, across Liberia, Guinea, Sierra Leone, Nigeria and the US. This book offers a true-life account of this highly infectious virus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cMa_PwAACAAJ",
+      "etag": "7r4PnkrbEMY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cMa_PwAACAAJ",
+      "volumeInfo": {
+        "title": "The Hot Zone",
+        "authors": [
+          "Richard Preston"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "1995-08-13",
+        "description": "A highly infectious, deadly virus from the central African rain forest suddenly appears in the suburbs of Washington, D.C. There is no cure. In a few days 90 percent of its victims are dead. A secret military SWAT team of soldiers and scientists is mobilized to stop the outbreak of this exotic \"hot\" virus. \"The Hot Zone\" tells this dramatic story, giving a hair-raising account of the appearance of rare and lethal viruses and their \"crashes\" into the human race. Shocking, frightening, and impossible to ignore, \"The Hot Zone\" proves that truth really is scarier than fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0385427107"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385427104"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cMa_PwAACAAJ&dq=intitle:%22The+Hot+Zone:+The+Terrifying+True+Story+of+the+Origins+of+the+Ebola+Virus%22+inauthor:%22Richard+Preston%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cMa_PwAACAAJ&dq=intitle:%22The+Hot+Zone:+The+Terrifying+True+Story+of+the+Origins+of+the+Ebola+Virus%22+inauthor:%22Richard+Preston%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hot_Zone.html?hl=&id=cMa_PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cMa_PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

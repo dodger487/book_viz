@@ -1,0 +1,107 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Yfp79AAohiMC",
+      "etag": "7p0kxnQRLLE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yfp79AAohiMC",
+      "volumeInfo": {
+        "title": "Made to Stick",
+        "subtitle": "Why Some Ideas Survive and Others Die",
+        "authors": [
+          "Chip Heath",
+          "Dan Heath"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2007-01-02",
+        "description": "NEW YORK TIMES BESTSELLER \u2022 The instant classic about why some ideas thrive, why others die, and how to make your ideas stick. \u201cAnyone interested in influencing others\u2014to buy, to vote, to learn, to diet, to give to charity or to start a revolution\u2014can learn from this book.\u201d\u2014The Washington Post Mark Twain once observed, \u201cA lie can get halfway around the world before the truth can even get its boots on.\u201d His observation rings true: Urban legends, conspiracy theories, and bogus news stories circulate effortlessly. Meanwhile, people with important ideas\u2014entrepreneurs, teachers, politicians, and journalists\u2014struggle to make them \u201cstick.\u201d In Made to Stick, Chip and Dan Heath reveal the anatomy of ideas that stick and explain ways to make ideas stickier, such as applying the human scale principle, using the Velcro Theory of Memory, and creating curiosity gaps. Along the way, we discover that sticky messages of all kinds\u2014from the infamous \u201ckidney theft ring\u201d hoax to a coach\u2019s lessons on sportsmanship to a vision for a new product at Sony\u2014draw their power from the same six traits. Made to Stick will transform the way you communicate. It\u2019s a fast-paced tour of success stories (and failures): the Nobel Prize-winning scientist who drank a glass of bacteria to prove a point about stomach ulcers; the charities who make use of the Mother Teresa Effect; the elementary-school teacher whose simulation actually prevented racial prejudice. Provocative, eye-opening, and often surprisingly funny, Made to Stick shows us the vital principles of winning ideas\u2014and tells us how we can apply these rules to making our own messages stick.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781588365965"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1588365964"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.26.26.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yfp79AAohiMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yfp79AAohiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Yfp79AAohiMC&printsec=frontcover&dq=intitle:%22Made+to+Stick:+Why+Some+Ideas+Survive+and+Others+Die%22+inauthor:%22Chip+Heath,+Dan+Heath%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Yfp79AAohiMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Yfp79AAohiMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Yfp79AAohiMC&rdid=book-Yfp79AAohiMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Made_to_Stick-sample-epub.acsm?id=Yfp79AAohiMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yfp79AAohiMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NEW YORK TIMES BESTSELLER \u2022 The instant classic about why some ideas thrive, why others die, and how to make your ideas stick. \u201cAnyone interested in influencing others\u2014to buy, to vote, to learn, to diet, to give to charity or to start ..."
+      }
+    }
+  ]
+}

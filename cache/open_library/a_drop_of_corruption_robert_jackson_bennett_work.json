@@ -1,0 +1,40 @@
+{
+  "title": "A Drop of Corruption",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL6586893A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "key": "/works/OL42983060W",
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fantasy",
+    "Mystery",
+    "Fiction",
+    "Mystery Thriller",
+    "Thriller",
+    "Detective and mystery fiction"
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL175T",
+    "/tags/OL180T"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-04-24T23:05:12.900107"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T18:19:42.017704"
+  }
+}

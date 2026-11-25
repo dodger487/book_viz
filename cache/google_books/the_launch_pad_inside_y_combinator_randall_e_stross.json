@@ -1,0 +1,141 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "P3ZlmQEACAAJ",
+      "etag": "tpDZf/Q9Z9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P3ZlmQEACAAJ",
+      "volumeInfo": {
+        "title": "The Launch Pad",
+        "subtitle": "Inside Y Combinator, Silicon Valley's Most Exclusive School for Startups",
+        "authors": [
+          "Randall Stross"
+        ],
+        "publisher": "Portfolio (Hardcover)",
+        "publishedDate": "2013",
+        "description": "Twice a year, in the heart of Silicon Valley, a small investment firm called Y Combinator selects an elite group of young entrepreneurs. Months of intense work culminates in Demo Day, when investors and venture capitalists flock to hear their pitches. Any one of them might turn out to be the next Dropbox (class of 2007) or Airbnb (class of 2009). Randall Stross was granted unprecedented access to Y Combinator, enabling a unique inside tour of the world of software startups. He tells the full story of this ultra-exclusive institution, how it chooses the aspiring Mark Zuckerbergs, and how it teaches them to go from concept to profitability in record time. This is the definitive story of a seismic shift in the business world, in which coding skill beats job experience, pairs of undergraduates take on Goliaths and investors fall in love. The Launch Pad is both a gripping narrative and a gold mine of useful insights. 'Stross makes computer programming and angel investing as thrilling as it gets.' Slate 'Stross's account of the best new entrepreneurs and the exciting companies they're building at startup schools is a great read for founders and would-be founders alike.' Marc Andreessen, co-founder of Andreessen Horowitz",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0670923494"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780670923496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Business enterprises"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P3ZlmQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P3ZlmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=P3ZlmQEACAAJ&dq=intitle:%22The+Launch+Pad:+Inside+Y+Combinator%22+inauthor:%22Randall+E.+Stross%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=P3ZlmQEACAAJ&dq=intitle:%22The+Launch+Pad:+Inside+Y+Combinator%22+inauthor:%22Randall+E.+Stross%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Launch_Pad.html?hl=&id=P3ZlmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P3ZlmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the definitive story of a seismic shift in the business world, in which coding skill beats job experience, pairs of undergraduates take on Goliaths, and inves-tors fall in love."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uyDaoAEACAAJ",
+      "etag": "aRHURVviqdg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uyDaoAEACAAJ",
+      "volumeInfo": {
+        "title": "The Launch Pad",
+        "subtitle": "Inside Y Combinator",
+        "authors": [
+          "Randall E. Stross"
+        ],
+        "publishedDate": "2013",
+        "description": "Investment firm Y Combinator is the most sought-after home for startups in Silicon Valley. Twice a year, it funds dozens of just-founded startups and provides three months of guidance from Paul Graham, YC's impresario, and his partners, also entrepreneurs and mostly YC alumni. The list of YC-funded success stories includes Dropbox (now valued at $5 billion) and Airbnb ($1.3 billion). Receiving an offer from YC creates the opportunity of a lifetime -- it's like American Idol for budding entrepreneurs. Acclaimed journalist Randall Stross was granted unprecedented access to Y Combinator's summer 2011 batch of young companies, offering a unique inside tour of the world of software startups. Most of the founders were male programmers in their mid-twenties or younger. Over the course of the summer, they scrambled to heed Graham's seemingly simple advice: make something people want. We watch the founders work round-the-clock, developing and retooling products as diverse as a Web site that can teach anyone programming, to a Wikipedia-like site for rap lyrics, to software written by a pair of attorneys who seek to \"(Bmake attorneys obsolete.\" Founders are guided by Graham's notoriously direct form of tough-love feedback. \"(BHere, we don't fire you,\" he says. \"(BThe market fires you. If you're sucking, I'm not going to run along behind you, saying, 'You're sucking, you're sucking, c'mon, stop sucking.'\" Some teams would even abandon their initial idea midsummer and scramble to begin anew. The program culminated in \"(BDemo Day,\" when founders pitched their startup to several hundred top angel investors and venture capitalists. A lucky few attracted capital that gave their startup a valuation of multiple millions of dollars. Others went back to the drawing board. This is the definitive story of a seismic shift that's occurred in the business world, in which coding skill trumps employment experience, pairs of undergraduates confidently take on Goliaths, tiny startups working out of an apartment scale fast, and investors fall in love.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1591529484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781591529484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Entrepreneurship"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uyDaoAEACAAJ&dq=intitle:%22The+Launch+Pad:+Inside+Y+Combinator%22+inauthor:%22Randall+E.+Stross%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uyDaoAEACAAJ&dq=intitle:%22The+Launch+Pad:+Inside+Y+Combinator%22+inauthor:%22Randall+E.+Stross%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Launch_Pad.html?hl=&id=uyDaoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uyDaoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the definitive story of a seismic shift that&#39;s occurred in the business world, in which coding skill trumps employment experience, pairs of undergraduates confidently take on Goliaths, tiny startups working out of an apartment scale ..."
+      }
+    }
+  ]
+}

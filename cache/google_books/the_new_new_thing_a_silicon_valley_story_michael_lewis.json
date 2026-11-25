@@ -1,0 +1,140 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "odqk4bsjdKAC",
+      "etag": "XNYj++2G61E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/odqk4bsjdKAC",
+      "volumeInfo": {
+        "title": "The New New Thing: A Silicon Valley Story",
+        "authors": [
+          "Michael M. Lewis"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2000",
+        "description": "Tells the unlikely story of Silicon Valley through the life of one of its great achievers--Jim Clark, who founded Silicon Graphics and Netscape and may be on the verge of another trillion-dollar company.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393048131"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393048136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=odqk4bsjdKAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=odqk4bsjdKAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=odqk4bsjdKAC&printsec=frontcover&dq=intitle:%22The+New+New+Thing:+A+Silicon+Valley+Story%22+inauthor:%22Michael+Lewis%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=odqk4bsjdKAC&dq=intitle:%22The+New+New+Thing:+A+Silicon+Valley+Story%22+inauthor:%22Michael+Lewis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_New_New_Thing_A_Silicon_Valley_Story.html?hl=&id=odqk4bsjdKAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=odqk4bsjdKAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tells the unlikely story of Silicon Valley through the life of one of its great achievers--Jim Clark, who founded Silicon Graphics and Netscape and may be on the verge of another trillion-dollar company."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A1-cPwAACAAJ",
+      "etag": "jCGhm4LjFbQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A1-cPwAACAAJ",
+      "volumeInfo": {
+        "title": "The New New Thing",
+        "subtitle": "A Silicon Valley Story",
+        "authors": [
+          "Michael Lewis"
+        ],
+        "publishedDate": "2000-07-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0756759838"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780756759834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A1-cPwAACAAJ&dq=intitle:%22The+New+New+Thing:+A+Silicon+Valley+Story%22+inauthor:%22Michael+Lewis%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=A1-cPwAACAAJ&dq=intitle:%22The+New+New+Thing:+A+Silicon+Valley+Story%22+inauthor:%22Michael+Lewis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_New_New_Thing.html?hl=&id=A1-cPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A1-cPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

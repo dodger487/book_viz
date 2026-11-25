@@ -1,0 +1,235 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "0hjEuFB9oTkC",
+      "etag": "cUb/tsBWGUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0hjEuFB9oTkC",
+      "volumeInfo": {
+        "title": "Where Good Ideas Come From",
+        "authors": [
+          "Steven Johnson"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2010-10-05",
+        "description": "A fascinating deep dive on innovation from the New York Times bestselling author of How We Got To Now and Unexpected Life The printing press, the pencil, the flush toilet, the battery--these are all great ideas. But where do they come from? What kind of environment breeds them? What sparks the flash of brilliance? How do we generate the breakthrough technologies that push forward our lives, our society, our culture? Steven Johnson's answers are revelatory as he identifies the seven key patterns behind genuine innovation, and traces them across time and disciplines. From Darwin and Freud to the halls of Google and Apple, Johnson investigates the innovation hubs throughout modern time and pulls out the approaches and commonalities that seem to appear at moments of originality.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101444207"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101444207"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0hjEuFB9oTkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0hjEuFB9oTkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0hjEuFB9oTkC&printsec=frontcover&dq=intitle:%22Where+Good+Ideas+Come+From%22+inauthor:%22Steven+Johnson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0hjEuFB9oTkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0hjEuFB9oTkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0hjEuFB9oTkC&rdid=book-0hjEuFB9oTkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Where_Good_Ideas_Come_From-sample-epub.acsm?id=0hjEuFB9oTkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0hjEuFB9oTkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fascinating deep dive on innovation from the New York Times bestselling author of How We Got To Now and Unexpected Life The printing press, the pencil, the flush toilet, the battery--these are all great ideas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UIlUnwEACAAJ",
+      "etag": "GledqVqqZxs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UIlUnwEACAAJ",
+      "volumeInfo": {
+        "title": "Where Good Ideas Come from",
+        "subtitle": "The Natural History of Innovation",
+        "authors": [
+          "Steven Johnson"
+        ],
+        "publisher": "Riverhead Books (Hardcover)",
+        "publishedDate": "2010",
+        "description": "From a coral reef teeming with life to the instant success of YouTube, the author explores what kind of environment fosters the development of good ideas, identifying the seven key principles for generating great notions. By the author of Everything Bad Is Good for You.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1594487715"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594487712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UIlUnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UIlUnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UIlUnwEACAAJ&dq=intitle:%22Where+Good+Ideas+Come+From%22+inauthor:%22Steven+Johnson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UIlUnwEACAAJ&dq=intitle:%22Where+Good+Ideas+Come+From%22+inauthor:%22Steven+Johnson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_Good_Ideas_Come_from.html?hl=&id=UIlUnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UIlUnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From a coral reef teeming with life to the instant success of YouTube, the author explores what kind of environment fosters the development of good ideas, identifying the seven key principles for generating great notions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7rqsAQAACAAJ",
+      "etag": "QbFdc1gnwzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7rqsAQAACAAJ",
+      "volumeInfo": {
+        "title": "Featured Book Review",
+        "subtitle": "Where Good Ideas Come from : the Natural History of Innovation",
+        "authors": [
+          "Chris Lauer"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:713187581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Creative thinking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7rqsAQAACAAJ&dq=intitle:%22Where+Good+Ideas+Come+From%22+inauthor:%22Steven+Johnson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7rqsAQAACAAJ&dq=intitle:%22Where+Good+Ideas+Come+From%22+inauthor:%22Steven+Johnson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Featured_Book_Review.html?hl=&id=7rqsAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7rqsAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

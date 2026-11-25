@@ -1,0 +1,214 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "j3SPEAAAQBAJ",
+      "etag": "pi2QflTbhpM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j3SPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Einstein's Dreams",
+        "authors": [
+          "Alan Lightman"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2004-11-09",
+        "description": "NATIONAL BESTSELLER \u2022 A modern classic explores the connections between science and art, the process of creativity, and ultimately the fragility of human existence. \u201cA magical, metaphysical realm ... Captivating, enchanting, delightful.\u201d \u2014The New York Times Einstein\u2019s Dreams is a fictional collage of stories dreamed by Albert Einstein in 1905, about time, relativity and physics. As the defiant but sensitive young genius is creating his theory of relativity, a new conception of time, he imagines many possible worlds. In one, time is circular, so that people are fated to repeat triumphs and failures over and over. In another, there is a place where time stands still, visited by lovers and parents clinging to their children. In another, time is a nightingale, sometimes trapped by a bell jar. Now translated into thirty languages, Einstein\u2019s Dreams has inspired playwrights, dancers, musicians, and painters all over the world. In poetic vignettes, it explores the connections between science and art, the process of creativity, and ultimately the fragility of human existence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400077809"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "140007780X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j3SPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j3SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=j3SPEAAAQBAJ&dq=intitle:%22Einstein%27s+Dreams%22+inauthor:%22Alan+Lightman%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=j3SPEAAAQBAJ&dq=intitle:%22Einstein%27s+Dreams%22+inauthor:%22Alan+Lightman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Einstein_s_Dreams.html?hl=&id=j3SPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j3SPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NATIONAL BESTSELLER \u2022 A modern classic explores the connections between science and art, the process of creativity, and ultimately the fragility of human existence. \u201cA magical, metaphysical realm ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RZVNCVpyuIcC",
+      "etag": "ZUyMzMB6z6c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RZVNCVpyuIcC",
+      "volumeInfo": {
+        "title": "Einstein's Dreams",
+        "authors": [
+          "Alan P. Lightman"
+        ],
+        "publisher": "Pantheon",
+        "publishedDate": "1993",
+        "description": "Now available: New signed, boxed edition! An imaginary re-creation of Einstein's discovery of the nature of time, this novel takes us through the young patent clerk's many dreams depicting compelling conceptions of time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780679416463"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0679416463"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "American fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 33,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RZVNCVpyuIcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RZVNCVpyuIcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RZVNCVpyuIcC&printsec=frontcover&dq=intitle:%22Einstein%27s+Dreams%22+inauthor:%22Alan+Lightman%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RZVNCVpyuIcC&dq=intitle:%22Einstein%27s+Dreams%22+inauthor:%22Alan+Lightman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Einstein_s_Dreams.html?hl=&id=RZVNCVpyuIcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RZVNCVpyuIcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now available: New signed, boxed edition! An imaginary re-creation of Einstein&#39;s discovery of the nature of time, this novel takes us through the young patent clerk&#39;s many dreams depicting compelling conceptions of time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lvhNzwEACAAJ",
+      "etag": "4r9vedRjEW4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lvhNzwEACAAJ",
+      "volumeInfo": {
+        "title": "Einstein's Dreams",
+        "authors": [
+          "Alan P. Lightman"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1338038508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Accretion (Astrophysics)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lvhNzwEACAAJ&dq=intitle:%22Einstein%27s+Dreams%22+inauthor:%22Alan+Lightman%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lvhNzwEACAAJ&dq=intitle:%22Einstein%27s+Dreams%22+inauthor:%22Alan+Lightman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Einstein_s_Dreams.html?hl=&id=lvhNzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lvhNzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 57,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "06u_0QEACAAJ",
+      "etag": "RBRZL6uoriQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/06u_0QEACAAJ",
+      "volumeInfo": {
+        "title": "Future Visions",
+        "subtitle": "Original Science Fiction Inspired by Microsoft",
+        "authors": [
+          "Microsoft Corporation"
+        ],
+        "publishedDate": "2015",
+        "description": "Future Visions: Original Science Fiction Inspired by Microsoft is an anthology of new short work from some of the greatest science fiction writers in the field. These visionary stories explore prediction science, quantum computing, real-time translation, machine learning, and much more. The authors used inside access to leading-edge work from Microsoft Research as inspiration, crafting pieces that predict the near-future of technology--and examine its complex relationship to our core humanity. Future Visions features contributions from: Elizabeth Bear, Greg Bear, David Brin, Nancy Kress Ann Lecki.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1595910913"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781595910912"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=06u_0QEACAAJ&dq=intitle:%22Future+Visions:+Original+Science+Fiction+Inspired+by+Microsoft%22+inauthor:%22David+Brin,+Nancy+Kress,+Ann+Leckie%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=06u_0QEACAAJ&dq=intitle:%22Future+Visions:+Original+Science+Fiction+Inspired+by+Microsoft%22+inauthor:%22David+Brin,+Nancy+Kress,+Ann+Leckie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Future_Visions.html?hl=&id=06u_0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=06u_0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These visionary stories explore prediction science, quantum computing, real-time translation, machine learning, and much more."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dRLrAAAACAAJ",
+      "etag": "aeLlhujjvY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dRLrAAAACAAJ",
+      "volumeInfo": {
+        "title": "Future Washington",
+        "authors": [
+          "Ernest Lilley"
+        ],
+        "publisher": "Wsfa Press",
+        "publishedDate": "2005-10-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0962172553"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780962172557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dRLrAAAACAAJ&dq=intitle:%22Future+Visions:+Original+Science+Fiction+Inspired+by+Microsoft%22+inauthor:%22David+Brin,+Nancy+Kress,+Ann+Leckie%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dRLrAAAACAAJ&dq=intitle:%22Future+Visions:+Original+Science+Fiction+Inspired+by+Microsoft%22+inauthor:%22David+Brin,+Nancy+Kress,+Ann+Leckie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Future_Washington.html?hl=&id=dRLrAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dRLrAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BT74BgAAQBAJ",
+      "etag": "5SUXT2ipwZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BT74BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Terminal mind",
+        "authors": [
+          "David Walton"
+        ],
+        "publisher": "Panini",
+        "publishedDate": "2013-09-11",
+        "description": "Dans un futur proche, le monde a \u00e9t\u00e9 marqu\u00e9 par la Guerre des H\u00e9misph\u00e8res. Les \u00c9tats-Unis sont divis\u00e9s et seules quelques cit\u00e9s ont surv\u00e9cu \u00e0 l\u2019apocalypse. La technologie a suivi des avanc\u00e9es importantes et le r\u00e9seau informatique mondial est d\u00e9sormais directement implant\u00e9 dans l\u2019esprit des gens. Dans un centre secret, la conscience d\u2019un enfant est projet\u00e9e dans l\u2019univers virtuel du r\u00e9seau mondial. Ceux qui le contr\u00f4lent, poss\u00e8dent un pouvoir incroyable en acc\u00e9dant directement \u00e0 l\u2019esprit des gens. La maladresse de deux jeunes lib\u00e8re l\u2019esprit de l\u2019enfant qui envahit le r\u00e9seau mondial. Ces anciens ma\u00eetres veulent le remettre sous contr\u00f4le, ses ennemis veulent le d\u00e9truire et sa m\u00e8re veut le retrouver.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782809437027"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2809437025"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BT74BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BT74BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=BT74BgAAQBAJ&printsec=frontcover&dq=intitle:%22Future+Visions:+Original+Science+Fiction+Inspired+by+Microsoft%22+inauthor:%22David+Brin,+Nancy+Kress,+Ann+Leckie%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BT74BgAAQBAJ&dq=intitle:%22Future+Visions:+Original+Science+Fiction+Inspired+by+Microsoft%22+inauthor:%22David+Brin,+Nancy+Kress,+Ann+Leckie%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Terminal_mind.html?hl=&id=BT74BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Terminal_mind-sample-epub.acsm?id=BT74BgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BT74BgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans un futur proche, le monde a \u00e9t\u00e9 marqu\u00e9 par la Guerre des H\u00e9misph\u00e8res."
+      }
+    }
+  ]
+}

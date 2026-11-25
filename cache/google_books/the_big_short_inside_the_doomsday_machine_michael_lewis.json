@@ -1,0 +1,250 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TNarLsnZyPoC",
+      "etag": "x2ZwblON4FM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TNarLsnZyPoC",
+      "volumeInfo": {
+        "title": "The Big Short: Inside the Doomsday Machine",
+        "authors": [
+          "Michael M. Lewis"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2011-02",
+        "description": "The author examines the causes of the U.S. stock market crash of 2008 and its relation to overpriced real estate, bad mortgages, shareholder demand for excessive profits, and the growth of toxic derivatives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393338829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393338827"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TNarLsnZyPoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TNarLsnZyPoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TNarLsnZyPoC&printsec=frontcover&dq=intitle:%22The+Big+Short:+Inside+the+Doomsday+Machine%22+inauthor:%22Michael+Lewis%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TNarLsnZyPoC&dq=intitle:%22The+Big+Short:+Inside+the+Doomsday+Machine%22+inauthor:%22Michael+Lewis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Big_Short_Inside_the_Doomsday_Machin.html?hl=&id=TNarLsnZyPoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TNarLsnZyPoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The author examines the causes of the U.S. stock market crash of 2008 and its relation to overpriced real estate, bad mortgages, shareholder demand for excessive profits, and the growth of toxic derivatives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nHq3jwEACAAJ",
+      "etag": "6y+B8duZfTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nHq3jwEACAAJ",
+      "volumeInfo": {
+        "title": "The Big Short",
+        "subtitle": "Inside the Doomsday Machine Summary in Less Than 30 Minutes",
+        "authors": [
+          "Book Summary",
+          "Michael Lewis"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-04-25",
+        "description": "The Big Short by Michael Lewis | Book Summary Sometimes our minds wonder if what is happening in the world is actually right even though we are often convinced that nothing outright evil might be taking place. Sometimes we have dreams of becoming the people we see in the media who seem like paragons of success or gods of the corporate world. Though ignorance may be bliss or what we do not know may not harm us directly, sometimes a small revelation into some issues and matters in the community or a nation goes a long way into adjusting our attitudes and sails of life. It may become a reference point to use in raising our children, and with the wisdom thereof, equip them with the truth so that they may also endeavour to come up with solutions when their time comes. As Michael Lewis writes, he hopes that college students trying to decide what to do with their lives might read it and decide that it's silly to phony it up, and abandon their passions or even their faint interests, to become financiers.\" He hoped that some bright kid at Ohio State University who really wanted to be an oceanographer would read his book, spurn the offer from Goldman Sachs, and set out to sea.Many things have taken place in the past, and others continue to occur even as you venture to consume this book in a jiffy. They said that knowledge and only the right kind of knowledge is power. Wisdom springs forth from the beginning of experience, and the knowledge of this experience makes the wisdom far greater than one can imagine. Michael Lewis' book, The Big Short, comes with knowledge of historical events inside Wall Street. It comes bundled with real life experiences of business persons, companies, co-operations, organizations, and individuals. The book reveals what the world would have never known, or even heard. They seem like memoirs, memories of tycoons losing huge amounts of money, fraudsters taking advantage of the poor, and companies twisting their accounts for their own gain. Herein you find evil, crime, and tales of men who tried to fight the same with a weak yet formidable determination. Here Is A Preview Of What You'll Learn... A Secret Origin Story In the Land of the Blind How Can a Guy Who Can't Speak English Lie? How to Harvest a Migrant Worker Accidental Capitalists Spider-Man at the Venetian The Great Treasure Hunt The Long Quiet A Death of Interest Two Men in a Boat The Book at a Glance Conclusion Final Thoughts Now What? Scroll Up and Click on \"buy now with 1-Click\" to Download Your Copy Right Now ************Tags: the big short, the big short book, michael lewis, michael lewis books, the big short kindle, the big short michael lewis, doomsday machine",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1532943091"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781532943096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nHq3jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nHq3jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nHq3jwEACAAJ&dq=intitle:%22The+Big+Short:+Inside+the+Doomsday+Machine%22+inauthor:%22Michael+Lewis%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nHq3jwEACAAJ&dq=intitle:%22The+Big+Short:+Inside+the+Doomsday+Machine%22+inauthor:%22Michael+Lewis%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Big_Short.html?hl=&id=nHq3jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nHq3jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; He hoped that some bright kid at Ohio State University who really wanted to be an oceanographer would read his book, spurn the offer from Goldman Sachs, and set out to sea.Many things have taken place in the past, and others continue to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "erDXCgAAQBAJ",
+      "etag": "SIeSb6AqWE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/erDXCgAAQBAJ",
+      "volumeInfo": {
+        "title": "BIG SHORT EBK (MOVIE TIE IN)",
+        "authors": [
+          "Michael Lewis"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2015-11-16",
+        "description": "The #1 New York Times bestseller\u2014Now a Major Motion Picture from Paramount Pictures From the author of The Blind Side and Moneyball, The Big Short tells the story of four outsiders in the world of high-finance who predict the credit and housing bubble collapse before anyone else. The film adaptation by Adam McKay (Anchorman I and II, The Other Guys) features Academy Award\u00ae winners Christian Bale, Brad Pitt, Melissa Leo and Marisa Tomei; Academy Award\u00ae nominees Steve Carell and Ryan Gosling. When the crash of the U.S. stock market became public knowledge in the fall of 2008, it was already old news. The real crash, the silent crash, had taken place over the previous year, in bizarre feeder markets where the sun doesn\u2019t shine and the SEC doesn\u2019t dare, or bother, to tread. Who understood the risk inherent in the assumption of ever-rising real estate prices, a risk compounded daily by the creation of those arcane, artificial securities loosely based on piles of doubtful mortgages? In this fitting sequel to Liar\u2019s Poker, Michael Lewis answers that question in a narrative brimming with indignation and dark humor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393353167"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393353168"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.16.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=erDXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=erDXCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=erDXCgAAQBAJ&printsec=frontcover&dq=intitle:%22The+Big+Short:+Inside+the+Doomsday+Machine%22+inauthor:%22Michael+Lewis%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=erDXCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=erDXCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.15,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=erDXCgAAQBAJ&rdid=book-erDXCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15150000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/BIG_SHORT_EBK_MOVIE_TIE_IN-sample-epub.acsm?id=erDXCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=erDXCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The #1 New York Times bestseller\u2014Now a Major Motion Picture from Paramount Pictures From the author of The Blind Side and Moneyball, The Big Short tells the story of four outsiders in the world of high-finance who predict the credit and ..."
+      }
+    }
+  ]
+}

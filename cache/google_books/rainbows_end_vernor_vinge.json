@@ -1,0 +1,143 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "WT-OXLZE2m8C",
+      "etag": "mmxQIIePFaA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WT-OXLZE2m8C",
+      "volumeInfo": {
+        "title": "Rainbows End",
+        "authors": [
+          "Vernor Vinge"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2007-04-03",
+        "description": "A Novel of the Day After Tomorrow",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0812536363"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812536362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.12.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WT-OXLZE2m8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WT-OXLZE2m8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WT-OXLZE2m8C&printsec=frontcover&dq=intitle:%22Rainbows+End%22+inauthor:%22Vernor+Vinge%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WT-OXLZE2m8C&dq=intitle:%22Rainbows+End%22+inauthor:%22Vernor+Vinge%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rainbows_End.html?hl=&id=WT-OXLZE2m8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WT-OXLZE2m8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Novel of the Day After Tomorrow"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dvKjPwAACAAJ",
+      "etag": "9wl/A0/XSGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dvKjPwAACAAJ",
+      "volumeInfo": {
+        "title": "Rainbows end",
+        "authors": [
+          "Vernor Vinge"
+        ],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2007",
+        "description": "Au milieu du XXIe si\u00e8cle, la cybersph\u00e8re a envahi l'univers. Le virtuel a subverti le r\u00e9el. La Singularit\u00e9 est proche, ce bouleversement de l'Histoire humaine, issu de la convergence entre informatique et nanotechnologie. Gr\u00e2ce \u00e0 ses v\u00eatinfs, ses lentilles de contact, chacun communique avec le monde entier, peut se d\u00e9placer sous forme d'avatar \u00e0 l'autre bout du monde ou en recevoir informations et images. Le meilleur des mondes, ou presque. Et un monde dangereux. Robert Gu, le plus grand po\u00e8te am\u00e9ricain, a sombr\u00e9 quatre ans plus t\u00f4t dans la nuit de l'esprit. Gr\u00e2ce \u00e0 un traitement miraculeux, il \u00e9merge de son Alzheimer. Et peut quitter la maison de retraite de Rainbows End. Mais il va lui falloir retourner \u00e0 l'\u00e9cole, se familiariser avec ces machines \u00e0 distiller de l'information dont il s'est toujours m\u00e9fi\u00e9. Et si possible retrouver son g\u00e9nie enfui. Or lui, qui a toujours tant aim\u00e9 les livres, d\u00e9couvre un horrible projet, le Bibliotome : tout num\u00e9riser au prix de la destruction physique de l'imprim\u00e9. Ce n'est qu'un des moindres dangers qui menacent le monde comme le savent trop bien Bob, son fils, colonel des marines, et sa belle-fille Alice, agent des services sp\u00e9ciaux qui a incarn\u00e9 trop de personnalit\u00e9s pour continuer \u00e0 \u00eatre elle-m\u00eame. Pire encore, le Lapin r\u00f4de. Vernor Vinge, sp\u00e9cialiste de l'informatique et inventeur du concept de la Singularit\u00e9, nous d\u00e9peint un monde total de l'avenir, cr\u00e9dible, effrayant et s\u00e9duisant, comme l'avait fait en son temps John Brunner dans son fameux Tous \u00e0 Zanzibar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2221108469"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782221108468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=dvKjPwAACAAJ&dq=intitle:%22Rainbows+End%22+inauthor:%22Vernor+Vinge%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dvKjPwAACAAJ&dq=intitle:%22Rainbows+End%22+inauthor:%22Vernor+Vinge%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rainbows_end.html?hl=&id=dvKjPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dvKjPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La Californie, au milieu du XXIe si\u00e8cle."
+      }
+    }
+  ]
+}

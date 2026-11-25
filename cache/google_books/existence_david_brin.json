@@ -1,0 +1,275 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5wGRuT04T3oC",
+      "etag": "58bDdNCnmFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5wGRuT04T3oC",
+      "volumeInfo": {
+        "title": "Existence",
+        "authors": [
+          "David Brin"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2013-02-26",
+        "description": "In a future world dominated by a neural-link web where people can tune into live events and revolutions can be instantly sparked, an active alien communication device is discovered in orbit around the Earth, triggering an international upheaval of fear, hope and violence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765342626"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765342621"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 900,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5wGRuT04T3oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5wGRuT04T3oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5wGRuT04T3oC&printsec=frontcover&dq=intitle:%22Existence%22+inauthor:%22David+Brin%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5wGRuT04T3oC&dq=intitle:%22Existence%22+inauthor:%22David+Brin%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Existence.html?hl=&id=5wGRuT04T3oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5wGRuT04T3oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In a future world dominated by a neural-link web where people can tune into live events and revolutions can be instantly sparked, an active alien communication device is discovered in orbit around the Earth, triggering an international ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qALaDwAAQBAJ",
+      "etag": "Uug+gZjzw9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qALaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Existence - A l\u00e9tez\u00e9s csapd\u00e1ja",
+        "authors": [
+          "David Brin"
+        ],
+        "publisher": "Metropolis Media",
+        "publishedDate": "2014-01-01",
+        "description": "A \u200b21. sz\u00e1zad k\u00f6zep\u00e9nek megbolydult vil\u00e1ga folyamatos v\u00e1ltoz\u00e1sok sz\u00edntere. A rohaml\u00e9ptekkel fejl\u0151d\u0151 technika m\u00e9g nyugodt k\u00f6r\u00fclm\u00e9nyek k\u00f6z\u00f6tt is sokszor pr\u00f3b\u00e1ra teszi a h\u00e9tk\u00f6znapi ember toleranci\u00e1j\u00e1t, h\u00e1t m\u00e9g most! Az ember \u00e1ltal el\u0151id\u00e9zett term\u00e9szeti-k\u00f6rnyezeti katasztr\u00f3f\u00e1k miatt n\u00e9pv\u00e1ndorl\u00e1sok indultak be; az oly sokszor meg\u00e1lmodott mesters\u00e9ges intelligenci\u00e1k nemcsak hogy megsz\u00fclettek, de kiharcolt\u00e1k maguk sz\u00e1m\u00e1ra az emberek\u00e9vel megegyez\u0151 jogokat; nincsenek t\u00f6bb\u00e9 titkok, a nap 24 \u00f3r\u00e1j\u00e1ban mindenki online van, az internet viselhet\u0151v\u00e9 v\u00e1lt, ha szembej\u00f6n egy ember az utc\u00e1n, m\u00e1ris mindent tudunk r\u00f3la. Ebbe a kaleidoszk\u00f3pszer\u0171, futurisztikus kavarg\u00e1sba robban be a h\u00edr: egy \u0171rbeli szem\u00e9tszed\u0151, az orbit\u00e1lis p\u00e1ly\u00e1k takar\u00edt\u00f3ja tal\u00e1lt valamit, egy t\u00e1rgyat, mely nem term\u00e9szetes eredet\u0171, \u00e1m nem is mi juttattuk fel oda. Vajon milyen \u00fczenetet hordoz mag\u00e1ban, \u00e9s b\u00e1rmi legyen az, f\u00f6lk\u00e9sz\u00fclt\u00fcnk-e a fogad\u00e1s\u00e1ra? David Brin t\u00f6bbsz\u00f6r\u00f6s Hugo-d\u00edjas \u00edr\u00f3, futurol\u00f3gus, asztrofizikus. Mint mindig, ez\u00fattal is p\u00e1ratlan tudom\u00e1nyos felk\u00e9sz\u00fclts\u00e9gr\u0151l tesz tan\u00fabizonys\u00e1got, melyet azonban nem habozik a t\u00f6rt\u00e9net szolg\u00e1lat\u00e1ba \u00e1ll\u00edtani, hogy az olvas\u00f3 egy percre se \u00e9rezze reg\u00e9ny\u00e9t sz\u00e1raz \u00e9rtekez\u00e9snek. Korunk leg\u00e9get\u0151bb k\u00e9rd\u00e9seire keresi a v\u00e1laszt, legfrissebb, monument\u00e1lis m\u0171v\u00e9ben nem csup\u00e1n ismert vil\u00e1gunk hat\u00e1rain bel\u00fcl. \u201eEz a reg\u00e9ny tele van csod\u00e1kkal \u00e9s b\u00f6lcsess\u00e9ggel\u2026 egyszerre vibr\u00e1l\u00f3an, h\u00fasbav\u00e1g\u00f3an mai \u00e9s kozmikus l\u00e9pt\u00e9k\u0171. Brin visszat\u00e9rt.\u201d \u2013 Stephen Baxter, az Id\u0151haj\u00f3k szerz\u0151je \u201eBrin nemcsak profi mesemond\u00f3, de egyben az egyik legfant\u00e1ziad\u00fasabb kort\u00e1rs \u00edr\u00f3. Ezt a k\u00f6nyv\u00e9t sem szabad kihagyni.\u201d \u2013 Vernor Vinge, A sziv\u00e1rv\u00e1ny t\u00f6v\u00e9ben szerz\u0151je",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786155158810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6155158819"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 868,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qALaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qALaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "hu",
+        "previewLink": "http://books.google.com/books?id=qALaDwAAQBAJ&printsec=frontcover&dq=intitle:%22Existence%22+inauthor:%22David+Brin%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qALaDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qALaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.49,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qALaDwAAQBAJ&rdid=book-qALaDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7490000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Existence_A_l%C3%A9tez%C3%A9s_csapd%C3%A1ja-sample-epub.acsm?id=qALaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Existence_A_l%C3%A9tez%C3%A9s_csapd%C3%A1ja-sample-pdf.acsm?id=qALaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qALaDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Vajon milyen \u00fczenetet hordoz mag\u00e1ban, \u00e9s b\u00e1rmi legyen az, f\u00f6lk\u00e9sz\u00fclt\u00fcnk-e a fogad\u00e1s\u00e1ra? David Brin t\u00f6bbsz\u00f6r\u00f6s Hugo-d\u00edjas \u00edr\u00f3, futurol\u00f3gus, asztrofizikus."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qgLaDwAAQBAJ",
+      "etag": "DM99qpFXGHM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qgLaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Existence - A l\u00e9tez\u00e9s titka",
+        "authors": [
+          "David Brin"
+        ],
+        "publisher": "Metropolis Media",
+        "publishedDate": "2014-01-01",
+        "description": "A \u200b21. sz\u00e1zad k\u00f6zep\u00e9nek megbolydult vil\u00e1ga folyamatos v\u00e1ltoz\u00e1sok sz\u00edntere. A rohaml\u00e9ptekkel fejl\u0151d\u0151 technika m\u00e9g nyugodt k\u00f6r\u00fclm\u00e9nyek k\u00f6z\u00f6tt is sokszor pr\u00f3b\u00e1ra teszi a h\u00e9tk\u00f6znapi ember toleranci\u00e1j\u00e1t, h\u00e1t m\u00e9g most! Az ember \u00e1ltal el\u0151id\u00e9zett term\u00e9szeti-k\u00f6rnyezeti katasztr\u00f3f\u00e1k miatt n\u00e9pv\u00e1ndorl\u00e1sok indultak be; az oly sokszor meg\u00e1lmodott mesters\u00e9ges intelligenci\u00e1k nemcsak hogy megsz\u00fclettek, de kiharcolt\u00e1k maguk sz\u00e1m\u00e1ra az emberek\u00e9vel megegyez\u0151 jogokat; nincsenek t\u00f6bb\u00e9 titkok, a nap 24 \u00f3r\u00e1j\u00e1ban mindenki online van, az internet viselhet\u0151v\u00e9 v\u00e1lt, ha szembej\u00f6n egy ember az utc\u00e1n, m\u00e1ris mindent tudunk r\u00f3la. Ebbe a kaleidoszk\u00f3pszer\u0171, futurisztikus kavarg\u00e1sba robban be a h\u00edr: egy \u0171rbeli szem\u00e9tszed\u0151, az orbit\u00e1lis p\u00e1ly\u00e1k takar\u00edt\u00f3ja tal\u00e1lt valamit, egy t\u00e1rgyat, mely nem term\u00e9szetes eredet\u0171, \u00e1m nem is mi juttattuk fel oda. Vajon milyen \u00fczenetet hordoz mag\u00e1ban, \u00e9s b\u00e1rmi legyen az, f\u00f6lk\u00e9sz\u00fclt\u00fcnk-e a fogad\u00e1s\u00e1ra? David Brin t\u00f6bbsz\u00f6r\u00f6s Hugo-d\u00edjas \u00edr\u00f3, futurol\u00f3gus, asztrofizikus. Mint mindig, ez\u00fattal is p\u00e1ratlan tudom\u00e1nyos felk\u00e9sz\u00fclts\u00e9gr\u0151l tesz tan\u00fabizonys\u00e1got, melyet azonban nem habozik a t\u00f6rt\u00e9net szolg\u00e1lat\u00e1ba \u00e1ll\u00edtani, hogy az olvas\u00f3 egy percre se \u00e9rezze reg\u00e9ny\u00e9t sz\u00e1raz \u00e9rtekez\u00e9snek. Korunk leg\u00e9get\u0151bb k\u00e9rd\u00e9seire keresi a v\u00e1laszt, legfrissebb, monument\u00e1lis m\u0171v\u00e9ben nem csup\u00e1n ismert vil\u00e1gunk hat\u00e1rain bel\u00fcl. \u201eEz a reg\u00e9ny tele van csod\u00e1kkal \u00e9s b\u00f6lcsess\u00e9ggel\u2026 egyszerre vibr\u00e1l\u00f3an, h\u00fasbav\u00e1g\u00f3an mai \u00e9s kozmikus l\u00e9pt\u00e9k\u0171. Brin visszat\u00e9rt.\u201d \u2013 Stephen Baxter, az Id\u0151haj\u00f3k szerz\u0151je \u201eBrin nemcsak profi mesemond\u00f3, de egyben az egyik legfant\u00e1ziad\u00fasabb kort\u00e1rs \u00edr\u00f3. Ezt a k\u00f6nyv\u00e9t sem szabad kihagyni.\u201d \u2013 Vernor Vinge, A sziv\u00e1rv\u00e1ny t\u00f6v\u00e9ben szerz\u0151je",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786155158827"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6155158827"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qgLaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qgLaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "hu",
+        "previewLink": "http://books.google.com/books?id=qgLaDwAAQBAJ&printsec=frontcover&dq=intitle:%22Existence%22+inauthor:%22David+Brin%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qgLaDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qgLaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.49,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qgLaDwAAQBAJ&rdid=book-qgLaDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7490000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Existence_A_l%C3%A9tez%C3%A9s_titka-sample-epub.acsm?id=qgLaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Existence_A_l%C3%A9tez%C3%A9s_titka-sample-pdf.acsm?id=qgLaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qgLaDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Vajon milyen \u00fczenetet hordoz mag\u00e1ban, \u00e9s b\u00e1rmi legyen az, f\u00f6lk\u00e9sz\u00fclt\u00fcnk-e a fogad\u00e1s\u00e1ra? David Brin t\u00f6bbsz\u00f6r\u00f6s Hugo-d\u00edjas \u00edr\u00f3, futurol\u00f3gus, asztrofizikus."
+      }
+    }
+  ]
+}

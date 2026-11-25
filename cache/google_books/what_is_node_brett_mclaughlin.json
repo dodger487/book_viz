@@ -1,0 +1,90 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SRQHcjljUtwC",
+      "etag": "YP7YDB12pYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SRQHcjljUtwC",
+      "volumeInfo": {
+        "title": "What Is Node?",
+        "authors": [
+          "Brett McLaughlin"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-07-13",
+        "description": "Node.js. It\u2019s the latest in a long line of \u201cAre you cool enough to use me?\u201d programming languages, APIs, and toolkits. In that sense, it lands squarely in the tradition of Rails, and Ajax, and Hadoop, and even to some degree iPhone programming and HTML5. Dig a little deeper, and you\u2019ll hear that Node.js (or, as it\u2019s more briefly called by many, simply \u201cNode\u201d) is a server-side solution for JavaScript, and in particular, for receiving and responding to HTTP requests. If that doesn\u2019t completely boggle your mind, by the time the conversation heats up with discussion of ports, sockets, and threads, you\u2019ll tend to glaze over. Is this really JavaScript? In fact, why in the world would anyone want to run JavaScript outside of a browser, let alone the server? The good news is that you\u2019re hearing (and thinking) about the right things. Node really is concerned with network programming and server-side request/response processing. The bad news is that like Rails, Ajax, and Hadoop before it, there\u2019s precious little clear information available. There will be, in time \u2014 as there now is for these other \u201ccool\u201d frameworks that have matured \u2014 but why wait for a book or tutorial when you might be able to use Node today, and dramatically improve the maintainability.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449314484"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449314481"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SRQHcjljUtwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SRQHcjljUtwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SRQHcjljUtwC&printsec=frontcover&dq=intitle:%22What+Is+Node%3F%22+inauthor:%22Brett+McLaughlin%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SRQHcjljUtwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SRQHcjljUtwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SRQHcjljUtwC&rdid=book-SRQHcjljUtwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SRQHcjljUtwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Node.js."
+      }
+    }
+  ]
+}

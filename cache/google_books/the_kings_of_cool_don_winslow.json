@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9-hbLF3uITIC",
+      "etag": "ms3/suTQ4z8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9-hbLF3uITIC",
+      "volumeInfo": {
+        "title": "The Kings of Cool",
+        "subtitle": "A Prequel to Savages",
+        "authors": [
+          "Don Winslow"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-06-19",
+        "description": "Published to coincide with the release of Academy Award-winning filmmaker Oliver Stone's major film of \"Savages,\" this is the much-anticipated prequel to Winslow's acclaimed \"New York Times\" bestseller about 1960s Southern California and family of all forms.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451665321"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451665326"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9-hbLF3uITIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9-hbLF3uITIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9-hbLF3uITIC&printsec=frontcover&dq=intitle:%22The+Kings+of+Cool%22+inauthor:%22Don+Winslow%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9-hbLF3uITIC&dq=intitle:%22The+Kings+of+Cool%22+inauthor:%22Don+Winslow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kings_of_Cool.html?hl=&id=9-hbLF3uITIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9-hbLF3uITIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Published to coincide with the release of Academy Award-winning filmmaker Oliver Stone&#39;s major film of &quot;Savages,&quot; this is the much-anticipated prequel to Winslow&#39;s acclaimed &quot;New York Times&quot; bestseller about 1960s Southern California and ..."
+      }
+    }
+  ]
+}

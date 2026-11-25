@@ -1,0 +1,246 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MYoDAQAAQBAJ",
+      "etag": "jvC0FVLKmqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MYoDAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Kindred",
+        "authors": [
+          "Octavia Butler"
+        ],
+        "publisher": "Beacon Press",
+        "publishedDate": "2004-02-01",
+        "description": "NEW FOREWORD BY JANELLE MON\u00c1E Experience the time travel science fiction classic from the New York Times bestselling author of Parable of the Sower and winner of the MacArthur \u201cGenius\u201d Grant, Nebula, and Hugo Awards. A modern Black woman is pulled through time to face the horrors of slavery in this \u201cGreat American Novel\u201d about racism, sexism, and white supremacy\u2014then and now (The Atlantic). \u201cI lost an arm on my last trip home. My left arm.\u201d Dana\u2019s torment begins when she suddenly vanishes on her 26th birthday from California, 1976, and is dragged through time to antebellum Maryland to rescue a boy named Rufus, heir to a slaveowner\u2019s plantation. She soon realizes the purpose of her summons to the past: protect Rufus to ensure his assault of her Black ancestor so that she may one day be born. As she endures the traumas of slavery and the soul-crushing normalization of savagery, Dana fights to keep her autonomy and return to the present. Blazing the trail for neo-slavery narratives like Colson Whitehead\u2019s The Underground Railroad and Ta-Nehisi Coates\u2019s The Water Dancer, Butler takes one of speculative fiction\u2019s oldest tropes and infuses it with lasting depth and power. Dana not only experiences the cruelties of slavery on her skin but also grimly learns to accept it as a condition of her own existence in the present. \u201cWhere stories about American slavery are often gratuitous, reducing its horror to explicit violence and brutality, Kindred is controlled and precise\u201d (New York Times). \u201cReading Octavia Butler taught me to dream big, and I think it\u2019s absolutely necessary that everybody have that freedom and that willingness to dream.\u201d \u2014N. K. Jemisin",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780807083703"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0807083704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.9.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MYoDAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MYoDAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MYoDAQAAQBAJ&printsec=frontcover&dq=intitle:%22Kindred%22+inauthor:%22Octavia+Butler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MYoDAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MYoDAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MYoDAQAAQBAJ&rdid=book-MYoDAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Kindred-sample-epub.acsm?id=MYoDAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MYoDAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dana not only experiences the cruelties of slavery on her skin but also grimly learns to accept it as a condition of her own existence in the present. \u201cWhere stories about American slavery are often gratuitous, reducing its horror to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fB80AgAAQBAJ",
+      "etag": "9rZ/wrVCjDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fB80AgAAQBAJ",
+      "volumeInfo": {
+        "title": "Kindred",
+        "subtitle": "The ground-breaking masterpiece from the New York Times bestseller",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2014-03-27",
+        "description": "Octavia E. Butler's ground-breaking masterpiece, with an original foreword by Ay\u00f2b\u00e1mi Ad\u00e9b\u00e1y\u00f2. 'A marvel of imagination, empathy and detail' NEW YORK TIMES 'The marker you should judge all other time-travelling narratives by' GUARDIAN 'One of the most significant literary artists of the twentieth century. One cannot exaggerate the impact she has had' JUNOT DIAZ In 1976, Dana dreams of being a writer. In 1815, she is assumed a slave. When Dana first meets Rufus on a Maryland plantation, he's drowning. She saves his life - and it will happen again and again. Neither of them understands his power to summon her whenever his life is threatened, nor the significance of the ties that bind them. And each time Dana saves him, the more aware she is that her own life might be over before it's even begun. This is the extraordinary story of two people bound by blood, separated by so much more than time. 'No novel I've read this year has felt as relevant, as gut-wrenching or as essential' CAROLINE O'DONOGHUE **MAJOR TV SERIES NOW ON DISNEY+** PRAISE FOR OCTAVIA E. BUTLER 'Unnervingly prescient and wise' YAA GYASI 'Butler's evocative, often troubling, novels explore far-reaching issues of race, sex, power and, ultimately, what it means to be human' NEW YORK TIMES 'Butler's prose, always pared back to the bone, delineates the painful paradoxes of metamorphosis with compelling precision' GUARDIAN 'Octavia Butler was a visionary' VIOLA DAVIS 'An icon of the Afrofuturism world, envisioning literary realms that placed black characters front and center' VANITY FAIR 'Butler writes with such a familiarity that the alien is welcome and intriguing. She really artfully exposes our human impulse to self-destruct' LUPITA NYONG'O",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781472214829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "147221482X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.18.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fB80AgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fB80AgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fB80AgAAQBAJ&dq=intitle:%22Kindred%22+inauthor:%22Octavia+Butler%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fB80AgAAQBAJ&dq=intitle:%22Kindred%22+inauthor:%22Octavia+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kindred.html?hl=&id=fB80AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fB80AgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And each time Dana saves him, the more aware she is that her own life might be over before it&#39;s even begun. This is the extraordinary story of two people bound by blood, separated by so much more than time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x_ARvgAACAAJ",
+      "etag": "Xvt8+RBYK+M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x_ARvgAACAAJ",
+      "volumeInfo": {
+        "title": "Parable of the Sower",
+        "subtitle": "Parable of the Talents ; Kindred",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0446790036"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780446790031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 948,
+        "printType": "BOOK",
+        "categories": [
+          "African Americans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x_ARvgAACAAJ&dq=intitle:%22Kindred%22+inauthor:%22Octavia+Butler%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x_ARvgAACAAJ&dq=intitle:%22Kindred%22+inauthor:%22Octavia+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parable_of_the_Sower.html?hl=&id=x_ARvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x_ARvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

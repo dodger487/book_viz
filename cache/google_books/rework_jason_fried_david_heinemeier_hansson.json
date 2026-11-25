@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "AcKUEAAAQBAJ",
+      "etag": "ODgNJO4MHuA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AcKUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Rework : r\u00e9ussir autrement - Nouvelle \u00e9dition",
+        "subtitle": "Entrepreneurs, auto-entrepreneurs, patrons ou salari\u00e9s",
+        "authors": [
+          "Jason Fried",
+          "David Hansson-Heinemeier"
+        ],
+        "publisher": "Dunod",
+        "publishedDate": "2022-10-19",
+        "description": "Derri\u00e8re ce best-seller class\u00e9 notamment dans les meilleures ventes du New York Times, on retrouve Jason Fried et David Heinemeier-Hansson, fondateurs de la soci\u00e9t\u00e9 Basecamp (anciennement appel\u00e9 37signals), pr\u00e9curseurs de la cr\u00e9ation d'applications qui facilitent le travail. REWORK bouscule tous les principes les plus commun\u00e9ment admis sur la cr\u00e9ation, le d\u00e9veloppement et la gestion d'une entreprise. Ce livre incite \u00e0 penser diff\u00e9remment pour r\u00e9apprendre \u00e0 travailler, \u00e0 cr\u00e9er et \u00e0 g\u00e9rer selon les crit\u00e8res du XXIe si\u00e8cle. Il s'adresse aux entrepreneurs, auto-entrepreneurs, patrons, et aussi aux salari\u00e9s, notamment ceux qui r\u00eavent de monter leur propre affaire.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782100850396"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2100850393"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AcKUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AcKUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=AcKUEAAAQBAJ&dq=intitle:%22Rework%22+inauthor:%22Jason+Fried,+David+Heinemeier+Hansson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AcKUEAAAQBAJ&dq=intitle:%22Rework%22+inauthor:%22Jason+Fried,+David+Heinemeier+Hansson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rework_r%C3%A9ussir_autrement_Nouvelle_%C3%A9dit.html?hl=&id=AcKUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AcKUEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Derri\u00e8re ce best-seller class\u00e9 notamment dans les meilleures ventes du New York Times, on retrouve Jason Fried et David Heinemeier-Hansson, fondateurs de la soci\u00e9t\u00e9 Basecamp (anciennement appel\u00e9 37signals), pr\u00e9curseurs de la cr\u00e9ation ..."
+      }
+    }
+  ]
+}

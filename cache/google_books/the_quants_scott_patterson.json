@@ -1,0 +1,229 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VkB0qVqgzqkC",
+      "etag": "tjYX9/YYr8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VkB0qVqgzqkC",
+      "volumeInfo": {
+        "title": "The Quants",
+        "subtitle": "How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It",
+        "authors": [
+          "Scott Patterson"
+        ],
+        "publisher": "Crown Currency",
+        "publishedDate": "2011-01-25",
+        "description": "With the immediacy of today\u2019s NASDAQ close and the timeless power of a Greek tragedy, The Quants is at once a masterpiece of explanatory journalism, a gripping tale of ambition and hubris, and an ominous warning about Wall Street\u2019s future. In March of 2006, four of the world\u2019s richest men sipped champagne in an opulent New York hotel. They were preparing to compete in a poker tournament with million-dollar stakes, but those numbers meant nothing to them. They were accustomed to risking billions. On that night, these four men and their cohorts were the new kings of Wall Street. Muller, Griffin, Asness, and Weinstein were among the best and brightest of a new breed, the quants. Over the prior twenty years, this species of math whiz--technocrats who make billions not with gut calls or fundamental analysis but with formulas and high-speed computers--had usurped the testosterone-fueled, kill-or-be-killed risk-takers who\u2019d long been the alpha males the world\u2019s largest casino. The quants helped create a digitized money-trading machine that could shift billions around the globe with the click of a mouse. Few realized, though, that in creating this unprecedented machine, men like Muller, Griffin, Asness and Weinstein had sowed the seeds for history\u2019s greatest financial disaster. Drawing on unprecedented access to these four number-crunching titans, The Quants tells the inside story of what they thought and felt in the days and weeks when they helplessly watched much of their net worth vaporize--and wondered just how their mind-bending formulas and genius-level IQ\u2019s had led them so wrong, so fast.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307453389"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307453383"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VkB0qVqgzqkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VkB0qVqgzqkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VkB0qVqgzqkC&printsec=frontcover&dq=intitle:%22The+Quants%22+inauthor:%22Scott+Patterson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VkB0qVqgzqkC&dq=intitle:%22The+Quants%22+inauthor:%22Scott+Patterson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Quants.html?hl=&id=VkB0qVqgzqkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VkB0qVqgzqkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Drawing on unprecedented access to these four number-crunching titans, The Quants tells the inside story of what they thought and felt in the days and weeks when they helplessly watched much of their net worth vaporize--and wondered just ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8kkA0AEACAAJ",
+      "etag": "doy+5PdRgVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8kkA0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Quants",
+        "authors": [
+          "Scott Patterson"
+        ],
+        "publisher": "Random House Digital, Inc.",
+        "publishedDate": "2010",
+        "description": "Documents the contributions of a team of young math geniuses who applied Vegas strategies to Wall Street and set in motion widespread market collapses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0307453375"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307453372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Finance"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8kkA0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8kkA0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8kkA0AEACAAJ&dq=intitle:%22The+Quants%22+inauthor:%22Scott+Patterson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8kkA0AEACAAJ&dq=intitle:%22The+Quants%22+inauthor:%22Scott+Patterson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Quants.html?hl=&id=8kkA0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8kkA0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Documents the contributions of a team of young math geniuses who applied Vegas strategies to Wall Street and set in motion widespread market collapses."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-g-TdRD-YXwC",
+      "etag": "WmV/KAAeQZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-g-TdRD-YXwC",
+      "volumeInfo": {
+        "title": "The Quants",
+        "subtitle": "The maths geniuses who brought down Wall Street",
+        "authors": [
+          "Scott Patterson"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2012-05-31",
+        "description": "You're a genius. Nobody plays the financial markets better than you. What could possibly go wrong? Quants - quantitative analysts - were the maths masterminds let loose on Wall Street in the belief that their brilliant, impregnable computer programs would always beat the market. But as the catastrophic events of 2007 and 2008 showed, their seemingly failproof methods were little more than ticking timebombs. Inspired by the 'Godfather of Quants' - maths-professor-turned-gambler Ed Thorp, who began applying skills learned at the Vegas tables to the financial markets back in the 1950s - the quants achieved extraordinary success and massive wealth. This book charts their rise from obscurity to boom and then to bust, explaining why they were so confident - and how they got it so disastrously wrong.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781446493090"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1446493091"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 333,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-g-TdRD-YXwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-g-TdRD-YXwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-g-TdRD-YXwC&dq=intitle:%22The+Quants%22+inauthor:%22Scott+Patterson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-g-TdRD-YXwC&dq=intitle:%22The+Quants%22+inauthor:%22Scott+Patterson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Quants.html?hl=&id=-g-TdRD-YXwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-g-TdRD-YXwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book charts their rise from obscurity to boom and then to bust, explaining why they were so confident - and how they got it so disastrously wrong."
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 52,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TjMArYCsi8sC",
+      "etag": "pPxL/hP42Q8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TjMArYCsi8sC",
+      "volumeInfo": {
+        "title": "Culture and Anarchy",
+        "authors": [
+          "Matthew Arnold"
+        ],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2006-11-09",
+        "description": "'The men of culture are the true apostles of equality.' Matthew Arnold's famous series of essays, which were first published in book form under the title Culture and Anarchy in 1869, debate important questions about the nature of culture and society that are as relevant now as they have ever been. Arnold seeks to find out 'what culture really is, what good it can do, what is our own special need of it' in an age of rapid social change and increasing mechanization. He contrasts culture, 'the study of perfection', with anarchy, the mood of unrest and uncertainty that pervaded mid-Victorian England. How can individuals be educated, not indoctrinated, and what is the role of the state in disseminating 'sweetness and light'? This edition reproduces the original book version and enables readers to appreciate its immediate historical context as well as the reasons for its continued importance today, in the face of the challenges of multi-culturalism and post-modernism. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191604706"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191604704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "5.9.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TjMArYCsi8sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TjMArYCsi8sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TjMArYCsi8sC&printsec=frontcover&dq=intitle:%22Culture+and+Anarchy%22+inauthor:%22Matthew+Arnold%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TjMArYCsi8sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TjMArYCsi8sC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TjMArYCsi8sC&rdid=book-TjMArYCsi8sC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Culture_and_Anarchy-sample-epub.acsm?id=TjMArYCsi8sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Culture_and_Anarchy-sample-pdf.acsm?id=TjMArYCsi8sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TjMArYCsi8sC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition reproduces the original book version and enables readers to appreciate its immediate historical context as well as the reasons for its continued importance today, in the face of the challenges of multi-culturalism and post ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IXdNAAAAYAAJ",
+      "etag": "kRllnQXqdlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IXdNAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Culture and Anarchy",
+        "subtitle": "An Essay in Political and Social Criticism ; and Selections",
+        "authors": [
+          "Matthew Arnold"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101074876259"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Culture"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IXdNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IXdNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IXdNAAAAYAAJ&printsec=frontcover&dq=intitle:%22Culture+and+Anarchy%22+inauthor:%22Matthew+Arnold%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IXdNAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IXdNAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IXdNAAAAYAAJ&rdid=book-IXdNAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Culture_and_Anarchy.epub?id=IXdNAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IXdNAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DPOUswEACAAJ",
+      "etag": "ZhHNMwZVZu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DPOUswEACAAJ",
+      "volumeInfo": {
+        "title": "Culture and Anarchy",
+        "subtitle": "An Essay in Political and Social Criticism",
+        "authors": [
+          "Matthew Arnold"
+        ],
+        "publishedDate": "2018-03",
+        "description": "Culture and Anarchy is a series of periodical essays by Matthew Arnold, first published in Cornhill Magazine 1867-68 and collected as a book in 1869. His often quoted phrase \"[culture is] the best which has been thought and said\" comes from the Preface to Culture and Anarchy: The whole scope of the essay is to recommend culture as the great help out of our present difficulties; culture being a pursuit of our total perfection by means of getting to know, on all the matters which most concern us, the best which has been thought and said in the world, and, through this knowledge, turning a stream of fresh and free thought upon our stock notions and habits, which we now follow staunchly but mechanically, vainly imagining that there is a virtue in following them staunchly which makes up for the mischief of following them mechanically. The book contains most of the terms - culture, sweetness and light, Barbarian, Philistine, Hebraism, and many others - which are more associated with Arnold's work influence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1986088391"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781986088398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DPOUswEACAAJ&dq=intitle:%22Culture+and+Anarchy%22+inauthor:%22Matthew+Arnold%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DPOUswEACAAJ&dq=intitle:%22Culture+and+Anarchy%22+inauthor:%22Matthew+Arnold%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Culture_and_Anarchy.html?hl=&id=DPOUswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DPOUswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book contains most of the terms - culture, sweetness and light, Barbarian, Philistine, Hebraism, and many others - which are more associated with Arnold&#39;s work influence."
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1ue1EAAAQBAJ",
+      "etag": "QezVlML+M/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1ue1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Adulthood Rites",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2023-03-28",
+        "description": "From the award-winning author of Parable of the Sower:After the near-extinction of the human race, one young man with extraordinary gifts will reveal whether the human race can learn from its past and rebuild their future . . . or is doomed to self-destruction. In the future, nuclear war has destroyed nearly all humankind. An alien race intervenes, saving the small group of survivors from certain death. But their salvation comes at a cost. The Oankali are able to read and mutate genetic code, and they use these skills for their own survival, interbreeding with new species to constantly adapt and evolve. They value the intelligence they see in humankind but also know that the species\u2014rigidly bound to destructive social hierarchies\u2014is destined for failure. They are determined that the only way forward is for the two races to produce a new hybrid species\u2014and they will not tolerate rebellion. Akin looks like an ordinary human child. But as the first true human-alien hybrid, he is born understanding language, then starts to form sentences at two months old. He can see at a molecular level and kill with a touch. More powerful than any human or Oankali, he will be the architect of both races' future. But before he can carry this new species into the stars, Akin must reconcile with his own heritage in a world already torn in two.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538765470"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1538765470"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1ue1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1ue1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1ue1EAAAQBAJ&printsec=frontcover&dq=intitle:%22Adulthood+Rites%22+inauthor:%22Octavia+E.+Butler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1ue1EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1ue1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1ue1EAAAQBAJ&rdid=book-1ue1EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Adulthood_Rites-sample-epub.acsm?id=1ue1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1ue1EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the award-winning author of Parable of the Sower: After the near-extinction of the human race, one young man with extraordinary gifts will reveal whether the human race can learn from its past and rebuild their future ... or is doomed ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8HY4PwAACAAJ",
+      "etag": "eipwltHZ6aY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8HY4PwAACAAJ",
+      "volumeInfo": {
+        "title": "Adulthood Rites",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Aspect",
+        "publishedDate": "1997-04-01",
+        "description": "Told in the haunting voice of Lilith, the heroine of \"Dawn\", this book is thestory of Lilith's only son, Akin. Though he resembles a normal human, Akin isthe first \"construct\"--part man/part alien.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0446603783"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780446603782"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8HY4PwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8HY4PwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8HY4PwAACAAJ&dq=intitle:%22Adulthood+Rites%22+inauthor:%22Octavia+E.+Butler%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8HY4PwAACAAJ&dq=intitle:%22Adulthood+Rites%22+inauthor:%22Octavia+E.+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Adulthood_Rites.html?hl=&id=8HY4PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8HY4PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Told in the haunting voice of Lilith, the heroine of &quot;Dawn&quot;, this book is thestory of Lilith&#39;s only son, Akin. Though he resembles a normal human, Akin isthe first &quot;construct&quot;--part man/part alien."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Q-uAQAACAAJ",
+      "etag": "RG5xIWAI+Ek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Q-uAQAACAAJ",
+      "volumeInfo": {
+        "title": "Lilith's Brood",
+        "subtitle": "Dawn, Adulthood Rites, and Imago",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publishedDate": "2012",
+        "description": "Butler's acclaimed Xenogenesis trilogy about humanity's struggle for survival after nuclear apocalypse, and the alien race that could save the world-or destroy it The newest stage in human evolution begins in outer space. Survivors of a cataclysmic nuclear war awake to find themselves being studied by the Oankali, tentacle-covered galactic travelers whose benevolent appearance hides their surprising plan for the future of mankind. The Oankali arrive not just to save humanity, but to bond with it-crossbreeding to form a hybrid species that can survive in the place of its human forebears, who were so intent on self-destruction. Some people resist, forming pocket communities of purebred rebellion, but many realize they have no choice. The human species inevitably expands into something stranger, stronger, and undeniably alien. Butler's Lilith's Brood is both a thrilling, provocative meditation on the expansion of the human gene pool and an epic story of how it takes more than DNA to make someone human. This ebook features an illustrated biography of Octavia E. Butler including rare images from the author's estate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1306618371"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781306618373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0Q-uAQAACAAJ&dq=intitle:%22Adulthood+Rites%22+inauthor:%22Octavia+E.+Butler%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0Q-uAQAACAAJ&dq=intitle:%22Adulthood+Rites%22+inauthor:%22Octavia+E.+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lilith_s_Brood.html?hl=&id=0Q-uAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Q-uAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Butler&#39;s Lilith&#39;s Brood is both a thrilling, provocative meditation on the expansion of the human gene pool and an epic story of how it takes more than DNA to make someone human."
+      }
+    }
+  ]
+}

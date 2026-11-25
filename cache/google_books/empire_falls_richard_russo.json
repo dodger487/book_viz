@@ -1,0 +1,194 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 7,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XNGsuo-o5ZIC",
+      "etag": "taC6bomk2Uk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XNGsuo-o5ZIC",
+      "volumeInfo": {
+        "title": "Empire Falls",
+        "authors": [
+          "Richard Russo"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2001",
+        "description": "Miles Roby, the heir to a ruined Maine logging and paper mill empire, tries to hold his family together and provide for his parents.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780679432470"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0679432477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XNGsuo-o5ZIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XNGsuo-o5ZIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XNGsuo-o5ZIC&printsec=frontcover&dq=intitle:%22Empire+Falls%22+inauthor:%22Richard+Russo%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XNGsuo-o5ZIC&dq=intitle:%22Empire+Falls%22+inauthor:%22Richard+Russo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Empire_Falls.html?hl=&id=XNGsuo-o5ZIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XNGsuo-o5ZIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Miles Roby, the heir to a ruined Maine logging and paper mill empire, tries to hold his family together and provide for his parents."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0ROFGQAACAAJ",
+      "etag": "tCLp18GZyu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0ROFGQAACAAJ",
+      "volumeInfo": {
+        "title": "Empire Falls",
+        "authors": [
+          "Richard Russo",
+          "Hannes Varblane"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9949409071"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789949409075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 473,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "et",
+        "previewLink": "http://books.google.com/books?id=0ROFGQAACAAJ&dq=intitle:%22Empire+Falls%22+inauthor:%22Richard+Russo%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0ROFGQAACAAJ&dq=intitle:%22Empire+Falls%22+inauthor:%22Richard+Russo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Empire_Falls.html?hl=&id=0ROFGQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0ROFGQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AqshAAAACAAJ",
+      "etag": "DKssRDnOyJ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AqshAAAACAAJ",
+      "volumeInfo": {
+        "title": "Z\u00e1nik Empire Falls",
+        "authors": [
+          "Richard Russo"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8024904063"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788024904061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 639,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "cs",
+        "previewLink": "http://books.google.com/books?id=AqshAAAACAAJ&dq=intitle:%22Empire+Falls%22+inauthor:%22Richard+Russo%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AqshAAAACAAJ&dq=intitle:%22Empire+Falls%22+inauthor:%22Richard+Russo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Z%C3%A1nik_Empire_Falls.html?hl=&id=AqshAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AqshAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

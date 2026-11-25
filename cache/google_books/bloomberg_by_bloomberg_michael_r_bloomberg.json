@@ -1,0 +1,150 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GIV1DwAAQBAJ",
+      "etag": "UsFOImCzhHg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GIV1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Bloomberg by Bloomberg, Revised and Updated",
+        "authors": [
+          "Michael R. Bloomberg"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2019-01-07",
+        "description": "Michael Bloomberg rose from middle-class Medford, Massachusetts to become a pioneer of the computer age, mayor of New York, one of the world's most generous philanthropists, and one of America's most respected\u2014and fearless\u2014voices on gun violence, climate change, public health, and other issues. And it all happened after he got fired at the age of 39. This is his story, told in his own words and in his own candid style. After working his way through college and graduating from Harvard Business School, Bloomberg landed on the bottom rung of a Wall Street firm and worked his way up to partner. But in 1981, he was forced out of the firm. With an idea for computerizing financial data, Bloomberg started his own company. And, since personal computers barely existed, he built his own. Specially designed for Wall Street traders and analysts, the Bloomberg Terminal revolutionized the world of finance. Under Bloomberg's leadership, his company grew rapidly, playing David to the Goliaths of finance and media\u2014and making Bloomberg one of the world's wealthiest men. Bloomberg by Bloomberg offers an intimate look at the creative mind and driven personality behind the Bloomberg brand. He describes in vivid detail his early Wall Street career, both the victories and frustrations, including a personal account of what it was like to be fired and given $10 million on the same day. He combines personal stories with penetrating insights into business and technology, while also offering lessons from his unique approach to management. There is no one in business or politics quite like him\u2014or who has had more success in both areas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119554264"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1119554268"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GIV1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GIV1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GIV1DwAAQBAJ&printsec=frontcover&dq=intitle:%22Bloomberg+by+Bloomberg%22+inauthor:%22Michael+R.+Bloomberg%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GIV1DwAAQBAJ&dq=intitle:%22Bloomberg+by+Bloomberg%22+inauthor:%22Michael+R.+Bloomberg%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bloomberg_by_Bloomberg_Revised_and_Updat.html?hl=&id=GIV1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bloomberg_by_Bloomberg_Revised_and_Updat-sample-pdf.acsm?id=GIV1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GIV1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And it all happened after he got fired at the age of 39. This is his story, told in his own words and in his own candid style."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YfgJAQAAMAAJ",
+      "etag": "JwNpVI4m0II",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YfgJAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Bloomberg by Bloomberg",
+        "authors": [
+          "Michael R. Bloomberg",
+          "Matthew Winkler"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2001-08-27",
+        "description": "Whether staging a festival for several thousand employees at his house or rollerblading in Central Park, as bon vivant or businessman, Michael Bloomberg has always done it his way. With customary candor, Bloomberg reveals how his idiosyncratic managerial methods - including the absence of physical partitions and job titles in his offices, and his fierce insistence on total company loyalty - have been instrumental in building his organization.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000080868882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YfgJAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YfgJAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YfgJAQAAMAAJ&dq=intitle:%22Bloomberg+by+Bloomberg%22+inauthor:%22Michael+R.+Bloomberg%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YfgJAQAAMAAJ&dq=intitle:%22Bloomberg+by+Bloomberg%22+inauthor:%22Michael+R.+Bloomberg%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bloomberg_by_Bloomberg.html?hl=&id=YfgJAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YfgJAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is full of wonderful insights about Wall Street and about starting and growing a new business.&quot; \u2014Julian H. Robertson Jr., Chairman, Tiger Management LLC &quot;This is the best insight yet on how one man shook up the entire financial ..."
+      }
+    }
+  ]
+}

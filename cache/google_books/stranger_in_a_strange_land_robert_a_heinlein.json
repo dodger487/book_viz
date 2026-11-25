@@ -1,0 +1,213 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 7,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "p9UiDQAAQBAJ",
+      "etag": "khHh4zVXPts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p9UiDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Stranger in a Strange Land",
+        "authors": [
+          "Robert A. Heinlein"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2016-10-25",
+        "description": "A deluxe hardcover edition of the most famous science-fiction novel of all time\u2014part of Penguin Galaxy, a collectible series of six sci-fi/fantasy classics, featuring a series introduction by Neil Gaiman Winner of the AIGA + Design Observer 50 Books | 50 Covers competition A human raised on Mars, Valentine Michael Smith has just arrived on planet Earth. Among his people for the first time, he struggles to understand the social mores and prejudices of human nature that are so alien to him, while his own \u201cpsi\u201d powers\u2014including telepathy, clairvoyance, telekenesis, and teleportation\u2014make him a type of messiah figure among humans. Stranger in a Strange Land grew from a cult favorite to a bestseller to a classic in a few short years. The story of the man from Mars who taught humankind grokking and water-sharing\u2014and love\u2014it is Robert A. Heinlein\u2019s masterpiece. Penguin Galaxy Six of our greatest masterworks of science fiction and fantasy, in dazzling collector-worthy hardcover editions, and featuring a series introduction by #1 New York Times bestselling author Neil Gaiman, Penguin Galaxy represents a constellation of achievement in visionary fiction, lighting the way toward our knowledge of the universe, and of ourselves. From historical legends to mythic futures, monuments of world-building to mind-bending dystopias, these touchstones of human invention and storytelling ingenuity have transported millions of readers to distant realms, and will continue for generations to chart the frontiers of the imagination. The Once and Future King by T. H. White Stranger in a Strange Land by Robert A. Heinlein Dune by Frank Herbert 2001: A Space Odyssey by Arthur C. Clarke The Left Hand of Darkness by Ursula K. Le Guin Neuromancer by William Gibson For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143111627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143111620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p9UiDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p9UiDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p9UiDQAAQBAJ&printsec=frontcover&dq=intitle:%22Stranger+in+a+Strange+Land%22+inauthor:%22Robert+A.+Heinlein%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p9UiDQAAQBAJ&dq=intitle:%22Stranger+in+a+Strange+Land%22+inauthor:%22Robert+A.+Heinlein%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stranger_in_a_Strange_Land.html?hl=&id=p9UiDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p9UiDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stranger in a Strange Land grew from a cult favorite to a bestseller to a classic in a few short years. The story of the man from Mars who taught humankind grokking and water-sharing\u2014and love\u2014it is Robert A. Heinlein\u2019s masterpiece."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kw41zgEACAAJ",
+      "etag": "1W6Oxt0Celc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kw41zgEACAAJ",
+      "volumeInfo": {
+        "title": "Stranger in a Strange Land",
+        "authors": [
+          "Perfection Learning Corporation",
+          "Robert A Heinlein"
+        ],
+        "publisher": "Turtleback",
+        "publishedDate": "2018",
+        "description": "\"A human raised on Mars, Valentine Michael Smith has just arrived on planet Earth. Among his people for the first time, he struggles to understand the social mores and prejudices of human nature that are so alien to him, while his own \"psi\" powers--among them telepathy, clairvoyance, telekinesis, and teleportation--make him a type of messiah figure among humans. Stranger in a Strange Land grew from a cult favorite to a bestseller to a classic in a few short years. The story of the man from Mars who taught humankind grokking and water-sharing--and love--it is Robert A. Heinlein's masterpiece\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1531161472"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781531161477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kw41zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kw41zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kw41zgEACAAJ&dq=intitle:%22Stranger+in+a+Strange+Land%22+inauthor:%22Robert+A.+Heinlein%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kw41zgEACAAJ&dq=intitle:%22Stranger+in+a+Strange+Land%22+inauthor:%22Robert+A.+Heinlein%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stranger_in_a_Strange_Land.html?hl=&id=kw41zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kw41zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stranger in a Strange Land grew from a cult favorite to a bestseller to a classic in a few short years. The story of the man from Mars who taught humankind grokking and water-sharing--and love--it is Robert A. Heinlein&#39;s masterpiece&quot;--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qq0eKQEACAAJ",
+      "etag": "GmfNyxGtOOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qq0eKQEACAAJ",
+      "volumeInfo": {
+        "title": "Stranger in A Strange Land",
+        "authors": [
+          "A., Robert Heinlein"
+        ],
+        "publisher": "Everbind",
+        "publishedDate": "2009-07-01",
+        "description": "A Mars-born earthling arrives on Earth for the first time as an adult, and teaches some unforgettable lessons.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0884834360"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780884834366"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Qq0eKQEACAAJ&dq=intitle:%22Stranger+in+a+Strange+Land%22+inauthor:%22Robert+A.+Heinlein%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Qq0eKQEACAAJ&dq=intitle:%22Stranger+in+a+Strange+Land%22+inauthor:%22Robert+A.+Heinlein%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stranger_in_A_Strange_Land.html?hl=&id=Qq0eKQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qq0eKQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Mars-born earthling arrives on Earth for the first time as an adult, and teaches some unforgettable lessons."
+      }
+    }
+  ]
+}

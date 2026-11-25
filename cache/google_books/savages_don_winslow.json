@@ -1,0 +1,220 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 9,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "j7tdoNePPZMC",
+      "etag": "YBb8BGZNYqE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j7tdoNePPZMC",
+      "volumeInfo": {
+        "title": "Savages",
+        "subtitle": "A Novel",
+        "authors": [
+          "Don Winslow"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-05-29",
+        "description": "When one of three members of a young group of marijuana kingpins in Laguna Beach is kidnapped, the remaining two are blackmailed into working for the Baja Cartel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451667158"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451667159"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j7tdoNePPZMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j7tdoNePPZMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=j7tdoNePPZMC&printsec=frontcover&dq=intitle:%22Savages%22+inauthor:%22Don+Winslow%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=j7tdoNePPZMC&dq=intitle:%22Savages%22+inauthor:%22Don+Winslow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Savages.html?hl=&id=j7tdoNePPZMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j7tdoNePPZMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When one of three members of a young group of marijuana kingpins in Laguna Beach is kidnapped, the remaining two are blackmailed into working for the Baja Cartel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q75TeSOFh2kC",
+      "etag": "+Bv0SNr+awA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q75TeSOFh2kC",
+      "volumeInfo": {
+        "title": "The Kings of Cool",
+        "subtitle": "A Prequel to Savages",
+        "authors": [
+          "Don Winslow"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2013-06-18",
+        "description": "\"In Savages, Don Winslow introduced Ben and Chon, twenty-something best friends who risk everything to save the girl they both love, O. Now, in his high-octane prequel, The Kings of Cool, Winslow reaches back in time to tell the story of how Ben, Chon, and O became the people they are. Spanning from 1960s Southern California to the recent past, it is a tale of family in all its forms--fathers and sons, mothers and daughters, friends and lovers. As the younger generation does battle with a cabal of drug dealers and crooked cops, they come to learn that their future is inextricably linked with their parents' history. A series of breakneck twists and turns puts the two generations on a collision course, culminating in a stunning showdown that will ultimately force Ben, Chon, and O to choose between their real families and their love for each other\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451665338"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451665334"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 323,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q75TeSOFh2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q75TeSOFh2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q75TeSOFh2kC&printsec=frontcover&dq=intitle:%22Savages%22+inauthor:%22Don+Winslow%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=q75TeSOFh2kC&dq=intitle:%22Savages%22+inauthor:%22Don+Winslow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kings_of_Cool.html?hl=&id=q75TeSOFh2kC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q75TeSOFh2kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;In Savages, Don Winslow introduced Ben and Chon, twenty-something best friends who risk everything to save the girl they both love, O. Now, in his high-octane prequel, The Kings of Cool, Winslow reaches back in time to tell the story of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9NCxoQEACAAJ",
+      "etag": "bwMI/rRFpAs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9NCxoQEACAAJ",
+      "volumeInfo": {
+        "title": "Savages",
+        "authors": [
+          "Don Winslow"
+        ],
+        "publisher": "Tantor Media Incorporated",
+        "publishedDate": "2014-05-10",
+        "description": "In this thriller by the award-winning successor to Ross Macdonald and Elmore Leonard, three young marijuana kingpins are blackmailed into working for the Baja Cartel after one of them is kidnapped.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1452627797"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452627793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9NCxoQEACAAJ&dq=intitle:%22Savages%22+inauthor:%22Don+Winslow%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9NCxoQEACAAJ&dq=intitle:%22Savages%22+inauthor:%22Don+Winslow%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Savages.html?hl=&id=9NCxoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9NCxoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this thriller by the award-winning successor to Ross Macdonald and Elmore Leonard, three young marijuana kingpins are blackmailed into working for the Baja Cartel after one of them is kidnapped."
+      }
+    }
+  ]
+}

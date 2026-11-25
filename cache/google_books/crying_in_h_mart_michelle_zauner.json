@@ -1,0 +1,223 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "8wOF0gEACAAJ",
+      "etag": "iE8LsGfGmpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8wOF0gEACAAJ",
+      "volumeInfo": {
+        "title": "Crying in H Mart",
+        "authors": [
+          "Michelle Zauner"
+        ],
+        "publisher": "Penguin Random House",
+        "publishedDate": "2023-06",
+        "description": "NEW YORK TIMES BEST SELLER - From the indie rock sensation known as Japanese Breakfast, an unforgettable memoir about family, food, grief, love, and growing up Korean American. - \"In losing her mother and cooking to bring her back to life, Zauner became herself.\" --NPRIn this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother's particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother's tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food. As she grew up, moving to the East Coast for college, finding work in the restaurant industry, and performing gigs with her fledgling band--and meeting the man who would become her husband--her Koreanness began to feel ever more distant, even as she found the life she wanted to live. It was her mother's diagnosis of terminal cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her.Vivacious and plainspoken, lyrical and honest, Zauner's voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, and complete with family photos, Crying in H Mart is a book to cherish, share, and reread.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798822673007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8wOF0gEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8wOF0gEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8wOF0gEACAAJ&dq=intitle:%22Crying+in+H+Mart%22+inauthor:%22Michelle+Zauner%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8wOF0gEACAAJ&dq=intitle:%22Crying+in+H+Mart%22+inauthor:%22Michelle+Zauner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crying_in_H_Mart.html?hl=&id=8wOF0gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8wOF0gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; --NPRIn this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "30UlEAAAQBAJ",
+      "etag": "Y7a31FLVYeA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/30UlEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crying in H Mart",
+        "subtitle": "A Memoir",
+        "authors": [
+          "Michelle Zauner"
+        ],
+        "publisher": "Knopf",
+        "publishedDate": "2021-04-20",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 From the indie rock sensation known as Japanese Breakfast, an unforgettable memoir about family, food, grief, love, and growing up Korean American\u2014\u201cin losing her mother and cooking to bring her back to life, Zauner became herself\u201d (NPR). \u2022 CELEBRATING OVER ONE YEAR ON THE NEW YORK TIMES BESTSELLER LIST In this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother's particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother's tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food. As she grew up, moving to the East Coast for college, finding work in the restaurant industry, and performing gigs with her fledgling band--and meeting the man who would become her husband--her Koreanness began to feel ever more distant, even as she found the life she wanted to live. It was her mother's diagnosis of terminal cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her. Vivacious and plainspoken, lyrical and honest, Zauner's voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, and complete with family photos, Crying in H Mart is a book to cherish, share, and reread.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525657743"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525657746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=30UlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=30UlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=30UlEAAAQBAJ&printsec=frontcover&dq=intitle:%22Crying+in+H+Mart%22+inauthor:%22Michelle+Zauner%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=30UlEAAAQBAJ&dq=intitle:%22Crying+in+H+Mart%22+inauthor:%22Michelle+Zauner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crying_in_H_Mart.html?hl=&id=30UlEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=30UlEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "#1 NEW YORK TIMES BESTSELLER \u2022 From the indie rock sensation known as Japanese Breakfast, an unforgettable memoir about family, food, grief, love, and growing up Korean American\u2014\u201cin losing her mother and cooking to bring her back to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L8saEAAAQBAJ",
+      "etag": "o1EKq6hbyno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L8saEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Crying in H Mart",
+        "subtitle": "The No. 1 New York Times bestselling memoir from indie rockstar Japanese Breakfast",
+        "authors": [
+          "Michelle Zauner"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2021-05-13",
+        "description": "The global bestselling sensation \u00b7 Celebrating 100 weeks on the New York Times bestseller list \u00b7 Now with sixteen pages of family photographs and exclusive extract from Thank You for Your Suffering \u2018Will have you in tears . . . An essential read for anybody who has lost a loved one, as well as those who haven\u2019t\u2019 \u2013 Marie Claire \u2018I bawled my eyes out . . . I loved it\u2019 \u2013 Dua Lipa \u2018The best book I\u2019ve read all year\u2019 \u2013 The Guardian \u2018Moving and funny . . . I gulped it down in a day\u2019 \u2013 The Sunday Times \u2018A vibrant, soulful memoir\u2019 \u2013 The Observer From Grammy-nominated indie rockstar Michelle Zauner, aka Japanese Breakfast, an unflinching, powerful memoir about family, food, grief, love and growing up Korean American. When Michelle Zauner was in her mid-twenties, working as a waitress and struggling to launch her music career, she got a call that her mother was ill. She put her life on hold and flew home to Oregon to be with her mother through the final, excruciating months of her battle with pancreatic cancer. Crying in H Mart is Zauner\u2019s searingly candid coming-of-age story: of growing apart from, and then back together with, her Korean identity; of straining to meet her mother\u2019s expectations; of treasured months in Seoul, where she and her mother would bond, late at night, over heaped plates of food; and of returning home to reckon with grief. Vivacious, honest and rich with intimate anecdotes, Crying in H Mart is a book to cherish, share and re-read. What readers are saying about Crying in H Mart: 'I recommend this for anyone who likes memoirs, food, and who\u2019s ever felt lonely' (*****) 'I was captivated by this coming-of-age story which resonated with mine and other friends' stories' (*****) 'A must for people looking to be hooked in memories that span between joy, sadness and love' (*****)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529033809"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529033802"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L8saEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L8saEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=L8saEAAAQBAJ&dq=intitle:%22Crying+in+H+Mart%22+inauthor:%22Michelle+Zauner%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=L8saEAAAQBAJ&dq=intitle:%22Crying+in+H+Mart%22+inauthor:%22Michelle+Zauner%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crying_in_H_Mart.html?hl=&id=L8saEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L8saEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Crying in H Mart is Zauner\u2019s searingly candid coming-of-age story: of growing apart from, and then back together with, her Korean identity; of straining to meet her mother\u2019s expectations; of treasured months in Seoul, where she and her ..."
+      }
+    }
+  ]
+}

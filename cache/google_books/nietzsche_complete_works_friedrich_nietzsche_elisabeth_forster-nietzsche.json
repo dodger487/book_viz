@@ -1,0 +1,218 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 165,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nNPtEQAAQBAJ",
+      "etag": "xk4FTr/P9HM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nNPtEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Complete Works of Friedrich Nietzsche",
+        "authors": [
+          "Friedrich Nietzsche"
+        ],
+        "publisher": "Bookjack",
+        "publishedDate": "2026-06-21",
+        "description": "Complete Works of Friedrich Nietzsche presents the fierce, provocative writings of one of modern philosophy's most influential voices. Nietzsche's books question morality, culture, religion, art and the future of human self-overcoming with unmatched rhetorical force.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782291800040"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2291800043"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 4270,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nNPtEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nNPtEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nNPtEQAAQBAJ&printsec=frontcover&dq=intitle:%22Nietzsche+Complete+Works%22+inauthor:%22Friedrich+Nietzsche,+Elisabeth+Forster-Nietzsche%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nNPtEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nNPtEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.49,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 0.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nNPtEQAAQBAJ&rdid=book-nNPtEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 490000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 490000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Complete_Works_of_Friedrich_Nietzsche-sample-epub.acsm?id=nNPtEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Complete_Works_of_Friedrich_Nietzsche-sample-pdf.acsm?id=nNPtEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nNPtEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Complete Works of Friedrich Nietzsche presents the fierce, provocative writings of one of modern philosophy&#39;s most influential voices."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FFLhzAEACAAJ",
+      "etag": "TN+Wt8um99Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FFLhzAEACAAJ",
+      "volumeInfo": {
+        "title": "The Complete Works of Friedrich Nietzsche",
+        "authors": [
+          "Friedrich Wilhelm Nietzsche"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1007086"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=FFLhzAEACAAJ&dq=intitle:%22Nietzsche+Complete+Works%22+inauthor:%22Friedrich+Nietzsche,+Elisabeth+Forster-Nietzsche%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FFLhzAEACAAJ&dq=intitle:%22Nietzsche+Complete+Works%22+inauthor:%22Friedrich+Nietzsche,+Elisabeth+Forster-Nietzsche%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Works_of_Friedrich_Nietzsch.html?hl=&id=FFLhzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FFLhzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q0O5zgEACAAJ",
+      "etag": "Bu+MUEPuP2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q0O5zgEACAAJ",
+      "volumeInfo": {
+        "title": "The Complete Works of Friedrich Nietzsche",
+        "subtitle": "The First Complete and Authorised English Translation",
+        "authors": [
+          "Friedrich Nietzsche"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:605283508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=q0O5zgEACAAJ&dq=intitle:%22Nietzsche+Complete+Works%22+inauthor:%22Friedrich+Nietzsche,+Elisabeth+Forster-Nietzsche%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=q0O5zgEACAAJ&dq=intitle:%22Nietzsche+Complete+Works%22+inauthor:%22Friedrich+Nietzsche,+Elisabeth+Forster-Nietzsche%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Works_of_Friedrich_Nietzsch.html?hl=&id=q0O5zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q0O5zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

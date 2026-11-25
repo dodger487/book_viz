@@ -1,0 +1,215 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 16,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "uAI-t9Ot3vcC",
+      "etag": "QdyQKFf4klM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uAI-t9Ot3vcC",
+      "volumeInfo": {
+        "title": "The Best American Essays 2012",
+        "authors": [
+          "David Brooks",
+          "Robert Atwan"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2012-10-02",
+        "description": "Nonfiction from Malcolm Gladwell, Francine Prose, Jonathan Franzen, and more: \"There is not a dud in the bunch. [An] exhilarating collection.\" \u2014 Publishers Weekly (starred review) Whether a personal reflection on a wife's decline from Alzheimer's, a critique of the overdiagnosis of mood disorders, a lighthearted look at menopause, a friend's commentary on David Foster Wallace's heartbreaking suicide, or a memoir of teaching underprivileged children, this collection highlights the best essays of the year with contributions from: Benjamin Anastas \u2022 Marcia Angell \u2022 Miah Arnold \u2022 Geoffrey Bent \u2022 Robert Boyers \u2022 Dudley Clendinen \u2022 Paul Collins \u2022 Mark Doty \u2022 Mark Edmundson \u2022 Joseph Epstein \u2022 Jonathan Franzen \u2022 Malcolm Gladwell \u2022 Peter Hessler \u2022 Ewa Hryniewicz-Yarbrough \u2022 Garret Keizer \u2022 David J. Lawless \u2022 Alan Lightman \u2022 Sandra Tsing Loh \u2022 Ken Murray \u2022 Francine Prose \u2022 Richard Sennett \u2022 Lauren Slater \u2022 Jose Antonio Vargas \u2022 Wesley Yang \"A trove of fine writing on big issues.\" \u2014 Kirkus Reviews",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547840543"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0547840543"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 339,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.15.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uAI-t9Ot3vcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uAI-t9Ot3vcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uAI-t9Ot3vcC&printsec=frontcover&dq=intitle:%22The+Best+American+Essays+2012%22+inauthor:%22Robert+Atwan,+David+Brooks+,+Miah+Arnold%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uAI-t9Ot3vcC&dq=intitle:%22The+Best+American+Essays+2012%22+inauthor:%22Robert+Atwan,+David+Brooks+,+Miah+Arnold%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_American_Essays_2012.html?hl=&id=uAI-t9Ot3vcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Best_American_Essays_2012-sample-epub.acsm?id=uAI-t9Ot3vcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Best_American_Essays_2012-sample-pdf.acsm?id=uAI-t9Ot3vcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uAI-t9Ot3vcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nonfiction from Malcolm Gladwell, Francine Prose, Jonathan Franzen, and more: &quot;There is not a dud in the bunch. [An] exhilarating collection.&quot; \u2014 Publishers Weekly (starred review) Whether a personal reflection on a wife&#39;s decline from ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iV0fOAAACAAJ",
+      "etag": "nwlltDWtkFE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iV0fOAAACAAJ",
+      "volumeInfo": {
+        "title": "The Best American Essays 2007",
+        "authors": [
+          "David Foster Wallace",
+          "Robert Atwan"
+        ],
+        "publishedDate": "2007",
+        "description": "Published: Boston: Houghton Mifflin Co., -",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0618709266"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780618709267"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "American essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iV0fOAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iV0fOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iV0fOAAACAAJ&dq=intitle:%22The+Best+American+Essays+2012%22+inauthor:%22Robert+Atwan,+David+Brooks+,+Miah+Arnold%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iV0fOAAACAAJ&dq=intitle:%22The+Best+American+Essays+2012%22+inauthor:%22Robert+Atwan,+David+Brooks+,+Miah+Arnold%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_American_Essays_2007.html?hl=&id=iV0fOAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iV0fOAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Published: Boston: Houghton Mifflin Co., -"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Al60gEACAAJ",
+      "etag": "IrbAnXKVbqI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Al60gEACAAJ",
+      "volumeInfo": {
+        "title": "The Best American Essays, 2002",
+        "authors": [
+          "Stephen Jay Gould"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:50771774"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "American essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4Al60gEACAAJ&dq=intitle:%22The+Best+American+Essays+2012%22+inauthor:%22Robert+Atwan,+David+Brooks+,+Miah+Arnold%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4Al60gEACAAJ&dq=intitle:%22The+Best+American+Essays+2012%22+inauthor:%22Robert+Atwan,+David+Brooks+,+Miah+Arnold%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_American_Essays_2002.html?hl=&id=4Al60gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Al60gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 163,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "r9x-OXdzpPcC",
+      "etag": "mUFzo59Dlpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r9x-OXdzpPcC",
+      "volumeInfo": {
+        "title": "The Lean Startup",
+        "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "authors": [
+          "Eric Ries"
+        ],
+        "publisher": "Crown Currency",
+        "publishedDate": "2011-09-13",
+        "description": "Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business. The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \u201cvalidated learning,\u201d rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute. Rather than wasting time creating elaborate business plans, The Lean Startup offers entrepreneurs\u2014in companies of all sizes\u2014a way to test their vision continuously, to adapt and adjust before it\u2019s too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307887894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307887898"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r9x-OXdzpPcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r9x-OXdzpPcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r9x-OXdzpPcC&printsec=frontcover&dq=intitle:%22The+Lean+Startup:+How+Today%27s+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses%22+inauthor:%22Eric+Ries%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=r9x-OXdzpPcC&dq=intitle:%22The+Lean+Startup:+How+Today%27s+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses%22+inauthor:%22Eric+Ries%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lean_Startup.html?hl=&id=r9x-OXdzpPcC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r9x-OXdzpPcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "19forYX7NLQC",
+      "etag": "D7A/Ubs/8hE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/19forYX7NLQC",
+      "volumeInfo": {
+        "title": "The Lean Startup",
+        "subtitle": "The Million Copy Bestseller Driving Entrepreneurs to Success",
+        "authors": [
+          "Eric Ries"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2011-10-06",
+        "description": "THE INTERNATIONAL BESTSELLING SENSATION 'The Lean Startup changes everything.' - Harvard Business Review ---------- Most new businesses fail. But most of those failures are preventable. The Lean Startup is a new approach to business that's being adopted around the world. It is changing the way companies are built and new products are launched. Essential reading for any ambitious entrepreneur, The Lean Startup will teach you to identify what your customers really want. You'll learn how to test your vision continuously, adapting and adjusting before it's too late. With over a million copies sold across the globe, now is your time to think Lean.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780670921621"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0670921629"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 295,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.18.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=19forYX7NLQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=19forYX7NLQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=19forYX7NLQC&dq=intitle:%22The+Lean+Startup:+How+Today%27s+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses%22+inauthor:%22Eric+Ries%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=19forYX7NLQC&dq=intitle:%22The+Lean+Startup:+How+Today%27s+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses%22+inauthor:%22Eric+Ries%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lean_Startup.html?hl=&id=19forYX7NLQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=19forYX7NLQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE INTERNATIONAL BESTSELLING SENSATION &#39;The Lean Startup changes everything."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IafjjwEACAAJ",
+      "etag": "bbIjY34gTtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IafjjwEACAAJ",
+      "volumeInfo": {
+        "title": "Eric Ries' the Lean Startup",
+        "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Summary",
+        "authors": [
+          "Ant Hive Media"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-04",
+        "description": "This is a summary of Eric Ries' The Lean Startup How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business. This is a summary of Eric Ries' The Lean Startup How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute. Rather than wasting time creating elaborate business plans, The Lean Startup offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever. Available in a variety of formats, this summary is aimed for those who want to capture the gist of the book but don't have the current time to devour all 338 pages. You get the main summary along with all of the benefits and lessons the actual book has to offer. This summary is intended to be used with reference to the original book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533087296"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533087294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IafjjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IafjjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IafjjwEACAAJ&dq=intitle:%22The+Lean+Startup:+How+Today%27s+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses%22+inauthor:%22Eric+Ries%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IafjjwEACAAJ&dq=intitle:%22The+Lean+Startup:+How+Today%27s+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses%22+inauthor:%22Eric+Ries%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eric_Ries_the_Lean_Startup.html?hl=&id=IafjjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IafjjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a summary of Eric Ries&#39; The Lean Startup How Today&#39;s Entrepreneurs Use Continuous Innovation to Create Radically Successful BusinessesMost startups fail."
+      }
+    }
+  ]
+}

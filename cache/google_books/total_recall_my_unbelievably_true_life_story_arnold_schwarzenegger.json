@@ -1,0 +1,106 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qYijfgz4acgC",
+      "etag": "z16LUeEHfss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qYijfgz4acgC",
+      "volumeInfo": {
+        "title": "Total Recall",
+        "subtitle": "My Unbelievably True Life Story",
+        "authors": [
+          "Arnold Schwarzenegger"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-10-01",
+        "description": "In his signature larger-than-life style, Arnold Schwarzenegger\u2019s memoir is a revealing self-portrait of his illustrious, controversial, and truly unique life. The greatest immigrant success story of our time. Arnold Schwarzenegger\u2019s story is unique\u2014and uniquely entertaining\u2014and he tells it brilliantly in these pages. He was born in a year of famine in a small Austrian town, the son of an austere police chief. He dreamed of moving to America to become a bodybuilding champion and a movie star. By the age of twenty-one, he was living in Los Angeles and had been crowned Mr. Universe. Within five years, he had learned English and become the greatest bodybuilder in the world. Within ten years, he had earned his college degree and was a millionaire from his business enterprises in real estate, landscaping, and bodybuilding. He was also the winner of a Golden Globe Award for his debut as a dramatic actor in Stay Hungry. Within twenty years, he was the world\u2019s biggest movie star, the husband of Maria Shriver, and an emerging Republican leader who was part of the Kennedy family. Thirty-six years after coming to America, the man once known by fellow body\u00adbuilders as the Austrian Oak was elected governor of California. Now, with raw honesty and insight, he tells the story of his life in his own voice. Here is Arnold, with total recall.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451662450"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451662459"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qYijfgz4acgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qYijfgz4acgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qYijfgz4acgC&printsec=frontcover&dq=intitle:%22Total+Recall:+My+Unbelievably+True+Life+Story%22+inauthor:%22Arnold+Schwarzenegger%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qYijfgz4acgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qYijfgz4acgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qYijfgz4acgC&rdid=book-qYijfgz4acgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Total_Recall-sample-epub.acsm?id=qYijfgz4acgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qYijfgz4acgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now, with raw honesty and insight, he tells the story of his life in his own voice. Here is Arnold, with total recall."
+      }
+    }
+  ]
+}

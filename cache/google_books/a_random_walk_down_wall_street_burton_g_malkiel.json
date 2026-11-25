@@ -1,0 +1,252 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pX1wEAAAQBAJ",
+      "etag": "aq2YwP4QNyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pX1wEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Random Walk Down Wall Street",
+        "subtitle": "The Best Investment Guide That Money Can Buy",
+        "authors": [
+          "Burton G. Malkiel"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2023-01-03",
+        "description": "\u201cA must-read for any investor.\u201d\u2014Browser One of the \u201cfew great investment books\u201d (Andrew Tobias) ever written, with 2 million copies in print. In a time of rampant misinformation about ways of growing your money, Burton G. Malkiel\u2019s gimmick-free investment guide is more necessary than ever. Whether you\u2019re considering your first 401k contribution or contemplating retirement, the fully updated, fiftieth anniversary edition of A Random Walk Down Wall Street remains the best investment guide money can buy. Drawing on his experience as an economist, financial adviser, and successful investor, Malkiel shows why an individual who saves consistently over time and buys a diversified set of index funds can achieve above-average investment results. He addresses current investment fads and critically analyzes cryptocurrencies, NFTs, and meme stocks. Malkiel reveals how to be a tax smart investor and how to make sense of recently popular investment management techniques, including factor investing, risk parity, and ESG portfolios. Investors of every age, experience level, and risk tolerance will find the step-by-step guidance they need to protect and grow their dollars.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781324035442"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1324035447"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 419,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pX1wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pX1wEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pX1wEAAAQBAJ&printsec=frontcover&dq=intitle:%22A+Random+Walk+Down+Wall+Street%22+inauthor:%22Burton+G.+Malkiel%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pX1wEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pX1wEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 20.89,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.4,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pX1wEAAAQBAJ&rdid=book-pX1wEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 20890000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9400000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Random_Walk_Down_Wall_Street-sample-epub.acsm?id=pX1wEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pX1wEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether you\u2019re considering your first 401k contribution or contemplating retirement, the fully updated, fiftieth anniversary edition of A Random Walk Down Wall Street remains the best investment guide money can buy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GGmPEAAAQBAJ",
+      "etag": "UTyp1kC6vOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GGmPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Random Walk Down Wall Street",
+        "subtitle": "The Time-Tested Strategy for Successful Investing",
+        "authors": [
+          "Burton G Malkiel"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-01-01",
+        "description": "With the prevailing wisdom changing on an almost daily basis, Burton G. Malkiel\u2019s reassuring and vastly informative volume remains the best investment guide money can buy. In a time of increasing inequality, when high-frequency traders and hedge-fund managers seem to tower over the average investor, Burton G. Malkiel\u2019s classic and gimmick-free investment guide is now more necessary than ever. Rather than tricks, what you\u2019ll find here is a time-tested and thoroughly research-based strategy for your portfolio. Whether you\u2019re considering your first 401k contribution or contemplating retirement, this fully-updated edition of A Random Walk Down Wall Street should be the first book on your reading list. In A Random Walk Down Wall Street you\u2019ll learn the basic terminology of \"the Street\" and how to navigate it with the help of a user-friendly, long-range investment strategy that really works. Drawing on his own varied experience as an economist, financial adviser, and successful investor, Malkiel shows why an individual who buys over time and holds a low-cost, internationally diversified index of securities is still likely to exceed the performance of portfolios carefully picked by professionals using sophisticated analytical techniques. In this new edition, Malkiel provides a brand-new section on the recent bubble in cryptocurrencies like Bitcoin, as well as valuable new material on \u201ctax-loss harvesting\u201d\u2014the crown jewel of tax management. He also presents a critical analysis of two recently popular investment-management techniques: factor investing and risk parity. On top of all this, the book\u2019s classic lifecycle guide to investing, which tailors strategies to investors of any age, will help you plan confidently for the future. You\u2019ll learn how to analyze the potential returns, not only for basic stocks and bonds but for the full range of investment opportunities\u2014from money market accounts and real estate investment trusts to insurance, home ownership, and tangible assets like gold and collectibles. Individual investors of every level of experience and risk tolerance will find throughout the book the critical facts and step-by-step guidance they need to protect and grow their hard-earned dollars.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781324002185"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1324002182"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GGmPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GGmPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GGmPEAAAQBAJ&dq=intitle:%22A+Random+Walk+Down+Wall+Street%22+inauthor:%22Burton+G.+Malkiel%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GGmPEAAAQBAJ&dq=intitle:%22A+Random+Walk+Down+Wall+Street%22+inauthor:%22Burton+G.+Malkiel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Random_Walk_Down_Wall_Street.html?hl=&id=GGmPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GGmPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this new edition, Malkiel provides a brand-new section on the recent bubble in cryptocurrencies like Bitcoin, as well as valuable new material on \u201ctax-loss harvesting\u201d\u2014the crown jewel of tax management."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N0OnBQAAQBAJ",
+      "etag": "LcqpGewwPGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N0OnBQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition)",
+        "authors": [
+          "Burton G. Malkiel"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2015-01-05",
+        "description": "The best investment guide money can buy, with over 1.5 million copies sold, now fully revised and updated. In today\u2019s daunting investment landscape, the need for Burton G. Malkiel\u2019s reassuring, authoritative, and perennially best-selling guide to investing is stronger than ever. A Random Walk Down Wall Street has long been established as the first book to purchase when starting a portfolio. This new edition features fresh material on exchange-traded funds and investment opportunities in emerging markets; a brand-new chapter on \u201csmart beta\u201d funds, the newest marketing gimmick of the investment management industry; and a new supplement that tackles the increasingly complex world of derivatives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393248951"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "039324895X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.15.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N0OnBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N0OnBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=N0OnBQAAQBAJ&printsec=frontcover&dq=intitle:%22A+Random+Walk+Down+Wall+Street%22+inauthor:%22Burton+G.+Malkiel%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=N0OnBQAAQBAJ&dq=intitle:%22A+Random+Walk+Down+Wall+Street%22+inauthor:%22Burton+G.+Malkiel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Random_Walk_Down_Wall_Street_The_Time.html?hl=&id=N0OnBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Random_Walk_Down_Wall_Street_The_Time-sample-epub.acsm?id=N0OnBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N0OnBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new edition features fresh material on exchange-traded funds and investment opportunities in emerging markets; a brand-new chapter on \u201csmart beta\u201d funds, the newest marketing gimmick of the investment management industry; and a new ..."
+      }
+    }
+  ]
+}

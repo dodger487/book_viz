@@ -1,0 +1,227 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fVEZEQAAQBAJ",
+      "etag": "iKSnemky2mk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fVEZEQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Drop of Corruption",
+        "subtitle": "An Ana and Din Mystery",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2025-04-01",
+        "description": "NATIONAL BESTSELLER \u2022 ONE OF BOOKPAGE\u2019S TEN BEST BOOKS OF THE YEAR \u2022 AN ELLE BEST BOOK OF THE YEAR The eccentric detective Ana Dolabra matches wits with a seemingly omniscient adversary in this brilliant fantasy-mystery from the author of The Tainted Cup. \u201cWonderfully clever and compulsively readable . . . another winning blend of fantasy and classic detection.\u201d\u2014Publishers Weekly In the canton of Yarrowdale, at the very edge of the Empire\u2019s reach, a Treasury officer has disappeared into thin air\u2014vanishing from a room within a heavily guarded tower, its door and windows locked from the inside. To solve the case, the Empire calls on its most brilliant and mercurial detective, the great Ana Dolabra. At her side, as always, is her bemused assistant Dinios Kol. Ana soon discovers that they are investigating not a disappearance but a murder\u2014and one of surpassing cunning, carried out by an opponent who can pass through warded doors like a ghost. Worse still, the killer may be targeting the high-security compound known as the Shroud, where the Empire harvests fallen titans for the volatile magic found in their blood. Should it fall, the Empire itself will grind to a halt, robbed of the magic that allows its wheels of power to turn. Din has seen his superior solve impossible cases before. But as the death toll grows and their quarry predicts each of Ana\u2019s moves with uncanny foresight, he fears that she has at last met an enemy she can\u2019t defeat.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593723821"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593723821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 481,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fVEZEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fVEZEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fVEZEQAAQBAJ&printsec=frontcover&dq=intitle:%22A+Drop+of+Corruption%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fVEZEQAAQBAJ&dq=intitle:%22A+Drop+of+Corruption%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Drop_of_Corruption.html?hl=&id=fVEZEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Drop_of_Corruption-sample-pdf.acsm?id=fVEZEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fVEZEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NATIONAL BESTSELLER \u2022 HUGO AWARD FINALIST \u2022 ONE OF BOOKPAGE\u2019S TEN BEST BOOKS OF THE YEAR \u2022 AN ELLE BEST BOOK OF THE YEAR The eccentric detective Ana Dolabra matches wits with a seemingly omniscient adversary in this brilliant ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jezK0AEACAAJ",
+      "etag": "StTkQBzQDAw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jezK0AEACAAJ",
+      "volumeInfo": {
+        "title": "A Drop of Corruption: The Gripping Sequel to the Tainted Cup",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "publisher": "Hodderscape",
+        "publishedDate": "2025-02-06",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1399725416"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781399725415"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jezK0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jezK0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jezK0AEACAAJ&dq=intitle:%22A+Drop+of+Corruption%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jezK0AEACAAJ&dq=intitle:%22A+Drop+of+Corruption%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Drop_of_Corruption_The_Gripping_Sequel.html?hl=&id=jezK0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jezK0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the canton of Yarrowdale, at the very edge of the Empire&#39;s reach, a Treasury officer has disappeared into thin air - vanishing from a room within a heavily guarded tower, its door and windows locked from the inside."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qVam0QEACAAJ",
+      "etag": "80MNBZIRAf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qVam0QEACAAJ",
+      "volumeInfo": {
+        "title": "A Drop of Corruption",
+        "subtitle": "The Gripping Biopunk Murder Mystery Sequel to the Tainted Cup",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "publisher": "Hodderscape",
+        "publishedDate": "2026-03-26",
+        "description": "'A riveting murder mystery wrapped in a twisty conspiracy' FONDA LEE 'A twisty detective story, a weird fantasy, a thrilling adventure' MAX GLADSTONE In sequel to the Hugo award-winning The Tainted Cup, an eccentric detective matches wits with a seemingly omniscient adversary in this brilliant bio-punk fantasy mystery. An impossible crime has occurred. A Treasury officer has disappeared into thin air - vanishing from a building whose entrances and exits are all sealed. To solve the case, the Empire calls on its most brilliant and mercurial detective, Ana Dolabra, and her bemused assistant Dinos Kol. Ana soon discovers they are investigating not a disappearance but a murder - and one of surpassing cunning, carried out by an opponent who can pass through warded doors like a ghost. Din has seen his superior solve impossible cases before. But as the death toll grows and their quarry predicts each of their moves with uncanny foresight, he fears she has at last met an enemy she can't defeat . . . READERS LOVE THE SHADOW OF THE LEVIATHAN SERIES 'Dinios kol my disastrous bisexual son is back!! and hes sleep deprived!! he's vomiting!!! he's yearning!!! he's slowly losing his marbles!! he's in severe debt!! he's in way over his head!!' \u2b50\u2b50\u2b50\u2b50\u2b50 'Robert Jackson Bennett does it again with A Drop of Corruption, the kind of fantasy-mystery that grips you from the first page and refuses to let go' \u2b50\u2b50\u2b50\u2b50\u2b50 'You can always count on RJB to write a stunningly original work of fantasy that's precisely and cunningly crafted to leave its reader feeling bereft and abandoned and craving a sequel like an ember craves air. This was so good. 10/10. Would read again in a heartbeat' \u2b50\u2b50\u2b50\u2b50\u2b50 'It's like knives out but if knives out was set in a fantasy world and benoit blanc was an old woman who had hired the most disaster bisexual to be her eyes and ears' \u2b50\u2b50\u2b50\u2b50\u2b50 'A murder investigation. No, a coming-of-age. No, a political fantasy. No, a murder investigation. No... well, I don't want to spoil it. Let me just say that I found it rather delightful how my expectations were simultaneously met and thwarted' \u2b50\u2b50\u2b50\u2b50\u2b50 'Watson and Holmes but fantasy . . . if Watson is aware that Holmes is a complete crazy person and is a bit terrified of him (actually, her)' \u2b50\u2b50\u2b50\u2b50\u2b50 AUTHORS LOVE THE SERIES 'Original, imaginative, and suspenseful, The Tainted Cup superbly blends mystery and fantasy. I couldn't put it down. Give me more of this world and these characters ASAP!' Meg Gardiner 'Part Sherlock Holmes murder mystery, part Through the Looking-Glass, The Tainted Cup is one of the wildest, most original stories I've ever had the privilege to explore. This is a book that has planted roots in my head for the rest of my life' Wesley Chu 'The Tainted Cup is a true fantasy mystery, with a leading duo who stand with Holmes and Watson among the greats. And Bennett sets it all in a squishy, fascinating, biopunk world I'm dying to find out more about. Bring on the next one!' Django Wexler 'A classic murder mystery set against dazzling world-building and sly social commentary. Robert Jackson Bennett doesn't miss' James L. Sutter",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1399725440"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781399725446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qVam0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qVam0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qVam0QEACAAJ&dq=intitle:%22A+Drop+of+Corruption%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qVam0QEACAAJ&dq=intitle:%22A+Drop+of+Corruption%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Drop_of_Corruption.html?hl=&id=qVam0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qVam0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a book that has planted roots in my head for the rest of my life&#39; Wesley Chu &#39;The Tainted Cup is a true fantasy mystery, with a leading duo who stand with Holmes and Watson among the greats."
+      }
+    }
+  ]
+}

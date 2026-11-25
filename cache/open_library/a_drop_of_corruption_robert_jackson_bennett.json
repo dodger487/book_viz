@@ -1,0 +1,33 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 1,
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "q": "",
+  "offset": null,
+  "docs": [
+    {
+      "author_key": [
+        "OL6586893A"
+      ],
+      "author_name": [
+        "Robert Jackson Bennett"
+      ],
+      "cover_edition_key": "OL58559296M",
+      "cover_height": 2200,
+      "cover_i": 14870214,
+      "cover_width": 1441,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2025,
+      "has_fulltext": false,
+      "key": "/works/OL42983060W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "A Drop of Corruption"
+    }
+  ]
+}

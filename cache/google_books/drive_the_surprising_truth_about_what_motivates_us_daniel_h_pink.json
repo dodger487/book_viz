@@ -1,0 +1,140 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pYc-DwAAQBAJ",
+      "etag": "uUmzitE6/SY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pYc-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Drive",
+        "subtitle": "The Surprising Truth About What Motivates Us",
+        "authors": [
+          "Daniel H. Pink"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2011-04-05",
+        "description": "The New York Times bestseller that gives readers a paradigm-shattering new way to think about motivation from the author of When: The Scientific Secrets of Perfect Timing Most people believe that the best way to motivate is with rewards like money\u2014the carrot-and-stick approach. That's a mistake, says Daniel H. Pink (author of To Sell Is Human: The Surprising Truth About Motivating Others). In this provocative and persuasive new book, he asserts that the secret to high performance and satisfaction-at work, at school, and at home\u2014is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world. Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does\u2014and how that affects every aspect of life. He examines the three elements of true motivation\u2014autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594484803"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594484805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pYc-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pYc-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pYc-DwAAQBAJ&printsec=frontcover&dq=intitle:%22Drive:+The+Surprising+Truth+About+What+Motivates+Us%22+inauthor:%22Daniel+H.+Pink%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pYc-DwAAQBAJ&dq=intitle:%22Drive:+The+Surprising+Truth+About+What+Motivates+Us%22+inauthor:%22Daniel+H.+Pink%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Drive.html?hl=&id=pYc-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pYc-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "That&#39;s a mistake, says Daniel H. Pink (author of To Sell Is Human: The Surprising Truth About Motivating Others)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nKCLAQAACAAJ",
+      "etag": "BmwWGbUf4Lk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nKCLAQAACAAJ",
+      "volumeInfo": {
+        "title": "Featured Book Review",
+        "subtitle": "Drive : the Surprising Truth about what Motivates Us",
+        "authors": [
+          "Chris Lauer"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:765146367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Motivation (Psychology)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nKCLAQAACAAJ&dq=intitle:%22Drive:+The+Surprising+Truth+About+What+Motivates+Us%22+inauthor:%22Daniel+H.+Pink%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nKCLAQAACAAJ&dq=intitle:%22Drive:+The+Surprising+Truth+About+What+Motivates+Us%22+inauthor:%22Daniel+H.+Pink%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Featured_Book_Review.html?hl=&id=nKCLAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nKCLAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

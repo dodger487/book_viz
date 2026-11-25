@@ -1,0 +1,259 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 84,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cLhVjQGs83QC",
+      "etag": "h5/jWpv5540",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cLhVjQGs83QC",
+      "volumeInfo": {
+        "title": "American Gods",
+        "authors": [
+          "Neil Gaiman"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2002-04-30",
+        "description": "Shadow is a man with a past. But now he wants nothing more than to live a quiet life with his wife and stay out of trouble. Until he learns that she's been killed in a terrible accident. Flying home for the funeral, as a violent storm rocks the plane, a strange man in the seat next to him introduces himself. The man calls himself Mr. Wednesday, and he knows more about Shadow than is possible. He warns Shadow that a far bigger storm is coming. And from that moment on, nothing will ever he the same...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780380789030"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0380789035"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 628,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cLhVjQGs83QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cLhVjQGs83QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cLhVjQGs83QC&printsec=frontcover&dq=intitle:%22American+Gods%22+inauthor:%22Neil+Gaiman%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cLhVjQGs83QC&dq=intitle:%22American+Gods%22+inauthor:%22Neil+Gaiman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Gods.html?hl=&id=cLhVjQGs83QC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cLhVjQGs83QC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shadow is a man with a past."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GotBswEACAAJ",
+      "etag": "dMPnd5xTpyY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GotBswEACAAJ",
+      "volumeInfo": {
+        "title": "American Gods [TV Tie-In]",
+        "subtitle": "A Novel",
+        "authors": [
+          "Neil Gaiman"
+        ],
+        "publisher": "William Morrow",
+        "publishedDate": "2017-03-28",
+        "description": "The bestselling author of Neverwhere returns with his biggest, most commercial novel yet\u2014a tour de force of contemporary fiction A master of inventive fiction, Neil Gaiman delves into the murky depths where reality and imagination meet. Now in American Gods, he works his literary magic to extraordinary results. Shadow dreamed of nothing but leaving prison and starting a new life. But the day before his release, his wife and best friend are killed in an accident. On the plane home to the funeral, he meets Mr. Wednesday\u2014a beguiling stranger who seems to know everything about him. A trickster and rogue, Mr. Wednesday offers Shadow a job as his bodyguard. With nowhere left to go, Shadow accepts, and soon learns that his role in Mr. Wednesday\u2019s schemes will be far more dangerous and dark than he could have ever imagined. For beneath the placid surface of everyday life a war is being fought \u2014and the prize is the very soul of America.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062572113"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062572110"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 784,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GotBswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GotBswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GotBswEACAAJ&dq=intitle:%22American+Gods%22+inauthor:%22Neil+Gaiman%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GotBswEACAAJ&dq=intitle:%22American+Gods%22+inauthor:%22Neil+Gaiman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Gods_TV_Tie_In.html?hl=&id=GotBswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GotBswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The bestselling author of Neverwhere returns with his biggest, most commercial novel yet\u2014a tour de force of contemporary fiction A master of inventive fiction, Neil Gaiman delves into the murky depths where reality and imagination meet."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2RiHDwAAQBAJ",
+      "etag": "39rJNHnEVdk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2RiHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "American Gods: The Moment of the Storm #1",
+        "authors": [
+          "Neil Gaiman",
+          "P. Craig Russell"
+        ],
+        "publisher": "Dark Horse Comics (Single Issues)",
+        "publishedDate": "2019-04-17",
+        "description": "The new and old gods agree to meet in the center of America to exchange the body of the old gods' fallen leader\u2014heading toward the invitable god war in this final arc of the bestselling comics series! The Hugo, Bram Stoker, Locus, World Fantasy, and Nebula Award-winning novel by Neil Gaiman is adapted as a graphic novel! Look for American Gods Season 2 coming in March 2019!",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:3001001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2RiHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2RiHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2RiHDwAAQBAJ&printsec=frontcover&dq=intitle:%22American+Gods%22+inauthor:%22Neil+Gaiman%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2RiHDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2RiHDwAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "1",
+          "volumeSeries": [
+            {
+              "seriesId": "Qh4pGwAAABBqBM",
+              "seriesBookType": "ISSUE",
+              "orderNumber": 1
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2RiHDwAAQBAJ&rdid=book-2RiHDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/American_Gods_The_Moment_of_the_Storm_1-sample-pdf.acsm?id=2RiHDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2RiHDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The new and old gods agree to meet in the center of America to exchange the body of the old gods&#39; fallen leader\u2014heading toward the invitable god war in this final arc of the bestselling comics series!"
+      }
+    }
+  ]
+}

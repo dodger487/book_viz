@@ -1,0 +1,249 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "K-yaEQAAQBAJ",
+      "etag": "V141i+Yxrjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K-yaEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Fall of Hyperion",
+        "authors": [
+          "Dan Simmons"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2026-05-26",
+        "description": "LOCUS AWARD WINNER \u2022 The multiple-award-winning science fiction master continues the epic adventure that began in Hyperion, where the opening of the Time Tombs threatens to alter the very fabric of time and space, in the second novel in the Hyperion Cantos. \u201cOne of the finest achievements of modern science fiction.\u201d\u2014The New York Times Book Review The shadow of war has fallen on the Web. In the corridors of power on Tau Ceti Center, chaos reigns. Out of reach from the clashing empires, the artificial intelligences of the TechnoCore manipulate everyone and everything. And on Hyperion itself, where battle rages in the skies and on the streets, the mysterious Time Tombs are opening. And the secrets they contain mean that nothing\u2014nothing anywhere in the universe\u2014will ever be the same.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798217093939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 593,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K-yaEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K-yaEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=K-yaEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Fall+of+Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=K-yaEQAAQBAJ&dq=intitle:%22The+Fall+of+Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Fall_of_Hyperion.html?hl=&id=K-yaEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Fall_of_Hyperion-sample-pdf.acsm?id=K-yaEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K-yaEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "LOCUS AWARD WINNER \u2022 The multiple-award-winning science fiction master continues the epic adventure that began in Hyperion, where the opening of the Time Tombs threatens to alter the very fabric of time and space, in the second novel in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b2ReHAAACAAJ",
+      "etag": "blML3WQrLcw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b2ReHAAACAAJ",
+      "volumeInfo": {
+        "title": "The Hyperion Omnibus",
+        "authors": [
+          "Dan Simmons"
+        ],
+        "publisher": "Orion Publishing Company",
+        "publishedDate": "2004",
+        "description": "The Hyperion books are credited with single-handedly reinventing and reinvigorating SF in the 1990s. A broad canvased, hugely imaginative and exciting SF epic, the books draw on the works of Keats and provide a uniquely intelligent and literary approach with cutting edge science, compelling characterisation and edge-of-your-seat excitement. The story is continued in ENDYMION and THE RISE OF ENDYMION, which Gollancz will also be publishing in an omnibus volume.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575076267"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575076266"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 779,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b2ReHAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b2ReHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b2ReHAAACAAJ&dq=intitle:%22The+Fall+of+Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=b2ReHAAACAAJ&dq=intitle:%22The+Fall+of+Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hyperion_Omnibus.html?hl=&id=b2ReHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b2ReHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is continued in ENDYMION and THE RISE OF ENDYMION, which Gollancz will also be publishing in an omnibus volume."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cl_2AwAAQBAJ",
+      "etag": "0+0w4HiSIZc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cl_2AwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Hyperion Cantos 4-Book Bundle",
+        "subtitle": "Hyperion, The Fall of Hyperion, Endymion, The Rise of Endymion",
+        "authors": [
+          "Dan Simmons"
+        ],
+        "publisher": "Spectra",
+        "publishedDate": "2014-08-05",
+        "description": "Hailed as \u201cone of the finest achievements of modern science fiction\u201d by The New York Times Book Review, The Hyperion Cantos is a triumphant odyssey into the heart of space and time. Through four riveting novels, Dan Simmons masterfully weaves such influences as classical mythology, romantic poetry, and far-future philosophy into an ambitiously conceived and unfailingly entertaining epic. Now, for the first time, this entire masterpiece of the imagination is available in one extraordinary eBook bundle: HYPERION THE FALL OF HYPERION ENDYMION THE RISE OF ENDYMION On the planet Hyperion, beyond the reach of galactic law, waits a creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. On the eve of Armageddon, with the known universe at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of existence. As the Shrike anticipates their mission, each traveler nurtures a desperate hope\u2014and harbors a terrible secret. And one may hold the fate of humanity in his or her hands. Praise for The Hyperion Cantos \u201cFor vastness of scope, clarity of detail and seriousness of purpose, Simmons\u2019s epic narrative is on a par with Isaac Asimov\u2019s Foundation series, Frank Herbert\u2019s Dune books, Gene Wolfe\u2019s multipart Book of the New Sun and Brian Aldiss\u2019s Helliconia trilogy.\u201d\u2014The New York Times Book Review \u201cDan Simmons has brilliantly conceptualized a future 700 years distant. In sheer scope and complexity it matches, and perhaps even surpasses, those of Isaac Asimov and James Blish.\u201d\u2014The Washington Post Book World \u201cState of the art science fiction . . . This work will be that against which all future works will have to be measured, in the same way, in their time, that Asimov\u2019s Foundation series and Le Guin\u2019s The Left Hand of Darkness set new standards.\u201d\u2014Asimov\u2019s \u201cSimmons\u2019 own genius transforms space opera into a new kind of poetry.\u201d\u2014The Denver Post \u201cA major work . . . Simmons doesn\u2019t just promise; he delivers.\u201d\u2014Science Fiction Chronicle",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804180580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "080418058X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 2950,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.21.17.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cl_2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cl_2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cl_2AwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Fall+of+Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cl_2AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cl_2AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 24.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cl_2AwAAQBAJ&rdid=book-cl_2AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 24990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Hyperion_Cantos_4_Book_Bundle-sample-epub.acsm?id=cl_2AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cl_2AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work will be that against which all future works will have to be measured, in the same way, in their time, that Asimov\u2019s Foundation series and Le Guin\u2019s The Left Hand of Darkness set new standards.\u201d\u2014Asimov\u2019s \u201cSimmons\u2019 own ..."
+      }
+    }
+  ]
+}

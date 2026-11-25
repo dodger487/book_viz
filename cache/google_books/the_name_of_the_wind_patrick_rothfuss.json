@@ -1,0 +1,231 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 15,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OlmJEAAAQBAJ",
+      "etag": "nKcPxw1DGI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OlmJEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Name of the Wind",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "publisher": "Astra Publishing House",
+        "publishedDate": "2007-03-27",
+        "description": "Discover #1 New York Times-bestselling Patrick Rothfuss\u2019 epic fantasy series, The Kingkiller Chronicle. \u201cI just love the world of Patrick Rothfuss.\u201d \u2014Lin-Manuel Miranda OVER 1 MILLION COPIES SOLD! DAY ONE: THE NAME OF THE WIND My name is Kvothe. I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. I have talked to Gods, loved women, and written songs that make the minstrels weep. You may have heard of me. So begins a tale unequaled in fantasy literature\u2014the story of a hero told in his own voice. It is a tale of sorrow, a tale of survival, a tale of one man\u2019s search for meaning in his universe, and how that search, and the indomitable will that drove it, gave birth to a legend.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101147160"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101147164"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 674,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OlmJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OlmJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OlmJEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Name+of+the+Wind%22+inauthor:%22Patrick+Rothfuss%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OlmJEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OlmJEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OlmJEAAAQBAJ&rdid=book-OlmJEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Name_of_the_Wind-sample-epub.acsm?id=OlmJEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Name_of_the_Wind-sample-pdf.acsm?id=OlmJEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OlmJEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "DAY ONE: THE NAME OF THE WIND My name is Kvothe. I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RCiMzgEACAAJ",
+      "etag": "SE/6RHMUj4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RCiMzgEACAAJ",
+      "volumeInfo": {
+        "title": "THE NAME OF THE WIND",
+        "authors": [
+          "PATRICK ROTHFUSS"
+        ],
+        "publishedDate": "2026-12-31",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1473226430"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473226432"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RCiMzgEACAAJ&dq=intitle:%22The+Name+of+the+Wind%22+inauthor:%22Patrick+Rothfuss%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RCiMzgEACAAJ&dq=intitle:%22The+Name+of+the+Wind%22+inauthor:%22Patrick+Rothfuss%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/THE_NAME_OF_THE_WIND.html?hl=&id=RCiMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RCiMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". . . The Name of the Wind is a masterpiece and Patrick Rothfuss is a freaking genius&#39; Goodreads reviewer, \u2b50 \u2b50 \u2b50 \u2b50 \u2b50 &#39;This story was, simply put, excellent . . . Rothfuss has more than earnt his reputation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ya880gEACAAJ",
+      "etag": "uONRkBasWGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ya880gEACAAJ",
+      "volumeInfo": {
+        "title": "The Name of the Wind Lettered Edition",
+        "authors": [
+          "Patrick Rothfuss"
+        ],
+        "publishedDate": "2024-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1956000674"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781956000672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Ya880gEACAAJ&dq=intitle:%22The+Name+of+the+Wind%22+inauthor:%22Patrick+Rothfuss%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Ya880gEACAAJ&dq=intitle:%22The+Name+of+the+Wind%22+inauthor:%22Patrick+Rothfuss%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Name_of_the_Wind_Lettered_Edition.html?hl=&id=Ya880gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ya880gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

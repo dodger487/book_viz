@@ -1,0 +1,236 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 46,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "N_tzzgEACAAJ",
+      "etag": "GUeFLLkUVX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N_tzzgEACAAJ",
+      "volumeInfo": {
+        "title": "Just So Stories BY Rudyard Kipling",
+        "subtitle": "(Annotated Edition)",
+        "authors": [
+          "Rudyard Kipling"
+        ],
+        "publishedDate": "2021-05-19",
+        "description": "\"Written by classic English author Rudyard Kipling, Just So Stories is considered not only a quintessential children's book, but one of Kipling's best works. Just So Stories is a collection of origin stories, fictional tales that explain why animals have certain characteristics and other themes akin to that. Kipling's book features stories such as \"How the Whale Got His Throat,\" or why large whales eat small prey, and \"How the Alphabet Was Made,\" which details a young girl and her father inventing an alphabet. Beautifully written and packed-full of illustrations, Just So Stories is the perfect combination of education and fun to get kids to love reading. This edition from the original edition, which was published in 1902 and was illustrated by Rudyard Kipling, himself. Even the cover of this edition reflects the first edition of \"\"Just So Stories.\"\" Some very minor updates were required due to modern printing methods, but in the main, this is the closest the reader can get to the original edition just as Kipling wrote it, without having an actual first edition book in one's hand.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798507142736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N_tzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N_tzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=N_tzzgEACAAJ&dq=intitle:%22Just+So+Stories%22+inauthor:%22Rudyard+Kipling%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=N_tzzgEACAAJ&dq=intitle:%22Just+So+Stories%22+inauthor:%22Rudyard+Kipling%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Just_So_Stories_BY_Rudyard_Kipling.html?hl=&id=N_tzzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N_tzzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition from the original edition, which was published in 1902 and was illustrated by Rudyard Kipling, himself. Even the cover of this edition reflects the first edition of &quot;&quot;Just So Stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XoY6EAAAQBAJ",
+      "etag": "hLBbn0kJ0yI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XoY6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Just So Stories",
+        "authors": [
+          "Rudyard Kipling"
+        ],
+        "publisher": "Phoemixx Classics Ebooks",
+        "publishedDate": "2021-08-09",
+        "description": "The stories, first published in 1902, are pourquoi (French for \"why\") or origin stories, fantastic accounts of how various phenomena came about. A forerunner of these stories is Kipling's \"How Fear Came,\" included in his The Second Jungle Book (1895). In it, Mowgli hears the story of how the tiger got his stripes. The Just So Stories typically have the theme of a particular animal being modified from an original form to its current form by the acts of man, or some magical being. For example, the Whale has a tiny throat because he swallowed a mariner, who tied a raft inside to block the whale from swallowing other men. The Camel has a hump given to him by a djinn as punishment for the camel's refusing to work (the hump allows the camel to work longer between times of eating). The Leopard's spots were painted by an Ethiopian (after the Ethiopian painted himself black). The Kangaroo gets its powerful hind legs, long tail, and hopping gait after being chased all day by a dingo, sent by a minor god responding to the Kangaroo's request to be made different from all other animals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985948703"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985948704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XoY6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XoY6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XoY6EAAAQBAJ&printsec=frontcover&dq=intitle:%22Just+So+Stories%22+inauthor:%22Rudyard+Kipling%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XoY6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XoY6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XoY6EAAAQBAJ&rdid=book-XoY6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Just_So_Stories-sample-epub.acsm?id=XoY6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Just_So_Stories-sample-pdf.acsm?id=XoY6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XoY6EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A forerunner of these stories is Kipling&#39;s &quot;How Fear Came,&quot; included in his The Second Jungle Book (1895). In it, Mowgli hears the story of how the tiger got his stripes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OPN7zgEACAAJ",
+      "etag": "/rPW26noRU4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OPN7zgEACAAJ",
+      "volumeInfo": {
+        "title": "Just So Stories BY Rudyard Kipling",
+        "subtitle": "(Annotated Edition)",
+        "authors": [
+          "Rudyard Kipling Rudyard Kipling"
+        ],
+        "publishedDate": "2021-05-30",
+        "description": "\"Written by classic English author Rudyard Kipling, Just So Stories is considered not only a quintessential children's book, but one of Kipling's best works. Just So Stories is a collection of origin stories, fictional tales that explain why animals have certain characteristics and other themes akin to that. Kipling's book features stories such as \"How the Whale Got His Throat,\" or why large whales eat small prey, and \"How the Alphabet Was Made,\" which details a young girl and her father inventing an alphabet. Beautifully written and packed-full of illustrations, Just So Stories is the perfect combination of education and fun to get kids to love reading. This edition from the original edition, which was published in 1902 and was illustrated by Rudyard Kipling, himself. Even the cover of this edition reflects the first edition of \"\"Just So Stories.\"\" Some very minor updates were required due to modern printing methods, but in the main, this is the closest the reader can get to the original edition just as Kipling wrote it, without having an actual first edition book in one's hand.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798512247273"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OPN7zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OPN7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OPN7zgEACAAJ&dq=intitle:%22Just+So+Stories%22+inauthor:%22Rudyard+Kipling%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OPN7zgEACAAJ&dq=intitle:%22Just+So+Stories%22+inauthor:%22Rudyard+Kipling%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Just_So_Stories_BY_Rudyard_Kipling.html?hl=&id=OPN7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OPN7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition from the original edition, which was published in 1902 and was illustrated by Rudyard Kipling, himself. Even the cover of this edition reflects the first edition of &quot;&quot;Just So Stories."
+      }
+    }
+  ]
+}

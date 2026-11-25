@@ -1,0 +1,278 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "qN9Z9UQWwsgC",
+      "etag": "+PfOoxwI+FU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qN9Z9UQWwsgC",
+      "volumeInfo": {
+        "title": "A Supposedly Fun Thing I'll Never Do Again",
+        "subtitle": "Essays and Arguments",
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2009-11-23",
+        "description": "These widely acclaimed essays from the author of Infinite Jest -- on television, tennis, cruise ships, and more -- established David Foster Wallace as one of the preeminent essayists of his generation. In this exuberantly praised book -- a collection of seven pieces on subjects ranging from television to tennis, from the Illinois State Fair to the films of David Lynch, from postmodern literary theory to the supposed fun of traveling aboard a Caribbean luxury cruiseliner -- David Foster Wallace brings to nonfiction the same curiosity, hilarity, and exhilarating verbal facility that has delighted readers of his fiction, including the bestselling Infinite Jest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316090520"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316090522"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 549,
+        "printType": "BOOK",
+        "categories": [
+          "Humor"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qN9Z9UQWwsgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qN9Z9UQWwsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qN9Z9UQWwsgC&printsec=frontcover&dq=intitle:%22A+Supposedly+Fun+Thing+I%27ll+Never+Do+Again%22+inauthor:%22David+Foster+Wallace%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qN9Z9UQWwsgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qN9Z9UQWwsgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qN9Z9UQWwsgC&rdid=book-qN9Z9UQWwsgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Supposedly_Fun_Thing_I_ll_Never_Do_Aga-sample-epub.acsm?id=qN9Z9UQWwsgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qN9Z9UQWwsgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These widely acclaimed essays, on television, tennis, cruise ships, and more, established David Foster Wallace as one of the preeminent essayists of his generation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ge0plrKNDvQC",
+      "etag": "T8mfIgDaiFE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ge0plrKNDvQC",
+      "volumeInfo": {
+        "title": "A Supposedly Fun Thing I'll Never Do Again",
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-06-28",
+        "description": "A collection of insightful and uproariously funny non-fiction by the bestselling author of INFINITE JEST - one of the most acclaimed and adventurous writers of our time. A SUPPOSEDLY FUN THING... brings together Wallace's musings on a wide range of topics, from his early days as a nationally ranked tennis player to his trip on a commercial cruiseliner. In each of these essays, Wallace's observations are as keen as they are funny. Filled with hilarious details and invigorating analyses, these essays brilliantly expose the fault line in American culture - and once again reveal David Foster Wallace's extraordinary talent and gargantuan intellect.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405520980"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405520981"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 599,
+        "printType": "BOOK",
+        "categories": [
+          "Humor"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ge0plrKNDvQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ge0plrKNDvQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ge0plrKNDvQC&dq=intitle:%22A+Supposedly+Fun+Thing+I%27ll+Never+Do+Again%22+inauthor:%22David+Foster+Wallace%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ge0plrKNDvQC&dq=intitle:%22A+Supposedly+Fun+Thing+I%27ll+Never+Do+Again%22+inauthor:%22David+Foster+Wallace%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Supposedly_Fun_Thing_I_ll_Never_Do_Aga.html?hl=&id=ge0plrKNDvQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ge0plrKNDvQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Filled with hilarious details and invigorating analyses, these essays brilliantly expose the fault line in American culture - and once again reveal David Foster Wallace&#39;s extraordinary talent and gargantuan intellect."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-crK6IgHdsgC",
+      "etag": "EXuj2Rz4peo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-crK6IgHdsgC",
+      "volumeInfo": {
+        "title": "A Supposedly Fun Thing I'll Never Do Again: An Essay (Digital Original)",
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2012-04-01",
+        "description": "Beloved for his keen eye, sharp wit, and relentless self-mockery, David Foster Wallace has been celebrated by both critics and fans as the voice of a generation. In this hilarious essay, originally published in the collection A Supposedly Fun Thing I'll Never Do Again, he chronicles seven days in the Caribbean aboard the m.v. Zenith. As he partakes in supposedly fun activities offered on the luxury tour, he offers riotous anecdotes and unparalleled insight into contemporary American culture.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316224765"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316224766"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Humor"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-crK6IgHdsgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-crK6IgHdsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-crK6IgHdsgC&printsec=frontcover&dq=intitle:%22A+Supposedly+Fun+Thing+I%27ll+Never+Do+Again%22+inauthor:%22David+Foster+Wallace%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-crK6IgHdsgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-crK6IgHdsgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-crK6IgHdsgC&rdid=book--crK6IgHdsgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Supposedly_Fun_Thing_I_ll_Never_Do_Aga-sample-epub.acsm?id=-crK6IgHdsgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-crK6IgHdsgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These widely acclaimed essays, on television, tennis, cruise ships, and more, established David Foster Wallace as one of the preeminent essayists of his generation."
+      }
+    }
+  ]
+}

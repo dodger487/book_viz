@@ -1,0 +1,213 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "beImvXUGD-MC",
+      "etag": "x+1F7W3nUJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/beImvXUGD-MC",
+      "volumeInfo": {
+        "title": "A Mathematician's Apology",
+        "authors": [
+          "G. H. Hardy"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1992-01-31",
+        "description": "G. H. Hardy was one of this century's finest mathematical thinkers, renowned among his contemporaries as a 'real mathematician ... the purest of the pure'. He was also, as C. P. Snow recounts in his Foreword, 'unorthodox, eccentric, radical, ready to talk about anything'. This 'apology', written in 1940 as his mathematical powers were declining, offers a brilliant and engaging account of mathematics as very much more than a science; when it was first published, Graham Greene hailed it alongside Henry James's notebooks as 'the best account of what it was like to be a creative artist'. C. P. Snow's Foreword gives sympathetic and witty insights into Hardy's life, with its rich store of anecdotes concerning his collaboration with the brilliant Indian mathematician Ramanujan, his aphorisms and idiosyncrasies, and his passion for cricket. This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521427061"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521427067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=beImvXUGD-MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=beImvXUGD-MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=beImvXUGD-MC&printsec=frontcover&dq=intitle:%22A+Mathematician%27s+Apology%22+inauthor:%22G.+H.+Hardy%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=beImvXUGD-MC&dq=intitle:%22A+Mathematician%27s+Apology%22+inauthor:%22G.+H.+Hardy%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Mathematician_s_Apology.html?hl=&id=beImvXUGD-MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Mathematician_s_Apology-sample-pdf.acsm?id=beImvXUGD-MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=beImvXUGD-MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tm5DvgEACAAJ",
+      "etag": "rOxBAUjeDq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tm5DvgEACAAJ",
+      "volumeInfo": {
+        "title": "A Mathematician's Apology",
+        "authors": [
+          "G. H. Hardy Hardy"
+        ],
+        "publishedDate": "2018-07-25",
+        "description": "Written in 1940 as his mathematical powers were declining, G.H. Hardy's apology offers an engaging account of the thoughts of a man known for his eccentricities as well as his brilliance in mathematics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717904718"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717904713"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 37,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Tm5DvgEACAAJ&dq=intitle:%22A+Mathematician%27s+Apology%22+inauthor:%22G.+H.+Hardy%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Tm5DvgEACAAJ&dq=intitle:%22A+Mathematician%27s+Apology%22+inauthor:%22G.+H.+Hardy%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Mathematician_s_Apology.html?hl=&id=Tm5DvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tm5DvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written in 1940 as his mathematical powers were declining, G.H. Hardy&#39;s apology offers an engaging account of the thoughts of a man known for his eccentricities as well as his brilliance in mathematics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3R04AAAAMAAJ",
+      "etag": "ipgH3CgthPQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3R04AAAAMAAJ",
+      "volumeInfo": {
+        "title": "A Mathematician's Apology",
+        "authors": [
+          "G. H. Hardy",
+          "Charles Percy Snow"
+        ],
+        "publisher": "London : CCambridge U.P.",
+        "publishedDate": "1967-09",
+        "description": "This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015021307163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.21.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3R04AAAAMAAJ&dq=intitle:%22A+Mathematician%27s+Apology%22+inauthor:%22G.+H.+Hardy%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3R04AAAAMAAJ&dq=intitle:%22A+Mathematician%27s+Apology%22+inauthor:%22G.+H.+Hardy%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Mathematician_s_Apology.html?hl=&id=3R04AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3R04AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a unique account of the fascination of mathematics and of one of its most compelling exponents in modern times."
+      }
+    }
+  ]
+}

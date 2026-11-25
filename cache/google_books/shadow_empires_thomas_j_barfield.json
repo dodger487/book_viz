@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "F7i6EAAAQBAJ",
+      "etag": "UGqrbEhCnn0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F7i6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Shadow Empires",
+        "subtitle": "An Alternative Imperial History",
+        "authors": [
+          "Thomas J. Barfield"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2023-10-17",
+        "description": "\"For over two millennia, empires were the dominant political organizations in Eurasia. The premodern empires with which we are most familiar arose through a process of internal development and military conquest. Self-generating and self-supporting-in author Thomas Barfield's term, \"endogenous\"- empires such as those of ancient Persia, China, and Rome imposed sophisticated central administration over territories spanning millions of square kilometers and inhabited by tens of millions of people. But there were other imperial formations in the ancient world that have attracted much less attention: those that arose adjacent to ancient imperial states and that did not practice centralized forms of rule. Thomas Barfield calls them \"shadow\" or \"exogenous\" empires. This book provides the reader with the analytical tools to better understand these premodern political formations that arose on the periphery of betterknown, centralized empires. In sum, Barfield provides a new schematic account of premodern empires, one that adopts a broadly comparative perspective and that invites scholars and students of empire to push their investigations beyond received categories and established templates. When successful, shadow empires became centers of power in their own right. Some, such as the nomadic empires that emerged in Mongolia, used their powerful horse cavalry to extort China rather than conquer it. The Mongols and the Xiongnu started out seeking wealth through extortion and ended up creating formidable empires. Similarly, maritime polities such as ancient Athens sought indirect paths to power, using their naval forces to control the profits of trade without taking on the responsibility of ruling the people who produced the wealth. No matter how large or powerful they became, argues Barfield, shadow empires always retained aspects of their earlier incarnations, particularly in the ways they approached governance and foreign relations. Like their endogenous counterparts, shadow empires established organizational templates employed by later empires-including the colonial empires of the modern era-whose modes of administration, emphasis on trade and resource extraction, and governing strategies recalled those of the shadow empires of earlier times. By considering the diverse array of exogenous empires together as a class (or as an ideal type, in Max Weber's understanding of that term), and comparing them to their endogenous counterparts, scholars in empire studies can decenter Western imperial history in the discipline and better understand the significant role played by these shadow states in shaping global history\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691181639"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691181632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F7i6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F7i6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=F7i6EAAAQBAJ&printsec=frontcover&dq=intitle:%22Shadow+Empires%22+inauthor:%22Thomas+J.+Barfield%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=F7i6EAAAQBAJ&dq=intitle:%22Shadow+Empires%22+inauthor:%22Thomas+J.+Barfield%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shadow_Empires.html?hl=&id=F7i6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Shadow_Empires-sample-pdf.acsm?id=F7i6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F7i6EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Thomas Barfield calls them &quot;shadow&quot; or &quot;exogenous&quot; empires. This book provides the reader with the analytical tools to better understand these premodern political formations that arose on the periphery of betterknown, centralized empires."
+      }
+    }
+  ]
+}

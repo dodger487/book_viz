@@ -1,0 +1,217 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 31,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "uIzv0AEACAAJ",
+      "etag": "DrdyYs2i+tE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uIzv0AEACAAJ",
+      "volumeInfo": {
+        "title": "Empires of the Sea: The Siege of Malta, the Battle of Lepanto, and the Contest for the Center of the World",
+        "authors": [
+          "Roger Crowley"
+        ],
+        "publishedDate": "2024-07-06",
+        "description": "Traditional Chinese edition of Empires of the Sea: The Siege of Malta, the Battle of Lepanto, and the Contest for the Center of the World",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "626735685X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786267356852"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uIzv0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uIzv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "zh-CN",
+        "previewLink": "http://books.google.com/books?id=uIzv0AEACAAJ&dq=intitle:%22Empires+of+the+Sea:+The+Siege+of+Malta,+the+Battle+of+Lepanto,+and+the+Contest+for+the+Center+of+the+World%22+inauthor:%22Roger+Crowley%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uIzv0AEACAAJ&dq=intitle:%22Empires+of+the+Sea:+The+Siege+of+Malta,+the+Battle+of+Lepanto,+and+the+Contest+for+the+Center+of+the+World%22+inauthor:%22Roger+Crowley%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Empires_of_the_Sea_The_Siege_of_Malta_th.html?hl=&id=uIzv0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uIzv0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Traditional Chinese edition of Empires of the Sea: The Siege of Malta, the Battle of Lepanto, and the Contest for the Center of the World"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ixu1nAEACAAJ",
+      "etag": "cmB1N4UABZ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ixu1nAEACAAJ",
+      "volumeInfo": {
+        "title": "The Most Intimate Revelations about Empires of the Sea",
+        "subtitle": "The Siege of Malta, the Battle of Lepanto, and the Contest for the Center of the World",
+        "authors": [
+          "Jack Scory"
+        ],
+        "publisher": "Lennex",
+        "publishedDate": "2013-03",
+        "description": "In this book, we have hand-picked the most sophisticated, unanticipated, absorbing (if not at times crackpot!), original and musing book reviews of \"Empires of the Sea: The Siege of Malta, the Battle of Lepanto, and the Contest for the Center of the World.\" Don't say we didn't warn you: these reviews are known to shock with their unconventionality or intimacy. Some may be startled by their biting sincerity; others may be spellbound by their unbridled flights of fantasy. Don't buy this book if: 1. You don't have nerves of steel. 2. You expect to get pregnant in the next five minutes. 3. You've heard it all.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5458889770"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785458889773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ixu1nAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ixu1nAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ixu1nAEACAAJ&dq=intitle:%22Empires+of+the+Sea:+The+Siege+of+Malta,+the+Battle+of+Lepanto,+and+the+Contest+for+the+Center+of+the+World%22+inauthor:%22Roger+Crowley%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ixu1nAEACAAJ&dq=intitle:%22Empires+of+the+Sea:+The+Siege+of+Malta,+the+Battle+of+Lepanto,+and+the+Contest+for+the+Center+of+the+World%22+inauthor:%22Roger+Crowley%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Most_Intimate_Revelations_about_Empi.html?hl=&id=ixu1nAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ixu1nAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, we have hand-picked the most sophisticated, unanticipated, absorbing (if not at times crackpot!), original and musing book reviews of &quot;Empires of the Sea: The Siege of Malta, the Battle of Lepanto, and the Contest for the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H3tpAAAAMAAJ",
+      "etag": "pdKFnPDnZC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H3tpAAAAMAAJ",
+      "volumeInfo": {
+        "title": "1453",
+        "subtitle": "The Holy War for Constantinople and the Clash of Islam and the West",
+        "authors": [
+          "Roger Crowley"
+        ],
+        "publisher": "Hyperion",
+        "publishedDate": "2005-08-10",
+        "description": "A complete and compelling account of the fall of Constantinople, the siege that gave rise to today's jihad. When Constantinople fell to the Ottoman Turks in 1453, a remarkable era in world history ended. Constantinople, the \"city of the world's desire,\" was a wealthy, imperial, intimidating, and Christian city, influencing world opinion for a thousand years. The fall of Constantinople marked the end of the Byzantium Empire and the end of the medieval era. Thereafter, two worlds would rise -- that of the West and that of the Middle East. 1453 is brought to life by the stories of its two ambitious battling leaders-Mehmed II, sultan of the Ottoman Empire, and Constantine XI, the 57th emperor of Byzantium. It is a vivid, intense tale of courage and cruelty, of technological ingenuity, of endurance and luck. Impeccably researched and told as a real-life adventure, the book explores the issues that led up to and resulted from the fall of Constantinople in a way that is easily grasped and jumps from the pages into the headlines of world news. 1453 is the story of a moment of change that has new relevance today -- a crucial link in the chain of events that besets the modern world.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015061432202"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H3tpAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H3tpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=H3tpAAAAMAAJ&dq=intitle:%22Empires+of+the+Sea:+The+Siege+of+Malta,+the+Battle+of+Lepanto,+and+the+Contest+for+the+Center+of+the+World%22+inauthor:%22Roger+Crowley%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=H3tpAAAAMAAJ&dq=intitle:%22Empires+of+the+Sea:+The+Siege+of+Malta,+the+Battle+of+Lepanto,+and+the+Contest+for+the+Center+of+the+World%22+inauthor:%22Roger+Crowley%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1453.html?hl=&id=H3tpAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H3tpAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Impeccably researched and told as a real-life adventure, the book explores the issues that led up to and resulted from the fall of Constantinople in a way that is easily grasped and jumps from the pages into the headlines of world news. ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 41,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZH4oAwAAQBAJ",
+      "etag": "GQzWXxQigas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZH4oAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Zero to One",
+        "subtitle": "Notes on Startups, or How to Build the Future",
+        "authors": [
+          "Peter Thiel",
+          "Blake Masters"
+        ],
+        "publisher": "Crown Currency",
+        "publishedDate": "2014-09-16",
+        "description": "#1 NEW YORK TIMES BESTSELLER \u2022 \u201cThis book delivers completely new and refreshing ideas on how to create value in the world.\u201d\u2014Mark Zuckerberg, CEO of Meta \u201cPeter Thiel has built multiple breakthrough companies, and Zero to One shows how.\u201d\u2014Elon Musk, CEO of SpaceX and Tesla The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we\u2019re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself. Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won\u2019t make a search engine. Tomorrow\u2019s champions will not win by competing ruthlessly in today\u2019s marketplace. They will escape competition altogether, because their businesses will be unique. Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780804139304"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "080413930X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.10.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZH4oAwAAQBAJ&printsec=frontcover&dq=intitle:%22Zero+to+One:+Notes+on+Startups,+or+How+to+Build+the+Future%22+inauthor:%22Peter+Thiel,+Blake+Masters%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ&rdid=book-ZH4oAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Zero_to_One-sample-epub.acsm?id=ZH4oAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZH4oAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5_xICgAAQBAJ",
+      "etag": "oMsIbuPlg9I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5_xICgAAQBAJ",
+      "volumeInfo": {
+        "title": "Summary: Zero to One",
+        "subtitle": "Review and Analysis of Thiel and Masters' Book",
+        "authors": [
+          "BusinessNews Publishing,"
+        ],
+        "publisher": "Must Read Summaries",
+        "publishedDate": "2015-07-01",
+        "description": "The must-read summary of Peter Thiel and Blake Masters' book: \"Zero to One: Notes on Startups, or How to Build the Future\". This complete summary of the ideas from Peter Thiel and Blake Masters' book \"Zero to One\" shows how many companies believe the key to innovation is improving things that already exist. According to Thiel and Masters, this isn\u2019t innovation at all. Real innovation means going from zero to one, creating a completely new thing that hasn't been seen before. To help you, the authors detail ten key concepts to keep in mind: 1. Start from scratch 2. Become a monopoly 3. The appeal of competition 4. The last-mover advantage 5. Success is not a lottery 6. The power law 7. The role of secrets 8. Culture and sales 9. Man and computers 10. The founder\u2019s paradox This summary will teach you how you can use these ten principles to think more innovatively and create new ideas. Added-value of this summary: \u2022 Save time \u2022 Be a pioneer in true innovation \u2022 Create brand new products for a successful business To learn more, read \u201cZero to One\u201d and find out how you can practice real innovation to create a brand new product that sells!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782511035979"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2511035979"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5_xICgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5_xICgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5_xICgAAQBAJ&printsec=frontcover&dq=intitle:%22Zero+to+One:+Notes+on+Startups,+or+How+to+Build+the+Future%22+inauthor:%22Peter+Thiel,+Blake+Masters%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5_xICgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5_xICgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.28,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.28,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5_xICgAAQBAJ&rdid=book-5_xICgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11280000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11280000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5_xICgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The must-read summary of Peter Thiel and Blake Masters&#39; book: &quot;Zero to One: Notes on Startups, or How to Build the Future&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4WAEEgAAQBAJ",
+      "etag": "Vyzu+RsUV2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4WAEEgAAQBAJ",
+      "volumeInfo": {
+        "title": "SUMMARY OF ZERO TO ONE BY PETER THIEL & BLAKE MASTER",
+        "subtitle": "A Founder's Blueprint for Building Monopolies and Inventing the Future",
+        "authors": [
+          "Laura Thomas "
+        ],
+        "publisher": " SUMMARY GUIDE PRESS",
+        "description": "What does it really take to build a successful startup, create a breakthrough business, and shape the future instead of simply copying what already exists? Zero to One \u2014 Extended Summary offers a focused guide to the startup strategy, entrepreneurship, innovation, and business principles explored in Peter Thiel and Blake Masters\u2019 Zero to One. It distills the central ideas into an accessible study and discussion guide for entrepreneurs, founders, investors, business students, and ambitious readers who want to understand how transformative companies are built. The book examines the difference between going from zero to one\u2014creating something genuinely new\u2014and going from one to many by copying existing ideas. It explores why innovation matters, why intense competition can destroy value, how businesses can build defensible advantages, and why becoming a dominant player in a focused market can be more valuable than fighting endlessly for a small share of a crowded one. Inside, readers will explore practical ideas surrounding startup strategy, business innovation, entrepreneurship, monopoly strategy, competitive advantage, technology startups, venture capital, business growth, market positioning, and building a successful company. The discussion moves through proprietary technology, network effects, economies of scale, branding, distribution, the power law, deliberate planning, discovering valuable \u201csecrets,\u201d building strong founding teams, and the relationship between people and technology. Rather than treating success as a matter of luck, this summary emphasizes the book\u2019s argument for definite vision, strategic focus, original thinking, and deliberate execution. It also encourages readers to question conventional startup advice and consider whether they are building something meaningfully different or simply becoming better at copying what already works. Why read it? If you are an aspiring entrepreneur, startup founder, business student, investor, or anyone interested in how to build a successful startup, this guide provides a concise way to revisit the major arguments, frameworks, and questions surrounding innovation, competition, monopoly, technology, and long-term business growth. Disclaimer: This publication is an independently prepared study and discussion guide. It is not authored, endorsed, licensed, or reviewed by Peter Thiel, Blake Masters, or the publisher of the original Zero to One. It summarizes and interprets ideas from the original work for educational and discussion purposes and is not a substitute for reading the original book. If you are ready to think differently about entrepreneurship, startup strategy, innovation, and building the future, read Zero to One \u2014 Extended Summary today and put its central questions to work in your own business, career, or next big idea.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 63,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4WAEEgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4WAEEgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4WAEEgAAQBAJ&printsec=frontcover&dq=intitle:%22Zero+to+One:+Notes+on+Startups,+or+How+to+Build+the+Future%22+inauthor:%22Peter+Thiel,+Blake+Masters%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4WAEEgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4WAEEgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4WAEEgAAQBAJ&rdid=book-4WAEEgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/SUMMARY_OF_ZERO_TO_ONE_BY_PETER_THIEL_BL-sample-epub.acsm?id=4WAEEgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/SUMMARY_OF_ZERO_TO_ONE_BY_PETER_THIEL_BL-sample-pdf.acsm?id=4WAEEgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4WAEEgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you are an aspiring entrepreneur, startup founder, business student, investor, or anyone interested in how to build a successful startup, this guide provides a concise way to revisit the major arguments, frameworks, and questions ..."
+      }
+    }
+  ]
+}

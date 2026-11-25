@@ -1,0 +1,242 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "8iwrxNgYaDsC",
+      "etag": "gyNCQ74VNJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8iwrxNgYaDsC",
+      "volumeInfo": {
+        "title": "Anathem",
+        "authors": [
+          "Neal Stephenson"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-10-06",
+        "description": "Anathem is perhaps the most brilliant literary invention to date from the incomparable Neal Stephenson, who rocked the world with Snow Crash, Cryptonomicon, and The Baroque Cycle. Now he imagines an alternate universe where scientists, philosophers, and mathematicians live in seclusion behind ancient monastery walls until they are called back into the world to deal with a crisis of astronomical proportions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061982484"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061982482"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1013,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8iwrxNgYaDsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8iwrxNgYaDsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8iwrxNgYaDsC&printsec=frontcover&dq=intitle:%22Anathem%22+inauthor:%22Neal+Stephenson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8iwrxNgYaDsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8iwrxNgYaDsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8iwrxNgYaDsC&rdid=book-8iwrxNgYaDsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anathem-sample-epub.acsm?id=8iwrxNgYaDsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8iwrxNgYaDsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anathem won the Locus Award for Best Science Fiction Novel and the reviews for Anathem have been dazzling: &quot;Brilliant&quot; (South Florida Sun-Sentinel), &quot;Daring&quot; (Boston Globe), &quot;Immensely entertaining&quot; (New York Times Book Review), &quot;A tour de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Ov-pwAACAAJ",
+      "etag": "QzDVFYGYz4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Ov-pwAACAAJ",
+      "volumeInfo": {
+        "title": "Anathem",
+        "subtitle": "Roman",
+        "authors": [
+          "Neal Stephenson"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3442477948"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783442477944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1022,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Ov-pwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Ov-pwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=2Ov-pwAACAAJ&dq=intitle:%22Anathem%22+inauthor:%22Neal+Stephenson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2Ov-pwAACAAJ&dq=intitle:%22Anathem%22+inauthor:%22Neal+Stephenson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anathem.html?hl=&id=2Ov-pwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Ov-pwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3tOeL55nkNgC",
+      "etag": "wEelGpiKLX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3tOeL55nkNgC",
+      "volumeInfo": {
+        "title": "Anathem. Il pellegrino",
+        "authors": [
+          "Neal Stephenson"
+        ],
+        "publisher": "Rizzoli",
+        "publishedDate": "2013-06-24",
+        "description": "La fantascienza \u00e8 un\u2019avventura straordinaria. Se la sai leggere. \u201cL\u2019ultima notte del 3689 sognai che qualcosa turbava fraa Orolo e che tutti se ne erano accorti, ma nessuno, per nessuna ragione, ne avrebbe parlato apertamente. Un mistero, dunque. Eppure tutti sapevano di cosa si trattava: i pianeti stavano deviando dal loro corso e l\u2019orologio forniva indicazioni sbagliate. Infatti parte di esso era un planetario meccanico, un modello del sistema solare che mostrava la posizione attuale dei pianeti e di molte delle loro lune. Si trovava nel nartece o vestibolo, tra il cancello diurno e la navata a settentrione. Aveva funzionato alla perfezione per trentaquattro secoli , ma adesso perdeva colpi ; qualcosa era accaduto.\u201d \u00c8 l\u2019anno 3689 e il pianeta Arbre vive un periodo di pace e serenit\u00e0. Nel suo passato ci sono imperi, colpi di stato militari, gli Eventi Tragici e la Ricostituzione, il Primo, il Secondo e il Terzo Sacco, ma nei secoli \u00e8 stato raggiunto un equilibrio. Gli scienziati, i matematici, i filosofi vivono chiusi nei loro \u201cconcenti\u201d, e si dedicano alla pura speculazione teorica senza avere nessun contatto con la tecnologia, che invece segna l\u2019esistenza del resto della popolazione: gli \u201cextramuros\u201d, sottoposti al Potere Secolare. Ma qualcosa minaccia l\u2019ordine perfetto di Arbre: lo dimostra l\u2019espulsione dal concento di Saunt Edhar, al canto struggente dell\u2019Anathem, del sapiente Orolo, che osservando il cielo ha scoperto un oggetto luminoso in avvicinamento. Sar\u00e0 il suo allievo prediletto, il diciottenne fraa Erasmas, ad avere una parte cruciale nel dramma che sta per svolgersi su Arbre. E toccher\u00e0 a lui, alla compagna Ala e agli altri novizi esplorare il mondo di fuori: sino ai confini pi\u00f9 estremi. Anathem. Il nuovo cielo - secondo e ultimo volume - uscir\u00e0 a settembre 2010.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788858648858"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8858648854"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 795,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.14.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3tOeL55nkNgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3tOeL55nkNgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com/books?id=3tOeL55nkNgC&printsec=frontcover&dq=intitle:%22Anathem%22+inauthor:%22Neal+Stephenson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3tOeL55nkNgC&dq=intitle:%22Anathem%22+inauthor:%22Neal+Stephenson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anathem_Il_pellegrino.html?hl=&id=3tOeL55nkNgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anathem_Il_pellegrino-sample-epub.acsm?id=3tOeL55nkNgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Anathem_Il_pellegrino-sample-pdf.acsm?id=3tOeL55nkNgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3tOeL55nkNgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La fantascienza \u00e8 un\u2019avventura straordinaria."
+      }
+    }
+  ]
+}

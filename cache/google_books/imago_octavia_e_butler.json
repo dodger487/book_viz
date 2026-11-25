@@ -1,0 +1,233 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 10,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2Oe1EAAAQBAJ",
+      "etag": "L7GDoDabcL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Oe1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Imago",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Grand Central Publishing",
+        "publishedDate": "2023-03-28",
+        "description": "From the award-winning author of Parable of the Sower:After the near-extinction of humanity, a new kind of alien-human hybrid must come to terms with their identity -- before their powers destroy what is left of humankind. Since a nuclear war decimated the human population, the remaining humans began to rebuild their future by interbreeding with an alien race -- the Oankali -- who saved them from near-certain extinction. The Oankalis' greatest skill lies in the species' ability to constantly adapt and evolve, a process that is guided by their third sex, the ooloi, who are able to read and mutate genetic code. Now, for the first time in the humans' relationship with the Oankali, a human mother has given birth to an ooloi child: Jodahs. Throughout his childhood, Jodahs seemed to be a male human-alien hybrid. But when he reaches adolescence, Jodahs develops the ooloi abilities to shapeshift, manipulate DNA, cure and create disease, and more. Frightened and isolated, Jodahs must either come to terms with this new identity, learn to control new powers, and unite what's left of humankind -- or become the biggest threat to their survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538765487"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1538765489"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Oe1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Oe1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2Oe1EAAAQBAJ&printsec=frontcover&dq=intitle:%22Imago%22+inauthor:%22Octavia+E.+Butler%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2Oe1EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2Oe1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2Oe1EAAAQBAJ&rdid=book-2Oe1EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Imago-sample-epub.acsm?id=2Oe1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Oe1EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After the near-extinction of humanity, a new kind of alien-human hybrid must come to terms with their identity\u2014before their powers destroy what is left of humankind, in this thought-provoking science fiction novel from the New York Times ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9UhlzgEACAAJ",
+      "etag": "Kjo/a116RpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9UhlzgEACAAJ",
+      "volumeInfo": {
+        "title": "Imago",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publishedDate": "2021-12-28",
+        "description": "From the award-winning author of Parable of the Sower: After the near-extinction of humanity, a new kind of alien-human hybrid must come to terms with their identity -- before their powers destroy what is left of humankind. Since a nuclear war decimated the human population, the remaining humans began to rebuild their future by interbreeding with an alien race -- the Oankali -- who saved them from near-certain extinction. The Oankalis' greatest skill lies in the species' ability to constantly adapt and evolve, a process that is guided by their third sex, the ooloi, who are able to read and mutate genetic code. Now, for the first time in the humans' relationship with the Oankali, a human mother has given birth to an ooloi child: Jodah. Throughout his childhood, Jodah seemed to be a male human-alien hybrid. But when he reaches adolescence, Jodah develops the ooloi abilities to shapeshift, manipulate DNA, cure and create disease, and more. Frightened and isolated, Jodah must either come to terms with this new identity, learn to control new powers, and unite what's left of humankind -- or become the biggest threat to their survival.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1538753731"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781538753736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9UhlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9UhlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9UhlzgEACAAJ&dq=intitle:%22Imago%22+inauthor:%22Octavia+E.+Butler%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9UhlzgEACAAJ&dq=intitle:%22Imago%22+inauthor:%22Octavia+E.+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imago.html?hl=&id=9UhlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9UhlzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Human and Oankali have been mating since the aliens first came to Earth to rescue the few survivors of an annihilating nuclear war."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a2r9HAAACAAJ",
+      "etag": "M56HOUI7l08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a2r9HAAACAAJ",
+      "volumeInfo": {
+        "title": "Imago",
+        "authors": [
+          "Octavia E. Butler"
+        ],
+        "publisher": "Gollancz",
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575047763"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575047761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=a2r9HAAACAAJ&dq=intitle:%22Imago%22+inauthor:%22Octavia+E.+Butler%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a2r9HAAACAAJ&dq=intitle:%22Imago%22+inauthor:%22Octavia+E.+Butler%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imago.html?hl=&id=a2r9HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a2r9HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

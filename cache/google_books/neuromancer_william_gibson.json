@@ -1,0 +1,216 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 36,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "IDFfMPW32hQC",
+      "etag": "m7RBz+P7DB8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IDFfMPW32hQC",
+      "volumeInfo": {
+        "title": "Neuromancer",
+        "authors": [
+          "William Gibson"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2000-07-01",
+        "description": "Winner of the Hugo, Nebula, and Philip K. Dick Awards, Neuromancer is a science fiction masterpiece\u2014a classic that ranks as one of the twentieth century\u2019s most potent visions of the future. Case was the sharpest data-thief in the matrix\u2014until he crossed the wrong people and they crippled his nervous system, banishing him from cyberspace. Now a mysterious new employer has recruited him for a last-chance run at an unthinkably powerful artificial intelligence. With a dead man riding shotgun and Molly, a mirror-eyed street-samurai, to watch his back, Case is ready for the adventure that upped the ante on an entire genre of fiction. Neuromancer was the first fully-realized glimpse of humankind\u2019s digital future\u2014a shocking vision that has challenged our assumptions about technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0441007465"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780441007462"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 34,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IDFfMPW32hQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IDFfMPW32hQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IDFfMPW32hQC&printsec=frontcover&dq=intitle:%22Neuromancer%22+inauthor:%22William+Gibson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IDFfMPW32hQC&dq=intitle:%22Neuromancer%22+inauthor:%22William+Gibson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Neuromancer.html?hl=&id=IDFfMPW32hQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IDFfMPW32hQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Neuromancer was the first fully-realized glimpse of humankind\u2019s digital future\u2014a shocking vision that has challenged our assumptions about technology and ourselves, reinvented the way we speak and think, and forever altered the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jdtUPwAACAAJ",
+      "etag": "WD8Y+1zH6/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jdtUPwAACAAJ",
+      "volumeInfo": {
+        "title": "Neuromancer",
+        "authors": [
+          "William Gibson",
+          "Predrag Raos"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9536337541"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789536337545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Cyberspace"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jdtUPwAACAAJ&dq=intitle:%22Neuromancer%22+inauthor:%22William+Gibson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jdtUPwAACAAJ&dq=intitle:%22Neuromancer%22+inauthor:%22William+Gibson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Neuromancer.html?hl=&id=jdtUPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jdtUPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cLsLEAAAQBAJ",
+      "etag": "OJXjvXhAf9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cLsLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Neuromancer",
+        "subtitle": "Roman | Der Klassiker des Cyberpunk - jetzt als gro\u00dfe Serie bei Apple TV",
+        "authors": [
+          "William Gibson"
+        ],
+        "publisher": "Tropen",
+        "publishedDate": "2021-02-13",
+        "description": "Einer der wichtigsten Sci-Fi-Romane aller Zeiten: Die Erfindung des Cyberspace Mit der Neuromancer-Trilogie hat William Gibson die Science Fiction revolutioniert. Sein Deb\u00fctroman \u00bbNeuromancer\u00ab gewann den Hugo-, den Nebula- und den Philip-K.-Dick-Award, die drei wichtigsten Preise des Genres. Zudem hat er nicht nur die Begriffe Matrix und Cyberspace gepr\u00e4gt, er hat ein ganzes Genre begr\u00fcndet: Cyberpunk. Das Netz ist allgegenw\u00e4rtig, der Cyberspace zu einer zweiten Realit\u00e4t geworden, bestimmt von KIs und hart umk\u00e4mpft von riesigen Firmenkomplexen, Hackern und Kriminellen. Ein Raum, der ungeahnte M\u00f6glichkeiten bietet, aber auch ein Ort, an dem das Gesetz des St\u00e4rkeren gilt und an dem Ethik und Moral l\u00e4ngst \u00fcberkommene Begriffe sind ... Nach einem fehlgeschlagenen Auftrag scheinen sich f\u00fcr den jungen Hacker Case die Tr\u00e4ume erstmal erledigt zu haben. Sein Nervensystem ist besch\u00e4digt und der Zugang zum Cyberspace damit unm\u00f6glich. Aussichten auf Heilung scheint es erstmal keine zu geben, doch da kommt Case zu einem neuen Auftrag, einem, der das Blatt wenden soll. Die Frage ist nur, f\u00fcr wen ... Die Neuromancer-Trilogie: Neuromancer Count Zero Mona Lisa Overdrive",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783608121117"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3608121110"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.16.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cLsLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cLsLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=cLsLEAAAQBAJ&dq=intitle:%22Neuromancer%22+inauthor:%22William+Gibson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cLsLEAAAQBAJ&dq=intitle:%22Neuromancer%22+inauthor:%22William+Gibson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Neuromancer.html?hl=&id=cLsLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cLsLEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Einer der wichtigsten Sci-Fi-Romane aller Zeiten: Die Erfindung des Cyberspace Mit der Neuromancer-Trilogie hat William Gibson die Science Fiction revolutioniert."
+      }
+    }
+  ]
+}

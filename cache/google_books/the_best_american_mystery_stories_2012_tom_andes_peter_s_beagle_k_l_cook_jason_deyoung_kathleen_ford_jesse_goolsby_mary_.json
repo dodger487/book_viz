@@ -1,0 +1,70 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Yx1OPgAACAAJ",
+      "etag": "RJ4cHURYzNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yx1OPgAACAAJ",
+      "volumeInfo": {
+        "title": "Breakheart Hill",
+        "authors": [
+          "Thomas H. Cook"
+        ],
+        "publishedDate": "1996",
+        "description": "A tale of constipation and greed in an a small Texas town during the summer when a traveller return.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0552143537"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780552143530"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "American fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Yx1OPgAACAAJ&dq=intitle:%22The+Best+American+Mystery+Stories+2012%22+inauthor:%22Tom+Andes,+Peter+S.+Beagle,+K.+L.+Cook,+Jason+DeYoung,+Kathleen+Ford,+Jesse+Goolsby,+Mary+Gaitskill,+Thomas+J.+Rice,+Otto+Penzler,+Robert+Crais%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Yx1OPgAACAAJ&dq=intitle:%22The+Best+American+Mystery+Stories+2012%22+inauthor:%22Tom+Andes,+Peter+S.+Beagle,+K.+L.+Cook,+Jason+DeYoung,+Kathleen+Ford,+Jesse+Goolsby,+Mary+Gaitskill,+Thomas+J.+Rice,+Otto+Penzler,+Robert+Crais%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Breakheart_Hill.html?hl=&id=Yx1OPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yx1OPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the darkest story that I ever heard\u2026&#39; It is a story that began with love and led to the destruction of a young woman&#39;s life."
+      }
+    }
+  ]
+}

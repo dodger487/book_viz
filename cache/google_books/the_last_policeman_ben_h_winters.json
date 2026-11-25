@@ -1,0 +1,303 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dMLVEQAAQBAJ",
+      "etag": "PaSk6jDa3As",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dMLVEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Last Policeman",
+        "subtitle": "A Novel",
+        "authors": [
+          "Ben H. Winters"
+        ],
+        "publisher": "Andrews Mcmeel+ORM",
+        "publishedDate": "2012-07-10",
+        "description": "When the Earth is doomed by an imminent and unavoidable asteroid collision, New Hampshire homicide detective Hank Palace considers the worth of his job in a world destined to end in six months and investigates a suspicious suicide that nobody else cares about.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594745775"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594745773"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dMLVEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dMLVEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dMLVEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Last+Policeman%22+inauthor:%22Ben+H.+Winters%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dMLVEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dMLVEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dMLVEQAAQBAJ&rdid=book-dMLVEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Last_Policeman-sample-epub.acsm?id=dMLVEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Last_Policeman-sample-pdf.acsm?id=dMLVEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dMLVEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When the Earth is doomed by an imminent and unavoidable asteroid collision, New Hampshire homicide detective Hank Palace considers the worth of his job in a world destined to end in six months and investigates a suspicious suicide that ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MsLVEQAAQBAJ",
+      "etag": "RP9HBetBltc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MsLVEQAAQBAJ",
+      "volumeInfo": {
+        "title": "World of Trouble",
+        "subtitle": "The Last Policeman Book III",
+        "authors": [
+          "Ben H. Winters"
+        ],
+        "publisher": "Andrews Mcmeel+ORM",
+        "publishedDate": "2014-07-15",
+        "description": "\"[The] weird, beautiful, unapologetically apocalyptic Last Policeman trilogy is one of my favorite mystery series.\"\u2014John Green, author of The Fault in Our Stars and Paper Towns Critically acclaimed author Ben H. Winters delivers this explosive final installment in the Edgar Award winning Last Policeman series. With the doomsday asteroid looming, Detective Hank Palace has found sanctuary in the woods of New England, secure in a well-stocked safe house with other onetime members of the Concord police force. But with time ticking away before the asteroid makes landfall, Hank\u2019s safety is only relative, and his only relative\u2014his sister Nico\u2014isn\u2019t safe. Soon, it\u2019s clear that there\u2019s more than one earth-shattering revelation on the horizon, and it\u2019s up to Hank to solve the puzzle before time runs out . . . for everyone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594746864"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594746869"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MsLVEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MsLVEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MsLVEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Last+Policeman%22+inauthor:%22Ben+H.+Winters%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MsLVEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MsLVEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MsLVEQAAQBAJ&rdid=book-MsLVEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/World_of_Trouble-sample-epub.acsm?id=MsLVEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/World_of_Trouble-sample-pdf.acsm?id=MsLVEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MsLVEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;[The] weird, beautiful, unapologetically apocalyptic Last Policeman trilogy is one of my favorite mystery series.&quot;\u2014John Green, author of The Fault in Our Stars and Paper Towns Critically acclaimed author Ben H. Winters delivers this ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UMLVEQAAQBAJ",
+      "etag": "oCIp0dcaED0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UMLVEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Countdown City",
+        "subtitle": "The Last Policeman Book II",
+        "authors": [
+          "Ben H. Winters"
+        ],
+        "publisher": "Andrews Mcmeel+ORM",
+        "publishedDate": "2013-07-16",
+        "description": "-- Countdown City? Brett Cavatone disappeared without a trace?an easy feat in a world with no phones, no cars, and no way to tell whether someone?s gone \"bucket list\" or just",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594746277"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594746273"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UMLVEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UMLVEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UMLVEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Last+Policeman%22+inauthor:%22Ben+H.+Winters%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UMLVEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UMLVEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UMLVEQAAQBAJ&rdid=book-UMLVEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Countdown_City-sample-epub.acsm?id=UMLVEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Countdown_City-sample-pdf.acsm?id=UMLVEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UMLVEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "-- Countdown City? Brett Cavatone disappeared without a trace?an easy feat in a world with no phones, no cars, and no way to tell whether someone?s gone &quot;bucket list&quot; or just"
+      }
+    }
+  ]
+}

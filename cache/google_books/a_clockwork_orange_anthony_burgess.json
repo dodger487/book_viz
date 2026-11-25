@@ -1,0 +1,246 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 33,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bgpJn-Oq22MC",
+      "etag": "SmshfzdZ1sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bgpJn-Oq22MC",
+      "volumeInfo": {
+        "title": "A Clockwork Orange",
+        "authors": [
+          "Anthony Burgess"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2011-08-29",
+        "description": "One of Esquire's 50 Best Sci-Fi Books of All Time \"A brilliant novel.... [A] savage satire on the distortions of the single and collective minds.\"\u2014 New York Times In Anthony Burgess's influential nightmare vision of the future, where the criminals take over after dark, the story is told by the central character, Alex, a teen who talks in a fantastically inventive slang that evocatively renders his and his friends' intense reaction against their society. Dazzling and transgressive, A Clockwork Orange is a frightening fable about good and evil and the meaning of human freedom. This edition includes the controversial last chapter not published in the first edition, and Burgess's introduction, \"A Clockwork Orange Resucked.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393343045"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393343049"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.17.16.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bgpJn-Oq22MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bgpJn-Oq22MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bgpJn-Oq22MC&printsec=frontcover&dq=intitle:%22A+Clockwork+Orange%22+inauthor:%22Anthony+Burgess%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bgpJn-Oq22MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bgpJn-Oq22MC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 17.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bgpJn-Oq22MC&rdid=book-bgpJn-Oq22MC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 17990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Clockwork_Orange-sample-epub.acsm?id=bgpJn-Oq22MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bgpJn-Oq22MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition includes the controversial last chapter not published in the first edition, and Burgess&#39;s introduction, &quot;A Clockwork Orange Resucked.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "op-t1o7KSkQC",
+      "etag": "W9AqEP7WNMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/op-t1o7KSkQC",
+      "volumeInfo": {
+        "title": "A Clockwork Orange (Restored Text)",
+        "authors": [
+          "Anthony Burgess"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2012-10-22",
+        "description": "A frightening story of good and evil. A fifteen year old boy named Alex, who is in trouble with the authorities. The state wants to reform him.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393089134"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393089134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=op-t1o7KSkQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=op-t1o7KSkQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=op-t1o7KSkQC&printsec=frontcover&dq=intitle:%22A+Clockwork+Orange%22+inauthor:%22Anthony+Burgess%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=op-t1o7KSkQC&dq=intitle:%22A+Clockwork+Orange%22+inauthor:%22Anthony+Burgess%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Clockwork_Orange_Restored_Text.html?hl=&id=op-t1o7KSkQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=op-t1o7KSkQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A frightening story of good and evil. A fifteen year old boy named Alex, who is in trouble with the authorities. The state wants to reform him."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SvV2AAAACAAJ",
+      "etag": "AD1fgl5+oaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SvV2AAAACAAJ",
+      "volumeInfo": {
+        "title": "A Clockwork Orange",
+        "authors": [
+          "Anthony Burgess"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3150092817"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783150092811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile delinquency / Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SvV2AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SvV2AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SvV2AAAACAAJ&dq=intitle:%22A+Clockwork+Orange%22+inauthor:%22Anthony+Burgess%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SvV2AAAACAAJ&dq=intitle:%22A+Clockwork+Orange%22+inauthor:%22Anthony+Burgess%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Clockwork_Orange.html?hl=&id=SvV2AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SvV2AAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "v84YEQAAQBAJ",
+      "etag": "0f9kZTkLFEg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v84YEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Tainted Cup",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2024-11-05",
+        "description": "A Holmes and Watson\u2013style detective duo take the stage in this fantasy with a mystery twist, from the Edgar-winning, multiple Hugo-nominated Robert Jackson Bennett \u201cGreat fantasy detective stories are too rare, but Bennett\u2014[a] rising star of fantasy\u2014more than delivers.\u201d\u2014Charlie Jane Anders, The Washington Post \u201cA thoroughly satisfying delight from start to finish.\u201d\u2014Amal El-Mohtar, The New York Times Book Review In Daretana\u2019s greatest mansion, a high imperial officer lies dead\u2014killed, to all appearances, when a tree erupted from his body. Even here at the Empire\u2019s borders, where contagions abound and the blood of the leviathans works strange magical changes, it\u2019s a death both terrifying and impossible. Assigned to investigate is Ana Dolabra, a detective whose reputation for brilliance is matched only by her eccentricities. Rumor has it that she wears a blindfold at all times, and that she can solve impossible cases without even stepping outside the walls of her home. At her side is her new assistant, Dinios Kol, magically altered in ways that make him the perfect aide to Ana\u2019s brilliance. Din is at turns scandalized, perplexed, and utterly infuriated by his new superior\u2014but as the case unfolds and he watches Ana\u2019s mind leap from one startling deduction to the next, he must admit that she is, indeed, the Empire\u2019s greatest detective. As the two close in on a mastermind and uncover a scheme that threatens the Empire itself, Din realizes he\u2019s barely begun to assemble the puzzle that is Ana Dolabra\u2014and wonders how long he\u2019ll be able to keep his own secrets safe from her piercing intellect. By an \u201cendlessly inventive\u201d (Vulture) author with a \u201cwicked sense of humor\u201d (NPR), The Tainted Cup mixes the charms of detective fiction with brilliant world-building to deliver a fiendishly clever mystery that\u2019s at once instantly recognizable and thrillingly new.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984820716"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1984820710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v84YEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v84YEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=v84YEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Tainted+Cup%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=v84YEQAAQBAJ&dq=intitle:%22The+Tainted+Cup%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tainted_Cup.html?hl=&id=v84YEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Tainted_Cup-sample-pdf.acsm?id=v84YEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v84YEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "J. Klune, The New York Times \u201cCombines the best of Lovecraft and Doyle.\u201d\u2014Matt Dinniman, New York Times bestselling author of Dungeon Crawler Carl \u201cA masterpiece.\u201d\u2014Hideo Kojima, legendary videogame creator of the Metal Gear ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hITL0AEACAAJ",
+      "etag": "NIiOUxpU5Po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hITL0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Tainted Cup: An Exceptional Fantasy Mystery with a Classic Detective Duo",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "publishedDate": "2025-02-06",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1399725394"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781399725392"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hITL0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hITL0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hITL0AEACAAJ&dq=intitle:%22The+Tainted+Cup%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hITL0AEACAAJ&dq=intitle:%22The+Tainted+Cup%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tainted_Cup_An_Exceptional_Fantasy_M.html?hl=&id=hITL0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hITL0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;This is that rare thing - a book so good that you are bereft when you reach the final page. I loved this and would spend much more time in its world&#39; \u2b50\u2b50\u2b50\u2b50\u2b50 &#39;Utterly riveting read from beginning to end."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jezK0AEACAAJ",
+      "etag": "qvdb13lRkN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jezK0AEACAAJ",
+      "volumeInfo": {
+        "title": "A Drop of Corruption: The Gripping Sequel to the Tainted Cup",
+        "authors": [
+          "Robert Jackson Bennett"
+        ],
+        "publisher": "Hodderscape",
+        "publishedDate": "2025-02-06",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1399725416"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781399725415"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jezK0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jezK0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jezK0AEACAAJ&dq=intitle:%22The+Tainted+Cup%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jezK0AEACAAJ&dq=intitle:%22The+Tainted+Cup%22+inauthor:%22Robert+Jackson+Bennett%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Drop_of_Corruption_The_Gripping_Sequel.html?hl=&id=jezK0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jezK0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the canton of Yarrowdale, at the very edge of the Empire&#39;s reach, a Treasury officer has disappeared into thin air - vanishing from a room within a heavily guarded tower, its door and windows locked from the inside."
+      }
+    }
+  ]
+}

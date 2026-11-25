@@ -1,0 +1,219 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 93,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "05R7kYOKD0cC",
+      "etag": "Rg8F0lEJgYA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/05R7kYOKD0cC",
+      "volumeInfo": {
+        "title": "Machiavelli: The Prince",
+        "authors": [
+          "Niccolo Machiavelli"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1988-10-28",
+        "description": "Professor Skinner presents a lucid analysis of Machiavelli's text as a response to the world of Florentine politics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521349931"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521349932"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 35,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=05R7kYOKD0cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=05R7kYOKD0cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=05R7kYOKD0cC&printsec=frontcover&dq=intitle:%22The+Prince%22+inauthor:%22Niccolo+Machiavelli%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=05R7kYOKD0cC&dq=intitle:%22The+Prince%22+inauthor:%22Niccolo+Machiavelli%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli_The_Prince.html?hl=&id=05R7kYOKD0cC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Machiavelli_The_Prince-sample-pdf.acsm?id=05R7kYOKD0cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=05R7kYOKD0cC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Professor Skinner presents a lucid analysis of Machiavelli&#39;s text as a response to the world of Florentine politics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pa00QQAACAAJ",
+      "etag": "E3IeZQysKlY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pa00QQAACAAJ",
+      "volumeInfo": {
+        "title": "The Prince by Niccolo Machiavelli - Large Print Edition",
+        "authors": [
+          "Niccolo Machiavelli"
+        ],
+        "publishedDate": "2009-09",
+        "description": "With \"The Prince\", Machiavelli made his name synonymous with intrigue and cunning for all time. His instructions to the Prince, on achieving and maintaining power, by any and all means available, became the archetypical philosophy of The Ends Justify The Means. Machiavelli advocated that political expediency supersedes morality and that success, by any means, is its own justification. His cold, calculating logic sweeps aside and dismisses all arguments against the use of every manner of deceit and dishonesty for a ruler to achieve his ends on the basis that those ends, once achieved, are, in themselves, sufficient justification. Not only does Machiavelli make philosophical arguments for his viewpoint, he gives numerous practical examples of behavior, which are generally considered to be both ruthless and invariably successful. For nearly 500 years, politicians of all stripes have found that in ignoring Machiavelli's views they become easy prey to those who are willing to employ Machiavellian methods. Machiavelli is considered by many to be the Father of Modern Political Theory. His influence has been immense and his writings, particularly \"The Prince\", will undoubtedly continue to influence many generations to come.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1934255181"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781934255186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Large type books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Pa00QQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Pa00QQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Pa00QQAACAAJ&dq=intitle:%22The+Prince%22+inauthor:%22Niccolo+Machiavelli%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Pa00QQAACAAJ&dq=intitle:%22The+Prince%22+inauthor:%22Niccolo+Machiavelli%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prince_by_Niccolo_Machiavelli_Large.html?hl=&id=Pa00QQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pa00QQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With &quot;The Prince&quot;, Machiavelli made his name synonymous with intrigue and cunning for all time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wrLhzgEACAAJ",
+      "etag": "Zam+GSK0FT4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wrLhzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Prince by Nicolo Machiavelli",
+        "authors": [
+          "Niccolo Machiavelli"
+        ],
+        "publishedDate": "2020-01-06",
+        "description": "\"Everyone sees what you appear to be, few experience what you really are.\" -Nicol\u00f2 Machiavelli ; The Prince The Prince is a 16th-century political treatise by the Italian diplomat and political theorist Niccol\u00f2 Machiavelli. The Prince is sometimes claimed to be one of the first works of modern philosophy, especially modern political philosophy, in which the \"effectual\" truth is taken to be more important than any abstract ideal. It is also notable for being in direct conflict with the dominant Catholic and scholastic doctrines of the time, particularly those concerning politics and ethics. Although it is relatively short, the treatise is the most remembered of Machiavelli's works and the one most responsible for bringing the word \"Machiavellian\" into usage as a pejorative. It even contributed to the modern negative connotations of the words \"politics\" and \"politician\" in western countries. A True Classic that Belongs on Every Bookshelf!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1679594621"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781679594625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wrLhzgEACAAJ&dq=intitle:%22The+Prince%22+inauthor:%22Niccolo+Machiavelli%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wrLhzgEACAAJ&dq=intitle:%22The+Prince%22+inauthor:%22Niccolo+Machiavelli%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prince_by_Nicolo_Machiavelli.html?hl=&id=wrLhzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wrLhzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Prince is sometimes claimed to be one of the first works of modern philosophy, especially modern political philosophy, in which the &quot;effectual&quot; truth is taken to be more important than any abstract ideal."
+      }
+    }
+  ]
+}

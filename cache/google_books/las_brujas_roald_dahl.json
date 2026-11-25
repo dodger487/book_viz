@@ -1,0 +1,215 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 7,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4hE3zwEACAAJ",
+      "etag": "cy1QyjTHfS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4hE3zwEACAAJ",
+      "volumeInfo": {
+        "title": "Las brujas",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9561527375"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789561527379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=4hE3zwEACAAJ&dq=intitle:%22Las+Brujas%22+inauthor:%22Roald+Dahl%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4hE3zwEACAAJ&dq=intitle:%22Las+Brujas%22+inauthor:%22Roald+Dahl%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_brujas.html?hl=&id=4hE3zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4hE3zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ulGREAAAQBAJ",
+      "etag": "A5DxgV5tams",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ulGREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las brujas / The Witches",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2016-01-26",
+        "description": "\u00a1El libro en que se basa la pel\u00edcula de HBO! Las brujas de todo el mundo, bajo la apariencia de se\u00f1oras comunes y corrientes, est\u00e1n celebrando su Congreso Anual. Han decidido convertir en ratones a todos los ni\u00f1os sirvi\u00e9ndose de un ratonizador m\u00e1gico. \u00bfConseguir\u00e1n vencerlas el protagonista de esta historia y su abuela? ENGLISH DESCRIPTION Soon to Be a Major Motion Picture! This is not a fairy tale. This is about real witches. Grandmamma loves to tell about witches. Real witches are the most dangerous of all living creatures on earth. There's nothing they hate so much as children, and they work all kinds of terrifying spells to get rid of them. Her grandson listens closely to Grandmamma's stories\u2014but nothing can prepare him for the day he comes face-to-face with The Grand High Witch herself!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073136563"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073136560"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ulGREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ulGREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=ulGREAAAQBAJ&dq=intitle:%22Las+Brujas%22+inauthor:%22Roald+Dahl%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ulGREAAAQBAJ&dq=intitle:%22Las+Brujas%22+inauthor:%22Roald+Dahl%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_brujas_The_Witches.html?hl=&id=ulGREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ulGREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION Soon to Be a Major Motion Picture! This is not a fairy tale. This is about real witches. Grandmamma loves to tell about witches. Real witches are the most dangerous of all living creatures on earth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fB2bQQAACAAJ",
+      "etag": "pl8Z7kWCVQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fB2bQQAACAAJ",
+      "volumeInfo": {
+        "title": "Las brujas",
+        "authors": [
+          "Roald Dahl"
+        ],
+        "publisher": "Santillana USA Publishing Company",
+        "publishedDate": "1985",
+        "description": "A small boy and his grandmother stay at a hotel that is holding a convention of witches from Englnd. In Spanish.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "842044815X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420448152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories, English"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fB2bQQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fB2bQQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=fB2bQQAACAAJ&dq=intitle:%22Las+Brujas%22+inauthor:%22Roald+Dahl%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fB2bQQAACAAJ&dq=intitle:%22Las+Brujas%22+inauthor:%22Roald+Dahl%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_brujas.html?hl=&id=fB2bQQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fB2bQQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A small boy and his grandmother stay at a hotel that is holding a convention of witches from Englnd. In Spanish."
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lw5J0QEACAAJ",
+      "etag": "CI7l8BIQmOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lw5J0QEACAAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise",
+        "authors": [
+          "FRANCIS SCOTT FITZGERALD"
+        ],
+        "publisher": "Anson Street Press",
+        "publishedDate": "2025-03-28",
+        "description": "F. Scott Fitzgerald's \"This Side of Paradise\" captures the spirit of a generation navigating profound social change in the aftermath of World War I. This literary classic explores themes of post-war disillusionment and the shifting landscape of American society during the Jazz Age. A coming-of-age story at its heart, the novel delves into the experiences of youth, collegiate life, and the complexities of first love. Through its narrative, \"This Side of Paradise\" offers a glimpse into the lives of veterans and the challenges they faced upon returning home. Fitzgerald's exploration of these timeless themes continues to resonate, making this meticulously prepared print edition a vital piece of American literature, capturing a unique moment in history with enduring power. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1022952358"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781022952355"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lw5J0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lw5J0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lw5J0QEACAAJ&dq=intitle:%22This+Side+of+Paradise%22+inauthor:%22F.Scott+(Francis+Scott)+Fitzgerald%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lw5J0QEACAAJ&dq=intitle:%22This+Side+of+Paradise%22+inauthor:%22F.Scott+(Francis+Scott)+Fitzgerald%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise.html?hl=&id=lw5J0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lw5J0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eTUN0gEACAAJ",
+      "etag": "hcxnVRPWvqE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTUN0gEACAAJ",
+      "volumeInfo": {
+        "title": "This Side of Paradise (Cram Edition)",
+        "authors": [
+          "F Scott (Francis Scott) Fitzgerald"
+        ],
+        "publisher": "Xpresspress",
+        "publishedDate": "2026-05-14",
+        "description": "This XpressRead Cram Edition of This Side of Paradise pairs the complete original text with carefully prepared study materials, designed for deeper engagement with this classic. F. Scott Fitzgerald's \"This Side of Paradise\" captures the spirit of a generation navigating profound social change in the aftermath of World War I. This literary classic explores themes of post-war disillusionment and the shifting landscape of American society during the Jazz Age. A coming-of-age story at its heart, the novel delves into the experiences of youth, collegiate life, and the complexities of first love. Through its narrative, \"This Side of Paradise\" offers a glimpse into the lives of veterans and the challenges they faced upon returning home. Fitzgerald's exploration of these timeless themes continues to resonate, making this meticulously prepared print edition a vital piece of American literature, capturing a unique moment in history with enduring power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1026103096"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781026103098"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eTUN0gEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eTUN0gEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eTUN0gEACAAJ&dq=intitle:%22This+Side+of+Paradise%22+inauthor:%22F.Scott+(Francis+Scott)+Fitzgerald%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=eTUN0gEACAAJ&dq=intitle:%22This+Side+of+Paradise%22+inauthor:%22F.Scott+(Francis+Scott)+Fitzgerald%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Side_of_Paradise_Cram_Edition.html?hl=&id=eTUN0gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTUN0gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This XpressRead Cram Edition of This Side of Paradise pairs the complete original text with carefully prepared study materials, designed for deeper engagement with this classic."
+      }
+    }
+  ]
+}

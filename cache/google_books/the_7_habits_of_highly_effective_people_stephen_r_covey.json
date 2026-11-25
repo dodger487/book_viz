@@ -1,0 +1,225 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 28,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "JysAEAAAQBAJ",
+      "etag": "6El9245n4aw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JysAEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The 7 Habits of Highly Effective People",
+        "subtitle": "Powerful Lessons in Personal Change",
+        "authors": [
+          "Stephen R. Covey"
+        ],
+        "publisher": "Rosetta Books",
+        "publishedDate": "2013-11-15",
+        "description": "The definitive eBook edition of the New York Times bestselling classic named #1 Most Influential Business Book of the 20th Century by Forbes. Since its first publication in 1989, The 7 Habits of Highly Influential People has been translated into more than forty languages and sold tens of millions of copies around the world. Stephen R. Covey\u2019s timeless wisdom has inspired people of all ages and walks of life to not only improve their businesses and careers but to live with integrity, service, dignity, and success in all areas of life. This definitive eBook edition includes forwards by Stephen R. Covey, Jim Collins, and Covey\u2019s children. \u201cEvery so often a book comes along that not only alters the lives of readers but leaves an imprint on the culture itself. The 7 Habits is one of those books.\u201d\u2014Daniel Pink, author of Drive and To Sell is Human",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780795336409"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0795336403"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JysAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JysAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JysAEAAAQBAJ&printsec=frontcover&dq=intitle:%22The+7+Habits+of+Highly+Effective+People%22+inauthor:%22Stephen+R.+Covey%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JysAEAAAQBAJ&dq=intitle:%22The+7+Habits+of+Highly+Effective+People%22+inauthor:%22Stephen+R.+Covey%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_7_Habits_of_Highly_Effective_People.html?hl=&id=JysAEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_7_Habits_of_Highly_Effective_People-sample-epub.acsm?id=JysAEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_7_Habits_of_Highly_Effective_People-sample-pdf.acsm?id=JysAEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JysAEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This definitive eBook edition includes forwards by Stephen R. Covey, Jim Collins, and Covey\u2019s children. \u201cEvery so often a book comes along that not only alters the lives of readers but leaves an imprint on the culture itself."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8PbNwAEACAAJ",
+      "etag": "iyw5Za/HztI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8PbNwAEACAAJ",
+      "volumeInfo": {
+        "title": "The 7 Habits of Highly Effective People",
+        "subtitle": "Powerful Lessons in Personal Change",
+        "authors": [
+          "Stephen R. Covey"
+        ],
+        "publishedDate": "2004",
+        "description": "The seven habits are: Be Proactive - Begin with the end in mind - Put first things first - Think win/win - Seek first to understand, then to be understood - Synergize - Sharpen the saw.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1416502491"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416502494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+          "Character"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8PbNwAEACAAJ&dq=intitle:%22The+7+Habits+of+Highly+Effective+People%22+inauthor:%22Stephen+R.+Covey%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8PbNwAEACAAJ&dq=intitle:%22The+7+Habits+of+Highly+Effective+People%22+inauthor:%22Stephen+R.+Covey%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_7_Habits_of_Highly_Effective_People.html?hl=&id=8PbNwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8PbNwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The seven habits are: Be Proactive - Begin with the end in mind - Put first things first - Think win/win - Seek first to understand, then to be understood - Synergize - Sharpen the saw."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v7w5oArwKgoC",
+      "etag": "947Wn66deCs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v7w5oArwKgoC",
+      "volumeInfo": {
+        "title": "The 7 Habits of Highly Effective People Personal Workbook",
+        "authors": [
+          "Stephen R. Covey"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2008-09-04",
+        "description": "Stephen Covey's THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE took the self-help market by storm in 1990 and has enjoyed phenomenal sales ever since. With over 15 million copies in print, the book has become a classic. Now a touchstone for millions of individuals, as well as for families and businesses, the integrated, principle-centered 7 Habits philosophy has helped readers find solutions to their personal and professional problems, and achieve a life characterized by fairness, integrity, honesty, and dignity. Covey's tried and true step-by-step approach can now be even more thoroughly explored in this new workbook. With the same clarity and assurance that Covey's readers have come to know and love, the workbook helps readers further understand, appreciate, and internalize the power of the 7 Habits. These engaging, in-depth exercises allow readers - both devotees and newcomers - to get their hands dirty as they develop a philosophy for success, set personal goals, and improve their relationships.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781847375179"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1847375170"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v7w5oArwKgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v7w5oArwKgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=v7w5oArwKgoC&printsec=frontcover&dq=intitle:%22The+7+Habits+of+Highly+Effective+People%22+inauthor:%22Stephen+R.+Covey%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=v7w5oArwKgoC&dq=intitle:%22The+7+Habits+of+Highly+Effective+People%22+inauthor:%22Stephen+R.+Covey%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_7_Habits_of_Highly_Effective_People.html?hl=&id=v7w5oArwKgoC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_7_Habits_of_Highly_Effective_People-sample-epub.acsm?id=v7w5oArwKgoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v7w5oArwKgoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Covey&#39;s tried and true step-by-step approach can now be even more thoroughly explored in this new workbook."
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 19,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "k3ZtZcOnWrsC",
+      "etag": "UxLzv9VmUWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k3ZtZcOnWrsC",
+      "volumeInfo": {
+        "title": "High Fidelity",
+        "authors": [
+          "Nick Hornby"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "1996-08-01",
+        "description": "From the bestselling author of About a Boy, A Long Way Down and Dickens and Prince, a wise and hilarious novel about love, heartbreak, and rock and roll. \u201cI've always loved Nick Hornby, and the way he writes characters and the way he thinks. It's funny and heartbreaking all at the same time.\u201d\u2014Zo\u00eb Kravitz Rob is a pop music junkie who runs his own semi-failing record store. His girlfriend, Laura, has just left him for the guy upstairs, and Rob is both miserable and relieved. After all, could he have spent his life with someone who has a bad record collection? Rob seeks refuge in the company of the offbeat clerks at his store, who endlessly review their top five films; top five Elvis Costello songs; top five episodes of Cheers. Rob tries dating a singer, but maybe it\u2019s just that he\u2019s always wanted to sleep with someone who has a record contract. Then he sees Laura again. And Rob begins to think that life with kids, marriage, barbecues, and soft rock CDs might not be so bad.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101147351"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101147350"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.10.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k3ZtZcOnWrsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k3ZtZcOnWrsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=k3ZtZcOnWrsC&printsec=frontcover&dq=intitle:%22High+Fidelity%22+inauthor:%22Nick+Hornby%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=k3ZtZcOnWrsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=k3ZtZcOnWrsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=k3ZtZcOnWrsC&rdid=book-k3ZtZcOnWrsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/High_Fidelity-sample-epub.acsm?id=k3ZtZcOnWrsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k3ZtZcOnWrsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the bestselling author of About a Boy, A Long Way Down and Dickens and Prince, a wise and hilarious novel about love, heartbreak, and rock and roll. \u201cI&#39;ve always loved Nick Hornby, and the way he writes characters and the way he ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aHGizwEACAAJ",
+      "etag": "csPHb8fybpA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aHGizwEACAAJ",
+      "volumeInfo": {
+        "title": "HIGH FIDELITY (CANCELLED OS INDEF. 09/06).",
+        "authors": [
+          "JOHN. CUSACK"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0752219197"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780752219196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aHGizwEACAAJ&dq=intitle:%22High+Fidelity%22+inauthor:%22Nick+Hornby%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aHGizwEACAAJ&dq=intitle:%22High+Fidelity%22+inauthor:%22Nick+Hornby%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HIGH_FIDELITY_CANCELLED_OS_INDEF_09_06.html?hl=&id=aHGizwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aHGizwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bUuitgAACAAJ",
+      "etag": "O2+UnlVLVEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bUuitgAACAAJ",
+      "volumeInfo": {
+        "title": "High fidelity",
+        "subtitle": "Fever pitch : en i laget",
+        "authors": [
+          "Nick Hornby"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9137113933"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789137113937"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bUuitgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bUuitgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "sv",
+        "previewLink": "http://books.google.com/books?id=bUuitgAACAAJ&dq=intitle:%22High+Fidelity%22+inauthor:%22Nick+Hornby%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bUuitgAACAAJ&dq=intitle:%22High+Fidelity%22+inauthor:%22Nick+Hornby%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/High_fidelity.html?hl=&id=bUuitgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bUuitgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

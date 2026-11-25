@@ -1,0 +1,208 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 10,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "oqDqjwEACAAJ",
+      "etag": "aCKEcvQLIMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oqDqjwEACAAJ",
+      "volumeInfo": {
+        "title": "Summary of In the Garden of Beasts",
+        "subtitle": "By Erik Larson | Includes Analysis",
+        "authors": [
+          "Instaread Summaries"
+        ],
+        "publisher": "Idreambooks",
+        "publishedDate": "2016-04-04",
+        "description": "Inside this Instaread Summary & Analysis of In the Garden of Beasts* Summary of book* Introduction to the Important People in the book* Analysis of the Themes and Author's Style",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1945251263"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781945251269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oqDqjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oqDqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oqDqjwEACAAJ&dq=intitle:%22In+the+Garden+of+Beasts:+Love,+Terror,+and+an+American+Family+in+Hitler%27s+Berlin%22+inauthor:%22Erik+Larson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oqDqjwEACAAJ&dq=intitle:%22In+the+Garden+of+Beasts:+Love,+Terror,+and+an+American+Family+in+Hitler%27s+Berlin%22+inauthor:%22Erik+Larson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Summary_of_In_the_Garden_of_Beasts.html?hl=&id=oqDqjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oqDqjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inside this Instaread Summary &amp; Analysis of In the Garden of Beasts* Summary of book* Introduction to the Important People in the book* Analysis of the Themes and Author&#39;s Style"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iNhUnAEACAAJ",
+      "etag": "32YlHqljR8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iNhUnAEACAAJ",
+      "volumeInfo": {
+        "title": "Tiergarten - In the Garden of Beasts",
+        "subtitle": "Ein amerikanischer Botschafter in Nazi-Deutschland",
+        "authors": [
+          "Erik Larson"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3455503047"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783455503043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 511,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iNhUnAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iNhUnAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=iNhUnAEACAAJ&dq=intitle:%22In+the+Garden+of+Beasts:+Love,+Terror,+and+an+American+Family+in+Hitler%27s+Berlin%22+inauthor:%22Erik+Larson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iNhUnAEACAAJ&dq=intitle:%22In+the+Garden+of+Beasts:+Love,+Terror,+and+an+American+Family+in+Hitler%27s+Berlin%22+inauthor:%22Erik+Larson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tiergarten_In_the_Garden_of_Beasts.html?hl=&id=iNhUnAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iNhUnAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tys_MwEACAAJ",
+      "etag": "e7jRF6jC8JQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tys_MwEACAAJ",
+      "volumeInfo": {
+        "title": "\u03a3\u03c4\u03bf\u03bd \u03ba\u03ae\u03c0\u03bf \u03bc\u03b5 \u03c4\u03b1 \u03b8\u03b7\u03c1\u03af\u03b1",
+        "subtitle": "",
+        "authors": [
+          "\u0388\u03c1\u03b9\u03ba \u039b\u03ac\u03c1\u03c3\u03bf\u03bd"
+        ],
+        "publisher": "Metaixmio Ekdotiki A.e.",
+        "publishedDate": "2011",
+        "description": "A remarkable story set during Hitler's rise to power. The time is 1933, the place, Berlin, when William E. Dodd becomes America's first ambassador to Hitler's Germany in a year that proved to be a turning point in history.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9605015226"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789605015220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 575,
+        "printType": "BOOK",
+        "categories": [
+          "Diplomats"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "el",
+        "previewLink": "http://books.google.com/books?id=tys_MwEACAAJ&dq=intitle:%22In+the+Garden+of+Beasts:+Love,+Terror,+and+an+American+Family+in+Hitler%27s+Berlin%22+inauthor:%22Erik+Larson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tys_MwEACAAJ&dq=intitle:%22In+the+Garden+of+Beasts:+Love,+Terror,+and+an+American+Family+in+Hitler%27s+Berlin%22+inauthor:%22Erik+Larson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%CE%A3%CF%84%CE%BF%CE%BD_%CE%BA%CE%AE%CF%80%CE%BF_%CE%BC%CE%B5_%CF%84%CE%B1_%CE%B8%CE%B7%CF%81%CE%AF%CE%B1.html?hl=&id=tys_MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tys_MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A remarkable story set during Hitler&#39;s rise to power. The time is 1933, the place, Berlin, when William E. Dodd becomes America&#39;s first ambassador to Hitler&#39;s Germany in a year that proved to be a turning point in history."
+      }
+    }
+  ]
+}

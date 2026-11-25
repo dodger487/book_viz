@@ -1,0 +1,215 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 32,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MASyAr4vzpAC",
+      "etag": "zpJxHhSc8jE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MASyAr4vzpAC",
+      "volumeInfo": {
+        "title": "Walden and Civil Disobedience",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2004-06-29",
+        "description": "Naturalist and philosopher Thoreau's timeless essays on the role of humanity\u2014in the world of nature, and in society and government. Thoreau, a sturdy individualist and nature lover, lived a spare existence in a wooden hut on the edge of Walden Pond near Concord, Massachusetts, from 1845 to 1847. \"Walden\" is the fruit of Thoreau's two-year stay on the Walden Pond. It is a record of his experiment in a simple life and his contemplation of the wonders of nature and the ways of man. He carefully shaped the book to follow the natural cycle of the seasons, yet it is more than an account of life in the woods, it is a quest for personal freedom and individuality that evokes nature without being sentimental or distorting the natural world. \"Civil Disobedience\" was also based on Thoreau's experiences during the period he lived on the pond. In 1846, he was arrested for not having paid his poll tax, as a way of demonstrating that he did not recognize the authority of a government that \"buys and sells men, women, and children.\" It is a treatise against slavery and a government that wages war to support injustice. This edition includes: -A concise introduction that gives readers important background information -A chronology of the author's life and work -A timeline of significant events that provides the book's historical context -An outline of key themes and plot points to help readers form their own interpretations -Detailed explanatory notes -Critical analysis, including contemporary and modern perspectives on the work -Discussion questions to promote lively classroom and book group interaction -A list of recommended related books and films to broaden the reader's experience Enriched Classics offer readers affordable editions of great works of literature enhanced by helpful notes and insightful commentary. The scholarship provided in Enriched Classics enables readers to appreciate, understand, and enjoy the world's finest books to their full potential.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743487726"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0743487729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MASyAr4vzpAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MASyAr4vzpAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MASyAr4vzpAC&printsec=frontcover&dq=intitle:%22Walden%22+inauthor:%22Henry+David+Thoreau%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MASyAr4vzpAC&dq=intitle:%22Walden%22+inauthor:%22Henry+David+Thoreau%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Walden_and_Civil_Disobedience.html?hl=&id=MASyAr4vzpAC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MASyAr4vzpAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition includes: -A concise introduction that gives readers important background information -A chronology of the author&#39;s life and work -A timeline of significant events that provides the book&#39;s historical context -An outline of key ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "08wCkAEACAAJ",
+      "etag": "zizXDRDJ2ig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/08wCkAEACAAJ",
+      "volumeInfo": {
+        "title": "Walden, (1854), by Henry David Thoreau (Worlds Classics)",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-05",
+        "description": "Walden, or, Life in the Woods, is an American book written by noted transcendentalist Henry David Thoreau. The work is part personal declaration of independence, social experiment, voyage of spiritual discovery, satire, and manual for self-reliance. Published in 1854, it details Thoreau's experiences over the course of two years in a cabin he built near Walden Pond, amid woodland owned by his friend and mentor Ralph Waldo Emerson, near Concord, Massachusetts.also known as Life in the Woods, is one of the best-known non-fiction books written by an American. Published in 1854, it details Thoreau's life for two years and two months in second-growth forest around the shores of Walden Pond, not far from his friends and family in Concord, Massachusetts. Walden was written so that the stay appears to be a year, with expressed seasonal divisions. Thoreau called it an experiment in simple living. Walden is neither a novel nor a true autobiography, but a social critique of the Western World, with each chapter heralding some aspect of humanity that needed to be either renounced or praised.Thoreau lived in his Walden camp but two years, 1845-1847, and, as his narrative clearly shows, by no means exiled himself from home and companions. His hermitage was within easy walking distance of Concord; and, though his seclusion meant privacy at times, he was by no means debarred from society. The life in the woods was a characteristic expression of his stout independence of condition since the act was in a way unique, it transferred something of its unique property to the book which recorded it, and the book is more closely identified with Thoreau's fame, has done more to give him distinction, than any other of his writings. The book Walden was what William Ellery Channing calls \"the log-book of his woodland cruise at Walden.\" Thoreau himself tells us that the bulk of the book was written in his hermitage. One bit of verse, \"Light-winged smoke, Icarian bird,\" he had printed in The Dial; but nothing else appears to have been garnered from previous publications, and the book has thus a unity of design which helps to preserve its individual force. Walden was not published, however, until 1854, when it was brought out by Ticknor & Fields.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533105162"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533105165"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=08wCkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=08wCkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=08wCkAEACAAJ&dq=intitle:%22Walden%22+inauthor:%22Henry+David+Thoreau%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=08wCkAEACAAJ&dq=intitle:%22Walden%22+inauthor:%22Henry+David+Thoreau%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Walden_1854_by_Henry_David_Thoreau_World.html?hl=&id=08wCkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=08wCkAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book Walden was what William Ellery Channing calls &quot;the log-book of his woodland cruise at Walden.&quot; Thoreau himself tells us that the bulk of the book was written in his hermitage."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0oepwwEACAAJ",
+      "etag": "XV0/d5DL2tQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0oepwwEACAAJ",
+      "volumeInfo": {
+        "title": "Walden",
+        "subtitle": "By Henry David Thoreau (Illustrated Edition)",
+        "authors": [
+          "Henry David Thoreau"
+        ],
+        "publishedDate": "2019-03-11",
+        "description": "Illustrations were created specifically for this edition in 2019 by Lysa Kaliostra. Walden by Henry David Thoreau \"Walden, or Life in the Forest\" is a widely-known book by American poet and thinker Henry David Thoreau. First published in 1854. This book is literary a record of a kind of social experiment, for which the author spent over two years. On his own. Thoreau decided to isolate himself from society for some time, focusing only on himself and his needs, imbued with the ideas of the liberal philosopher and the Unitarian pastor Ralph Waldo Emerson. He settled in Massachusetts, in his own self-built hut on the banks of the Walden Pond. He got everything he needed to live on his own, spending most of his time gardening, fishing, reading classic literature, swimming and rowing. However, he did not avoid human intercourse, often meeting and talking both with random travelers, and with the owner of the pond - Emerson himself. With his experiment, Thoreau sought to make it clear to the modern society with its cult of material things that it is possible to live well and happily outside of society, satisfying all natural needs with your own work. He contrasted the industrial revolution and the emerging consumer society with freedom from material wealth, privacy, self-sufficiency and closeness to nature. In fact, the Thoreau's book in addition to its undoubtedly amazing literary qualities is also a kind of propaganda of anti-capitalist and romantic-utopian ideas of the XIX century. By the way, it is appropriate to note that the ideas of maximum separation from modern society, in order to be left alone with yourself and with nature, are also quite popular in the 21st century ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1090106831"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781090106834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0oepwwEACAAJ&dq=intitle:%22Walden%22+inauthor:%22Henry+David+Thoreau%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0oepwwEACAAJ&dq=intitle:%22Walden%22+inauthor:%22Henry+David+Thoreau%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Walden.html?hl=&id=0oepwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0oepwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Illustrations were created specifically for this edition in 2019 by Lysa Kaliostra. Walden by Henry David Thoreau &quot;Walden, or Life in the Forest&quot; is a widely-known book by American poet and thinker Henry David Thoreau."
+      }
+    }
+  ]
+}

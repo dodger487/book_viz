@@ -1,0 +1,125 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZGUDAAAACAAJ",
+      "etag": "f4jdoRS0qqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZGUDAAAACAAJ",
+      "volumeInfo": {
+        "title": "Hey, Bridget!",
+        "subtitle": "A Collection of Very Short Stories",
+        "authors": [
+          "Monica Gesue"
+        ],
+        "publisher": "Aspen Publishers",
+        "publishedDate": "2002-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1931497095"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781931497091"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ZGUDAAAACAAJ&dq=intitle:%22The+Best+American+Short+Stories+2011%22+inauthor:%22Geraldine+Brooks,+Heidi+Pitlor%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZGUDAAAACAAJ&dq=intitle:%22The+Best+American+Short+Stories+2011%22+inauthor:%22Geraldine+Brooks,+Heidi+Pitlor%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hey_Bridget.html?hl=&id=ZGUDAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZGUDAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OtLZwAEACAAJ",
+      "etag": "+ldOX04tbKE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OtLZwAEACAAJ",
+      "volumeInfo": {
+        "title": "Fourteen Stories ...",
+        "authors": [
+          "Pearl Sydenstricker Buck"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:278540813"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OtLZwAEACAAJ&dq=intitle:%22The+Best+American+Short+Stories+2011%22+inauthor:%22Geraldine+Brooks,+Heidi+Pitlor%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OtLZwAEACAAJ&dq=intitle:%22The+Best+American+Short+Stories+2011%22+inauthor:%22Geraldine+Brooks,+Heidi+Pitlor%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fourteen_Stories.html?hl=&id=OtLZwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OtLZwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

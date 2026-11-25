@@ -1,0 +1,201 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DhSyE8WNZ5IC",
+      "etag": "WgA1iKBv9xU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DhSyE8WNZ5IC",
+      "volumeInfo": {
+        "title": "His Majesty's Dragon",
+        "authors": [
+          "Naomi Novik"
+        ],
+        "publisher": "Del Rey Books",
+        "publishedDate": "2006",
+        "description": "When the HMS Reliant captures a French ship and its priceless cargo, an unhatched dragon egg, Captain Will Laurence is swept into an unexpected kinship with an extraordinary creature and joins the elite Aerial Corps as a master of the dragon Temaraire, in which role he must match wits with the powerful dragon-borne forces of Napoleon Bonaparte. Original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345481283"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345481283"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DhSyE8WNZ5IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DhSyE8WNZ5IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DhSyE8WNZ5IC&dq=intitle:%22His+Majesty%27s+Dragon:+Book+One+of+Temeraire%22+inauthor:%22Naomi+Novik%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DhSyE8WNZ5IC&dq=intitle:%22His+Majesty%27s+Dragon:+Book+One+of+Temeraire%22+inauthor:%22Naomi+Novik%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/His_Majesty_s_Dragon.html?hl=&id=DhSyE8WNZ5IC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DhSyE8WNZ5IC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When the HMS Reliant captures a French ship and its priceless cargo, an unhatched dragon egg, Captain Will Laurence is swept into an unexpected kinship with an extraordinary creature and joins the elite Aerial Corps as a master of the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bFqCnQAACAAJ",
+      "etag": "tixUe+2tSvA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bFqCnQAACAAJ",
+      "volumeInfo": {
+        "title": "Temeraire",
+        "authors": [
+          "Naomi Novik"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8771186875"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788771186871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com/books?id=bFqCnQAACAAJ&dq=intitle:%22His+Majesty%27s+Dragon:+Book+One+of+Temeraire%22+inauthor:%22Naomi+Novik%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bFqCnQAACAAJ&dq=intitle:%22His+Majesty%27s+Dragon:+Book+One+of+Temeraire%22+inauthor:%22Naomi+Novik%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temeraire.html?hl=&id=bFqCnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bFqCnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jNVWAgAACAAJ",
+      "etag": "7tTvOKQKoWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jNVWAgAACAAJ",
+      "volumeInfo": {
+        "title": "Temeraire",
+        "subtitle": "In the Service of the King",
+        "authors": [
+          "Naomi Novaik"
+        ],
+        "publishedDate": "2006",
+        "description": "Contains the first three books in the TEMERAIRE series: His Majesty's dragon -- Throne of jade -- Black powder war.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0739468715"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780739468715"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 832,
+        "printType": "BOOK",
+        "categories": [
+          "Dragons"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jNVWAgAACAAJ&dq=intitle:%22His+Majesty%27s+Dragon:+Book+One+of+Temeraire%22+inauthor:%22Naomi+Novik%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jNVWAgAACAAJ&dq=intitle:%22His+Majesty%27s+Dragon:+Book+One+of+Temeraire%22+inauthor:%22Naomi+Novik%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temeraire.html?hl=&id=jNVWAgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jNVWAgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contains the first three books in the TEMERAIRE series: His Majesty&#39;s dragon -- Throne of jade -- Black powder war."
+      }
+    }
+  ]
+}

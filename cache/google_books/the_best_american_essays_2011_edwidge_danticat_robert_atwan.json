@@ -1,0 +1,217 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 32,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Xqc6WgUgwKUC",
+      "etag": "qVKvTIAkwmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xqc6WgUgwKUC",
+      "volumeInfo": {
+        "title": "The Best American Essays 2011",
+        "authors": [
+          "Edwidge Danticat",
+          "Robert Atwan"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2011-10-04",
+        "description": "The acclaimed author of Breath, Eyes, Memory presents an anthology of personal essays by Hilton Als, Christopher Hitchens, Zadie Smith and others. In her selection process for this sterling volume, Edwidge Danticat considers the inherent vulnerability of the essay form\u2014a vulnerability that seems all the more present in today's spotlighted public square. As she says in her introduction, \"when we insert our 'I' (our eye) to search deeper into someone, something, or ourselves, we are always risking a yawn or a slap, indifference or disdain.\" Here are intimate personal essays that examine a range of vital topics, from cancer diagnosis to police brutality, and from devastating natural disasters to the dilemmas of modern medicine. All in all, \"the brave voices behind these experiences keep the pages turning\" ( Kirkus Reviews). The Best American Essays 2011 includes entries by Hilton Als, Katy Butler, Toi Derricotte, Christopher Hitchens, Pico Iyer, Charlie LeDuff, Chang-Rae Lee, Lia Purpura, Zadie Smith, Reshma Memon Yaqub, and others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547678436"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0547678436"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 37,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.18.18.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xqc6WgUgwKUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xqc6WgUgwKUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Xqc6WgUgwKUC&printsec=frontcover&dq=intitle:%22The+Best+American+Essays+2011%22+inauthor:%22Edwidge+Danticat,+Robert+Atwan%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Xqc6WgUgwKUC&dq=intitle:%22The+Best+American+Essays+2011%22+inauthor:%22Edwidge+Danticat,+Robert+Atwan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_American_Essays_2011.html?hl=&id=Xqc6WgUgwKUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Best_American_Essays_2011-sample-epub.acsm?id=Xqc6WgUgwKUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Best_American_Essays_2011-sample-pdf.acsm?id=Xqc6WgUgwKUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xqc6WgUgwKUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Best American Essays 2011 includes entries by Hilton Als, Katy Butler, Toi Derricotte, Christopher Hitchens, Pico Iyer, Charlie LeDuff, Chang-Rae Lee, Lia Purpura, Zadie Smith, Reshma Memon Yaqub, and others."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nKIDuwAACAAJ",
+      "etag": "BQ/FdWjXB10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nKIDuwAACAAJ",
+      "volumeInfo": {
+        "title": "The Best American Essays 2007",
+        "authors": [
+          "Robert Atwan"
+        ],
+        "publisher": "Mariner Books",
+        "publishedDate": "2007",
+        "description": "Compiles the best literary essays of the year originally published in American periodicals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0618709274"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780618709274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nKIDuwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nKIDuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nKIDuwAACAAJ&dq=intitle:%22The+Best+American+Essays+2011%22+inauthor:%22Edwidge+Danticat,+Robert+Atwan%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nKIDuwAACAAJ&dq=intitle:%22The+Best+American+Essays+2011%22+inauthor:%22Edwidge+Danticat,+Robert+Atwan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_American_Essays_2007.html?hl=&id=nKIDuwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nKIDuwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Compiles the best literary essays of the year originally published in American periodicals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Al60gEACAAJ",
+      "etag": "CzIE+dIqWA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Al60gEACAAJ",
+      "volumeInfo": {
+        "title": "The Best American Essays, 2002",
+        "authors": [
+          "Stephen Jay Gould"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:50771774"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "American essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4Al60gEACAAJ&dq=intitle:%22The+Best+American+Essays+2011%22+inauthor:%22Edwidge+Danticat,+Robert+Atwan%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4Al60gEACAAJ&dq=intitle:%22The+Best+American+Essays+2011%22+inauthor:%22Edwidge+Danticat,+Robert+Atwan%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_American_Essays_2002.html?hl=&id=4Al60gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Al60gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

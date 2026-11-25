@@ -1,0 +1,204 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CLDgDxHNu1oC",
+      "etag": "lq2J+60Ndz8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CLDgDxHNu1oC",
+      "volumeInfo": {
+        "title": "Average Is Over",
+        "subtitle": "Powering America Beyond the Age of the Great Stagnation",
+        "authors": [
+          "Tyler Cowen"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2013-09-12",
+        "description": "Renowned economist and author of Big Business Tyler Cowen brings a groundbreaking analysis of capitalism, the job market, and the growing gap between the one percent and minimum wage workers in this follow-up to the New York Times bestseller The Great Stagnation. The United States continues to mint more millionaires and billionaires than any country ever. Yet, since the great recession, three quarters of the jobs created here pay only marginally more than minimum wage. Why is there growth only at the top and the bottom? Economist and bestselling author Tyler Cowen explains that high earners are taking ever more advantage of machine intelligence and achieving ever-better results. Meanwhile, nearly every business sector relies less and less on manual labor, and that means a steady, secure life somewhere in the middle\u2014average\u2014is over. In Average is Over, Cowen lays out how the new economy works and identifies what workers and entrepreneurs young and old must do to thrive in this radically new economic landscape.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780698138162"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0698138163"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 263,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CLDgDxHNu1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CLDgDxHNu1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CLDgDxHNu1oC&printsec=frontcover&dq=intitle:%22The+Great+Stagnation%22+inauthor:%22Tyler+Cowen%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CLDgDxHNu1oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CLDgDxHNu1oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CLDgDxHNu1oC&rdid=book-CLDgDxHNu1oC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Average_Is_Over-sample-epub.acsm?id=CLDgDxHNu1oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CLDgDxHNu1oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Average is Over, Cowen lays out how the new economy works and identifies what workers and entrepreneurs young and old must do to thrive in this radically new economic landscape."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tHMNnGFVFQYC",
+      "etag": "B3ijEyvLwgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tHMNnGFVFQYC",
+      "volumeInfo": {
+        "title": "The Great Stagnation",
+        "subtitle": "How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Will (Eventually) Feel Better: A Penguin eSpecial from Dutton",
+        "authors": [
+          "Tyler Cowen"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2011-01-25",
+        "description": "Tyler Cowen\u2019s controversial New York Times bestseller\u2014the book heard round the world that ignited a firestorm of debate and redefined the nature of America\u2019s economic malaise. America has been through the biggest financial crisis since the great Depression, unemployment numbers are frightening, media wages have been flat since the 1970s, and it is common to expect that things will get worse before they get better. Certainly, the multidecade stagnation is not yet over. How will we get out of this mess? One political party tries to increase government spending even when we have no good plan for paying for ballooning programs like Medicare and Social Security. The other party seems to think tax cuts will raise revenue and has a record of creating bigger fiscal disasters that the first. Where does this madness come from? As Cowen argues, our economy has enjoyed low-hanging fruit since the seventeenth century: free land, immigrant labor, and powerful new technologies. But during the last forty years, the low-hanging fruit started disappearing, and we started pretending it was still there. We have failed to recognize that we are at a technological plateau. The fruit trees are barer than we want to believe. That's it. That is what has gone wrong and that is why our politics is crazy. In The Great Stagnation, Cowen reveals the underlying causes of our past prosperity and how we will generate it again. This is a passionate call for a new respect of scientific innovations that benefit not only the powerful elites, but humanity as a whole.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781101502259"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1101502258"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.10.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tHMNnGFVFQYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tHMNnGFVFQYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tHMNnGFVFQYC&printsec=frontcover&dq=intitle:%22The+Great+Stagnation%22+inauthor:%22Tyler+Cowen%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tHMNnGFVFQYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tHMNnGFVFQYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tHMNnGFVFQYC&rdid=book-tHMNnGFVFQYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Great_Stagnation-sample-epub.acsm?id=tHMNnGFVFQYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tHMNnGFVFQYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a passionate call for a new respect of scientific innovations that benefit not only the powerful elites, but humanity as a whole."
+      }
+    }
+  ]
+}

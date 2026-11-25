@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4aqMEAAAQBAJ",
+      "etag": "sMbqjjecvnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4aqMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Civilization",
+        "subtitle": "The West and the Rest",
+        "authors": [
+          "Niall Ferguson"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2012-10-30",
+        "description": "From the bestselling author of The Ascent of Money and The Square and the Tower \u201cA dazzling history of Western ideas.\u201d \u2014The Economist \u201cMr. Ferguson tells his story with characteristic verve and an eye for the felicitous phrase.\u201d \u2014Wall Street Journal \u201c[W]ritten with vitality and verve . . . a tour de force.\u201d \u2014Boston Globe Western civilization\u2019s rise to global dominance is the single most important historical phenomenon of the past five centuries. How did the West overtake its Eastern rivals? And has the zenith of Western power now passed? Acclaimed historian Niall Ferguson argues that beginning in the fifteenth century, the West developed six powerful new concepts, or \u201ckiller applications\u201d\u2014competition, science, the rule of law, modern medicine, consumerism, and the work ethic\u2014that the Rest lacked, allowing it to surge past all other competitors. Yet now, Ferguson shows how the Rest have downloaded the killer apps the West once monopolized, while the West has literally lost faith in itself. Chronicling the rise and fall of empires alongside clashes (and fusions) of civilizations, Civilization: The West and the Rest recasts world history with force and wit. Boldly argued and teeming with memorable characters, this is Ferguson at his very best.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143122067"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143122061"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4aqMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4aqMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=4aqMEAAAQBAJ&dq=intitle:%22Civilization:+The+West+and+the+Rest%22+inauthor:%22Niall+Ferguson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4aqMEAAAQBAJ&dq=intitle:%22Civilization:+The+West+and+the+Rest%22+inauthor:%22Niall+Ferguson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Civilization.html?hl=&id=4aqMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4aqMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Boldly argued and teeming with memorable characters, this is Ferguson at his very best."
+      }
+    }
+  ]
+}

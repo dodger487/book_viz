@@ -1,0 +1,203 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 11,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9weDswEACAAJ",
+      "etag": "gvaTAp6TvWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9weDswEACAAJ",
+      "volumeInfo": {
+        "title": "The Brothers Karamazov by Fyodor Dostoyevsky",
+        "authors": [
+          "Fyodor Dostoyevsky"
+        ],
+        "publishedDate": "2017-09-22",
+        "description": "The Brothers Karamazov Karamazovy, pronounced , also translated as The Karamazov Brothers, is the final novel by the Russian author Fyodor Dostoyevsky. Dostoyevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger from January 1879 to November 1880. The author died less than four months after its publication.The Brothers Karamazov is a passionate philosophical novel set in 19th-century Russia, that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, judgment, and reason, set against a modernizing Russia, with a plot which revolves around the subject of patricide. Dostoyevsky composed much of the novel in Staraya Russa, which inspired the main setting. Since its publication, it has been acclaimed as one of the supreme achievements in world literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1977518257"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781977518255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9weDswEACAAJ&dq=intitle:%22The+Brothers+Karamazov%22+inauthor:%22Fyodor+Dostoevsky%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9weDswEACAAJ&dq=intitle:%22The+Brothers+Karamazov%22+inauthor:%22Fyodor+Dostoevsky%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Brothers_Karamazov_by_Fyodor_Dostoye.html?hl=&id=9weDswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9weDswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Brothers Karamazov Karamazovy, pronounced , also translated as The Karamazov Brothers, is the final novel by the Russian author Fyodor Dostoyevsky."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dnb3zQEACAAJ",
+      "etag": "D0PLxDMKIi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dnb3zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Brothers Karamazov by Fyodor Dostoevsky",
+        "authors": [
+          "Fyodor Dostoevsky"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-10-24",
+        "description": "Completed only a few months before the author's death, The Brothers Karamazov is Dostoyevsky's largest, most expansive, most life-embracing work. Filled with human passions \u2015 lust, greed, love, jealousy, sorrow, and humor \u2015 the book is also infused with moral issues and the issue of collective guilt. As in many of Dostoyevsky's novels, the plot centers on a murder. Three brothers, different in character but bound by their ancestry, are drawn into the crime's vortex: Dmitri, a young officer utterly unrestrained in love, hatred, jealousy, and generosity; Ivan, an intellectual capable of delivering impromptu disquisitions about good and evil, God, and the devil; and Alyosha, the youngest brother, preternaturally patient, kind, and loving. Part mystery, part profound philosophical and theological debate, The Brothers Karamazov represents the culmination of Dostoyevsky's life's work and ranks among the greatest novels of all time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798552844593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dnb3zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dnb3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dnb3zQEACAAJ&dq=intitle:%22The+Brothers+Karamazov%22+inauthor:%22Fyodor+Dostoevsky%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dnb3zQEACAAJ&dq=intitle:%22The+Brothers+Karamazov%22+inauthor:%22Fyodor+Dostoevsky%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Brothers_Karamazov_by_Fyodor_Dostoev.html?hl=&id=dnb3zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dnb3zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Filled with human passions \u2015 lust, greed, love, jealousy, sorrow, and humor \u2015 the book is also infused with moral issues and the issue of collective guilt. As in many of Dostoyevsky&#39;s novels, the plot centers on a murder."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "piPdtAEACAAJ",
+      "etag": "HHPtHv9ml2E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/piPdtAEACAAJ",
+      "volumeInfo": {
+        "title": "The BROTHERS KARAMAZOV by Fyodor Dostoyevsky",
+        "subtitle": "The BROTHERS KARAMAZOV by Fyodor Dostoyevsky, the Classic Books",
+        "authors": [
+          "Fyodor Dostoevsky"
+        ],
+        "publishedDate": "2017-07-13",
+        "description": "\"The classic book has always read again and again.\"\"What is the classic book?\"\"\"\"Why is the classic book?\"\"READ READ READ.. then you'll know it's excellence.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1548842621"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781548842628"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=piPdtAEACAAJ&dq=intitle:%22The+Brothers+Karamazov%22+inauthor:%22Fyodor+Dostoevsky%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=piPdtAEACAAJ&dq=intitle:%22The+Brothers+Karamazov%22+inauthor:%22Fyodor+Dostoevsky%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_BROTHERS_KARAMAZOV_by_Fyodor_Dostoye.html?hl=&id=piPdtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=piPdtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The classic book has always read again and again.&quot;&quot;What is the classic book?&quot;&quot;&quot;&quot;Why is the classic book?&quot;&quot;READ READ READ.. then you&#39;ll know it&#39;s excellence.&quot;"
+      }
+    }
+  ]
+}

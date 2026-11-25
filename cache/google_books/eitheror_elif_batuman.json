@@ -1,0 +1,153 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-KRPEAAAQBAJ",
+      "etag": "AblEfHLAPcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-KRPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Either/Or",
+        "authors": [
+          "Elif Batuman"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022-05-24",
+        "description": "An instant New York Times bestseller! A New York Times Notable Book of 2022 \u201cBatuman has a gift for making the universe seem, somehow, like the benevolent and witty literary seminar you wish it were . . .This novel wins you over in a million micro-observations.\u201d \u2014The New York Times From the acclaimed and bestselling author of The Idiot, the continuation of beloved protagonist Selin\u2019s quest for self-knowledge, as she travels abroad and tests the limits of her newfound adulthood Selin is the luckiest person in her family: the only one who was born in America and got to go to Harvard. Now it\u2019s sophomore year, 1996, and Selin knows she has to make it count. The first order of business: to figure out the meaning of everything that happened over the summer. Why did Selin\u2019s elusive crush, Ivan, find her that job in the Hungarian countryside? What was up with all those other people in the Hungarian countryside? Why is Ivan\u2019s weird ex-girlfriend now trying to get in touch with Selin? On the plus side, it feels like the plot of an exciting novel. On the other hand, why do so many novels have crazy abandoned women in them? How does one live a life as interesting as a novel\u2014a life worthy of becoming a novel\u2014without becoming a crazy abandoned woman oneself? Guided by her literature syllabus and by her more worldly and confident peers, Selin reaches certain conclusions about the universal importance of parties, alcohol, and sex, and resolves to execute them in practice\u2014no matter what the cost. Next on the list: international travel. Unfolding with the propulsive logic and intensity of youth, Either/Or is a landmark novel by one of our most brilliant writers. Hilarious, revelatory, and unforgettable, its gripping narrative will confront you with searching questions that persist long after the last page.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525557593"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525557598"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-KRPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-KRPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-KRPEAAAQBAJ&printsec=frontcover&dq=intitle:%22Either/Or%22+inauthor:%22Elif+Batuman%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-KRPEAAAQBAJ&dq=intitle:%22Either/Or%22+inauthor:%22Elif+Batuman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Either_Or.html?hl=&id=-KRPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-KRPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". .This novel wins you over in a million micro-observations.\u201d \u2014The New York Times From the acclaimed and bestselling author of The Idiot, the continuation of beloved protagonist Selin\u2019s quest for self-knowledge, as she travels abroad ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_HA9EAAAQBAJ",
+      "etag": "+AwsmKnLC14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_HA9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Either/Or",
+        "subtitle": "From the bestselling author of THE IDIOT",
+        "authors": [
+          "Elif Batuman"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2022-05-26",
+        "description": "The new novel from the bestselling author of The Idiot follows one young woman's quest for self-knowledge, as she travels abroad and tests the limits of her newfound adulthood. 'Elif Batuman is the queen of the campus novel... Enchanting' Sunday Times SELIN IS THE LUCKIEST PERSON IN HER FAMILY: The only one who was born in America and got to go to Harvard. Now it's her second year, and Selin knows she has to make it count. The first order of business: to figure out the meaning of everything that happened over the summer... On the plus side, her life feels like the plot of an exciting novel. On the other hand, why do so many novels have crazy, abandoned women in them? And how does one live a life as interesting as a novel - a life worthy of becoming a novel - without turning into a crazy, abandoned woman oneself? 'Stupendous... Hilarious... Batuman is a genius' Vogue 'This novel wins you over in a million micro-observations' New York Times 'Searingly smart' Evening Standard",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529191363"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "152919136X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_HA9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_HA9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_HA9EAAAQBAJ&dq=intitle:%22Either/Or%22+inauthor:%22Elif+Batuman%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_HA9EAAAQBAJ&dq=intitle:%22Either/Or%22+inauthor:%22Elif+Batuman%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Either_Or.html?hl=&id=_HA9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_HA9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The new novel from the bestselling author of The Idiot follows one young woman&#39;s quest for self-knowledge, as she travels abroad and tests the limits of her newfound adulthood. &#39;Elif Batuman is the queen of the campus novel."
+      }
+    }
+  ]
+}

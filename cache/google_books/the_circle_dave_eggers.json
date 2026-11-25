@@ -1,0 +1,252 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 7,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sbxWAAAAQBAJ",
+      "etag": "qDb7lns3X9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sbxWAAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Circle",
+        "authors": [
+          "Dave Eggers"
+        ],
+        "publisher": "Vintage",
+        "publishedDate": "2013-10-08",
+        "description": "INTERNATIONAL BESTSELLER \u2022 A bestselling dystopian novel that tackles surveillance, privacy and the frightening intrusions of technology in our lives\u2014a \u201ccompulsively readable parable for the 21st century\u201d (Vanity Fair). When Mae Holland is hired to work for the Circle, the world\u2019s most powerful internet company, she feels she\u2019s been given the opportunity of a lifetime. The Circle, run out of a sprawling California campus, links users\u2019 personal emails, social media, banking, and purchasing with their universal operating system, resulting in one online identity and a new age of civility and transparency. As Mae tours the open-plan office spaces, the towering glass dining facilities, the cozy dorms for those who spend nights at work, she is thrilled with the company\u2019s modernity and activity. There are parties that last through the night, there are famous musicians playing on the lawn, there are athletic activities and clubs and brunches, and even an aquarium of rare fish retrieved from the Marianas Trench by the CEO. Mae can\u2019t believe her luck, her great fortune to work for the most influential company in the world\u2014even as life beyond the campus grows distant, even as a strange encounter with a colleague leaves her shaken, even as her role at the Circle becomes increasingly public. What begins as the captivating story of one woman\u2019s ambition and idealism soon becomes a heart-racing novel of suspense, raising questions about memory, history, privacy, democracy, and the limits of human knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385351409"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385351402"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 393,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.27.25.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sbxWAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sbxWAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sbxWAAAAQBAJ&printsec=frontcover&dq=intitle:%22The+Circle%22+inauthor:%22Dave+Eggers%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sbxWAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sbxWAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sbxWAAAAQBAJ&rdid=book-sbxWAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Circle-sample-epub.acsm?id=sbxWAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sbxWAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What begins as the captivating story of one woman\u2019s ambition and idealism soon becomes a heart-racing novel of suspense, raising questions about memory, history, privacy, democracy, and the limits of human knowledge."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NJJivgEACAAJ",
+      "etag": "h6NTEoS+b/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NJJivgEACAAJ",
+      "volumeInfo": {
+        "title": "The Circle",
+        "subtitle": "A Novel",
+        "authors": [
+          "Dave Eggers"
+        ],
+        "publisher": "Knopf Canada",
+        "publishedDate": "2013",
+        "description": "LONGLISTED 2015 - International IMPAC Dublin Literary Award The Circle is the exhilarating new novel from Dave Eggers, bestselling author of A Hologram for the King, a finalist for the National Book Award. When Mae Holland is hired to work for the Circle, the world's most powerful internet company, she feels she's been given the opportunity of a lifetime. The Circle, run out of a sprawling California campus, links users' personal emails, social media, banking, and purchasing with their universal operating system, resulting in one online identity and a new age of civility and transparency. As Mae tours the open-plan office spaces, the towering glass dining facilities, the cozy dorms for those who spend nights at work, she is thrilled with the company's modernity and activity. There are parties that last through the night, there are famous musicians playing on the lawn, there are athletic activities and clubs and brunches, and even an aquarium of rare fish retrieved from the Marianas Trench by the CEO. Mae can't believe her luck, her great fortune to work for the most influential company in the world--even as life beyond the campus grows distant, even as a strange encounter with a colleague leaves her shaken, even as her role at the Circle becomes increasingly public. What begins as the captivating story of one woman's ambition and idealism soon becomes a heart-racing novel of suspense, raising questions about memory, history, privacy, democracy, and the limits of human knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0345808584"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345808585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 491,
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NJJivgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NJJivgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NJJivgEACAAJ&dq=intitle:%22The+Circle%22+inauthor:%22Dave+Eggers%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NJJivgEACAAJ&dq=intitle:%22The+Circle%22+inauthor:%22Dave+Eggers%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Circle.html?hl=&id=NJJivgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NJJivgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "LONGLISTED 2015 - International IMPAC Dublin Literary Award The Circle is the exhilarating new novel from Dave Eggers, bestselling author of A Hologram for the King, a finalist for the National Book Award."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FCyREAAAQBAJ",
+      "etag": "KyobxwEL9Sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FCyREAAAQBAJ",
+      "volumeInfo": {
+        "title": "El c\u00edrculo / The Circle",
+        "authors": [
+          "Dave Eggers"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2017-06-06",
+        "description": "El libro en el que se basa la pel\u00edcula The circle, protagonizada por Emma Watson y Tom Hanks.Una novela siniestramente veros\u00edmil sobre los peligros de la era digital.A pesar de su entusiasmo por trabajar en el C\u00edrculo, Mae pronto descubrir\u00e1 que su vida fuera de la compa\u00f1\u00eda comienza a pasar a un segundo plano...Lo que empieza como la fascinante historia de ambici\u00f3n e idealismo se convierte en una trepidante novela de suspense que plantea cuestiones como la memoria, el pasado, la privacidad, la democracia y los l\u00edmites del conocimiento humano. El d\u00eda que Mae Holland es contratada para trabajar en el C\u00edrculo, la empresa de internet m\u00e1s influyente del mundo, sabe que se le ha concedido la oportunidad de su vida. A trav\u00e9s de un innovador sistema operativo, el C\u00edrculo unifica direcciones de email, perfiles de redes sociales, operaciones bancarias y contrase\u00f1as de usuarios dando lugar a una \u00fanica identidad virtual y veraz, en pos de una nueva era de civilidad y transparencia. Mae est\u00e1 entusiasmada con la modernidad y la actividad de la compa\u00f1\u00eda. Cada d\u00eda se celebran fiestas, conciertos al aire libre y actividades deportivas. Hay clubs de todo tipo, e incluso puede visitarse un exclusivo acuario de peces ex\u00f3ticos. Mae se siente afortunada de formar parte del centro del mundo, a pesar de que se aleje cada vez m\u00e1s de su vida fuera del campus y de que su rol dentro del C\u00edrculo acabe siendo de dominio p\u00fablico. La cr\u00edtica ha opinado: \"Eggers nos demuestra con El C\u00edrculo cu\u00e1l es el impacto de la era digital en la sociedad de forma exquisitamente astuta, introspectiva y profunda.\" - The Guardian \"Una par\u00e1bola sobre los peligros de la era digital. Eggers nos recuerda c\u00f3mo la utop\u00eda digital puede conducir a la 'dataficaci\u00f3n' de nuestra vida diaria, c\u00f3mo la creencia en la sabidur\u00eda de la mayor\u00eda puede hundirnos en el decreto de las masas, c\u00f3mo abrazar la idea de comunidad puede llevarnos a la anulaci\u00f3n del individuo.\" - The New York Times \"El C\u00edrculo es una h\u00e1bil y moderna s\u00edntesis de ingenio swiftiano y pronosticaci\u00f3n orwelliana [#], un trabajo tan relacionado con nuestro tiempo que podr\u00eda ser considerado la observaci\u00f3n sat\u00edrica m\u00e1s acertada del principio de la era de internet.\" - The Guardian \"Fascinante [#] Eggers consigue que nos suba la adrenalina [#]. Una novela de ideas [#]. Puro entretenimiento, pero del estimulante.\" - Margaret Atwood, The New York Review of Books \"La mayor\u00eda nos imaginamos el totalitarismo como algo que se impone, pero \u00bfy si fu\u00e9ramos los c\u00f3mplices en nuestra propia opresi\u00f3n? Este es el escenario de la ambiciosa, aterrorizante y siniestramente veros\u00edmil nueva novela de Eggers [#]. Las comparaciones con Un mundo feliz y 1984 ser\u00e1n inevitables.\" - Booklist \"Eggers ha puesto su estilo y su pulso narrativo al servicio del tecnothriller: un escritura en\u00e9rgica y eficaz.\" - Time ENGLISH DESCRIPTIONNow a Major Motion Picture starring Emma Watson and Tom Hanks. A bestselling dystopian novel that tackles surveillance, privacy and the frightening intrusions of technology in our lives. When Mae Holland is hired to work for the Circle, the world's most powerful internet company, she feels she's been given the opportunity of a lifetime. The Circle, run out of a sprawling California campus, links users' personal emails, social media, banking, and purchasing with their universal operating system, resulting in one online identity and a new age of civility and transparency. As Mae tours the open-plan office spaces, the towering glass dining facilities, the cozy dorms for those who spend nights at work, she is thrilled with the company's modernity and activity. There are parties that last through the night, there are famous musicians playing on the lawn, there are athletic activities and clubs and brunches, and even an aquarium of rare fish retrieved from the Marianas Trench by the CEO. Mae can't believe her luck, her great fortune to work for the most influential company in the world\u2014even as life beyond the campus grows distant, even as a strange encounter with a colleague leaves her shaken, even as her role at the Circle becomes increasingly public. What begins as the captivating story of one woman's ambition and idealism soon becomes a heart-racing novel of suspense, raising questions about memory, history, privacy, democracy, and the limits of human knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781945540622"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1945540621"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FCyREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FCyREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=FCyREAAAQBAJ&dq=intitle:%22The+Circle%22+inauthor:%22Dave+Eggers%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FCyREAAAQBAJ&dq=intitle:%22The+Circle%22+inauthor:%22Dave+Eggers%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_c%C3%ADrculo_The_Circle.html?hl=&id=FCyREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FCyREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What begins as the captivating story of one woman&#39;s ambition and idealism soon becomes a heart-racing novel of suspense, raising questions about memory, history, privacy, democracy, and the limits of human knowledge."
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 19,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Iw_gHtk4ghYC",
+      "etag": "yiKZ7TVm0rQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Iw_gHtk4ghYC",
+      "volumeInfo": {
+        "title": "Mockingjay (Hunger Games, Book Three)",
+        "authors": [
+          "Suzanne Collins"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2010-08-24",
+        "description": "The greatly anticipated final book in the New York Times bestselling Hunger Games trilogy by Suzanne Collins. The greatly anticipated final book in the New York Times bestselling Hunger Games trilogy by Suzanne Collins.The Capitol is angry. The Capitol wants revenge. Who do they think should pay for the unrest? Katniss Everdeen. The final book in The Hunger Games trilogy by Suzanne Collins will have hearts racing, pages turning, and everyone talking about one of the biggest and most talked-about books and authors in recent publishing history!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780545317801"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0545317800"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2382,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.15.17.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Iw_gHtk4ghYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Iw_gHtk4ghYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Iw_gHtk4ghYC&printsec=frontcover&dq=intitle:%22Mockingjay%22+inauthor:%22Suzanne+Collins%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Iw_gHtk4ghYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Iw_gHtk4ghYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Iw_gHtk4ghYC&rdid=book-Iw_gHtk4ghYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mockingjay_Hunger_Games_Book_Three-sample-epub.acsm?id=Iw_gHtk4ghYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Mockingjay_Hunger_Games_Book_Three-sample-pdf.acsm?id=Iw_gHtk4ghYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Iw_gHtk4ghYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Katniss Everdeen. The final book in The Hunger Games trilogy by Suzanne Collins will have hearts racing, pages turning, and everyone talking about one of the biggest and most talked-about books and authors in recent publishing history!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oYN3MAEACAAJ",
+      "etag": "PKDkyi/olQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oYN3MAEACAAJ",
+      "volumeInfo": {
+        "title": "The Hunger Games Slipcase",
+        "subtitle": "The Hunger Games; Catching Fire; Mockingjay",
+        "authors": [
+          "Suzanne Collins"
+        ],
+        "publishedDate": "2012-10-01",
+        "description": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing each of them to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1742835325"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781742835327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oYN3MAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oYN3MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oYN3MAEACAAJ&dq=intitle:%22Mockingjay%22+inauthor:%22Suzanne+Collins%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oYN3MAEACAAJ&dq=intitle:%22Mockingjay%22+inauthor:%22Suzanne+Collins%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games_Slipcase.html?hl=&id=oYN3MAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oYN3MAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Capitol is harsh and cruel and keeps the districts in line by forcing each of them to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rabW0QEACAAJ",
+      "etag": "zMEn7nMYs7k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rabW0QEACAAJ",
+      "volumeInfo": {
+        "title": "Mockingjay: Illustrated Edition (the Hunger Games #3)",
+        "authors": [
+          "Suzanne Collins"
+        ],
+        "publisher": "Scholastic Press",
+        "publishedDate": "2026-10-06",
+        "description": "With stunning illustrations by Nico Delort, this keepsake edition is a definitive final volume for all Hunger Games fans. \"My name is Katniss Everdeen. Why am I not dead? I should be dead.\" Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. There are rebels. There are new leaders. A revolution is unfolding. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Though she's long been a part of the revolution, Katniss hasn't known it. Now it seems that everyone has had a hand in the carefully laid plans but her. The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay - no matter what the cost.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798225029760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rabW0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rabW0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rabW0QEACAAJ&dq=intitle:%22Mockingjay%22+inauthor:%22Suzanne+Collins%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rabW0QEACAAJ&dq=intitle:%22Mockingjay%22+inauthor:%22Suzanne+Collins%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mockingjay_Illustrated_Edition_the_Hunge.html?hl=&id=rabW0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rabW0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With stunning illustrations by Nico Delort, this keepsake edition is a definitive final volume for all Hunger Games fans."
+      }
+    }
+  ]
+}

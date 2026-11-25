@@ -1,0 +1,237 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "65p0FWFyFR4C",
+      "etag": "pP6A30b/O8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/65p0FWFyFR4C",
+      "volumeInfo": {
+        "title": "The Art of Fielding",
+        "subtitle": "A Novel",
+        "authors": [
+          "Chad Harbach"
+        ],
+        "publisher": "Little, Brown",
+        "publishedDate": "2011-09-07",
+        "description": "A disastrous error on the field sends five lives into a tailspin in this widely acclaimed tale about love, life, and baseball. \u201cWonderful ... a novel that is every bit as entertaining as it is affecting.\u201d \u2014The New York Times \u201cFirst novels this complete and consuming come along very, very seldom.\u201d \u2014Jonathan Franzen, New York Times bestselling author of Crossroads At Westish College, a small school on the shore of Lake Michigan, baseball star Henry Skrimshander seems destined for big league stardom. But when a routine throw goes disastrously off course, the fates of five people are upended. Henry's fight against self-doubt threatens to ruin his future. College president Guert Affenlight, a longtime bachelor, has fallen unexpectedly and helplessly in love. Owen Dunne, Henry\u2019s gay roommate and teammate, becomes caught up in a dangerous affair. Mike Schwartz, the Harpooners\u2019 team captain and Henry\u2019s best friend, realizes he has guided Henry\u2019s career at the expense of his own. And Pella Affenlight, Guert\u2019s daughter, returns to Westish after escaping an ill-fated marriage, determined to start a new life. As the season counts down to its climactic final game, these five are forced to confront their deepest hopes, anxieties, and secrets. In the process they forge new bonds, and help one another find their true paths. Written with boundless intelligence and filled with the tenderness of youth, The Art of Fielding is an expansive, warmhearted novel about ambition and its limits, about family and friendship and love, and about commitment\u2014to oneself and to others. Named one of 2012\u2019s best books by The New York Times, NPR, The New Yorker, The Los Angeles Times, The Washington Post, The Wall Street Journal, Christian Science Monitor, Bloomberg, The Kansas City Star, The Richmond Times-Dispatch, and Time Out New York.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316192163"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0316192163"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 521,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.15.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=65p0FWFyFR4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=65p0FWFyFR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=65p0FWFyFR4C&printsec=frontcover&dq=intitle:%22The+Art+of+Fielding%22+inauthor:%22Chad+Harbach%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=65p0FWFyFR4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=65p0FWFyFR4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=65p0FWFyFR4C&rdid=book-65p0FWFyFR4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Fielding-sample-epub.acsm?id=65p0FWFyFR4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=65p0FWFyFR4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A disastrous error on the field sends five lives into a tailspin in this widely acclaimed tale about love, life, and baseball. \u201cWonderful ... a novel that is every bit as entertaining as it is affecting.\u201d \u2014The New York Times At ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ERHGngEACAAJ",
+      "etag": "3GAm5zr8mT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ERHGngEACAAJ",
+      "volumeInfo": {
+        "title": "The Art of Fielding",
+        "subtitle": "A Novel",
+        "authors": [
+          "Chad Harbach"
+        ],
+        "publisher": "Little Brown & Company",
+        "publishedDate": "2011-09-27",
+        "description": "A baseball star at a small college near Lake Michigan launches a routine throw that goes disastrously off course and inadvertently changes the lives of five people, including the college president, a gay teammate, and the president's daughter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316204722"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316204729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 736,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ERHGngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ERHGngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ERHGngEACAAJ&dq=intitle:%22The+Art+of+Fielding%22+inauthor:%22Chad+Harbach%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ERHGngEACAAJ&dq=intitle:%22The+Art+of+Fielding%22+inauthor:%22Chad+Harbach%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Fielding.html?hl=&id=ERHGngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ERHGngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A baseball star at a small college near Lake Michigan launches a routine throw that goes disastrously off course and inadvertently changes the lives of five people, including the college president, a gay teammate, and the president&#39;s ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jfhLjwEACAAJ",
+      "etag": "ouM9O6aCR7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jfhLjwEACAAJ",
+      "volumeInfo": {
+        "title": "Subi \u016di kisul",
+        "subtitle": "The art of fielding. 1, 2",
+        "publishedDate": "2012",
+        "description": "At Westish College, a small school on the shore of Lake Michigan, baseball star Henry Skrimshander seems destined for big-league stardom. But when a routine throw goes disastrously off course, the fates of five people are upended. Henry's fight against self-doubt threatens to ruin his future. College president Guert Affenlight, a longtime bachelor, has fallen unexpectedly and helplessly in love. Owen Dunne, Henry's gay roommate and teammate, becomes caught up in a dangerous affair. Mike Schwartz, the Harpooners' team captain and Henry's best friend, realizes he has guided Henry's career at the expense of his own. And Pella Affenlight, Guert's daughter, returns to Westish after escaping an ill-fated marriage, determined to start a new life. As the season counts down to its climactic final game, these five are forced to confront their deepest hopes, anxieties, and secrets. In the process they forge new bonds, and help one another find their true paths. This novel is about ambition and its limits, about family and friendship and love, and about commitment o oneself and to others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8952761650"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788952761651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Baseball players"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ko",
+        "previewLink": "http://books.google.com/books?id=jfhLjwEACAAJ&dq=intitle:%22The+Art+of+Fielding%22+inauthor:%22Chad+Harbach%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jfhLjwEACAAJ&dq=intitle:%22The+Art+of+Fielding%22+inauthor:%22Chad+Harbach%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Subi_%C5%ADi_kisul.html?hl=&id=jfhLjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jfhLjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the process they forge new bonds, and help one another find their true paths. This novel is about ambition and its limits, about family and friendship and love, and about commitment o oneself and to others."
+      }
+    }
+  ]
+}

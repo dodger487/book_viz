@@ -1,0 +1,242 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 74,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fXYO0gEACAAJ",
+      "etag": "H7yR6rZ0CbU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fXYO0gEACAAJ",
+      "volumeInfo": {
+        "title": "The Hunger Games",
+        "publishedDate": "2012",
+        "description": "Sixteen-year-old Katniss Everdeen accidentally becomes a contender in the annual Hunger Games, a grave competition hosted by the Capitol where young boys and girls are pitted against one another in a televised fight to the death.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0439023521"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780439023528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Contests"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fXYO0gEACAAJ&dq=intitle:%22The+Hunger+Games%22+inauthor:%22Suzanne+Collins%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fXYO0gEACAAJ&dq=intitle:%22The+Hunger+Games%22+inauthor:%22Suzanne+Collins%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games.html?hl=&id=fXYO0gEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fXYO0gEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sixteen-year-old Katniss Everdeen accidentally becomes a contender in the annual Hunger Games, a grave competition hosted by the Capitol where young boys and girls are pitted against one another in a televised fight to the death."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_vIMEQAAQBAJ",
+      "etag": "IzTu+9lU+ic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_vIMEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Sunrise on the Reaping (The Hunger Games)",
+        "authors": [
+          "Suzanne Collins"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2025-03-18",
+        "description": "The phenomenal fifth book in the Hunger Games series! When you've been set up to lose everything you love, what is there left to fight for? As the day dawns on the fiftieth annual Hunger Games, fear grips the districts of Panem. This year, in honor of the Quarter Quell, twice as many tributes will be taken from their homes. Back in District 12, Haymitch Abernathy is trying not to think too hard about his chances. All he cares about is making it through the day and being with the girl he loves. When Haymitch's name is called, he can feel all his dreams break. He's torn from his family and his love, shuttled to the Capitol with the three other District 12 tributes: a young friend who's nearly a sister to him, a compulsive oddsmaker, and the most stuck-up girl in town. As the Games begin, Haymitch understands he's been set up to fail. But there's something in him that wants to fight . . . and have that fight reverberate far beyond the deadly arena.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781546171478"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1546171479"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_vIMEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_vIMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_vIMEQAAQBAJ&printsec=frontcover&dq=intitle:%22The+Hunger+Games%22+inauthor:%22Suzanne+Collins%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_vIMEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_vIMEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_vIMEQAAQBAJ&rdid=book-_vIMEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sunrise_on_the_Reaping_The_Hunger_Games-sample-epub.acsm?id=_vIMEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sunrise_on_the_Reaping_The_Hunger_Games-sample-pdf.acsm?id=_vIMEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_vIMEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The phenomenal fifth book in the Hunger Games series!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y-bQ0AEACAAJ",
+      "etag": "DiNiAzUEWvU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y-bQ0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Hunger Games (Deluxe Edition)",
+        "authors": [
+          "Suzanne Collins"
+        ],
+        "publisher": "Scholastic Press",
+        "publishedDate": "2025-02-04",
+        "description": "A stunning deluxe edition of The Hunger Games, the international bestseller! This paperback edition features gorgeous sprayed edges with stenciled artwork and an iconic new cover. This is a breathtaking collectible perfect for the long-time fan or new Hunger Games reader. Even at the age of sixteen, Katniss Everdeen knows it takes hard work, keen observation, and inner fortitude to survive in the world. Her home, District 12, is under the merciless rule of the Capitol, continually forced to pay after losing a long-ago civil war in the nation of Panem. One of the ways the Capitol keeps control is its annual Hunger Games, a televised fight to the death featuring two young tributes from each of Panem's twelve districts. This gruesome battle is meant to send home a chilling message: Rebellion will always be punished. When Katniss finds herself within the Hunger Games arena, she knows the odds aren't in her favor. Any wrong move will end her life--and even the right moves come with a cost. But if she can survive, there is a chance the districts may survive as well... The Hunger Games has enthralled millions of readers in its examination of the price of war, human nature, and the powerful force of both love and resistance.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154617186X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781546171867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y-bQ0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y-bQ0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Y-bQ0AEACAAJ&dq=intitle:%22The+Hunger+Games%22+inauthor:%22Suzanne+Collins%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Y-bQ0AEACAAJ&dq=intitle:%22The+Hunger+Games%22+inauthor:%22Suzanne+Collins%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games_Deluxe_Edition.html?hl=&id=Y-bQ0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y-bQ0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Even at the age of sixteen, Katniss Everdeen knows it takes hard work, keen observation, and inner fortitude to survive in the world."
+      }
+    }
+  ]
+}

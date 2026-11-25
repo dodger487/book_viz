@@ -1,0 +1,241 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 56,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "u4R_FstZDEgC",
+      "etag": "396JWg09ypg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u4R_FstZDEgC",
+      "volumeInfo": {
+        "title": "Hyperion",
+        "authors": [
+          "Dan Simmons"
+        ],
+        "publisher": "Spectra",
+        "publishedDate": "2011-01-12",
+        "description": "A stunning tour de force filled with transcendent awe and wonder, Hyperion is a masterwork of science fiction that resonates with excitement and invention, the first volume in a remarkable epic by the multiple-award-winning author of The Hollow Man. On the world called Hyperion, beyond the reach of galactic law, waits a creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope\u2014and a terrible secret. And one may hold the fate of humanity in his hands. Praise for Dan Simmons and Hyperion \u201cDan Simmons has brilliantly conceptualized a future 700 years distant. In sheer scope and complexity it matches, and perhaps even surpasses, those of Isaac Asimov and James Blish.\u201d\u2014The Washington Post Book World \u201cAn unfailingly inventive narrative . . . generously conceived and stylistically sure-handed.\u201d\u2014The New York Times Book Review \u201cSimmons\u2019s own genius transforms space opera into a new kind of poetry.\u201d\u2014The Denver Post \u201cAn essential part of any science fiction collection.\u201d\u2014Booklist",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307781888"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307781887"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.19.18.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u4R_FstZDEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u4R_FstZDEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=u4R_FstZDEgC&printsec=frontcover&dq=intitle:%22Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u4R_FstZDEgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u4R_FstZDEgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u4R_FstZDEgC&rdid=book-u4R_FstZDEgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hyperion-sample-epub.acsm?id=u4R_FstZDEgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u4R_FstZDEgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A stunning tour de force filled with transcendent awe and wonder, Hyperion is a masterwork of science fiction that resonates with excitement and invention, the first volume in a remarkable epic by the multiple-award-winning author of The ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F4P4DwAAQBAJ",
+      "etag": "CvXO5ZvTdUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F4P4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Fall of Hyperion",
+        "authors": [
+          "Dan Simmons"
+        ],
+        "publisher": "BoD \u2013 Books on Demand",
+        "publishedDate": "1990-02-01",
+        "description": "\u201cState of the art science fiction . . . a landmark novel.\u201d\u2014Isaac Asimov's Science Fiction Magazine Now, in the stunning continuation of the epic adventure begun in Hyperion, Simmons returns us to a far future resplendent with drama and invention. On the world of Hyperion, the mysterious Time Tombs are opening. And the secrets they contain mean that nothing\u2014nothing anywhere in the universe\u2014will ever be the same. Praise for The Fall of Hyperion \u201cOne of the finest SF novels published in the past few years.\u201d\u2014Science Fiction Eye \u201cA magnificently original blend of themes and styles.\u201d\u2014The Denver Post",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385267472"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0385267479"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F4P4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F4P4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=F4P4DwAAQBAJ&printsec=frontcover&dq=intitle:%22Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=F4P4DwAAQBAJ&dq=intitle:%22Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Fall_of_Hyperion.html?hl=&id=F4P4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Fall_of_Hyperion-sample-pdf.acsm?id=F4P4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F4P4DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Praise for The Fall of Hyperion \u201cOne of the finest SF novels published in the past few years.\u201d\u2014Science Fiction Eye \u201cA magnificently original blend of themes and styles.\u201d\u2014The Denver Post"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BMuGtAEACAAJ",
+      "etag": "LpoejnLslIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BMuGtAEACAAJ",
+      "volumeInfo": {
+        "title": "Hyperion Cantos",
+        "authors": [
+          "Dan Simmons"
+        ],
+        "publisher": "GuildAmerica Books",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1568651759"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781568651750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 936,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BMuGtAEACAAJ&dq=intitle:%22Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BMuGtAEACAAJ&dq=intitle:%22Hyperion%22+inauthor:%22Dan+Simmons%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hyperion_Cantos.html?hl=&id=BMuGtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BMuGtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

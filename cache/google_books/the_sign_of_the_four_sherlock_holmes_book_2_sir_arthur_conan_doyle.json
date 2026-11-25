@@ -1,0 +1,202 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "t0RlzgEACAAJ",
+      "etag": "xH1yvpCm46c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t0RlzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Sign of the Four(Sherlock Holmes #2) Illustrated",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2021-03-27",
+        "description": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle's second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure. More complex than the first Holmes novel, The Sign of Four also introduces the detective's drug habit and leaves breadcrumbs for the reader that lead toward the final resolution.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798729382545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t0RlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t0RlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t0RlzgEACAAJ&dq=intitle:%22The+Sign+of+the+Four+(Sherlock+Holmes+Book+2)%22+inauthor:%22Sir+Arthur+Conan+Doyle%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=t0RlzgEACAAJ&dq=intitle:%22The+Sign+of+the+Four+(Sherlock+Holmes+Book+2)%22+inauthor:%22Sir+Arthur+Conan+Doyle%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sign_of_the_Four_Sherlock_Holmes_2_I.html?hl=&id=t0RlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t0RlzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle&#39;s second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xrVWzgEACAAJ",
+      "etag": "t/u0D/+kl3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xrVWzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Sign of the Four",
+        "subtitle": "Sherlock Holmes #2",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2021-03-16",
+        "description": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle's second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure. More complex than the first Holmes novel, The Sign of Four also introduces the detective's drug habit and leaves breadcrumbs for the reader that lead toward the final resolution.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798722829580"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xrVWzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xrVWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xrVWzgEACAAJ&dq=intitle:%22The+Sign+of+the+Four+(Sherlock+Holmes+Book+2)%22+inauthor:%22Sir+Arthur+Conan+Doyle%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xrVWzgEACAAJ&dq=intitle:%22The+Sign+of+the+Four+(Sherlock+Holmes+Book+2)%22+inauthor:%22Sir+Arthur+Conan+Doyle%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sign_of_the_Four.html?hl=&id=xrVWzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xrVWzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle&#39;s second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mtYNzgEACAAJ",
+      "etag": "QGEbaojS+JU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mtYNzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Sign of the Four(Sherlock Holmes #2) Illustrated",
+        "authors": [
+          "Sir Arthur Conan Doyle"
+        ],
+        "publishedDate": "2020-11-15",
+        "description": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle's second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure. More complex than the first Holmes novel, The Sign of Four also introduces the detective's drug habit and leaves breadcrumbs for the reader that lead toward the final resolution.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798565217261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mtYNzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mtYNzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mtYNzgEACAAJ&dq=intitle:%22The+Sign+of+the+Four+(Sherlock+Holmes+Book+2)%22+inauthor:%22Sir+Arthur+Conan+Doyle%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mtYNzgEACAAJ&dq=intitle:%22The+Sign+of+the+Four+(Sherlock+Holmes+Book+2)%22+inauthor:%22Sir+Arthur+Conan+Doyle%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Sign_of_the_Four_Sherlock_Holmes_2_I.html?hl=&id=mtYNzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mtYNzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle&#39;s second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure."
+      }
+    }
+  ]
+}

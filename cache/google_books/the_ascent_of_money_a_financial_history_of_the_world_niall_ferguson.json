@@ -1,0 +1,212 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 3,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "JA_IYJ0P4ZkC",
+      "etag": "G4J8kH0G8lM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JA_IYJ0P4ZkC",
+      "volumeInfo": {
+        "title": "The Ascent of Money",
+        "subtitle": "A Financial History of the World",
+        "authors": [
+          "Niall Ferguson"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2008",
+        "description": "Ferguson tells the human story behind the evolution of money, from its origins in ancient Mesopotamia to the latest Wall Street upheavals. The author shows that finance is, in fact, the foundation of human progress.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1594201927"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594201929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "5.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JA_IYJ0P4ZkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JA_IYJ0P4ZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JA_IYJ0P4ZkC&printsec=frontcover&dq=intitle:%22The+Ascent+of+Money:+A+Financial+History+of+the+World%22+inauthor:%22Niall+Ferguson%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JA_IYJ0P4ZkC&dq=intitle:%22The+Ascent+of+Money:+A+Financial+History+of+the+World%22+inauthor:%22Niall+Ferguson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ascent_of_Money.html?hl=&id=JA_IYJ0P4ZkC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JA_IYJ0P4ZkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ferguson tells the human story behind the evolution of money, from its origins in ancient Mesopotamia to the latest Wall Street upheavals. The author shows that finance is, in fact, the foundation of human progress."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t6eMEAAAQBAJ",
+      "etag": "AcT6UNHltSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t6eMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Ascent of Money",
+        "subtitle": "A Financial History of the World: 10th Anniversary Edition",
+        "authors": [
+          "Niall Ferguson"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2009-10-27",
+        "description": "The 10th anniversary edition, with new chapters on the crash, Chimerica, and cryptocurrency \"[An] excellent, just in time guide to the history of finance and financial crisis.\" \u2014The Washington Post \"Fascinating.\" \u2014Fareed Zakaria, Newsweek In this updated edition, Niall Ferguson brings his classic financial history of the world up to the present day, tackling the populist backlash that followed the 2008 crisis, the descent of \"Chimerica\" into a trade war, and the advent of cryptocurrencies, such as Bitcoin, with his signature clarity and expert lens. The Ascent of Money reveals finance as the backbone of history, casting a new light on familiar events: the Renaissance enabled by Italian foreign exchange dealers, the French Revolution traced back to a stock market bubble, the 2008 crisis traced from America's bankruptcy capital, Memphis, to China's boomtown, Chongqing. We may resent the plutocrats of Wall Street but, as Ferguson argues, the evolution of finance has rivaled the importance of any technological innovation in the rise of civilization. Indeed, to study the ascent and descent of money is to study the rise and fall of Western power itself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780143116172"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0143116177"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t6eMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t6eMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t6eMEAAAQBAJ&dq=intitle:%22The+Ascent+of+Money:+A+Financial+History+of+the+World%22+inauthor:%22Niall+Ferguson%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=t6eMEAAAQBAJ&dq=intitle:%22The+Ascent+of+Money:+A+Financial+History+of+the+World%22+inauthor:%22Niall+Ferguson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ascent_of_Money.html?hl=&id=t6eMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t6eMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 10th anniversary edition, with new chapters on the crash, Chimerica, and cryptocurrency &quot;[An] excellent, just in time guide to the history of finance and financial crisis.&quot; \u2014The Washington Post &quot;Fascinating.&quot; \u2014Fareed Zakaria, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NRH50AEACAAJ",
+      "etag": "9YK3JDRc4kw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NRH50AEACAAJ",
+      "volumeInfo": {
+        "title": "The Ascent of Money: A Financial History of the World by Niall Ferguson",
+        "authors": [
+          "Niall Ferguson"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1463365871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NRH50AEACAAJ&dq=intitle:%22The+Ascent+of+Money:+A+Financial+History+of+the+World%22+inauthor:%22Niall+Ferguson%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NRH50AEACAAJ&dq=intitle:%22The+Ascent+of+Money:+A+Financial+History+of+the+World%22+inauthor:%22Niall+Ferguson%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ascent_of_Money_A_Financial_History.html?hl=&id=NRH50AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NRH50AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

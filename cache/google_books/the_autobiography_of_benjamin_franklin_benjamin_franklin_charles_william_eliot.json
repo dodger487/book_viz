@@ -1,0 +1,251 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 261,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fBWyDwAAQBAJ",
+      "etag": "Es9bRpRv7iA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fBWyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "authors": [
+          "Charles Eliot"
+        ],
+        "publisher": "BoD \u2013 Books on Demand",
+        "publishedDate": "2019-09-25",
+        "description": "Reproduction of the original: The Autobiography of Benjamin Franklin by Charles Eliot",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783734073281"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3734073286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fBWyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fBWyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fBWyDwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Autobiography+of+Benjamin+Franklin%22+inauthor:%22Benjamin+Franklin,+Charles+William+Eliot%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fBWyDwAAQBAJ&dq=intitle:%22The+Autobiography+of+Benjamin+Franklin%22+inauthor:%22Benjamin+Franklin,+Charles+William+Eliot%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Autobiography_of_Benjamin_Franklin.html?hl=&id=fBWyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Autobiography_of_Benjamin_Franklin-sample-pdf.acsm?id=fBWyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fBWyDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original: The Autobiography of Benjamin Franklin by Charles Eliot"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6N-IxgEACAAJ",
+      "etag": "3tFMNogEshY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6N-IxgEACAAJ",
+      "volumeInfo": {
+        "title": "The Autobiography Of Benjamin Franklin",
+        "subtitle": "With Introduction And Notes Edited By Charles W Elliot",
+        "authors": [
+          "Benjamin Franklin"
+        ],
+        "publishedDate": "2019-06-10",
+        "description": "This book is a result of an effort made by us towards making a contribution to the preservation and repair of original classic literature. In an attempt to preserve, improve and recreate the original content, we have worked towards: 1. Type-setting & Reformatting: The complete work has been re-designed via professional layout, formatting and type-setting tools to re-create the same edition with rich typography, graphics, high quality images, and table elements, giving our readers the feel of holding a 'fresh and newly' reprinted and/or revised edition, as opposed to other scanned & printed (Optical Character Recognition - OCR) reproductions. 2. Correction of imperfections: As the work was re-created from the scratch, therefore, it was vetted to rectify certain conventional norms with regard to typographical mistakes, hyphenations, punctuations, blurred images, missing content/pages, and/or other related subject matters, upon our consideration. Every attempt was made to rectify the imperfections related to omitted constructs in the original edition via other references. However, a few of such imperfections which could not be rectified due to intentional\\unintentional omission of content in the original edition, were inherited and preserved from the original work to maintain the authenticity and construct, relevant to the work. We believe that this work holds historical, cultural and/or intellectual importance in the literary works community, therefore despite the oddities, we accounted the work for print as a part of our continuing effort towards preservation of literary work and our contribution towards the development of the society as a whole, driven by our beliefs. We are grateful to our readers for putting their faith in us and accepting our imperfections with regard to preservation of the historical content. HAPPY READING!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9353367581"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789353367589"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6N-IxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6N-IxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6N-IxgEACAAJ&dq=intitle:%22The+Autobiography+of+Benjamin+Franklin%22+inauthor:%22Benjamin+Franklin,+Charles+William+Eliot%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6N-IxgEACAAJ&dq=intitle:%22The+Autobiography+of+Benjamin+Franklin%22+inauthor:%22Benjamin+Franklin,+Charles+William+Eliot%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Autobiography_Of_Benjamin_Franklin.html?hl=&id=6N-IxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6N-IxgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is a result of an effort made by us towards making a contribution to the preservation and repair of original classic literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F21sCwAAQBAJ",
+      "etag": "xJljfJE3cpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F21sCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Autobiography of Benjamin Franklin",
+        "subtitle": "Bestseller Book by Charles W Eliot: The Autobiography of Benjamin Franklin",
+        "authors": [
+          "Charles W Eliot"
+        ],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2023-10-01",
+        "description": "Step into the captivating world of one of America's founding fathers with \"The Autobiography of Benjamin Franklin\" by Charles W. Eliot, a timeless classic that offers a fascinating glimpse into the life and times of a true Renaissance man. Join Charles W. Eliot as he presents the remarkable life story of Benjamin Franklin, from his humble beginnings as the son of a candlemaker to his rise as a statesman, inventor, and philosopher. Through Franklin's own words, readers are transported back in time to colonial America, where they witness firsthand the trials, triumphs, and tribulations of a man who helped shape the course of history. Explore Franklin's groundbreaking contributions to science, literature, and politics, from his experiments with electricity to his role in drafting the Declaration of Independence and negotiating the Treaty of Paris. Eliot provides valuable insights into Franklin's character, values, and motivations, offering readers a deeper understanding of the man behind the legend. Character analysis delves deep into the motivations, fears, and desires of the novel's protagonists and antagonists, offering readers a nuanced understanding of their actions and decisions. From Joam Garral's unwavering determination to the cunning schemes of his adversaries, each character adds depth and complexity to Verne's riveting narrative. The overall tone and mood of \"The Autobiography of Benjamin Franklin\" are one of inspiration, wit, and wisdom, as Franklin's timeless words continue to resonate with readers of all ages. Eliot's skillful editing and commentary enhance the reading experience, providing valuable context and insights that enrich the narrative. While critical reception may vary, one thing remains clear: \"The Autobiography of Benjamin Franklin\" is a literary masterpiece that has stood the test of time. Franklin's eloquent prose, keen observations, and irrepressible spirit offer readers a wealth of timeless wisdom and practical advice that is as relevant today as it was in Franklin's time. As you immerse yourself in the pages of \"The Autobiography of Benjamin Franklin,\" you'll gain a newfound appreciation for Franklin's enduring legacy and the enduring power of the American Dream. Whether you're a history buff, a student of literature, or simply curious about the life of one of America's most iconic figures, this autobiography offers a captivating and illuminating journey through the life of Benjamin Franklin. Don't miss your chance to discover the extraordinary life story of Benjamin Franklin with \"The Autobiography of Benjamin Franklin\" by Charles W. Eliot. Let Franklin's timeless wisdom and boundless curiosity inspire you to pursue your own dreams and aspirations. Grab your copy now and embark on a journey of self-discovery and enlightenment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788184303230"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8184303238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F21sCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F21sCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=F21sCwAAQBAJ&printsec=frontcover&dq=intitle:%22The+Autobiography+of+Benjamin+Franklin%22+inauthor:%22Benjamin+Franklin,+Charles+William+Eliot%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=F21sCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F21sCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.87,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 1.87,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=F21sCwAAQBAJ&rdid=book-F21sCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1870000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1870000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Autobiography_of_Benjamin_Franklin-sample-pdf.acsm?id=F21sCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F21sCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Don&#39;t miss your chance to discover the extraordinary life story of Benjamin Franklin with &quot;The Autobiography of Benjamin Franklin&quot; by Charles W. Eliot."
+      }
+    }
+  ]
+}
