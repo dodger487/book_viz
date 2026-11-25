@@ -40,7 +40,9 @@ Usage:
 import argparse
 import json
 import re
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import numpy as np
 import pandas as pd
@@ -636,6 +638,11 @@ def make_interactive_plot(
         for c in COLOR_COLUMNS
     )
 
+    # Build time, shown in the "?" popover. The plot is only rebuilt when
+    # the sync finds new/changed books, so this is when the data last changed.
+    now = datetime.now(ZoneInfo("America/Los_Angeles"))
+    last_updated = f"{now:%-I:%M}{now:%p}".lower() + f" {now:%b} {now.day}, {now.year}"
+
     html = f"""<!doctype html>
 <html>
 <head>
@@ -765,6 +772,7 @@ def make_interactive_plot(
     z-index: 20;
   }}
   .help-popover p {{ margin: 0; }}
+  .help-popover p.last-updated {{ margin-top: 8px; color: var(--ink-secondary); font-size: 12px; }}
   .help-popover.open {{ display: block; }}
   #plot-wrapper {{ position: relative; }}
   #book-plot {{ width: 100%; aspect-ratio: 16 / 9; }}
@@ -1000,6 +1008,7 @@ def make_interactive_plot(
             <button id="help-btn" class="help-btn" type="button" aria-label="About this visualization" aria-expanded="false">?</button>
             <div id="help-popover" class="help-popover" role="tooltip">
               <p>Each book is turned into a numeric "fingerprint" based on its description and themes, then flattened down to the two dimensions you see here. Books with similar fingerprints usually land close together &mdash; but squeezing that much information onto a flat page is lossy, so closeness is a strong hint, not a guarantee.</p>
+              <p class="last-updated">Page last updated {last_updated}</p>
             </div>
           </div>
         </div>
