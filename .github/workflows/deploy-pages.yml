@@ -21,11 +21,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  # Upload and deploy are separate jobs (GitHub's recommended Pages
+  # layout), not two steps of one job: when deploy-pages ran in the same
+  # job right after the upload, it sometimes listed the run's artifacts
+  # before the just-uploaded one was visible ("No artifacts named
+  # github-pages were found"), failing the deploy even though the upload
+  # had succeeded. A separate job starts only after the upload job has
+  # fully finished.
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -35,5 +39,12 @@ jobs:
         with:
           path: output
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v4
