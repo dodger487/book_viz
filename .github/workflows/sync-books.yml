@@ -68,6 +68,10 @@ jobs:
 
       - name: Fetch metadata for new books
         if: steps.diff.outputs.changed == 'true'
+        env:
+          # Optional; without it Google Books' keyless quota (shared with
+          # everyone else on the runner's IP) is usually exhausted.
+          GOOGLE_BOOKS_API_KEY: ${{ secrets.GOOGLE_BOOKS_API_KEY }}
         run: python scripts/01_fetch_metadata.py
 
       - name: Merge metadata
@@ -90,11 +94,12 @@ jobs:
           python scripts/04_generate_embeddings.py --provider openai --text-variant v1 --model text-embedding-3-large
           python scripts/04_generate_embeddings.py --provider openai --text-variant v2 --model text-embedding-3-large
 
-      - name: Rebuild the plot
-        if: steps.diff.outputs.changed == 'true'
-        run: python scripts/05_visualize.py
-
-      - name: Commit and push
+      # Commit the data first, then rebase onto whatever landed on main
+      # while this run was busy (e.g. a code push), and only THEN rebuild
+      # the plot -- so the push can't be rejected as non-fast-forward, and
+      # output/ is always built from the latest 05_visualize.py rather than
+      # conflicting with a concurrently pushed output/.
+      - name: Commit data and rebase onto latest main
         if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
@@ -103,9 +108,25 @@ jobs:
                   data/embedding_input_v1.json data/embedding_input_v2.json \
                   data/embeddings_local_v1.npz data/embeddings_local_v2.npz \
                   data/embeddings_openai_v1.npz data/embeddings_openai_v2.npz \
-                  cache/ output/
+                  cache/
           git commit -m "Sync new books from reading list"
-          git push
+          git pull --rebase origin main
+
+      - name: Rebuild the plot
+        if: steps.diff.outputs.changed == 'true'
+        run: python scripts/05_visualize.py
+
+      - name: Commit plot and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git add output/
+          git commit --amend --no-edit
+          for attempt in 1 2 3; do
+            git push && exit 0
+            echo "Push rejected (main moved again); rebasing and retrying..."
+            git pull --rebase origin main || exit 1
+          done
+          exit 1
 
       - name: Trigger the Pages deploy
         if: steps.diff.outputs.changed == 'true'

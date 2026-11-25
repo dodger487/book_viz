@@ -105,12 +105,29 @@ def override_key(title: str, author: str) -> str:
 
 MAX_RETRIES = 4
 
+# Once Google Books has returned 429 even after all retries this many times
+# in a row, its quota is exhausted for the day (common without an API key:
+# the keyless quota is shared by everyone on the CI runner's IP). Further
+# calls would just burn ~7s of backoff each -- with ~90 uncached books that
+# was 10+ minutes per run -- so skip Google Books for the rest of the run.
+GOOGLE_BOOKS_MAX_CONSECUTIVE_429 = 3
+_google_books_consecutive_429 = 0
 
-def cached_get(cache_path: Path, url: str, params: dict | None = None, refresh: bool = False) -> dict | None:
+
+class RateLimited(Exception):
+    pass
+
+
+def cached_get(
+    cache_path: Path, url: str, params: dict | None = None, refresh: bool = False,
+    raise_on_429: bool = False,
+) -> dict | None:
     """GET a URL with on-disk JSON caching. Returns parsed JSON or None on failure.
 
     Retries on 429/5xx with backoff (honoring Retry-After when present) since
     free/keyless APIs under shared-network load return these transiently.
+    With raise_on_429, a 429 that survives all retries raises RateLimited
+    instead of returning None, so the caller can stop hitting that API.
     """
     if cache_path.exists() and not refresh:
         with open(cache_path, encoding="utf-8") as f:
@@ -126,6 +143,8 @@ def cached_get(cache_path: Path, url: str, params: dict | None = None, refresh: 
                 print(f"    ! {resp.status_code}, retrying in {wait:.0f}s...")
                 time.sleep(wait)
                 continue
+            if resp.status_code == 429 and raise_on_429:
+                raise RateLimited(url)
             resp.raise_for_status()
             data = resp.json()
         except requests.RequestException as e:
@@ -146,19 +165,37 @@ def cached_get(cache_path: Path, url: str, params: dict | None = None, refresh: 
 
 
 def fetch_google_books(title: str, author: str, slug: str, override: dict, refresh: bool) -> dict | None:
+    global _google_books_consecutive_429
     cache_path = GOOGLE_BOOKS_CACHE / f"{slug}.json"
     if "google_books_id" in override:
         url = f"https://www.googleapis.com/books/v1/volumes/{override['google_books_id']}"
         params = {"key": GOOGLE_BOOKS_API_KEY} if GOOGLE_BOOKS_API_KEY else None
-        return cached_get(cache_path, url, params=params, refresh=refresh)
+    else:
+        title = override.get("search_title", title)
+        author = override.get("search_author", author)
+        url = "https://www.googleapis.com/books/v1/volumes"
+        params = {"q": f'intitle:"{title}" inauthor:"{author}"', "maxResults": 3}
+        if GOOGLE_BOOKS_API_KEY:
+            params["key"] = GOOGLE_BOOKS_API_KEY
 
-    title = override.get("search_title", title)
-    author = override.get("search_author", author)
-    url = "https://www.googleapis.com/books/v1/volumes"
-    params = {"q": f'intitle:"{title}" inauthor:"{author}"', "maxResults": 3}
-    if GOOGLE_BOOKS_API_KEY:
-        params["key"] = GOOGLE_BOOKS_API_KEY
-    data = cached_get(cache_path, url, params=params, refresh=refresh)
+    if cache_path.exists() and not refresh:
+        return cached_get(cache_path, url, params=params)
+    if _google_books_consecutive_429 >= GOOGLE_BOOKS_MAX_CONSECUTIVE_429:
+        return None  # quota exhausted this run; already reported once
+
+    try:
+        data = cached_get(cache_path, url, params=params, refresh=refresh, raise_on_429=True)
+    except RateLimited:
+        _google_books_consecutive_429 += 1
+        print("    ! Google Books still rate-limited (429) after retries")
+        if _google_books_consecutive_429 >= GOOGLE_BOOKS_MAX_CONSECUTIVE_429:
+            print(
+                f"    ! {GOOGLE_BOOKS_MAX_CONSECUTIVE_429} rate-limited lookups in a row -- skipping "
+                "Google Books for the rest of this run"
+                + ("" if GOOGLE_BOOKS_API_KEY else " (no GOOGLE_BOOKS_API_KEY set; keyless quota is tiny)")
+            )
+        return None
+    _google_books_consecutive_429 = 0
     return data
 
 
